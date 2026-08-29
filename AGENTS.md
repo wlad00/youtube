@@ -31,28 +31,33 @@ ivan-pendlishak/
 Когда пользователь пишет «скачай субтитры: `<ссылка>`» — без других уточнений:
 
 1. Определить автора и дату публикации видео, выбрать папку и имя по правилам выше.
-2. Скачать русские субтитры в `.srt`.
+2. Скачать русские субтитры в `.srt` — **только через `yt-dlp`**.
 3. `--sub-langs "ru.*"` обычно отдаёт два идентичных файла (`.ru.srt` и `.ru-orig.srt`) — оставить `.ru.srt`, второй удалить.
 4. Не коммитить без явной просьбы.
 
-Рабочая команда (запускать из корня репозитория):
+### Готовая команда
+
+`yt-dlp` установлен через winget, но **его почти никогда нет в `PATH` сессии** — переменная среды обновляется только для оболочек, запущенных после установки. Поэтому запускать сразу по явному пути, не проверяя `yt-dlp --version`:
 
 ```powershell
-yt-dlp --skip-download --write-auto-subs --write-subs --sub-langs "ru.*" --convert-subs srt -o "<папка>/<имя>.%(ext)s" "<ссылка>"
+& "$env:LOCALAPPDATA\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe\yt-dlp.exe" --skip-download --write-auto-subs --write-subs --sub-langs "ru.*" --convert-subs srt --ffmpeg-location "$env:LOCALAPPDATA\Microsoft\WinGet\Packages\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-N-125875-g5d4d3bdc61-win64-gpl\bin" -o "<папка>/<имя>.%(ext)s" "<ссылка>"
+```
+
+Запускать из корня репозитория. Работает и через PowerShell, и через Bash (в Bash путь вида `/c/Users/...`). `--ffmpeg-location` обязателен: без него `--convert-subs srt` падает с `ffmpeg not found`.
+
+### Диагностика: чего НЕ делать
+
+- **`yt-dlp: command not found` — это не «программы нет» и не блокировка сети.** Это пустой `PATH`. Запустить по явному пути выше.
+- **Не пытаться получить субтитры через браузер, WebFetch или веб-поиск.** Прокси блокирует YouTube в браузере, и это создаёт ложный вывод «YouTube недоступен». У `yt-dlp` прямой доступ есть — проверено 2026-08-29 из PowerShell и из Bash, системный прокси выключен.
+- Не писать конспект «по мотивам названия», не убедившись, что субтитров действительно не достать.
+
+Проверка доступа одной командой (печатает заголовок видео — значит сеть в порядке):
+
+```powershell
+& "$env:LOCALAPPDATA\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe\yt-dlp.exe" --simulate --print "%(title)s" "<ссылка>"
 ```
 
 Cookies (`--cookies-from-browser chrome`) для публичных видео не нужны. Добавлять только если YouTube ответит `Sign in to confirm you're not a bot`; при этом Chrome должен быть закрыт, иначе файл cookies заблокирован.
-
-### Если `yt-dlp` не найден в PATH
-
-Установлен через winget, но PATH обновляется только в новых оболочках. Явные пути:
-
-```
-yt-dlp:  %LOCALAPPDATA%\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe\yt-dlp.exe
-ffmpeg:  %LOCALAPPDATA%\Microsoft\WinGet\Packages\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-N-125875-g5d4d3bdc61-win64-gpl\bin
-```
-
-`--convert-subs srt` требует ffmpeg — при запуске по явному пути добавлять `--ffmpeg-location <путь к bin>`.
 
 Предупреждение `No supported JavaScript runtime could be found` на скачивание субтитров не влияет.
 
