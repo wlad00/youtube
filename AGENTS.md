@@ -31,8 +31,8 @@ ivan-pendlishak/
 Когда пользователь пишет «скачай субтитры: `<ссылка>`» — без других уточнений:
 
 1. Определить автора и дату публикации видео, выбрать папку и имя по правилам выше.
-2. Скачать субтитры в `.srt` — **только через `yt-dlp`**. По умолчанию русские (`ru.*`); если оригинал видео на другом языке — брать дорожку оригинала с суффиксом по языку (например `.uk.srt`), а не машинный перевод на русский.
-3. `--sub-langs "ru.*"` обычно отдаёт два идентичных файла — оставить `.ru.srt`, удалить `.ru-orig.srt`.
+2. Скачать субтитры в `.srt` — **только через `yt-dlp`**, всегда дорожку оригинала: `--sub-langs "*-orig"`. Язык видео заранее знать не нужно, машинный перевод не качать никогда — для чтения агентом достаточно оригинала на любом языке.
+3. Файл придёт как `<имя>.<язык>-orig.srt` — переименовать в `<имя>.<язык>.srt` (например `.uk-orig.srt` → `.uk.srt`). Если `*-orig` ничего не нашёл — у видео, скорее всего, ручные субтитры: посмотреть `--list-subs` и взять дорожку оригинала без `-orig`.
 4. Не коммитить без явной просьбы.
 
 ### Готовая команда
@@ -40,7 +40,7 @@ ivan-pendlishak/
 `yt-dlp` установлен через winget, но его почти никогда нет в `PATH` сессии. Не проверять `yt-dlp --version`, а сразу запускать по явному пути из корня репозитория — работает и в PowerShell, и в Bash (в Bash путь вида `/c/Users/...`):
 
 ```powershell
-& "$env:LOCALAPPDATA\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe\yt-dlp.exe" --skip-download --write-auto-subs --write-subs --sub-langs "ru.*" --convert-subs srt --ffmpeg-location "$env:LOCALAPPDATA\Microsoft\WinGet\Packages\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-N-125875-g5d4d3bdc61-win64-gpl\bin" -o "<папка>/<имя>.%(ext)s" "<ссылка>"
+& "$env:LOCALAPPDATA\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe\yt-dlp.exe" --skip-download --write-auto-subs --write-subs --sub-langs "*-orig" --convert-subs srt --ffmpeg-location "$env:LOCALAPPDATA\Microsoft\WinGet\Packages\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-N-125875-g5d4d3bdc61-win64-gpl\bin" -o "<папка>/<имя>.%(ext)s" "<ссылка>"
 ```
 
 `--ffmpeg-location` обязателен: без него `--convert-subs srt` падает с `ffmpeg not found`.
