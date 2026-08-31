@@ -4,6 +4,13 @@
 
 Ролик попадает сюда сразу при команде «прими ролик» — до субтитров и до структуры. Источник истины — файлы ролика: есть `subtitles.<язык>.srt` → субтитры «да»; `structure_status: ready` в `README.md` → структура «да». Теги берутся из front matter `README.md` после создания структуры.
 
+## Разделы
+
+- `alexander-bolotnikov/lessons` — уроки и тематические разборы Александра Болотникова.
+- `alexander-bolotnikov/streams` — стримы Александра Болотникова.
+- `ivan-pendlishak` — ролики Ивана Пендлишака.
+- `mvp` — тематическая подборка про создание, проверку и монетизацию MVP и небольших интернет-продуктов.
+
 | Дата | Ролик | YouTube | Раздел | Субтитры | Структура | Теги |
 |---|---|---|---|---|---|---|
 | 2026-08-29 | [Codex + Threads = $10,000/месяц: micro-SaaS за 1 день](mvp/2026-08-29-codex-threads-10000-mesyac-micro-saas-za-1-den/README.md) | [K7fPHRMP8is](https://www.youtube.com/watch?v=K7fPHRMP8is) | `mvp` | да | нет | — |
@@ -16,7 +23,7 @@
 | 2026-08-22 | [Закон или дух](alexander-bolotnikov/lessons/2026-08-22-zakon-ili-duh/README.md) | — | `alexander-bolotnikov/lessons` | да | нет | — |
 | 2026-08-21 | [Войны, пророчества и последнее время](alexander-bolotnikov/streams/2026-08-21-voiny-prorochestva-i-poslednee-vremya/README.md) | — | `alexander-bolotnikov/streams` | да | нет | — |
 | 2026-08-21 | [Звернення до пасторів](ivan-pendlishak/2026-08-21-zvernennya-do-pastoriv/README.md) | — | `ivan-pendlishak` | да | нет | — |
-| 2026-08-18 | [Собери СКУЧНЫЙ продукт за 30 дней и зарабатывай](roma-rayt/2026-08-18-sberi-skuchnyy-produkt-za-30-dney-i-zarabatyvay/README.md) | [-d2ztyvdElA](https://www.youtube.com/watch?v=-d2ztyvdElA) | `roma-rayt` | да | нет | — |
+| 2026-08-18 | [Собери СКУЧНЫЙ продукт за 30 дней и зарабатывай](mvp/2026-08-18-sberi-skuchnyy-produkt-za-30-dney-i-zarabatyvay/README.md) | [-d2ztyvdElA](https://www.youtube.com/watch?v=-d2ztyvdElA) | `mvp` | да | нет | — |
 | 2026-08-14 | [Израиль и Ближний Восток](alexander-bolotnikov/streams/2026-08-14-izrail-i-blizhnii-vostok/README.md) | — | `alexander-bolotnikov/streams` | да | нет | — |
 | 2026-08 | [Слава Богові, а не собі](ivan-pendlishak/2026-08-slava-bogovi-a-ne-sobi/README.md) | — | `ivan-pendlishak` | да | нет | — |
 | 2026-07-31 | [Ватикан против Трампа — это конец папской власти](alexander-bolotnikov/streams/2026-07-31-vatikan-protiv-trampa-eto-konets-papskoy-vlasti/README.md) | — | `alexander-bolotnikov/streams` | да | нет | — |

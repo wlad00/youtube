@@ -3,7 +3,7 @@ title: "Собери СКУЧНЫЙ продукт за 30 дней и зара�
 youtube: "https://www.youtube.com/watch?v=-d2ztyvdElA"
 video_id: "-d2ztyvdElA"
 date: "2026-08-18"
-collection: "roma-rayt"
+collection: "mvp"
 structure_status: pending
 tags: []
 ---
