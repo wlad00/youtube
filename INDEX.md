@@ -16,6 +16,7 @@
 | 2026-08-22 | [Закон или дух](alexander-bolotnikov/lessons/2026-08-22-zakon-ili-duh/README.md) | — | `alexander-bolotnikov/lessons` | да | нет | — |
 | 2026-08-21 | [Войны, пророчества и последнее время](alexander-bolotnikov/streams/2026-08-21-voiny-prorochestva-i-poslednee-vremya/README.md) | — | `alexander-bolotnikov/streams` | да | нет | — |
 | 2026-08-21 | [Звернення до пасторів](ivan-pendlishak/2026-08-21-zvernennya-do-pastoriv/README.md) | — | `ivan-pendlishak` | да | нет | — |
+| 2026-08-18 | [Собери СКУЧНЫЙ продукт за 30 дней и зарабатывай](roma-rayt/2026-08-18-sberi-skuchnyy-produkt-za-30-dney-i-zarabatyvay/README.md) | [-d2ztyvdElA](https://www.youtube.com/watch?v=-d2ztyvdElA) | `roma-rayt` | нет | нет | — |
 | 2026-08-14 | [Израиль и Ближний Восток](alexander-bolotnikov/streams/2026-08-14-izrail-i-blizhnii-vostok/README.md) | — | `alexander-bolotnikov/streams` | да | нет | — |
 | 2026-08 | [Слава Богові, а не собі](ivan-pendlishak/2026-08-slava-bogovi-a-ne-sobi/README.md) | — | `ivan-pendlishak` | да | нет | — |
 | 2026-07-31 | [Ватикан против Трампа — это конец папской власти](alexander-bolotnikov/streams/2026-07-31-vatikan-protiv-trampa-eto-konets-papskoy-vlasti/README.md) | — | `alexander-bolotnikov/streams` | да | нет | — |
