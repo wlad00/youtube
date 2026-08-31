@@ -9,6 +9,7 @@
 | 2026-08-29 | [Codex + Threads = $10,000/месяц: micro-SaaS за 1 день](mvp/2026-08-29-codex-threads-10000-mesyac-micro-saas-za-1-den/README.md) | [K7fPHRMP8is](https://www.youtube.com/watch?v=K7fPHRMP8is) | `mvp` | да | нет | — |
 | 2026-08-28 | [Книга Откровение предсказала крах мировой экономики](alexander-bolotnikov/streams/2026-08-28-kniga-otkrovenie-predskazala-krah-mirovoy-ekonomiki/README.md) | — | `alexander-bolotnikov/streams` | да | нет | — |
 | 2026-08-28 | [Кожен знає свій злий путь](ivan-pendlishak/2026-08-28-kozhen-znaie-sviy-zliy-put/README.md) | — | `ivan-pendlishak` | да | нет | — |
+| 2026-08-26 | [Как в одиночку зарабатывать в Интернете](mvp/2026-08-26-kak-v-odinochku-zarabatyvat-v-internete/README.md) | [KNaZVYRlxSU](https://www.youtube.com/watch?v=KNaZVYRlxSU) | `mvp` | нет | нет | — |
 | 2026-08-26 | [Роби те, на що ти призначений](ivan-pendlishak/2026-08-26-robi-te-na-shcho-ty-pryznachenyy/README.md) | — | `ivan-pendlishak` | да | нет | — |
 | 2026-08-24 | [Вплив порадників](ivan-pendlishak/2026-08-24-vplyv-poradnykiv/README.md) | — | `ivan-pendlishak` | да | нет | — |
 | 2026-08-23 | [Служіння докору і виявлення гріхів](ivan-pendlishak/2026-08-23-sluzhinnya-dokoru-i-vyyavlennya-grihiv/README.md) | — | `ivan-pendlishak` | да | нет | — |
