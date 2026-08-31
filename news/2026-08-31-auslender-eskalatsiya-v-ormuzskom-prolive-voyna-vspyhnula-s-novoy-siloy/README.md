@@ -3,7 +3,7 @@ title: "АУСЛЕНДЕР: эскалация в Ормузском проли�
 youtube: "https://www.youtube.com/watch?v=GYVQTG_plOI"
 video_id: "GYVQTG_plOI"
 date: "2026-08-31"
-collection: "apostrophe-tv"
+collection: "news"
 structure_status: pending
 tags: []
 ---
