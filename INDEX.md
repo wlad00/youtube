@@ -8,6 +8,7 @@
 
 ## Разделы
 
+- [`ai`](ai/) — ролики про искусственный интеллект, AI-инструменты, модели, индустрию и практическое применение.
 - [`alexander-bolotnikov/lessons`](alexander-bolotnikov/lessons/) — уроки и тематические разборы Александра Болотникова.
 - [`alexander-bolotnikov/streams`](alexander-bolotnikov/streams/) — стримы Александра Болотникова.
 - [`ivan-pendlishak`](ivan-pendlishak/) — ролики Ивана Пендлишака.
@@ -15,6 +16,7 @@
 
 | Дата | Ролик | YouTube | Раздел | Субтитры | Структура | Теги |
 |---|---|---|---|---|---|---|
+| 2026-08-31 | [The End of AI Freebies: Rising Prices, Billion-Dollar Lawsuits, and Data Leaks](ai/2026-08-31-the-end-of-ai-freebies-rising-prices-billion-dollar-lawsuits-and-data-leaks/README.md) | [aJN1h3YCz00](https://www.youtube.com/watch?v=aJN1h3YCz00) | `ai` | нет | нет | — |
 | 2026-08-31 | [Почему не получается зарабатывать в Интернете](mvp/2026-08-31-pochemu-ne-poluchaetsya-zarabatyvat-v-internete/README.md) | [XqzYm-kbfEM](https://www.youtube.com/watch?v=XqzYm-kbfEM) | `mvp` | да | нет | — |
 | 2026-08-29 | [Codex + Threads = $10,000/месяц: micro-SaaS за 1 день](mvp/2026-08-29-codex-threads-10000-mesyac-micro-saas-za-1-den/README.md) | [K7fPHRMP8is](https://www.youtube.com/watch?v=K7fPHRMP8is) | `mvp` | да | да | `micro-saas`, `threads`, `codex`, `product-validation`, `customer-development`, `b2b-sales` |
 | 2026-08-28 | [Книга Откровение предсказала крах мировой экономики](alexander-bolotnikov/streams/2026-08-28-kniga-otkrovenie-predskazala-krah-mirovoy-ekonomiki/README.md) | — | `alexander-bolotnikov/streams` | да | нет | — |
