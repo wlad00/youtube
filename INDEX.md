@@ -17,6 +17,7 @@
 
 | Дата | Ролик | YouTube | Раздел | Субтитры | Структура | Теги |
 |---|---|---|---|---|---|---|
+| 2026-09-01 | [Россия проверяет НАТО на прочность. Что происходит в Балтии.](news/2026-09-01-rossiya-proveryaet-nato-na-prochnost-chto-proishodit-v-baltii/README.md) | [i8-PsVMBE4E](https://www.youtube.com/watch?v=i8-PsVMBE4E) | `news` | нет | нет | — |
 | 2026-08-31 | [АУСЛЕНДЕР: эскалация в Ормузском проливе! Война ВСПЫХНУЛА с новой силой](news/2026-08-31-auslender-eskalatsiya-v-ormuzskom-prolive-voyna-vspyhnula-s-novoy-siloy/README.md) | [GYVQTG_plOI](https://www.youtube.com/watch?v=GYVQTG_plOI) | `news` | да | нет | — |
 | 2026-08-31 | [The End of AI Freebies: Rising Prices, Billion-Dollar Lawsuits, and Data Leaks](ai/2026-08-31-the-end-of-ai-freebies-rising-prices-billion-dollar-lawsuits-and-data-leaks/README.md) | [aJN1h3YCz00](https://www.youtube.com/watch?v=aJN1h3YCz00) | `ai` | да | нет | — |
 | 2026-08-31 | [Почему не получается зарабатывать в Интернете](mvp/2026-08-31-pochemu-ne-poluchaetsya-zarabatyvat-v-internete/README.md) | [XqzYm-kbfEM](https://www.youtube.com/watch?v=XqzYm-kbfEM) | `mvp` | да | нет | — |
