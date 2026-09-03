@@ -17,7 +17,7 @@
 
 | Дата | Ролик | YouTube | Раздел | Субтитры | Структура | Теги |
 |---|---|---|---|---|---|---|
-| 2026-09-03 | [10 ПРАВИЛ стартапов, которые выросли с нуля до миллиардов](mvp/2026-09-03-10-pravil-startapov-kotorye-vyrosli-s-nulya-do-milliardov/README.md) | [dyFPIst7uxk](https://www.youtube.com/watch?v=dyFPIst7uxk) | `mvp` | да | нет | — |
+| 2026-09-03 | [10 ПРАВИЛ стартапов, которые выросли с нуля до миллиардов](mvp/2026-09-03-10-pravil-startapov-kotorye-vyrosli-s-nulya-do-milliardov/README.md) | [dyFPIst7uxk](https://www.youtube.com/watch?v=dyFPIst7uxk) | `mvp` | да | да | `startup`, `product-strategy`, `customer-development`, `go-to-market`, `content-marketing`, `b2b-sales` |
 | 2026-09-02 | [Как заработать больше с помощью ИИ, когда конкуренция только растет?](mvp/2026-09-02-kak-zarabotat-bolshe-s-pomoshchyu-ii-kogda-konkurentsiya-rastet/README.md) | [W0j6_PF0HsM](https://www.youtube.com/watch?v=W0j6_PF0HsM) | `mvp` | да | нет | — |
 | 2026-09-01 | [Россия проверяет НАТО на прочность. Что происходит в Балтии.](news/2026-09-01-rossiya-proveryaet-nato-na-prochnost-chto-proishodit-v-baltii/README.md) | [i8-PsVMBE4E](https://www.youtube.com/watch?v=i8-PsVMBE4E) | `news` | да | нет | — |
 | 2026-08-31 | [АУСЛЕНДЕР: эскалация в Ормузском проливе! Война ВСПЫХНУЛА с новой силой](news/2026-08-31-auslender-eskalatsiya-v-ormuzskom-prolive-voyna-vspyhnula-s-novoy-siloy/README.md) | [GYVQTG_plOI](https://www.youtube.com/watch?v=GYVQTG_plOI) | `news` | да | нет | — |
