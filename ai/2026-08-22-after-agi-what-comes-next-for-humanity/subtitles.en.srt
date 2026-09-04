@@ -1,0 +1,2735 @@
+1
+00:00:00,000 --> 00:00:02,670
+ 
+Welcome to this explainer. Today, we're
+
+2
+00:00:02,670 --> 00:00:02,680
+Welcome to this explainer. Today, we're
+ 
+
+3
+00:00:02,680 --> 00:00:04,550
+Welcome to this explainer. Today, we're
+diving into a fascinating, deeply
+
+4
+00:00:04,550 --> 00:00:04,560
+diving into a fascinating, deeply
+ 
+
+5
+00:00:04,560 --> 00:00:06,870
+diving into a fascinating, deeply
+detailed map of our immediate future.
+
+6
+00:00:06,870 --> 00:00:06,880
+detailed map of our immediate future.
+ 
+
+7
+00:00:06,880 --> 00:00:07,950
+detailed map of our immediate future.
+You know, we spend so much time
+
+8
+00:00:07,950 --> 00:00:07,960
+You know, we spend so much time
+ 
+
+9
+00:00:07,960 --> 00:00:09,750
+You know, we spend so much time
+obsessing over when artificial general
+
+10
+00:00:09,750 --> 00:00:09,760
+obsessing over when artificial general
+ 
+
+11
+00:00:09,760 --> 00:00:11,910
+obsessing over when artificial general
+intelligence, or AGIs, actually going to
+
+12
+00:00:11,910 --> 00:00:11,920
+intelligence, or AGIs, actually going to
+ 
+
+13
+00:00:11,920 --> 00:00:13,750
+intelligence, or AGIs, actually going to
+arrive. We picture pop culture
+
+14
+00:00:13,750 --> 00:00:13,760
+arrive. We picture pop culture
+ 
+
+15
+00:00:13,760 --> 00:00:15,790
+arrive. We picture pop culture
+terminators, or the sudden magical
+
+16
+00:00:15,790 --> 00:00:15,800
+terminators, or the sudden magical
+ 
+
+17
+00:00:15,800 --> 00:00:17,630
+terminators, or the sudden magical
+technological singularity. But the
+
+18
+00:00:17,630 --> 00:00:17,640
+technological singularity. But the
+ 
+
+19
+00:00:17,640 --> 00:00:19,350
+technological singularity. But the
+material we're looking at today argues
+
+20
+00:00:19,350 --> 00:00:19,360
+material we're looking at today argues
+ 
+
+21
+00:00:19,360 --> 00:00:21,270
+material we're looking at today argues
+that the far more important question is
+
+22
+00:00:21,270 --> 00:00:21,280
+that the far more important question is
+ 
+
+23
+00:00:21,280 --> 00:00:23,670
+that the far more important question is
+what the actual day after looks like.
+
+24
+00:00:23,670 --> 00:00:23,680
+what the actual day after looks like.
+ 
+
+25
+00:00:23,680 --> 00:00:24,950
+what the actual day after looks like.
+What are the concrete, colorful
+
+26
+00:00:24,950 --> 00:00:24,960
+What are the concrete, colorful
+ 
+
+27
+00:00:24,960 --> 00:00:26,390
+What are the concrete, colorful
+realities of the world we're going to
+
+28
+00:00:26,390 --> 00:00:26,400
+realities of the world we're going to
+ 
+
+29
+00:00:26,400 --> 00:00:27,990
+realities of the world we're going to
+build in its wake?
+
+30
+00:00:27,990 --> 00:00:28,000
+build in its wake?
+ 
+
+31
+00:00:28,000 --> 00:00:29,750
+build in its wake?
+To figure that out, we've got six
+
+32
+00:00:29,750 --> 00:00:29,760
+To figure that out, we've got six
+ 
+
+33
+00:00:29,760 --> 00:00:32,190
+To figure that out, we've got six
+distinct territories to map today. The
+
+34
+00:00:32,190 --> 00:00:32,200
+distinct territories to map today. The
+ 
+
+35
+00:00:32,200 --> 00:00:34,470
+distinct territories to map today. The
+threshold, the economic duel,
+
+36
+00:00:34,470 --> 00:00:34,480
+threshold, the economic duel,
+ 
+
+37
+00:00:34,480 --> 00:00:37,270
+threshold, the economic duel,
+centralized power, compressed time, the
+
+38
+00:00:37,270 --> 00:00:37,280
+centralized power, compressed time, the
+ 
+
+39
+00:00:37,280 --> 00:00:39,710
+centralized power, compressed time, the
+control problem, and finally redefining
+
+40
+00:00:39,710 --> 00:00:39,720
+control problem, and finally redefining
+ 
+
+41
+00:00:39,720 --> 00:00:42,350
+control problem, and finally redefining
+purpose. Let's get right into it. Part
+
+42
+00:00:42,350 --> 00:00:42,360
+purpose. Let's get right into it. Part
+ 
+
+43
+00:00:42,360 --> 00:00:45,710
+purpose. Let's get right into it. Part
+one, the threshold. Okay, so pop culture
+
+44
+00:00:45,710 --> 00:00:45,720
+one, the threshold. Okay, so pop culture
+ 
+
+45
+00:00:45,720 --> 00:00:47,630
+one, the threshold. Okay, so pop culture
+has kind of trained us to expect AGI as
+
+46
+00:00:47,630 --> 00:00:47,640
+has kind of trained us to expect AGI as
+ 
+
+47
+00:00:47,640 --> 00:00:49,790
+has kind of trained us to expect AGI as
+this dramatic, single Hollywood moment,
+
+48
+00:00:49,790 --> 00:00:49,800
+this dramatic, single Hollywood moment,
+ 
+
+49
+00:00:49,800 --> 00:00:51,750
+this dramatic, single Hollywood moment,
+right? A switch flips and boom, a
+
+50
+00:00:51,750 --> 00:00:51,760
+right? A switch flips and boom, a
+ 
+
+51
+00:00:51,760 --> 00:00:53,510
+right? A switch flips and boom, a
+machine wakes up. But the reality is
+
+52
+00:00:53,510 --> 00:00:53,520
+machine wakes up. But the reality is
+ 
+
+53
+00:00:53,520 --> 00:00:55,350
+machine wakes up. But the reality is
+going to be a lot messier, and honestly
+
+54
+00:00:55,350 --> 00:00:55,360
+going to be a lot messier, and honestly
+ 
+
+55
+00:00:55,360 --> 00:00:57,110
+going to be a lot messier, and honestly
+a lot more interesting. We're looking at
+
+56
+00:00:57,110 --> 00:00:57,120
+a lot more interesting. We're looking at
+ 
+
+57
+00:00:57,120 --> 00:00:59,430
+a lot more interesting. We're looking at
+a ragged, asymmetric unbundling of
+
+58
+00:00:59,430 --> 00:00:59,440
+a ragged, asymmetric unbundling of
+ 
+
+59
+00:00:59,440 --> 00:01:01,710
+a ragged, asymmetric unbundling of
+skills. Basically, it's a protracted,
+
+60
+00:01:01,710 --> 00:01:01,720
+skills. Basically, it's a protracted,
+ 
+
+61
+00:01:01,720 --> 00:01:03,870
+skills. Basically, it's a protracted,
+uneven transition. Different slices of
+
+62
+00:01:03,870 --> 00:01:03,880
+uneven transition. Different slices of
+ 
+
+63
+00:01:03,880 --> 00:01:05,470
+uneven transition. Different slices of
+intelligence, things like coding,
+
+64
+00:01:05,470 --> 00:01:05,480
+intelligence, things like coding,
+ 
+
+65
+00:01:05,480 --> 00:01:07,510
+intelligence, things like coding,
+high-level math, or strategic planning,
+
+66
+00:01:07,510 --> 00:01:07,520
+high-level math, or strategic planning,
+ 
+
+67
+00:01:07,520 --> 00:01:09,230
+high-level math, or strategic planning,
+are going to surpass human capability on
+
+68
+00:01:09,230 --> 00:01:09,240
+are going to surpass human capability on
+ 
+
+69
+00:01:09,240 --> 00:01:11,550
+are going to surpass human capability on
+completely different schedules. Imagine
+
+70
+00:01:11,550 --> 00:01:11,560
+completely different schedules. Imagine
+ 
+
+71
+00:01:11,560 --> 00:01:13,430
+completely different schedules. Imagine
+an AI that can compose a flawless,
+
+72
+00:01:13,430 --> 00:01:13,440
+an AI that can compose a flawless,
+ 
+
+73
+00:01:13,440 --> 00:01:15,390
+an AI that can compose a flawless,
+beautiful symphony in two seconds, but
+
+74
+00:01:15,390 --> 00:01:15,400
+beautiful symphony in two seconds, but
+ 
+
+75
+00:01:15,400 --> 00:01:17,190
+beautiful symphony in two seconds, but
+has the social nuance of a toddler, and
+
+76
+00:01:17,190 --> 00:01:17,200
+has the social nuance of a toddler, and
+ 
+
+77
+00:01:17,200 --> 00:01:18,870
+has the social nuance of a toddler, and
+literally couldn't fold a t-shirt if its
+
+78
+00:01:18,870 --> 00:01:18,880
+literally couldn't fold a t-shirt if its
+ 
+
+79
+00:01:18,880 --> 00:01:20,990
+literally couldn't fold a t-shirt if its
+life depended on it. It's not one giant
+
+80
+00:01:20,990 --> 00:01:21,000
+life depended on it. It's not one giant
+ 
+
+81
+00:01:21,000 --> 00:01:22,950
+life depended on it. It's not one giant
+monolithic brain, it's a mosaic of
+
+82
+00:01:22,950 --> 00:01:22,960
+monolithic brain, it's a mosaic of
+ 
+
+83
+00:01:22,960 --> 00:01:24,910
+monolithic brain, it's a mosaic of
+superhuman abilities arriving piece by
+
+84
+00:01:24,910 --> 00:01:24,920
+superhuman abilities arriving piece by
+ 
+
+85
+00:01:24,920 --> 00:01:26,030
+superhuman abilities arriving piece by
+piece.
+
+86
+00:01:26,030 --> 00:01:26,040
+piece.
+ 
+
+87
+00:01:26,040 --> 00:01:28,470
+piece.
+So, really, AGI isn't some ultimate
+
+88
+00:01:28,470 --> 00:01:28,480
+So, really, AGI isn't some ultimate
+ 
+
+89
+00:01:28,480 --> 00:01:30,270
+So, really, AGI isn't some ultimate
+finish line that we cross. It's a
+
+90
+00:01:30,270 --> 00:01:30,280
+finish line that we cross. It's a
+ 
+
+91
+00:01:30,280 --> 00:01:32,430
+finish line that we cross. It's a
+threshold. It's a doorway we are
+
+92
+00:01:32,430 --> 00:01:32,440
+threshold. It's a doorway we are
+ 
+
+93
+00:01:32,440 --> 00:01:34,790
+threshold. It's a doorway we are
+actively stepping through right now.
+
+94
+00:01:34,790 --> 00:01:34,800
+actively stepping through right now.
+ 
+
+95
+00:01:34,800 --> 00:01:36,350
+actively stepping through right now.
+Because of that ragged unbundling we
+
+96
+00:01:36,350 --> 00:01:36,360
+Because of that ragged unbundling we
+ 
+
+97
+00:01:36,360 --> 00:01:37,910
+Because of that ragged unbundling we
+just talked about, there's not going to
+
+98
+00:01:37,910 --> 00:01:37,920
+just talked about, there's not going to
+ 
+
+99
+00:01:37,920 --> 00:01:40,270
+just talked about, there's not going to
+be one clean after. Instead, we're
+
+100
+00:01:40,270 --> 00:01:40,280
+be one clean after. Instead, we're
+ 
+
+101
+00:01:40,280 --> 00:01:42,070
+be one clean after. Instead, we're
+stepping into a cascading sequence of
+
+102
+00:01:42,070 --> 00:01:42,080
+stepping into a cascading sequence of
+ 
+
+103
+00:01:42,080 --> 00:01:44,070
+stepping into a cascading sequence of
+massive economic, institutional, and
+
+104
+00:01:44,070 --> 00:01:44,080
+massive economic, institutional, and
+ 
+
+105
+00:01:44,080 --> 00:01:46,390
+massive economic, institutional, and
+psychological shocks. Each one is going
+
+106
+00:01:46,390 --> 00:01:46,400
+psychological shocks. Each one is going
+ 
+
+107
+00:01:46,400 --> 00:01:48,110
+psychological shocks. Each one is going
+to arrive on its own unpredictable
+
+108
+00:01:48,110 --> 00:01:48,120
+to arrive on its own unpredictable
+ 
+
+109
+00:01:48,120 --> 00:01:50,390
+to arrive on its own unpredictable
+schedule, compounding the disorientation
+
+110
+00:01:50,390 --> 00:01:50,400
+schedule, compounding the disorientation
+ 
+
+111
+00:01:50,400 --> 00:01:52,670
+schedule, compounding the disorientation
+of the one right before it. Once we step
+
+112
+00:01:52,670 --> 00:01:52,680
+of the one right before it. Once we step
+ 
+
+113
+00:01:52,680 --> 00:01:54,750
+of the one right before it. Once we step
+through that doorway, the very first
+
+114
+00:01:54,750 --> 00:01:54,760
+through that doorway, the very first
+ 
+
+115
+00:01:54,760 --> 00:01:56,990
+through that doorway, the very first
+thing we hit is our wallets and our
+
+116
+00:01:56,990 --> 00:01:57,000
+thing we hit is our wallets and our
+ 
+
+117
+00:01:57,000 --> 00:01:58,190
+thing we hit is our wallets and our
+jobs.
+
+118
+00:01:58,190 --> 00:01:58,200
+jobs.
+ 
+
+119
+00:01:58,200 --> 00:02:00,470
+jobs.
+Let's look at section two, the economic
+
+120
+00:02:00,470 --> 00:02:00,480
+Let's look at section two, the economic
+ 
+
+121
+00:02:00,480 --> 00:02:01,550
+Let's look at section two, the economic
+duel.
+
+122
+00:02:01,550 --> 00:02:01,560
+duel.
+ 
+
+123
+00:02:01,560 --> 00:02:03,790
+duel.
+We are about to see two massive,
+
+124
+00:02:03,790 --> 00:02:03,800
+We are about to see two massive,
+ 
+
+125
+00:02:03,800 --> 00:02:06,350
+We are about to see two massive,
+completely opposing forces crash into
+
+126
+00:02:06,350 --> 00:02:06,360
+completely opposing forces crash into
+ 
+
+127
+00:02:06,360 --> 00:02:08,350
+completely opposing forces crash into
+each other. On one hand, we have an
+
+128
+00:02:08,350 --> 00:02:08,360
+each other. On one hand, we have an
+ 
+
+129
+00:02:08,360 --> 00:02:10,350
+each other. On one hand, we have an
+unbelievable surge in productive
+
+130
+00:02:10,350 --> 00:02:10,360
+unbelievable surge in productive
+ 
+
+131
+00:02:10,360 --> 00:02:13,150
+unbelievable surge in productive
+capacity. Imagine systems doing decades
+
+132
+00:02:13,150 --> 00:02:13,160
+capacity. Imagine systems doing decades
+ 
+
+133
+00:02:13,160 --> 00:02:15,190
+capacity. Imagine systems doing decades
+worth of complex legal research or
+
+134
+00:02:15,190 --> 00:02:15,200
+worth of complex legal research or
+ 
+
+135
+00:02:15,200 --> 00:02:17,470
+worth of complex legal research or
+software engineering at a global scale
+
+136
+00:02:17,470 --> 00:02:17,480
+software engineering at a global scale
+ 
+
+137
+00:02:17,480 --> 00:02:19,430
+software engineering at a global scale
+for literal pennies. It's a world of
+
+138
+00:02:19,430 --> 00:02:19,440
+for literal pennies. It's a world of
+ 
+
+139
+00:02:19,440 --> 00:02:22,510
+for literal pennies. It's a world of
+pure abundance. But competing directly
+
+140
+00:02:22,510 --> 00:02:22,520
+pure abundance. But competing directly
+ 
+
+141
+00:02:22,520 --> 00:02:24,470
+pure abundance. But competing directly
+against that abundance is structural
+
+142
+00:02:24,470 --> 00:02:24,480
+against that abundance is structural
+ 
+
+143
+00:02:24,480 --> 00:02:26,750
+against that abundance is structural
+displacement. Unlike the automation of
+
+144
+00:02:26,750 --> 00:02:26,760
+displacement. Unlike the automation of
+ 
+
+145
+00:02:26,760 --> 00:02:28,510
+displacement. Unlike the automation of
+the past that mostly replaced physical
+
+146
+00:02:28,510 --> 00:02:28,520
+the past that mostly replaced physical
+ 
+
+147
+00:02:28,520 --> 00:02:31,310
+the past that mostly replaced physical
+labor, AGI directly erodes the premium
+
+148
+00:02:31,310 --> 00:02:31,320
+labor, AGI directly erodes the premium
+ 
+
+149
+00:02:31,320 --> 00:02:33,430
+labor, AGI directly erodes the premium
+on human cognitive labor. For the
+
+150
+00:02:33,430 --> 00:02:33,440
+on human cognitive labor. For the
+ 
+
+151
+00:02:33,440 --> 00:02:35,150
+on human cognitive labor. For the
+white-collar worker, it's this sudden
+
+152
+00:02:35,150 --> 00:02:35,160
+white-collar worker, it's this sudden
+ 
+
+153
+00:02:35,160 --> 00:02:36,790
+white-collar worker, it's this sudden
+dizzying realization that years of
+
+154
+00:02:36,790 --> 00:02:36,800
+dizzying realization that years of
+ 
+
+155
+00:02:36,800 --> 00:02:39,150
+dizzying realization that years of
+expensive cognitive training might just
+
+156
+00:02:39,150 --> 00:02:39,160
+expensive cognitive training might just
+ 
+
+157
+00:02:39,160 --> 00:02:41,670
+expensive cognitive training might just
+become obsolete. And this is happening
+
+158
+00:02:41,670 --> 00:02:41,680
+become obsolete. And this is happening
+ 
+
+159
+00:02:41,680 --> 00:02:43,430
+become obsolete. And this is happening
+across almost every sector
+
+160
+00:02:43,430 --> 00:02:43,440
+across almost every sector
+ 
+
+161
+00:02:43,440 --> 00:02:45,150
+across almost every sector
+simultaneously.
+
+162
+00:02:45,150 --> 00:02:45,160
+simultaneously.
+ 
+
+163
+00:02:45,160 --> 00:02:46,910
+simultaneously.
+Think about previous automation, the
+
+164
+00:02:46,910 --> 00:02:46,920
+Think about previous automation, the
+ 
+
+165
+00:02:46,920 --> 00:02:48,910
+Think about previous automation, the
+agricultural revolution, the industrial
+
+166
+00:02:48,910 --> 00:02:48,920
+agricultural revolution, the industrial
+ 
+
+167
+00:02:48,920 --> 00:02:50,630
+agricultural revolution, the industrial
+revolution. They played out over
+
+168
+00:02:50,630 --> 00:02:50,640
+revolution. They played out over
+ 
+
+169
+00:02:50,640 --> 00:02:53,190
+revolution. They played out over
+generations. It gave our institutions,
+
+170
+00:02:53,190 --> 00:02:53,200
+generations. It gave our institutions,
+ 
+
+171
+00:02:53,200 --> 00:02:55,070
+generations. It gave our institutions,
+our schools, and our governments time to
+
+172
+00:02:55,070 --> 00:02:55,080
+our schools, and our governments time to
+ 
+
+173
+00:02:55,080 --> 00:02:57,949
+our schools, and our governments time to
+catch up. But AGI, AGI is kicking down
+
+174
+00:02:57,949 --> 00:02:57,959
+catch up. But AGI, AGI is kicking down
+ 
+
+175
+00:02:57,959 --> 00:03:00,190
+catch up. But AGI, AGI is kicking down
+every single economic door at the exact
+
+176
+00:03:00,190 --> 00:03:00,200
+every single economic door at the exact
+ 
+
+177
+00:03:00,200 --> 00:03:02,670
+every single economic door at the exact
+same time. That huge gap between the
+
+178
+00:03:02,670 --> 00:03:02,680
+same time. That huge gap between the
+ 
+
+179
+00:03:02,680 --> 00:03:04,949
+same time. That huge gap between the
+blinding speed of the technology and the
+
+180
+00:03:04,949 --> 00:03:04,959
+blinding speed of the technology and the
+ 
+
+181
+00:03:04,959 --> 00:03:07,030
+blinding speed of the technology and the
+painfully slow bureaucratic pace of
+
+182
+00:03:07,030 --> 00:03:07,040
+painfully slow bureaucratic pace of
+ 
+
+183
+00:03:07,040 --> 00:03:09,310
+painfully slow bureaucratic pace of
+human governance is the core economic
+
+184
+00:03:09,310 --> 00:03:09,320
+human governance is the core economic
+ 
+
+185
+00:03:09,320 --> 00:03:11,070
+human governance is the core economic
+friction we're dealing with here.
+
+186
+00:03:11,070 --> 00:03:11,080
+friction we're dealing with here.
+ 
+
+187
+00:03:11,080 --> 00:03:12,750
+friction we're dealing with here.
+Because of this intense time pressure,
+
+188
+00:03:12,750 --> 00:03:12,760
+Because of this intense time pressure,
+ 
+
+189
+00:03:12,760 --> 00:03:15,150
+Because of this intense time pressure,
+the outcome isn't guaranteed. We aren't
+
+190
+00:03:15,150 --> 00:03:15,160
+the outcome isn't guaranteed. We aren't
+ 
+
+191
+00:03:15,160 --> 00:03:17,110
+the outcome isn't guaranteed. We aren't
+locked into a utopian paradise, and we
+
+192
+00:03:17,110 --> 00:03:17,120
+locked into a utopian paradise, and we
+ 
+
+193
+00:03:17,120 --> 00:03:18,670
+locked into a utopian paradise, and we
+aren't doomed to a dystopian trap
+
+194
+00:03:18,670 --> 00:03:18,680
+aren't doomed to a dystopian trap
+ 
+
+195
+00:03:18,680 --> 00:03:21,430
+aren't doomed to a dystopian trap
+either. It's an active contest. If we
+
+196
+00:03:21,430 --> 00:03:21,440
+either. It's an active contest. If we
+ 
+
+197
+00:03:21,440 --> 00:03:22,949
+either. It's an active contest. If we
+want to prevent a fractured reality
+
+198
+00:03:22,949 --> 00:03:22,959
+want to prevent a fractured reality
+ 
+
+199
+00:03:22,959 --> 00:03:24,870
+want to prevent a fractured reality
+where only a few tech giants capture all
+
+200
+00:03:24,870 --> 00:03:24,880
+where only a few tech giants capture all
+ 
+
+201
+00:03:24,880 --> 00:03:26,790
+where only a few tech giants capture all
+this new wealth, we need incredible
+
+202
+00:03:26,790 --> 00:03:26,800
+this new wealth, we need incredible
+ 
+
+203
+00:03:26,800 --> 00:03:28,110
+this new wealth, we need incredible
+attention to detail in our policy
+
+204
+00:03:28,110 --> 00:03:28,120
+attention to detail in our policy
+ 
+
+205
+00:03:28,120 --> 00:03:29,830
+attention to detail in our policy
+choices right now.
+
+206
+00:03:29,830 --> 00:03:29,840
+choices right now.
+ 
+
+207
+00:03:29,840 --> 00:03:31,310
+choices right now.
+We're talking about massive shifts, like
+
+208
+00:03:31,310 --> 00:03:31,320
+We're talking about massive shifts, like
+ 
+
+209
+00:03:31,320 --> 00:03:33,070
+We're talking about massive shifts, like
+granting the public equity stakes in AI
+
+210
+00:03:33,070 --> 00:03:33,080
+granting the public equity stakes in AI
+ 
+
+211
+00:03:33,080 --> 00:03:35,070
+granting the public equity stakes in AI
+productivity, or creating entirely new
+
+212
+00:03:35,070 --> 00:03:35,080
+productivity, or creating entirely new
+ 
+
+213
+00:03:35,080 --> 00:03:36,590
+productivity, or creating entirely new
+models of income that just aren't tied
+
+214
+00:03:36,590 --> 00:03:36,600
+models of income that just aren't tied
+ 
+
+215
+00:03:36,600 --> 00:03:38,750
+models of income that just aren't tied
+to a traditional 9-5 job. We have to
+
+216
+00:03:38,750 --> 00:03:38,760
+to a traditional 9-5 job. We have to
+ 
+
+217
+00:03:38,760 --> 00:03:40,229
+to a traditional 9-5 job. We have to
+actively build the architecture to make
+
+218
+00:03:40,229 --> 00:03:40,239
+actively build the architecture to make
+ 
+
+219
+00:03:40,239 --> 00:03:42,070
+actively build the architecture to make
+sure this productivity surge actually
+
+220
+00:03:42,070 --> 00:03:42,080
+sure this productivity surge actually
+ 
+
+221
+00:03:42,080 --> 00:03:44,670
+sure this productivity surge actually
+results in shared, colorful prosperity.
+
+222
+00:03:44,670 --> 00:03:44,680
+results in shared, colorful prosperity.
+ 
+
+223
+00:03:44,680 --> 00:03:46,990
+results in shared, colorful prosperity.
+But wealth is only half the story. We
+
+224
+00:03:46,990 --> 00:03:47,000
+But wealth is only half the story. We
+ 
+
+225
+00:03:47,000 --> 00:03:49,470
+But wealth is only half the story. We
+also have to figure out how AGI reshapes
+
+226
+00:03:49,470 --> 00:03:49,480
+also have to figure out how AGI reshapes
+ 
+
+227
+00:03:49,480 --> 00:03:51,990
+also have to figure out how AGI reshapes
+institutional power itself. Section
+
+228
+00:03:51,990 --> 00:03:52,000
+institutional power itself. Section
+ 
+
+229
+00:03:52,000 --> 00:03:54,790
+institutional power itself. Section
+three, centralized power. It's super
+
+230
+00:03:54,790 --> 00:03:54,800
+three, centralized power. It's super
+ 
+
+231
+00:03:54,800 --> 00:03:56,510
+three, centralized power. It's super
+tempting to think of advanced AI like
+
+232
+00:03:56,510 --> 00:03:56,520
+tempting to think of advanced AI like
+ 
+
+233
+00:03:56,520 --> 00:03:58,830
+tempting to think of advanced AI like
+electricity, right? Cheap, everywhere,
+
+234
+00:03:58,830 --> 00:03:58,840
+electricity, right? Cheap, everywhere,
+ 
+
+235
+00:03:58,840 --> 00:04:00,710
+electricity, right? Cheap, everywhere,
+accessible to anyone. But it's actually
+
+236
+00:04:00,710 --> 00:04:00,720
+accessible to anyone. But it's actually
+ 
+
+237
+00:04:00,720 --> 00:04:03,510
+accessible to anyone. But it's actually
+not. Frontier AI requires massive
+
+238
+00:04:03,510 --> 00:04:03,520
+not. Frontier AI requires massive
+ 
+
+239
+00:04:03,520 --> 00:04:05,670
+not. Frontier AI requires massive
+multi-billion-dollar data centers, huge
+
+240
+00:04:05,670 --> 00:04:05,680
+multi-billion-dollar data centers, huge
+ 
+
+241
+00:04:05,680 --> 00:04:07,150
+multi-billion-dollar data centers, huge
+power grids, and crazy amounts of
+
+242
+00:04:07,150 --> 00:04:07,160
+power grids, and crazy amounts of
+ 
+
+243
+00:04:07,160 --> 00:04:09,350
+power grids, and crazy amounts of
+proprietary data. Because those barriers
+
+244
+00:04:09,350 --> 00:04:09,360
+proprietary data. Because those barriers
+ 
+
+245
+00:04:09,360 --> 00:04:11,750
+proprietary data. Because those barriers
+to entry are so high, immense power is
+
+246
+00:04:11,750 --> 00:04:11,760
+to entry are so high, immense power is
+ 
+
+247
+00:04:11,760 --> 00:04:13,230
+to entry are so high, immense power is
+going to concentrate tightly around a
+
+248
+00:04:13,230 --> 00:04:13,240
+going to concentrate tightly around a
+ 
+
+249
+00:04:13,240 --> 00:04:15,270
+going to concentrate tightly around a
+very small handful of corporations and
+
+250
+00:04:15,270 --> 00:04:15,280
+very small handful of corporations and
+ 
+
+251
+00:04:15,280 --> 00:04:17,590
+very small handful of corporations and
+states. Economically, they'll compound
+
+252
+00:04:17,590 --> 00:04:17,600
+states. Economically, they'll compound
+ 
+
+253
+00:04:17,600 --> 00:04:19,470
+states. Economically, they'll compound
+their advantages way faster than any
+
+254
+00:04:19,470 --> 00:04:19,480
+their advantages way faster than any
+ 
+
+255
+00:04:19,480 --> 00:04:21,670
+their advantages way faster than any
+antitrust law could ever catch up.
+
+256
+00:04:21,670 --> 00:04:21,680
+antitrust law could ever catch up.
+ 
+
+257
+00:04:21,680 --> 00:04:23,870
+antitrust law could ever catch up.
+Militarily, AI logistics could shift
+
+258
+00:04:23,870 --> 00:04:23,880
+Militarily, AI logistics could shift
+ 
+
+259
+00:04:23,880 --> 00:04:25,990
+Militarily, AI logistics could shift
+global leverage basically overnight. And
+
+260
+00:04:25,990 --> 00:04:26,000
+global leverage basically overnight. And
+ 
+
+261
+00:04:26,000 --> 00:04:27,750
+global leverage basically overnight. And
+politically, whoever controls these
+
+262
+00:04:27,750 --> 00:04:27,760
+politically, whoever controls these
+ 
+
+263
+00:04:27,760 --> 00:04:29,710
+politically, whoever controls these
+superhuman analytical tools gets
+
+264
+00:04:29,710 --> 00:04:29,720
+superhuman analytical tools gets
+ 
+
+265
+00:04:29,720 --> 00:04:31,430
+superhuman analytical tools gets
+unprecedented influence over our
+
+266
+00:04:31,430 --> 00:04:31,440
+unprecedented influence over our
+ 
+
+267
+00:04:31,440 --> 00:04:33,510
+unprecedented influence over our
+information ecosystems, which deeply
+
+268
+00:04:33,510 --> 00:04:33,520
+information ecosystems, which deeply
+ 
+
+269
+00:04:33,520 --> 00:04:34,790
+information ecosystems, which deeply
+challenges the bedrock of our
+
+270
+00:04:34,790 --> 00:04:34,800
+challenges the bedrock of our
+ 
+
+271
+00:04:34,800 --> 00:04:36,110
+challenges the bedrock of our
+democracies.
+
+272
+00:04:36,110 --> 00:04:36,120
+democracies.
+ 
+
+273
+00:04:36,120 --> 00:04:37,750
+democracies.
+So, we have a very narrow window to
+
+274
+00:04:37,750 --> 00:04:37,760
+So, we have a very narrow window to
+ 
+
+275
+00:04:37,760 --> 00:04:39,030
+So, we have a very narrow window to
+establish the kind of international
+
+276
+00:04:39,030 --> 00:04:39,040
+establish the kind of international
+ 
+
+277
+00:04:39,040 --> 00:04:41,110
+establish the kind of international
+coordination needed to oversee this. The
+
+278
+00:04:41,110 --> 00:04:41,120
+coordination needed to oversee this. The
+ 
+
+279
+00:04:41,120 --> 00:04:42,670
+coordination needed to oversee this. The
+historical comparison is nuclear
+
+280
+00:04:42,670 --> 00:04:42,680
+historical comparison is nuclear
+ 
+
+281
+00:04:42,680 --> 00:04:44,470
+historical comparison is nuclear
+nonproliferation. But here is the
+
+282
+00:04:44,470 --> 00:04:44,480
+nonproliferation. But here is the
+ 
+
+283
+00:04:44,480 --> 00:04:47,190
+nonproliferation. But here is the
+terrifying catch. AI is vastly harder to
+
+284
+00:04:47,190 --> 00:04:47,200
+terrifying catch. AI is vastly harder to
+ 
+
+285
+00:04:47,200 --> 00:04:49,150
+terrifying catch. AI is vastly harder to
+monitor than physical uranium. You can
+
+286
+00:04:49,150 --> 00:04:49,160
+monitor than physical uranium. You can
+ 
+
+287
+00:04:49,160 --> 00:04:50,870
+monitor than physical uranium. You can
+track massive centrifuges from space
+
+288
+00:04:50,870 --> 00:04:50,880
+track massive centrifuges from space
+ 
+
+289
+00:04:50,880 --> 00:04:52,950
+track massive centrifuges from space
+with a satellite. You absolutely cannot
+
+290
+00:04:52,950 --> 00:04:52,960
+with a satellite. You absolutely cannot
+ 
+
+291
+00:04:52,960 --> 00:04:54,590
+with a satellite. You absolutely cannot
+track lines of code being trained on a
+
+292
+00:04:54,590 --> 00:04:54,600
+track lines of code being trained on a
+ 
+
+293
+00:04:54,600 --> 00:04:56,270
+track lines of code being trained on a
+server farm somewhere. It is an
+
+294
+00:04:56,270 --> 00:04:56,280
+server farm somewhere. It is an
+ 
+
+295
+00:04:56,280 --> 00:04:58,310
+server farm somewhere. It is an
+incredibly difficult, yet absolutely
+
+296
+00:04:58,310 --> 00:04:58,320
+incredibly difficult, yet absolutely
+ 
+
+297
+00:04:58,320 --> 00:05:00,430
+incredibly difficult, yet absolutely
+essential diplomatic task.
+
+298
+00:05:00,430 --> 00:05:00,440
+essential diplomatic task.
+ 
+
+299
+00:05:00,440 --> 00:05:02,630
+essential diplomatic task.
+Power and economics are ultimately just
+
+300
+00:05:02,630 --> 00:05:02,640
+Power and economics are ultimately just
+ 
+
+301
+00:05:02,640 --> 00:05:04,950
+Power and economics are ultimately just
+human constructs, though. AGI is
+
+302
+00:05:04,950 --> 00:05:04,960
+human constructs, though. AGI is
+ 
+
+303
+00:05:04,960 --> 00:05:06,310
+human constructs, though. AGI is
+actually going to rewrite the
+
+304
+00:05:06,310 --> 00:05:06,320
+actually going to rewrite the
+ 
+
+305
+00:05:06,320 --> 00:05:08,830
+actually going to rewrite the
+fundamental laws of progress itself.
+
+306
+00:05:08,830 --> 00:05:08,840
+fundamental laws of progress itself.
+ 
+
+307
+00:05:08,840 --> 00:05:10,870
+fundamental laws of progress itself.
+Let's look at section four, compressed
+
+308
+00:05:10,870 --> 00:05:10,880
+Let's look at section four, compressed
+ 
+
+309
+00:05:10,880 --> 00:05:11,870
+Let's look at section four, compressed
+time.
+
+310
+00:05:11,870 --> 00:05:11,880
+time.
+ 
+
+311
+00:05:11,880 --> 00:05:13,270
+time.
+Human science has always been
+
+312
+00:05:13,270 --> 00:05:13,280
+Human science has always been
+ 
+
+313
+00:05:13,280 --> 00:05:15,430
+Human science has always been
+rate-limited by our basic biology.
+
+314
+00:05:15,430 --> 00:05:15,440
+rate-limited by our basic biology.
+ 
+
+315
+00:05:15,440 --> 00:05:17,150
+rate-limited by our basic biology.
+Researchers need to sleep, they take
+
+316
+00:05:17,150 --> 00:05:17,160
+Researchers need to sleep, they take
+ 
+
+317
+00:05:17,160 --> 00:05:19,030
+Researchers need to sleep, they take
+weekends off, they work in isolated
+
+318
+00:05:19,030 --> 00:05:19,040
+weekends off, they work in isolated
+ 
+
+319
+00:05:19,040 --> 00:05:22,070
+weekends off, they work in isolated
+silos. But autonomous AI systems, they
+
+320
+00:05:22,070 --> 00:05:22,080
+silos. But autonomous AI systems, they
+ 
+
+321
+00:05:22,080 --> 00:05:23,710
+silos. But autonomous AI systems, they
+don't have those bottlenecks. They don't
+
+322
+00:05:23,710 --> 00:05:23,720
+don't have those bottlenecks. They don't
+ 
+
+323
+00:05:23,720 --> 00:05:25,750
+don't have those bottlenecks. They don't
+sleep. They can synthesize physics,
+
+324
+00:05:25,750 --> 00:05:25,760
+sleep. They can synthesize physics,
+ 
+
+325
+00:05:25,760 --> 00:05:28,150
+sleep. They can synthesize physics,
+chemistry, and biology all at once.
+
+326
+00:05:28,150 --> 00:05:28,160
+chemistry, and biology all at once.
+ 
+
+327
+00:05:28,160 --> 00:05:30,510
+chemistry, and biology all at once.
+Imagine taking the entire 21st century
+
+328
+00:05:30,510 --> 00:05:30,520
+Imagine taking the entire 21st century
+ 
+
+329
+00:05:30,520 --> 00:05:32,670
+Imagine taking the entire 21st century
+of anticipated scientific discovery,
+
+330
+00:05:32,670 --> 00:05:32,680
+of anticipated scientific discovery,
+ 
+
+331
+00:05:32,680 --> 00:05:34,670
+of anticipated scientific discovery,
+like curing intractable cancers or
+
+332
+00:05:34,670 --> 00:05:34,680
+like curing intractable cancers or
+ 
+
+333
+00:05:34,680 --> 00:05:37,070
+like curing intractable cancers or
+cracking fusion energy, and squishing it
+
+334
+00:05:37,070 --> 00:05:37,080
+cracking fusion energy, and squishing it
+ 
+
+335
+00:05:37,080 --> 00:05:39,270
+cracking fusion energy, and squishing it
+into a few frantic years, or even just
+
+336
+00:05:39,270 --> 00:05:39,280
+into a few frantic years, or even just
+ 
+
+337
+00:05:39,280 --> 00:05:40,790
+into a few frantic years, or even just
+months, through relentless
+
+338
+00:05:40,790 --> 00:05:40,800
+months, through relentless
+ 
+
+339
+00:05:40,800 --> 00:05:43,190
+months, through relentless
+self-improving feedback loops. But we
+
+340
+00:05:43,190 --> 00:05:43,200
+self-improving feedback loops. But we
+ 
+
+341
+00:05:43,200 --> 00:05:45,470
+self-improving feedback loops. But we
+can't just get blinded by the miracles.
+
+342
+00:05:45,470 --> 00:05:45,480
+can't just get blinded by the miracles.
+ 
+
+343
+00:05:45,480 --> 00:05:47,750
+can't just get blinded by the miracles.
+Compressed time is also highly dangerous
+
+344
+00:05:47,750 --> 00:05:47,760
+Compressed time is also highly dangerous
+ 
+
+345
+00:05:47,760 --> 00:05:48,630
+Compressed time is also highly dangerous
+time.
+
+346
+00:05:48,630 --> 00:05:48,640
+time.
+ 
+
+347
+00:05:48,640 --> 00:05:50,070
+time.
+The exact same technological
+
+348
+00:05:50,070 --> 00:05:50,080
+The exact same technological
+ 
+
+349
+00:05:50,080 --> 00:05:51,990
+The exact same technological
+acceleration that can yield a custom
+
+350
+00:05:51,990 --> 00:05:52,000
+acceleration that can yield a custom
+ 
+
+351
+00:05:52,000 --> 00:05:54,030
+acceleration that can yield a custom
+cure for a rare genetic disease
+
+352
+00:05:54,030 --> 00:05:54,040
+cure for a rare genetic disease
+ 
+
+353
+00:05:54,040 --> 00:05:55,790
+cure for a rare genetic disease
+dramatically lowers the barrier for
+
+354
+00:05:55,790 --> 00:05:55,800
+dramatically lowers the barrier for
+ 
+
+355
+00:05:55,800 --> 00:05:58,190
+dramatically lowers the barrier for
+designing a lethal pathogen.
+
+356
+00:05:58,190 --> 00:05:58,200
+designing a lethal pathogen.
+ 
+
+357
+00:05:58,200 --> 00:06:00,630
+designing a lethal pathogen.
+Historically, the sheer time, cost, and
+
+358
+00:06:00,630 --> 00:06:00,640
+Historically, the sheer time, cost, and
+ 
+
+359
+00:06:00,640 --> 00:06:02,950
+Historically, the sheer time, cost, and
+difficulty required to build biological
+
+360
+00:06:02,950 --> 00:06:02,960
+difficulty required to build biological
+ 
+
+361
+00:06:02,960 --> 00:06:05,470
+difficulty required to build biological
+or cyber weapons acted as a natural
+
+362
+00:06:05,470 --> 00:06:05,480
+or cyber weapons acted as a natural
+ 
+
+363
+00:06:05,480 --> 00:06:07,630
+or cyber weapons acted as a natural
+protective barrier for us.
+
+364
+00:06:07,630 --> 00:06:07,640
+protective barrier for us.
+ 
+
+365
+00:06:07,640 --> 00:06:10,150
+protective barrier for us.
+AGI essentially removes that barrier,
+
+366
+00:06:10,150 --> 00:06:10,160
+AGI essentially removes that barrier,
+ 
+
+367
+00:06:10,160 --> 00:06:12,430
+AGI essentially removes that barrier,
+creating this wildly unbalanced ratio
+
+368
+00:06:12,430 --> 00:06:12,440
+creating this wildly unbalanced ratio
+ 
+
+369
+00:06:12,440 --> 00:06:14,790
+creating this wildly unbalanced ratio
+where our raw technological capability
+
+370
+00:06:14,790 --> 00:06:14,800
+where our raw technological capability
+ 
+
+371
+00:06:14,800 --> 00:06:17,750
+where our raw technological capability
+drastically outpaces our human wisdom.
+
+372
+00:06:17,750 --> 00:06:17,760
+drastically outpaces our human wisdom.
+ 
+
+373
+00:06:17,760 --> 00:06:19,390
+drastically outpaces our human wisdom.
+Which brings us to the most critical
+
+374
+00:06:19,390 --> 00:06:19,400
+Which brings us to the most critical
+ 
+
+375
+00:06:19,400 --> 00:06:21,710
+Which brings us to the most critical
+part of this entire explainer, section
+
+376
+00:06:21,710 --> 00:06:21,720
+part of this entire explainer, section
+ 
+
+377
+00:06:21,720 --> 00:06:23,950
+part of this entire explainer, section
+five, the control problem.
+
+378
+00:06:23,950 --> 00:06:23,960
+five, the control problem.
+ 
+
+379
+00:06:23,960 --> 00:06:25,670
+five, the control problem.
+Before we even begin to worry about
+
+380
+00:06:25,670 --> 00:06:25,680
+Before we even begin to worry about
+ 
+
+381
+00:06:25,680 --> 00:06:27,870
+Before we even begin to worry about
+international treaties or new economic
+
+382
+00:06:27,870 --> 00:06:27,880
+international treaties or new economic
+ 
+
+383
+00:06:27,880 --> 00:06:30,270
+international treaties or new economic
+models, we absolutely have to solve the
+
+384
+00:06:30,270 --> 00:06:30,280
+models, we absolutely have to solve the
+ 
+
+385
+00:06:30,280 --> 00:06:32,470
+models, we absolutely have to solve the
+alignment problem. Simply put, this is
+
+386
+00:06:32,470 --> 00:06:32,480
+alignment problem. Simply put, this is
+ 
+
+387
+00:06:32,480 --> 00:06:34,750
+alignment problem. Simply put, this is
+the immense unsolved challenge of making
+
+388
+00:06:34,750 --> 00:06:34,760
+the immense unsolved challenge of making
+ 
+
+389
+00:06:34,760 --> 00:06:36,909
+the immense unsolved challenge of making
+sure an AI actually does what we want it
+
+390
+00:06:36,909 --> 00:06:36,919
+sure an AI actually does what we want it
+ 
+
+391
+00:06:36,919 --> 00:06:38,630
+sure an AI actually does what we want it
+to do. It's the classic genie in a
+
+392
+00:06:38,630 --> 00:06:38,640
+to do. It's the classic genie in a
+ 
+
+393
+00:06:38,640 --> 00:06:40,430
+to do. It's the classic genie in a
+bottle, right? The genie gives you
+
+394
+00:06:40,430 --> 00:06:40,440
+bottle, right? The genie gives you
+ 
+
+395
+00:06:40,440 --> 00:06:42,430
+bottle, right? The genie gives you
+exactly what you ask for, but usually in
+
+396
+00:06:42,430 --> 00:06:42,440
+exactly what you ask for, but usually in
+ 
+
+397
+00:06:42,440 --> 00:06:44,030
+exactly what you ask for, but usually in
+a way that totally ruins your life
+
+398
+00:06:44,030 --> 00:06:44,040
+a way that totally ruins your life
+ 
+
+399
+00:06:44,040 --> 00:06:45,670
+a way that totally ruins your life
+because you didn't specify the exact
+
+400
+00:06:45,670 --> 00:06:45,680
+because you didn't specify the exact
+ 
+
+401
+00:06:45,680 --> 00:06:47,870
+because you didn't specify the exact
+details perfectly. Now, imagine that
+
+402
+00:06:47,870 --> 00:06:47,880
+details perfectly. Now, imagine that
+ 
+
+403
+00:06:47,880 --> 00:06:49,590
+details perfectly. Now, imagine that
+genie is a supercomputer running our
+
+404
+00:06:49,590 --> 00:06:49,600
+genie is a supercomputer running our
+ 
+
+405
+00:06:49,600 --> 00:06:51,950
+genie is a supercomputer running our
+global financial markets. If an AGI
+
+406
+00:06:51,950 --> 00:06:51,960
+global financial markets. If an AGI
+ 
+
+407
+00:06:51,960 --> 00:06:53,870
+global financial markets. If an AGI
+pursues its trained objectives in a way
+
+408
+00:06:53,870 --> 00:06:53,880
+pursues its trained objectives in a way
+ 
+
+409
+00:06:53,880 --> 00:06:55,710
+pursues its trained objectives in a way
+we didn't intend, not out of sci-fi
+
+410
+00:06:55,710 --> 00:06:55,720
+we didn't intend, not out of sci-fi
+ 
+
+411
+00:06:55,720 --> 00:06:57,710
+we didn't intend, not out of sci-fi
+malice, but just because human values
+
+412
+00:06:57,710 --> 00:06:57,720
+malice, but just because human values
+ 
+
+413
+00:06:57,720 --> 00:06:59,630
+malice, but just because human values
+are insanely hard to translate into
+
+414
+00:06:59,630 --> 00:06:59,640
+are insanely hard to translate into
+ 
+
+415
+00:06:59,640 --> 00:07:01,470
+are insanely hard to translate into
+math, the results could be subtly
+
+416
+00:07:01,470 --> 00:07:01,480
+math, the results could be subtly
+ 
+
+417
+00:07:01,480 --> 00:07:02,790
+math, the results could be subtly
+corrosive or just straight-up
+
+418
+00:07:02,790 --> 00:07:02,800
+corrosive or just straight-up
+ 
+
+419
+00:07:02,800 --> 00:07:04,470
+corrosive or just straight-up
+catastrophic.
+
+420
+00:07:04,470 --> 00:07:04,480
+catastrophic.
+ 
+
+421
+00:07:04,480 --> 00:07:07,270
+catastrophic.
+The raw stakes here literally cannot be
+
+422
+00:07:07,270 --> 00:07:07,280
+The raw stakes here literally cannot be
+ 
+
+423
+00:07:07,280 --> 00:07:09,510
+The raw stakes here literally cannot be
+overstated. If we get this wrong, we
+
+424
+00:07:09,510 --> 00:07:09,520
+overstated. If we get this wrong, we
+ 
+
+425
+00:07:09,520 --> 00:07:11,230
+overstated. If we get this wrong, we
+risk setting the trajectory of our
+
+426
+00:07:11,230 --> 00:07:11,240
+risk setting the trajectory of our
+ 
+
+427
+00:07:11,240 --> 00:07:13,510
+risk setting the trajectory of our
+entire civilization on autopilot,
+
+428
+00:07:13,510 --> 00:07:13,520
+entire civilization on autopilot,
+ 
+
+429
+00:07:13,520 --> 00:07:15,270
+entire civilization on autopilot,
+driving it blinding speed toward a
+
+430
+00:07:15,270 --> 00:07:15,280
+driving it blinding speed toward a
+ 
+
+431
+00:07:15,280 --> 00:07:17,830
+driving it blinding speed toward a
+destination no human actually typed into
+
+432
+00:07:17,830 --> 00:07:17,840
+destination no human actually typed into
+ 
+
+433
+00:07:17,840 --> 00:07:19,150
+destination no human actually typed into
+the GPS.
+
+434
+00:07:19,150 --> 00:07:19,160
+the GPS.
+ 
+
+435
+00:07:19,160 --> 00:07:21,430
+the GPS.
+Our entire future landscape is shaped by
+
+436
+00:07:21,430 --> 00:07:21,440
+Our entire future landscape is shaped by
+ 
+
+437
+00:07:21,440 --> 00:07:23,310
+Our entire future landscape is shaped by
+how much attention to detail we give
+
+438
+00:07:23,310 --> 00:07:23,320
+how much attention to detail we give
+ 
+
+439
+00:07:23,320 --> 00:07:25,470
+how much attention to detail we give
+this technical control problem right now
+
+440
+00:07:25,470 --> 00:07:25,480
+this technical control problem right now
+ 
+
+441
+00:07:25,480 --> 00:07:27,430
+this technical control problem right now
+while our oversight is still desperately
+
+442
+00:07:27,430 --> 00:07:27,440
+while our oversight is still desperately
+ 
+
+443
+00:07:27,440 --> 00:07:29,230
+while our oversight is still desperately
+panting trying to catch up with the raw
+
+444
+00:07:29,230 --> 00:07:29,240
+panting trying to catch up with the raw
+ 
+
+445
+00:07:29,240 --> 00:07:30,710
+panting trying to catch up with the raw
+capability.
+
+446
+00:07:30,710 --> 00:07:30,720
+capability.
+ 
+
+447
+00:07:30,720 --> 00:07:32,470
+capability.
+Assuming we manage to keep our hands
+
+448
+00:07:32,470 --> 00:07:32,480
+Assuming we manage to keep our hands
+ 
+
+449
+00:07:32,480 --> 00:07:34,430
+Assuming we manage to keep our hands
+securely on the steering wheel, we have
+
+450
+00:07:34,430 --> 00:07:34,440
+securely on the steering wheel, we have
+ 
+
+451
+00:07:34,440 --> 00:07:36,950
+securely on the steering wheel, we have
+one final territory to navigate. Section
+
+452
+00:07:36,950 --> 00:07:36,960
+one final territory to navigate. Section
+ 
+
+453
+00:07:36,960 --> 00:07:39,430
+one final territory to navigate. Section
+six, redefining purpose.
+
+454
+00:07:39,430 --> 00:07:39,440
+six, redefining purpose.
+ 
+
+455
+00:07:39,440 --> 00:07:41,110
+six, redefining purpose.
+For all of recorded history, we've had
+
+456
+00:07:41,110 --> 00:07:41,120
+For all of recorded history, we've had
+ 
+
+457
+00:07:41,120 --> 00:07:43,430
+For all of recorded history, we've had
+this comforting baseline. We are the
+
+458
+00:07:43,430 --> 00:07:43,440
+this comforting baseline. We are the
+ 
+
+459
+00:07:43,440 --> 00:07:45,550
+this comforting baseline. We are the
+most intelligent, capable reasoners on
+
+460
+00:07:45,550 --> 00:07:45,560
+most intelligent, capable reasoners on
+ 
+
+461
+00:07:45,560 --> 00:07:47,750
+most intelligent, capable reasoners on
+the planet. AGI shatters that
+
+462
+00:07:47,750 --> 00:07:47,760
+the planet. AGI shatters that
+ 
+
+463
+00:07:47,760 --> 00:07:50,150
+the planet. AGI shatters that
+completely. We are facing a culture-wide
+
+464
+00:07:50,150 --> 00:07:50,160
+completely. We are facing a culture-wide
+ 
+
+465
+00:07:50,160 --> 00:07:52,670
+completely. We are facing a culture-wide
+renegotiation of meaning itself. I want
+
+466
+00:07:52,670 --> 00:07:52,680
+renegotiation of meaning itself. I want
+ 
+
+467
+00:07:52,680 --> 00:07:54,710
+renegotiation of meaning itself. I want
+you to really ask yourself, if a machine
+
+468
+00:07:54,710 --> 00:07:54,720
+you to really ask yourself, if a machine
+ 
+
+469
+00:07:54,720 --> 00:07:56,510
+you to really ask yourself, if a machine
+can do your job perfectly and do it for
+
+470
+00:07:56,510 --> 00:07:56,520
+can do your job perfectly and do it for
+ 
+
+471
+00:07:56,520 --> 00:07:58,870
+can do your job perfectly and do it for
+a fraction of a cent, who are you? What
+
+472
+00:07:58,870 --> 00:07:58,880
+a fraction of a cent, who are you? What
+ 
+
+473
+00:07:58,880 --> 00:08:00,510
+a fraction of a cent, who are you? What
+gets you out of bed in the morning?
+
+474
+00:08:00,510 --> 00:08:00,520
+gets you out of bed in the morning?
+ 
+
+475
+00:08:00,520 --> 00:08:01,990
+gets you out of bed in the morning?
+Freed from the strict necessity of
+
+476
+00:08:01,990 --> 00:08:02,000
+Freed from the strict necessity of
+ 
+
+477
+00:08:02,000 --> 00:08:03,910
+Freed from the strict necessity of
+cognitive labor, humanity faces a
+
+478
+00:08:03,910 --> 00:08:03,920
+cognitive labor, humanity faces a
+ 
+
+479
+00:08:03,920 --> 00:08:06,150
+cognitive labor, humanity faces a
+profound philosophical shift. Some
+
+480
+00:08:06,150 --> 00:08:06,160
+profound philosophical shift. Some
+ 
+
+481
+00:08:06,160 --> 00:08:07,470
+profound philosophical shift. Some
+people are going to find this incredibly
+
+482
+00:08:07,470 --> 00:08:07,480
+people are going to find this incredibly
+ 
+
+483
+00:08:07,480 --> 00:08:08,990
+people are going to find this incredibly
+liberating, pouring their energy into
+
+484
+00:08:08,990 --> 00:08:09,000
+liberating, pouring their energy into
+ 
+
+485
+00:08:09,000 --> 00:08:11,510
+liberating, pouring their energy into
+art, relationships, and contemplation.
+
+486
+00:08:11,510 --> 00:08:11,520
+art, relationships, and contemplation.
+ 
+
+487
+00:08:11,520 --> 00:08:13,470
+art, relationships, and contemplation.
+But for others, especially in societies
+
+488
+00:08:13,470 --> 00:08:13,480
+But for others, especially in societies
+ 
+
+489
+00:08:13,480 --> 00:08:15,510
+But for others, especially in societies
+deeply built around work and output, it
+
+490
+00:08:15,510 --> 00:08:15,520
+deeply built around work and output, it
+ 
+
+491
+00:08:15,520 --> 00:08:16,950
+deeply built around work and output, it
+could feel like a devastating loss of
+
+492
+00:08:16,950 --> 00:08:16,960
+could feel like a devastating loss of
+ 
+
+493
+00:08:16,960 --> 00:08:19,270
+could feel like a devastating loss of
+status and purpose. A colorful,
+
+494
+00:08:19,270 --> 00:08:19,280
+status and purpose. A colorful,
+ 
+
+495
+00:08:19,280 --> 00:08:21,230
+status and purpose. A colorful,
+thriving, livable aftermath isn't
+
+496
+00:08:21,230 --> 00:08:21,240
+thriving, livable aftermath isn't
+ 
+
+497
+00:08:21,240 --> 00:08:22,909
+thriving, livable aftermath isn't
+something that just magically happens to
+
+498
+00:08:22,909 --> 00:08:22,919
+something that just magically happens to
+ 
+
+499
+00:08:22,919 --> 00:08:26,470
+something that just magically happens to
+us. It is a space of genuine choice, and
+
+500
+00:08:26,470 --> 00:08:26,480
+us. It is a space of genuine choice, and
+ 
+
+501
+00:08:26,480 --> 00:08:29,030
+us. It is a space of genuine choice, and
+this is our road map to get there.
+
+502
+00:08:29,030 --> 00:08:29,040
+this is our road map to get there.
+ 
+
+503
+00:08:29,040 --> 00:08:30,990
+this is our road map to get there.
+It requires deliberate, grueling work
+
+504
+00:08:30,990 --> 00:08:31,000
+It requires deliberate, grueling work
+ 
+
+505
+00:08:31,000 --> 00:08:33,190
+It requires deliberate, grueling work
+right now. We have to ensure our safety
+
+506
+00:08:33,190 --> 00:08:33,200
+right now. We have to ensure our safety
+ 
+
+507
+00:08:33,200 --> 00:08:35,430
+right now. We have to ensure our safety
+research outpaces raw computing power.
+
+508
+00:08:35,430 --> 00:08:35,440
+research outpaces raw computing power.
+ 
+
+509
+00:08:35,440 --> 00:08:37,230
+research outpaces raw computing power.
+We have to rapidly redesign our economic
+
+510
+00:08:37,230 --> 00:08:37,240
+We have to rapidly redesign our economic
+ 
+
+511
+00:08:37,240 --> 00:08:38,589
+We have to rapidly redesign our economic
+institutions to guarantee shared
+
+512
+00:08:38,589 --> 00:08:38,599
+institutions to guarantee shared
+ 
+
+513
+00:08:38,599 --> 00:08:40,909
+institutions to guarantee shared
+prosperity. We must establish robust
+
+514
+00:08:40,909 --> 00:08:40,919
+prosperity. We must establish robust
+ 
+
+515
+00:08:40,919 --> 00:08:42,750
+prosperity. We must establish robust
+international treaties. And we've got to
+
+516
+00:08:42,750 --> 00:08:42,760
+international treaties. And we've got to
+ 
+
+517
+00:08:42,760 --> 00:08:44,430
+international treaties. And we've got to
+adapt culturally to find profound
+
+518
+00:08:44,430 --> 00:08:44,440
+adapt culturally to find profound
+ 
+
+519
+00:08:44,440 --> 00:08:47,150
+adapt culturally to find profound
+meaning outside of traditional labor.
+
+520
+00:08:47,150 --> 00:08:47,160
+meaning outside of traditional labor.
+ 
+
+521
+00:08:47,160 --> 00:08:49,190
+meaning outside of traditional labor.
+As we stand right at this threshold
+
+522
+00:08:49,190 --> 00:08:49,200
+As we stand right at this threshold
+ 
+
+523
+00:08:49,200 --> 00:08:50,829
+As we stand right at this threshold
+today, I want to leave you with this one
+
+524
+00:08:50,829 --> 00:08:50,839
+today, I want to leave you with this one
+ 
+
+525
+00:08:50,839 --> 00:08:53,870
+today, I want to leave you with this one
+thought. The arrival of AGI closes a
+
+526
+00:08:53,870 --> 00:08:53,880
+thought. The arrival of AGI closes a
+ 
+
+527
+00:08:53,880 --> 00:08:56,190
+thought. The arrival of AGI closes a
+very long chapter of human history. But
+
+528
+00:08:56,190 --> 00:08:56,200
+very long chapter of human history. But
+ 
+
+529
+00:08:56,200 --> 00:08:58,150
+very long chapter of human history. But
+the contents of the next chapter, they
+
+530
+00:08:58,150 --> 00:08:58,160
+the contents of the next chapter, they
+ 
+
+531
+00:08:58,160 --> 00:09:00,510
+the contents of the next chapter, they
+are completely unwritten. How will we
+
+532
+00:09:00,510 --> 00:09:00,520
+are completely unwritten. How will we
+ 
+
+533
+00:09:00,520 --> 00:09:02,710
+are completely unwritten. How will we
+carefully and wisely write the opening
+
+534
+00:09:02,710 --> 00:09:02,720
+carefully and wisely write the opening
+ 
+
+535
+00:09:02,720 --> 00:09:05,070
+carefully and wisely write the opening
+pages of a new reality where our minds
+
+536
+00:09:05,070 --> 00:09:05,080
+pages of a new reality where our minds
+ 
+
+537
+00:09:05,080 --> 00:09:06,990
+pages of a new reality where our minds
+are no longer the most powerful systems
+
+538
+00:09:06,990 --> 00:09:07,000
+are no longer the most powerful systems
+ 
+
+539
+00:09:07,000 --> 00:09:09,310
+are no longer the most powerful systems
+on Earth? The active choices we make
+
+540
+00:09:09,310 --> 00:09:09,320
+on Earth? The active choices we make
+ 
+
+541
+00:09:09,320 --> 00:09:11,150
+on Earth? The active choices we make
+right now will dictate the world waiting
+
+542
+00:09:11,150 --> 00:09:11,160
+right now will dictate the world waiting
+ 
+
+543
+00:09:11,160 --> 00:09:13,190
+right now will dictate the world waiting
+for us on the other side. Thank you for
+
+544
+00:09:13,190 --> 00:09:13,200
+for us on the other side. Thank you for
+ 
+
+545
+00:09:13,200 --> 00:09:14,750
+for us on the other side. Thank you for
+exploring this map of the future with
+
+546
+00:09:14,750 --> 00:09:14,760
+exploring this map of the future with
+ 
+
+547
+00:09:14,760 --> 00:09:17,080
+exploring this map of the future with
+us.
+

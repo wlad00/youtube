@@ -17,7 +17,7 @@
 
 | Дата | Ролик | YouTube | Раздел | Субтитры | Структура | Теги |
 |---|---|---|---|---|---|---|
-| 2026-09-04 | [Экономист из Стэнфорда: ИИ сделает следующие 10 лет лучшими или худшими в истории](ai/2026-09-04-ekonomist-iz-stenforda-ii-sdelaet-sleduyushchie-10-let-luchshimi-ili-hudshimi-v-istorii/README.md) | [0kjLltEkW6Q](https://www.youtube.com/watch?v=0kjLltEkW6Q) | `ai` | нет | нет | — |
+| 2026-09-04 | [Экономист из Стэнфорда: ИИ сделает следующие 10 лет лучшими или худшими в истории](ai/2026-09-04-ekonomist-iz-stenforda-ii-sdelaet-sleduyushchie-10-let-luchshimi-ili-hudshimi-v-istorii/README.md) | [0kjLltEkW6Q](https://www.youtube.com/watch?v=0kjLltEkW6Q) | `ai` | да | нет | — |
 | 2026-09-04 | [Как ИИ дойдёт до сверхразума: прогноз, который напугал Кремниевую долину](ai/2026-09-04-kak-ii-doydet-do-sverhrazuma-prognoz-kotoryy-napugal-kremnievuyu-dolinu/README.md) | [yv6a7TpKQy8](https://www.youtube.com/watch?v=yv6a7TpKQy8) | `ai` | да | нет | — |
 | 2026-09-03 | [10 ПРАВИЛ стартапов, которые выросли с нуля до миллиардов](mvp/2026-09-03-10-pravil-startapov-kotorye-vyrosli-s-nulya-do-milliardov/README.md) | [dyFPIst7uxk](https://www.youtube.com/watch?v=dyFPIst7uxk) | `mvp` | да | да | `startup`, `product-strategy`, `customer-development`, `go-to-market`, `content-marketing`, `b2b-sales` |
 | 2026-09-02 | [Как заработать больше с помощью ИИ, когда конкуренция только растет?](mvp/2026-09-02-kak-zarabotat-bolshe-s-pomoshchyu-ii-kogda-konkurentsiya-rastet/README.md) | [W0j6_PF0HsM](https://www.youtube.com/watch?v=W0j6_PF0HsM) | `mvp` | да | нет | — |
@@ -32,7 +32,7 @@
 | 2026-08-26 | [Роби те, на що ти призначений](ivan-pendlishak/2026-08-26-robi-te-na-shcho-ty-pryznachenyy/README.md) | — | `ivan-pendlishak` | да | нет | — |
 | 2026-08-24 | [Вплив порадників](ivan-pendlishak/2026-08-24-vplyv-poradnykiv/README.md) | — | `ivan-pendlishak` | да | нет | — |
 | 2026-08-23 | [Служіння докору і виявлення гріхів](ivan-pendlishak/2026-08-23-sluzhinnya-dokoru-i-vyyavlennya-grihiv/README.md) | — | `ivan-pendlishak` | да | нет | — |
-| 2026-08-22 | [After AGI: What Comes Next for Humanity?](ai/2026-08-22-after-agi-what-comes-next-for-humanity/README.md) | [Y-Jo0jzi0N8](https://www.youtube.com/watch?v=Y-Jo0jzi0N8) | `ai` | нет | нет | — |
+| 2026-08-22 | [After AGI: What Comes Next for Humanity?](ai/2026-08-22-after-agi-what-comes-next-for-humanity/README.md) | [Y-Jo0jzi0N8](https://www.youtube.com/watch?v=Y-Jo0jzi0N8) | `ai` | да | нет | — |
 | 2026-08-22 | [Закон или дух](alexander-bolotnikov/lessons/2026-08-22-zakon-ili-duh/README.md) | — | `alexander-bolotnikov/lessons` | да | нет | — |
 | 2026-08-21 | [Войны, пророчества и последнее время](alexander-bolotnikov/streams/2026-08-21-voiny-prorochestva-i-poslednee-vremya/README.md) | — | `alexander-bolotnikov/streams` | да | нет | — |
 | 2026-08-21 | [Звернення до пасторів](ivan-pendlishak/2026-08-21-zvernennya-do-pastoriv/README.md) | — | `ivan-pendlishak` | да | нет | — |
