@@ -21,7 +21,7 @@
 | Дата | Ролик | YouTube | Раздел | Субтитры | Структура | Теги |
 |---|---|---|---|---|---|---|
 | 2026-09-05 | [Сны-предупреждения от Бога, подготовка Земли к апокалипсису и третий Храм // 14.08.2026 // НПД №27.](maksim-dubovskiy/2026-09-05-sny-preduprezhdeniya-ot-boga-podgotovka-zemli-k-apokalipsisu-i-tretiy-hram-npd-27/README.md) | [3NUhLL6oCPk](https://www.youtube.com/watch?v=3NUhLL6oCPk) | `maksim-dubovskiy` | да | нет | — |
-| 2026-09-04 | [Книга Даниила Предсказала Ход Истории](alexander-bolotnikov/streams/2026-09-04-kniga-daniila-predskazala-hod-istorii/README.md) | [Wnq23XOF9WY](https://www.youtube.com/watch?v=Wnq23XOF9WY) | `alexander-bolotnikov/streams` | нет | нет | — |
+| 2026-09-04 | [Книга Даниила Предсказала Ход Истории](alexander-bolotnikov/streams/2026-09-04-kniga-daniila-predskazala-hod-istorii/README.md) | [Wnq23XOF9WY](https://www.youtube.com/watch?v=Wnq23XOF9WY) | `alexander-bolotnikov/streams` | да | нет | — |
 | 2026-09-04 | [JUST WHAT ARE THEY UNLEASHING NOW!!?](watchman-river/2026-09-04-just-what-are-they-unleashing-now/README.md) | [MlrXHCZHI78](https://www.youtube.com/watch?v=MlrXHCZHI78) | `watchman-river` | да | нет | — |
 | 2026-09-04 | [Экономист из Стэнфорда: ИИ сделает следующие 10 лет лучшими или худшими в истории](ai/2026-09-04-ekonomist-iz-stenforda-ii-sdelaet-sleduyushchie-10-let-luchshimi-ili-hudshimi-v-istorii/README.md) | [0kjLltEkW6Q](https://www.youtube.com/watch?v=0kjLltEkW6Q) | `ai` | да | нет | — |
 | 2026-09-04 | [Как ИИ дойдёт до сверхразума: прогноз, который напугал Кремниевую долину](ai/2026-09-04-kak-ii-doydet-do-sverhrazuma-prognoz-kotoryy-napugal-kremnievuyu-dolinu/README.md) | [yv6a7TpKQy8](https://www.youtube.com/watch?v=yv6a7TpKQy8) | `ai` | да | нет | — |
