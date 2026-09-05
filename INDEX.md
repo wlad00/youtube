@@ -13,12 +13,14 @@
 - [`alexander-bolotnikov/streams`](alexander-bolotnikov/streams/) — стримы Александра Болотникова.
 - [`ivan-pendlishak`](ivan-pendlishak/) — ролики Ивана Пендлишака.
 - [`last-days-news`](last-days-news/) — выпуски Last Days News Стива Тейлора о текущих событиях и библейской эсхатологии.
+- [`maksim-dubovskiy`](maksim-dubovskiy/) — выпуски Максима Дубовского с канала ЕЛЕОН.
 - [`mvp`](mvp/) — тематическая подборка про создание, проверку и монетизацию MVP и небольших интернет-продуктов.
 - [`news`](news/) — новостные и аналитические ролики о текущих событиях.
 - [`watchman-river`](watchman-river/) — выпуски Watchman River Тома Коте о библейских пророчествах и последнем времени.
 
 | Дата | Ролик | YouTube | Раздел | Субтитры | Структура | Теги |
 |---|---|---|---|---|---|---|
+| 2026-09-05 | [Сны-предупреждения от Бога, подготовка Земли к апокалипсису и третий Храм // 14.08.2026 // НПД №27.](maksim-dubovskiy/2026-09-05-sny-preduprezhdeniya-ot-boga-podgotovka-zemli-k-apokalipsisu-i-tretiy-hram-npd-27/README.md) | [3NUhLL6oCPk](https://www.youtube.com/watch?v=3NUhLL6oCPk) | `maksim-dubovskiy` | нет | нет | — |
 | 2026-09-04 | [JUST WHAT ARE THEY UNLEASHING NOW!!?](watchman-river/2026-09-04-just-what-are-they-unleashing-now/README.md) | [MlrXHCZHI78](https://www.youtube.com/watch?v=MlrXHCZHI78) | `watchman-river` | да | нет | — |
 | 2026-09-04 | [Экономист из Стэнфорда: ИИ сделает следующие 10 лет лучшими или худшими в истории](ai/2026-09-04-ekonomist-iz-stenforda-ii-sdelaet-sleduyushchie-10-let-luchshimi-ili-hudshimi-v-istorii/README.md) | [0kjLltEkW6Q](https://www.youtube.com/watch?v=0kjLltEkW6Q) | `ai` | да | нет | — |
 | 2026-09-04 | [Как ИИ дойдёт до сверхразума: прогноз, который напугал Кремниевую долину](ai/2026-09-04-kak-ii-doydet-do-sverhrazuma-prognoz-kotoryy-napugal-kremnievuyu-dolinu/README.md) | [yv6a7TpKQy8](https://www.youtube.com/watch?v=yv6a7TpKQy8) | `ai` | да | нет | — |
@@ -43,6 +45,7 @@
 | 2026-08-21 | [Звернення до пасторів](ivan-pendlishak/2026-08-21-zvernennya-do-pastoriv/README.md) | — | `ivan-pendlishak` | да | нет | — |
 | 2026-08-18 | [Собери СКУЧНЫЙ продукт за 30 дней и зарабатывай](mvp/2026-08-18-sberi-skuchnyy-produkt-za-30-dney-i-zarabatyvay/README.md) | [-d2ztyvdElA](https://www.youtube.com/watch?v=-d2ztyvdElA) | `mvp` | да | да | `micro-saas`, `b2b`, `automation`, `mvp`, `product-validation`, `saas` |
 | 2026-08-14 | [Израиль и Ближний Восток](alexander-bolotnikov/streams/2026-08-14-izrail-i-blizhnii-vostok/README.md) | — | `alexander-bolotnikov/streams` | да | да | `israel`, `middle-east`, `third-temple`, `christian-zionism`, `conditional-prophecy`, `united-states` |
+| 2026-08 | [The Trumpet Call, Signs on the Wall, and the Days of Waiting for the Messiah // Maxim Dubovsky // NPD #26](maksim-dubovskiy/2026-08-the-trumpet-call-signs-on-the-wall-and-the-days-of-waiting-for-the-messiah-npd-26/README.md) | [8xLw6YlHzTQ](https://www.youtube.com/watch?v=8xLw6YlHzTQ) | `maksim-dubovskiy` | нет | нет | — |
 | 2026-08 | [Слава Богові, а не собі](ivan-pendlishak/2026-08-slava-bogovi-a-ne-sobi/README.md) | — | `ivan-pendlishak` | да | нет | — |
 | 2026-07-31 | [Ватикан против Трампа — это конец папской власти](alexander-bolotnikov/streams/2026-07-31-vatikan-protiv-trampa-eto-konets-papskoy-vlasti/README.md) | — | `alexander-bolotnikov/streams` | да | да | `vatican`, `papacy`, `revelation`, `beast`, `historicist-interpretation`, `western-europe` |
 | 2026-07-24 | [The End-Time System Hidden in Plain Sight: AI and the Rise of Mystery Babylon](last-days-news/2026-07-24-the-end-time-system-hidden-in-plain-sight-ai-and-the-rise-of-mystery-babylon/README.md) | — | `last-days-news` | нет | нет | — |
@@ -50,4 +53,5 @@
 | 2026-07-21 | [Kingdom vs. Kingdom: Iran, Daniel 8, and Bible Prophecy](last-days-news/2026-07-21-kingdom-vs-kingdom-iran-daniel-8-and-bible-prophecy/README.md) | — | `last-days-news` | нет | нет | — |
 | 2026-07-17 | [Approaching the End: Daniel’s 70th Week, the Antichrist, & the Dome of the Rock](last-days-news/2026-07-17-approaching-the-end-daniels-70th-week-the-antichrist-and-the-dome-of-the-rock/README.md) | — | `last-days-news` | нет | нет | — |
 | 2026-07-17 | [Как не получить начертание зверя](alexander-bolotnikov/streams/2026-07-17-kak-ne-poluchit-nachertanie-zverya/README.md) | — | `alexander-bolotnikov/streams` | да | да | `mark-of-the-beast`, `666`, `babylon`, `revelation`, `world-economy`, `wealth` |
+| 2026-07 | [Ancient Gods Are Awakening and Prophecies Are Coming True // Maxim Dubovsky // 07/17/2026 // NPD #25.](maksim-dubovskiy/2026-07-ancient-gods-are-awakening-and-prophecies-are-coming-true-npd-25/README.md) | [iTODoYEHLNw](https://www.youtube.com/watch?v=iTODoYEHLNw) | `maksim-dubovskiy` | нет | нет | — |
 | 2026-06-27 | [Что на самом деле говорит об этом Библия](alexander-bolotnikov/streams/2026-06-27-chto-na-samom-dele-govorit-ob-etom-bibliya/README.md) | — | `alexander-bolotnikov/streams` | да | да | `romans`, `grace`, `law`, `sin`, `paul`, `biblical-exegesis` |
