@@ -1,7 +1,7 @@
 ---
 title: "Книга Откровение предсказала крах мировой экономики"
-youtube: ""
-video_id: ""
+youtube: "https://www.youtube.com/watch?v=X5TzKUOeavw"
+video_id: "X5TzKUOeavw"
 date: "2026-08-28"
 collection: "alexander-bolotnikov/streams"
 structure_status: ready
