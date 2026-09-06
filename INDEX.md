@@ -21,6 +21,7 @@
 
 | Дата | Ролик | YouTube | Раздел | Субтитры | Структура | Теги |
 |---|---|---|---|---|---|---|
+| 2026-09-06 | [Твой AI ОТУПЕЛ. Тебе не показалось…](ai/2026-09-06-tvoy-ai-otupel-tebe-ne-pokazalos/README.md) | [TN9ClUG7mFU](https://www.youtube.com/watch?v=TN9ClUG7mFU) | `ai` | нет | нет | — |
 | 2026-09-05 | [Сны-предупреждения от Бога, подготовка Земли к апокалипсису и третий Храм // 14.08.2026 // НПД №27.](maksim-dubovskiy/2026-09-05-sny-preduprezhdeniya-ot-boga-podgotovka-zemli-k-apokalipsisu-i-tretiy-hram-npd-27/README.md) | [3NUhLL6oCPk](https://www.youtube.com/watch?v=3NUhLL6oCPk) | `maksim-dubovskiy` | да | нет | — |
 | 2026-09-04 | [Книга Даниила Предсказала Ход Истории](alexander-bolotnikov/streams/2026-09-04-kniga-daniila-predskazala-hod-istorii/README.md) | [Wnq23XOF9WY](https://www.youtube.com/watch?v=Wnq23XOF9WY) | `alexander-bolotnikov/streams` | да | нет | — |
 | 2026-09-04 | [JUST WHAT ARE THEY UNLEASHING NOW!!?](watchman-river/2026-09-04-just-what-are-they-unleashing-now/README.md) | [MlrXHCZHI78](https://www.youtube.com/watch?v=MlrXHCZHI78) | `watchman-river` | да | нет | — |
