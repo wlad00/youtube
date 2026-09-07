@@ -22,7 +22,7 @@
 
 | Дата | Ролик | YouTube | Раздел | Субтитры | Структура | Теги |
 |---|---|---|---|---|---|---|
-| 2026-09-07 | [48 часов ищу ЗАКАЗ на ВАЙБКОДИНГ на фрилансе БЕЗ ПОРТФОЛИО (вообще без проектов)](vibe-coding/2026-09-07-48-chasov-ishchu-zakaz-na-vaybkoding-na-frilanse-bez-portfolio-voobshche-bez-proektov/README.md) | [dUnkLaNN5aQ](https://www.youtube.com/watch?v=dUnkLaNN5aQ) | `vibe-coding` | нет | нет | — |
+| 2026-09-07 | [48 часов ищу ЗАКАЗ на ВАЙБКОДИНГ на фрилансе БЕЗ ПОРТФОЛИО (вообще без проектов)](vibe-coding/2026-09-07-48-chasov-ishchu-zakaz-na-vaybkoding-na-frilanse-bez-portfolio-voobshche-bez-proektov/README.md) | [dUnkLaNN5aQ](https://www.youtube.com/watch?v=dUnkLaNN5aQ) | `vibe-coding` | да | нет | — |
 | 2026-09-07 | [Программирование без Нейросетей, Cursor остался без OpenAI, Игры снова убивают \| Как Там АйТи #115](ai/2026-09-07-programmirovanie-bez-neyrosetey-cursor-ostalsya-bez-openai-igry-snova-ubivayut-kak-tam-ayti-115/README.md) | [vcefioP8RG4](https://www.youtube.com/watch?v=vcefioP8RG4) | `ai` | да | нет | — |
 | 2026-09-06 | [Твой AI ОТУПЕЛ. Тебе не показалось…](ai/2026-09-06-tvoy-ai-otupel-tebe-ne-pokazalos/README.md) | [TN9ClUG7mFU](https://www.youtube.com/watch?v=TN9ClUG7mFU) | `ai` | да | нет | — |
 | 2026-09-05 | [Сны-предупреждения от Бога, подготовка Земли к апокалипсису и третий Храм // 14.08.2026 // НПД №27.](maksim-dubovskiy/2026-09-05-sny-preduprezhdeniya-ot-boga-podgotovka-zemli-k-apokalipsisu-i-tretiy-hram-npd-27/README.md) | [3NUhLL6oCPk](https://www.youtube.com/watch?v=3NUhLL6oCPk) | `maksim-dubovskiy` | да | нет | — |
