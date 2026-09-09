@@ -15,6 +15,8 @@
 - [`ivan-pendlishak`](ivan-pendlishak/) — ролики Ивана Пендлишака.
 - [`last-days-news`](last-days-news/) — выпуски Last Days News Стива Тейлора о текущих событиях и библейской эсхатологии.
 - [`maksim-dubovskiy`](maksim-dubovskiy/) — выпуски Максима Дубовского с канала ЕЛЕОН.
+- [`margulan-seysembaev`](margulan-seysembaev/) — ролики Маргулана Сейсембаева.
+- [`mikhail-grebenyuk`](mikhail-grebenyuk/) — ролики Михаила Гребенюка.
 - [`mir-vam-shalom`](mir-vam-shalom/) — эфиры и ролики канала «Мир вам - Shalom».
 - [`mvp`](mvp/) — тематическая подборка про создание, проверку и монетизацию MVP и небольших интернет-продуктов.
 - [`news`](news/) — новостные и аналитические ролики о текущих событиях.
@@ -70,3 +72,7 @@
 | 2026-07 | [Умножатся болезни по всей земле и очень многие будут болеть...](mir-vam-shalom/2026-07-umnozhatsya-bolezni-po-vsey-zemle-i-ochen-mnogie-budut-bolet/README.md) | [xLZ9hiD7R74](https://www.youtube.com/watch?v=xLZ9hiD7R74) | `mir-vam-shalom` | да | нет | — |
 | 2026-07 | [Ancient Gods Are Awakening and Prophecies Are Coming True // Maxim Dubovsky // 07/17/2026 // NPD #25.](maksim-dubovskiy/2026-07-ancient-gods-are-awakening-and-prophecies-are-coming-true-npd-25/README.md) | [iTODoYEHLNw](https://www.youtube.com/watch?v=iTODoYEHLNw) | `maksim-dubovskiy` | да | нет | — |
 | 2026-06-27 | [Что на самом деле говорит об этом Библия](alexander-bolotnikov/streams/2026-06-27-chto-na-samom-dele-govorit-ob-etom-bibliya/README.md) | — | `alexander-bolotnikov/streams` | да | да | `romans`, `grace`, `law`, `sin`, `paul`, `biblical-exegesis` |
+| 2026-03-12 | [Миссия Продлевает Жизнь \| Маргулан Сейсембаев](margulan-seysembaev/2026-03-12-missiya-prodlevaet-zhizn/README.md) | [pAFxtpRucYc](https://www.youtube.com/watch?v=pAFxtpRucYc) | `margulan-seysembaev` | нет | нет | — |
+| 2025-12-12 | [Маргулан Сейсембаев: успешные люди приписывают неудачи себе, а победы — обстоятельствам и другим](margulan-seysembaev/2025-12-12-uspeshnye-lyudi-pripisyvayut-neudachi-sebe-a-pobedy-obstoyatelstvam/README.md) | [UdU8P9_RxVc](https://www.youtube.com/watch?v=UdU8P9_RxVc) | `margulan-seysembaev` | нет | нет | — |
+| 2025-11-26 | [Михаил Гребенюк откровенно издевается над бизнесменами](mikhail-grebenyuk/2025-11-26-otkrovenno-izdevaetsya-nad-biznesmenami/README.md) | [umhW9g7cX2Y](https://www.youtube.com/watch?v=umhW9g7cX2Y) | `mikhail-grebenyuk` | нет | нет | — |
+| 2025-08-29 | [Михаил Гребенюк – как быстро заработать деньги](mikhail-grebenyuk/2025-08-29-kak-bystro-zarabotat-dengi/README.md) | [t404zEhGAxE](https://www.youtube.com/watch?v=t404zEhGAxE) | `mikhail-grebenyuk` | нет | нет | — |
