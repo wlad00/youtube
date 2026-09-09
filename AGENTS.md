@@ -96,19 +96,29 @@ tags: []
 
 `yt-dlp` установлен через winget, но его почти никогда нет в `PATH` сессии. Не проверять `yt-dlp --version`, а сразу запускать по явному пути из корня репозитория.
 
+Маска `--sub-langs "*-orig"` в версии yt-dlp 2026.07.04 сломана — падает с `Wrong regex for subtitlelangs: *-orig` (проверено 2026-09-09). Поэтому сначала узнать код языка оригинала, потом подставить его явно вместо маски:
+
+```powershell
+& "$env:LOCALAPPDATA\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe\yt-dlp.exe" --list-subs "<ссылка>"
+```
+
+В выводе найти строку вида `ru-orig  Russian (Original)` — это и есть код языка (`<lang>-orig`) для команды ниже.
+
 PowerShell:
 
 ```powershell
-& "$env:LOCALAPPDATA\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe\yt-dlp.exe" --skip-download --write-auto-subs --write-subs --sub-langs "*-orig" --convert-subs srt --ffmpeg-location "$env:LOCALAPPDATA\Microsoft\WinGet\Packages\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-N-125875-g5d4d3bdc61-win64-gpl\bin" -o "<папка ролика>/subtitles.%(ext)s" "<ссылка>"
+& "$env:LOCALAPPDATA\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe\yt-dlp.exe" --skip-download --write-auto-subs --write-subs --sub-langs "<lang>-orig" --convert-subs srt --ffmpeg-location "$env:LOCALAPPDATA\Microsoft\WinGet\Packages\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-N-125875-g5d4d3bdc61-win64-gpl\bin" -o "<папка ролика>/subtitles.%(ext)s" "<ссылка>"
 ```
 
 Bash — тот же бинарник, но путь в POSIX-виде и без `&`:
 
 ```bash
-"$LOCALAPPDATA/Microsoft/WinGet/Packages/yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe/yt-dlp.exe" --skip-download --write-auto-subs --write-subs --sub-langs "*-orig" --convert-subs srt --ffmpeg-location "$LOCALAPPDATA/Microsoft/WinGet/Packages/yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe/ffmpeg-N-125875-g5d4d3bdc61-win64-gpl/bin" -o "<папка ролика>/subtitles.%(ext)s" "<ссылка>"
+"$LOCALAPPDATA/Microsoft/WinGet/Packages/yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe/yt-dlp.exe" --skip-download --write-auto-subs --write-subs --sub-langs "<lang>-orig" --convert-subs srt --ffmpeg-location "$LOCALAPPDATA/Microsoft/WinGet/Packages/yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe/ffmpeg-N-125875-g5d4d3bdc61-win64-gpl/bin" -o "<папка ролика>/subtitles.%(ext)s" "<ссылка>"
 ```
 
 `--ffmpeg-location` обязателен: без него `--convert-subs srt` падает с `ffmpeg not found`.
+
+Если маску всё же попробовать по старой памяти и она снова заработает в новой версии yt-dlp — можно вернуться к `"*-orig"` и убрать шаг с `--list-subs`; до тех пор явный код языка надёжнее.
 
 ### Переименование после скачивания
 
