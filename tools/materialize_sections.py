@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Materialize semantic video sections declared in a video's README.md.
+"""Materialize semantic video sections or automatic transcript chunks.
 
 The agent defines semantic boundaries and enriched descriptions in README.md.
 This script only slices the original subtitles into full-text section files.
@@ -8,6 +8,9 @@ It intentionally does not deduplicate, summarize, or rewrite subtitle text.
 With --transcript it instead prints a reading copy of the subtitles: YouTube
 rolling-caption repeats collapsed, timestamps kept, so semantic boundaries can
 be chosen without loading the 4-5x larger raw SRT.
+
+With --chunks it writes the same cleaned transcript to bounded, deterministic
+chunks that require no semantic map in README.md.
 """
 
 from __future__ import annotations
@@ -33,6 +36,8 @@ SRT_TIME_RE = re.compile(
     r"^\s*((?:\d+:)?\d{1,2}:\d{2}[,.]\d{3})\s+-->\s+"
     r"((?:\d+:)?\d{1,2}:\d{2}[,.]\d{3})"
 )
+DEFAULT_WINDOW_SECONDS = 30
+DEFAULT_CHUNK_CHARS = 6000
 
 
 @dataclass(frozen=True)
@@ -49,6 +54,23 @@ class Cue:
     start_ms: int
     end_ms: int
     text: str
+
+
+@dataclass(frozen=True)
+class TranscriptBlock:
+    start_ms: int
+    text: str
+
+    def render(self) -> str:
+        return f"[{format_timecode(self.start_ms)}] {self.text}"
+
+
+@dataclass(frozen=True)
+class TranscriptChunk:
+    number: int
+    start_ms: int
+    end_ms: int
+    body: str
 
 
 def parse_timecode(value: str) -> int:
@@ -244,18 +266,135 @@ def dedupe_cues(cues: list[Cue]) -> list[tuple[int, str]]:
     return result
 
 
-def render_transcript(cues: list[Cue], window_ms: int) -> str:
-    chunks: list[tuple[int, list[str]]] = []
+def build_transcript_blocks(cues: list[Cue], window_ms: int) -> list[TranscriptBlock]:
+    if window_ms <= 0:
+        raise ValueError("Окно таймкодов должно быть больше нуля")
+
+    grouped: list[tuple[int, list[str]]] = []
 
     for start_ms, line in dedupe_cues(cues):
-        if chunks and start_ms - chunks[-1][0] < window_ms:
-            chunks[-1][1].append(line)
+        if grouped and start_ms - grouped[-1][0] < window_ms:
+            grouped[-1][1].append(line)
         else:
-            chunks.append((start_ms, [line]))
+            grouped.append((start_ms, [line]))
 
+    return [
+        TranscriptBlock(start_ms, " ".join(lines))
+        for start_ms, lines in grouped
+    ]
+
+
+def render_transcript(cues: list[Cue], window_ms: int) -> str:
     return "\n\n".join(
-        f"[{format_timecode(start_ms)}] {' '.join(lines)}" for start_ms, lines in chunks
+        block.render() for block in build_transcript_blocks(cues, window_ms)
     )
+
+
+def chunk_transcript(
+    blocks: list[TranscriptBlock], video_end_ms: int, max_chars: int
+) -> list[TranscriptChunk]:
+    if max_chars <= 0:
+        raise ValueError("Лимит чанка должен быть больше нуля")
+    if not blocks:
+        raise ValueError("Очищенная расшифровка пуста")
+
+    block_texts = [block.render() for block in blocks]
+    for block_text in block_texts:
+        if len(block_text) > max_chars:
+            raise ValueError(
+                "Один временной блок длиннее лимита чанка. "
+                "Уменьшите --window или увеличьте --max-chars."
+            )
+
+    groups: list[tuple[int, list[str]]] = []
+    current_start = blocks[0].start_ms
+    current: list[str] = []
+    current_length = 0
+
+    for block, block_text in zip(blocks, block_texts):
+        separator_length = 2 if current else 0
+        if current and current_length + separator_length + len(block_text) > max_chars:
+            groups.append((current_start, current))
+            current_start = block.start_ms
+            current = []
+            current_length = 0
+            separator_length = 0
+
+        current.append(block_text)
+        current_length += separator_length + len(block_text)
+
+    groups.append((current_start, current))
+
+    chunks: list[TranscriptChunk] = []
+    for index, (content_start_ms, body_parts) in enumerate(groups):
+        start_ms = 0 if index == 0 else content_start_ms
+        end_ms = groups[index + 1][0] if index + 1 < len(groups) else video_end_ms
+        chunks.append(
+            TranscriptChunk(
+                number=index + 1,
+                start_ms=start_ms,
+                end_ms=end_ms,
+                body="\n\n".join(body_parts),
+            )
+        )
+
+    return chunks
+
+
+def materialize_chunks(
+    video_dir: Path,
+    max_chars: int = DEFAULT_CHUNK_CHARS,
+    window_ms: int = DEFAULT_WINDOW_SECONDS * 1000,
+) -> list[Path]:
+    subtitles_path = find_subtitles(video_dir)
+    cues = parse_srt(subtitles_path)
+    blocks = build_transcript_blocks(cues, window_ms)
+    video_end_ms = max(cue.end_ms for cue in cues)
+    chunks = chunk_transcript(blocks, video_end_ms, max_chars)
+
+    chunks_dir = video_dir / "chunks"
+    chunks_dir.mkdir(exist_ok=True)
+    for stale in chunks_dir.glob("*.md"):
+        if stale.stem.isdigit():
+            stale.unlink()
+
+    width = max(2, len(str(len(chunks))))
+    written: list[Path] = []
+    rows: list[str] = []
+    for chunk in chunks:
+        filename = f"{chunk.number:0{width}d}.md"
+        out = chunks_dir / filename
+        content = (
+            f"# Автоматический чанк {chunk.number}\n\n"
+            f"Источник: [`../{subtitles_path.name}`](../{subtitles_path.name})  \n"
+            f"Интервал: `{format_timecode(chunk.start_ms)} --> "
+            f"{format_timecode(chunk.end_ms)}`  \n"
+            f"Очищенный текст: `{len(chunk.body)}` символов\n\n"
+            f"---\n\n{chunk.body}\n"
+        )
+        out.write_text(content, encoding="utf-8")
+        written.append(out)
+        rows.append(
+            f"| {chunk.number} | "
+            f"`{format_timecode(chunk.start_ms)} --> {format_timecode(chunk.end_ms)}` | "
+            f"{len(chunk.body)} | [{filename}]({filename}) |"
+        )
+
+    index = chunks_dir / "README.md"
+    index_content = (
+        "# Автоматические чанки\n\n"
+        f"Источник: [`../{subtitles_path.name}`](../{subtitles_path.name})  \n"
+        f"Покрытие: `{format_timecode(chunks[0].start_ms)} --> "
+        f"{format_timecode(chunks[-1].end_ms)}`  \n"
+        f"Количество: **{len(chunks)}**  \n"
+        f"Лимит очищенного текста в чанке: **{max_chars} символов**\n\n"
+        "| # | Интервал | Символы | Файл |\n"
+        "|---:|---|---:|---|\n"
+        + "\n".join(rows)
+        + "\n"
+    )
+    index.write_text(index_content, encoding="utf-8")
+    return [index, *written]
 
 
 def materialize(video_dir: Path) -> list[Path]:
@@ -320,10 +459,16 @@ def main() -> int:
         type=Path,
         help="Папка ролика, содержащая README.md и subtitles.*.srt",
     )
-    parser.add_argument(
+    mode = parser.add_mutually_exclusive_group()
+    mode.add_argument(
         "--transcript",
         action="store_true",
         help="Не создавать разделы, а выдать очищенную расшифровку для чтения",
+    )
+    mode.add_argument(
+        "--chunks",
+        action="store_true",
+        help="Создать автоматические chunks/*.md из очищенной расшифровки",
     )
     parser.add_argument(
         "--out",
@@ -334,8 +479,14 @@ def main() -> int:
     parser.add_argument(
         "--window",
         type=int,
-        default=30,
-        help="Секунд текста под одной меткой времени в --transcript (по умолчанию 30)",
+        default=DEFAULT_WINDOW_SECONDS,
+        help="Секунд текста под одной меткой времени (по умолчанию 30)",
+    )
+    parser.add_argument(
+        "--max-chars",
+        type=int,
+        default=DEFAULT_CHUNK_CHARS,
+        help="Максимум символов очищенного текста в одном чанке (по умолчанию 6000)",
     )
     args = parser.parse_args()
 
@@ -354,6 +505,22 @@ def main() -> int:
             print(f"Расшифровка: {args.out} ({len(transcript)} символов)")
         else:
             print(transcript)
+        return 0
+
+    if args.chunks:
+        try:
+            written = materialize_chunks(
+                video_dir,
+                max_chars=args.max_chars,
+                window_ms=args.window * 1000,
+            )
+        except (OSError, ValueError) as exc:
+            print(f"Ошибка: {exc}", file=sys.stderr)
+            return 1
+
+        print(f"Создан индекс и чанки: {len(written) - 1}")
+        for path in written:
+            print(path.relative_to(video_dir))
         return 0
 
     try:
