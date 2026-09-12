@@ -219,16 +219,18 @@ review:
 PowerShell:
 
 ```powershell
-& "$env:LOCALAPPDATA\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe\yt-dlp.exe" --skip-download --write-auto-subs --write-subs --sub-langs "<lang>-orig" --convert-subs srt --ffmpeg-location "$env:LOCALAPPDATA\Microsoft\WinGet\Packages\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-N-125875-g5d4d3bdc61-win64-gpl\bin" -o "<папка ролика>/subtitles.%(ext)s" "<ссылка>"
+& "$env:LOCALAPPDATA\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe\yt-dlp.exe" --skip-download --write-auto-subs --write-subs --sub-langs "<lang>-orig" --convert-subs srt --no-progress --ffmpeg-location "$env:LOCALAPPDATA\Microsoft\WinGet\Packages\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-N-125875-g5d4d3bdc61-win64-gpl\bin" -o "<папка ролика>/subtitles.%(ext)s" "<ссылка>"
 ```
 
 Bash — тот же бинарник, но путь в POSIX-виде и без `&`:
 
 ```bash
-"$LOCALAPPDATA/Microsoft/WinGet/Packages/yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe/yt-dlp.exe" --skip-download --write-auto-subs --write-subs --sub-langs "<lang>-orig" --convert-subs srt --ffmpeg-location "$LOCALAPPDATA/Microsoft/WinGet/Packages/yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe/ffmpeg-N-125875-g5d4d3bdc61-win64-gpl/bin" -o "<папка ролика>/subtitles.%(ext)s" "<ссылка>"
+"$LOCALAPPDATA/Microsoft/WinGet/Packages/yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe/yt-dlp.exe" --skip-download --write-auto-subs --write-subs --sub-langs "<lang>-orig" --convert-subs srt --no-progress --ffmpeg-location "$LOCALAPPDATA/Microsoft/WinGet/Packages/yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe/ffmpeg-N-125875-g5d4d3bdc61-win64-gpl/bin" -o "<папка ролика>/subtitles.%(ext)s" "<ссылка>"
 ```
 
 `--ffmpeg-location` обязателен: без него `--convert-subs srt` падает с `ffmpeg not found`.
+
+`--no-progress` убирает полосу загрузки: вместо десятка строк с процентами и скоростью остаётся одна строка о завершении. На одном ролике это мелочь, на пачке из десятка — заметная доля вывода, поэтому ключ не убирать.
 
 Если маску всё же попробовать по старой памяти и она снова заработает в новой версии yt-dlp — можно вернуться к `"*-orig"` и убрать шаг с `--list-subs`; до тех пор явный код языка надёжнее.
 
