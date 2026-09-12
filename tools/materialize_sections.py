@@ -4,6 +4,10 @@
 The agent defines semantic boundaries and enriched descriptions in README.md.
 This script only slices the original subtitles into full-text section files.
 It intentionally does not deduplicate, summarize, or rewrite subtitle text.
+
+With --transcript it instead prints a reading copy of the subtitles: YouTube
+rolling-caption repeats collapsed, timestamps kept, so semantic boundaries can
+be chosen without loading the 4-5x larger raw SRT.
 """
 
 from __future__ import annotations
@@ -215,6 +219,45 @@ def section_text(cues: list[Cue], start_ms: int, end_ms: int) -> str:
     return "\n\n".join(selected).strip()
 
 
+def dedupe_cues(cues: list[Cue]) -> list[tuple[int, str]]:
+    # YouTube rolling captions repeat each line across consecutive cues:
+    # [A, B], [B, C], [C, D]. Drop the leading lines that already ended the
+    # emitted text, keeping the first timestamp at which each line appeared.
+    emitted: list[str] = []
+    result: list[tuple[int, str]] = []
+
+    for cue in cues:
+        lines = [line.strip() for line in cue.text.splitlines() if line.strip()]
+        if not lines:
+            continue
+
+        overlap = 0
+        for size in range(min(len(lines), len(emitted)), 0, -1):
+            if emitted[-size:] == lines[:size]:
+                overlap = size
+                break
+
+        for line in lines[overlap:]:
+            emitted.append(line)
+            result.append((cue.start_ms, line))
+
+    return result
+
+
+def render_transcript(cues: list[Cue], window_ms: int) -> str:
+    chunks: list[tuple[int, list[str]]] = []
+
+    for start_ms, line in dedupe_cues(cues):
+        if chunks and start_ms - chunks[-1][0] < window_ms:
+            chunks[-1][1].append(line)
+        else:
+            chunks.append((start_ms, [line]))
+
+    return "\n\n".join(
+        f"[{format_timecode(start_ms)}] {' '.join(lines)}" for start_ms, lines in chunks
+    )
+
+
 def materialize(video_dir: Path) -> list[Path]:
     readme_path = video_dir / "README.md"
     if not readme_path.is_file():
@@ -277,9 +320,42 @@ def main() -> int:
         type=Path,
         help="Папка ролика, содержащая README.md и subtitles.*.srt",
     )
+    parser.add_argument(
+        "--transcript",
+        action="store_true",
+        help="Не создавать разделы, а выдать очищенную расшифровку для чтения",
+    )
+    parser.add_argument(
+        "--out",
+        type=Path,
+        help="Файл для --transcript (по умолчанию stdout; в Windows-консоли "
+        "кириллица в stdout может испортиться, лучше указывать файл)",
+    )
+    parser.add_argument(
+        "--window",
+        type=int,
+        default=30,
+        help="Секунд текста под одной меткой времени в --transcript (по умолчанию 30)",
+    )
     args = parser.parse_args()
 
     video_dir = args.video_dir.resolve()
+
+    if args.transcript:
+        try:
+            cues = parse_srt(find_subtitles(video_dir))
+            transcript = render_transcript(cues, args.window * 1000)
+        except (OSError, ValueError) as exc:
+            print(f"Ошибка: {exc}", file=sys.stderr)
+            return 1
+
+        if args.out:
+            args.out.write_text(transcript + "\n", encoding="utf-8")
+            print(f"Расшифровка: {args.out} ({len(transcript)} символов)")
+        else:
+            print(transcript)
+        return 0
+
     try:
         written = materialize(video_dir)
     except (OSError, ValueError) as exc:
