@@ -26,6 +26,7 @@
 
 | Дата | Ролик | YouTube | Раздел | Субтитры | Структура | Теги |
 |---|---|---|---|---|---|---|
+| 2026-09-18 | [Плагины и скиллы могут ухудшать ИИ? Новые правила работы с сильными моделями](ai/2026-09-18-plaginy-i-skilly-mogut-uhudshat-ii-novye-pravila-raboty-s-silnymi-modelyami/README.md) | [HKKVUszGjcI](https://www.youtube.com/watch?v=HKKVUszGjcI) | `ai` | нет | нет | — |
 | 2026-09-11 | [До чого приводить впертість - Іван Пендлишак](bible/ivan-pendlishak/2026-09-11-do-chogo-pryvodyt-vpertist/README.md) | [rf0GAxbV4Sw](https://www.youtube.com/watch?v=rf0GAxbV4Sw) | `bible/ivan-pendlishak` | да | нет | — |
 | 2026-09-11 | [THIS COULD RESHAPE THE ENTIRE REGION—AGAIN!](bible/watchman-river/2026-09-11-this-could-reshape-the-entire-region-again/README.md) | [1OszAnmJTvQ](https://www.youtube.com/watch?v=1OszAnmJTvQ) | `bible/watchman-river` | да | нет | — |
 | 2026-09-10 | [Переможець успадкує все - Іван Пендлишак](bible/ivan-pendlishak/2026-09-10-peremozhets-uspadkuie-vse/README.md) | [uyhhFSML9Ds](https://www.youtube.com/watch?v=uyhhFSML9Ds) | `bible/ivan-pendlishak` | да | нет | — |
