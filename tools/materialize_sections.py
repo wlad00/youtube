@@ -8,6 +8,7 @@ still supported.
 Section files use the same rolling-caption deduplication as --transcript.
 With --transcript the script writes a timestamped cleaned reading copy.
 With --chunks it can still create optional deterministic fallback chunks.
+With --partial it materializes a confirmed prefix whose last section ends at an explicit timecode.
 """
 
 from __future__ import annotations
@@ -544,7 +545,7 @@ def materialize_chunks(
     return [index, *written]
 
 
-def materialize(video_dir: Path) -> list[Path]:
+def materialize(video_dir: Path, partial: bool = False) -> list[Path]:
     readme_path = video_dir / "README.md"
     if not readme_path.is_file():
         raise ValueError(f"Не найден README.md: {readme_path}")
@@ -562,11 +563,16 @@ def materialize(video_dir: Path) -> list[Path]:
 
     video_end_ms = max(cue.end_ms for cue in cues)
     last = sections[-1]
+    if partial and last.end_ms is None:
+        raise ValueError(
+            "В режиме --partial последний подтверждённый раздел должен "
+            "заканчиваться явным таймкодом, не END."
+        )
     effective_last_end = video_end_ms if last.end_ms is None else last.end_ms
-    if effective_last_end < max(cue.start_ms for cue in cues):
+    if not partial and effective_last_end < max(cue.start_ms for cue in cues):
         raise ValueError(
             "Последний раздел заканчивается раньше субтитров. "
-            "Используйте END или укажите конец ролика."
+            "Используйте END или запустите с --partial для подтверждённого префикса."
         )
 
     sections_dir = video_dir / "sections"
@@ -633,6 +639,11 @@ def main() -> int:
         help="Создать автоматические chunks/*.md из очищенной расшифровки",
     )
     parser.add_argument(
+        "--partial",
+        action="store_true",
+        help="Материализовать подтверждённый префикс sections.yaml, не требуя покрытия всего ролика",
+    )
+    parser.add_argument(
         "--out",
         type=Path,
         help="Файл для --transcript (по умолчанию stdout; в Windows-консоли "
@@ -653,6 +664,10 @@ def main() -> int:
     args = parser.parse_args()
 
     video_dir = args.video_dir.resolve()
+
+    if args.partial and (args.transcript or args.chunks):
+        print("Ошибка: --partial нельзя сочетать с --transcript или --chunks", file=sys.stderr)
+        return 1
 
     if args.transcript:
         try:
@@ -686,12 +701,13 @@ def main() -> int:
         return 0
 
     try:
-        written = materialize(video_dir)
+        written = materialize(video_dir, partial=args.partial)
     except (OSError, ValueError) as exc:
         print(f"Ошибка: {exc}", file=sys.stderr)
         return 1
 
-    print(f"Создано разделов: {len(written)}")
+    prefix = "Создано подтверждённых разделов (частичная карта)" if args.partial else "Создано разделов"
+    print(f"{prefix}: {len(written)}")
     for path in written:
         print(path.relative_to(video_dir))
     return 0
