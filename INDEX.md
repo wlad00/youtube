@@ -26,7 +26,7 @@
 
 | Дата | Ролик | YouTube | Раздел | Субтитры | Структура | Теги |
 |---|---|---|---|---|---|---|
-| 2026-09-18 | [13 УРОК. БИБЛИЯ ЯСНО ПОКАЗЫВАЕТ: ИИСУС — БОГ ИЛИ СЫН БОГА? 3 ГЛАВНЫХ ТЕКСТА!](bible/alexander-bolotnikov/lessons/2026-09-18-13-urok-iisus-bog-ili-syn-boga/README.md) | [8BCAF8duWlQ](https://www.youtube.com/watch?v=8BCAF8duWlQ) | `bible/alexander-bolotnikov/lessons` | нет | нет | — |
+| 2026-09-18 | [13 УРОК. БИБЛИЯ ЯСНО ПОКАЗЫВАЕТ: ИИСУС — БОГ ИЛИ СЫН БОГА? 3 ГЛАВНЫХ ТЕКСТА!](bible/alexander-bolotnikov/lessons/2026-09-18-13-urok-iisus-bog-ili-syn-boga/README.md) | [8BCAF8duWlQ](https://www.youtube.com/watch?v=8BCAF8duWlQ) | `bible/alexander-bolotnikov/lessons` | да | нет | — |
 | 2026-09-18 | [Плагины и скиллы могут ухудшать ИИ? Новые правила работы с сильными моделями](ai/2026-09-18-plaginy-i-skilly-mogut-uhudshat-ii-novye-pravila-raboty-s-silnymi-modelyami/README.md) | [HKKVUszGjcI](https://www.youtube.com/watch?v=HKKVUszGjcI) | `ai` | да | нет | — |
 | 2026-09-12 | [12 урок. 3 ПРИЗНАКА ЛЖЕУЧЕНИЯ, КОТОРЫЕ ДАЕТ БИБЛИЯ](bible/alexander-bolotnikov/lessons/2026-09-12-12-urok-3-priznaka-lzheucheniya/README.md) | [mpfzkcUtXlY](https://www.youtube.com/watch?v=mpfzkcUtXlY) | `bible/alexander-bolotnikov/lessons` | да | нет | — |
 | 2026-09-11 | [До чого приводить впертість - Іван Пендлишак](bible/ivan-pendlishak/2026-09-11-do-chogo-pryvodyt-vpertist/README.md) | [rf0GAxbV4Sw](https://www.youtube.com/watch?v=rf0GAxbV4Sw) | `bible/ivan-pendlishak` | да | нет | — |
