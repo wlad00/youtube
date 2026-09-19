@@ -5,8 +5,12 @@ The primary semantic map is sections.yaml: the agent chooses only boundaries
 and short titles. For older videos without YAML, the managed README.md block is
 still supported.
 
-Section files use the same rolling-caption deduplication as --transcript.
-With --transcript the script writes a timestamped cleaned reading copy.
+Section and chunk text is taken from transcript.cleaned.md when present: each
+"[HH:MM:SS] text" line is assigned whole to the interval its own timecode
+falls into. Only older videos without transcript.cleaned.md fall back to the
+same rolling-caption deduplication as --transcript, reading subtitles.*.srt.
+With --transcript the script always reads subtitles.*.srt and writes a
+timestamped cleaned reading copy.
 With --chunks it can still create optional deterministic fallback chunks.
 With --partial it materializes a confirmed prefix whose last section ends at an explicit timecode.
 """
@@ -35,6 +39,7 @@ SRT_TIME_RE = re.compile(
     r"^\s*((?:\d+:)?\d{1,2}:\d{2}[,.]\d{3})\s+-->\s+"
     r"((?:\d+:)?\d{1,2}:\d{2}[,.]\d{3})"
 )
+TRANSCRIPT_LINE_RE = re.compile(r"^\[(\d+:\d{2}:\d{2})\]\s?(.*)$")
 DEFAULT_WINDOW_SECONDS = 30
 DEFAULT_CHUNK_CHARS = 6000
 
@@ -340,6 +345,37 @@ def parse_srt(path: Path) -> list[Cue]:
     return cues
 
 
+def parse_transcript_cleaned(path: Path) -> list[TranscriptBlock]:
+    # transcript.cleaned.md lines look like "[HH:MM:SS] text..."; one line is
+    # one already-deduplicated block. Blank lines only separate blocks.
+    raw = path.read_text(encoding="utf-8")
+    blocks: list[TranscriptBlock] = []
+    for raw_line in raw.splitlines():
+        line = raw_line.strip()
+        if not line:
+            continue
+        match = TRANSCRIPT_LINE_RE.match(line)
+        if not match:
+            raise ValueError(f"Некорректная строка transcript.cleaned.md: {line!r}")
+        start_ms = parse_timecode(match.group(1))
+        blocks.append(TranscriptBlock(start_ms, match.group(2)))
+
+    if not blocks:
+        raise ValueError(f"Не удалось прочитать transcript.cleaned.md: {path}")
+    return blocks
+
+
+def section_text_from_blocks(
+    blocks: list[TranscriptBlock], start_ms: int, end_ms: int
+) -> str:
+    # Whole transcript.cleaned.md lines are assigned to exactly one section
+    # by their own start timecode.
+    selected = [
+        block.render() for block in blocks if start_ms <= block.start_ms < end_ms
+    ]
+    return "\n\n".join(selected)
+
+
 def find_subtitles(video_dir: Path) -> Path:
     candidates = sorted(video_dir.glob("subtitles.*.srt"))
     if len(candidates) != 1:
@@ -494,10 +530,17 @@ def materialize_chunks(
     max_chars: int = DEFAULT_CHUNK_CHARS,
     window_ms: int = DEFAULT_WINDOW_SECONDS * 1000,
 ) -> list[Path]:
-    subtitles_path = find_subtitles(video_dir)
-    cues = parse_srt(subtitles_path)
-    blocks = build_transcript_blocks(cues, window_ms)
-    video_end_ms = max(cue.end_ms for cue in cues)
+    transcript_path = video_dir / "transcript.cleaned.md"
+    if transcript_path.is_file():
+        blocks = parse_transcript_cleaned(transcript_path)
+        video_end_ms = blocks[-1].start_ms + 1
+        source_name = "transcript.cleaned.md"
+    else:
+        subtitles_path = find_subtitles(video_dir)
+        cues = parse_srt(subtitles_path)
+        blocks = build_transcript_blocks(cues, window_ms)
+        video_end_ms = max(cue.end_ms for cue in cues)
+        source_name = subtitles_path.name
     chunks = chunk_transcript(blocks, video_end_ms, max_chars)
 
     chunks_dir = video_dir / "chunks"
@@ -514,7 +557,7 @@ def materialize_chunks(
         out = chunks_dir / filename
         content = (
             f"# Автоматический чанк {chunk.number}\n\n"
-            f"Источник: [`../{subtitles_path.name}`](../{subtitles_path.name})  \n"
+            f"Источник: [`../{source_name}`](../{source_name})  \n"
             f"Интервал: `{format_timecode(chunk.start_ms)} --> "
             f"{format_timecode(chunk.end_ms)}`  \n"
             f"Очищенный текст: `{len(chunk.body)}` символов\n\n"
@@ -531,7 +574,7 @@ def materialize_chunks(
     index = chunks_dir / "README.md"
     index_content = (
         "# Автоматические чанки\n\n"
-        f"Источник: [`../{subtitles_path.name}`](../{subtitles_path.name})  \n"
+        f"Источник: [`../{source_name}`](../{source_name})  \n"
         f"Покрытие: `{format_timecode(chunks[0].start_ms)} --> "
         f"{format_timecode(chunks[-1].end_ms)}`  \n"
         f"Количество: **{len(chunks)}**  \n"
@@ -550,7 +593,6 @@ def materialize(video_dir: Path, partial: bool = False) -> list[Path]:
     if not readme_path.is_file():
         raise ValueError(f"Не найден README.md: {readme_path}")
 
-    subtitles_path = find_subtitles(video_dir)
     readme = readme_path.read_text(encoding="utf-8")
     sections_yaml_path = video_dir / "sections.yaml"
     sections_from_yaml = sections_yaml_path.is_file()
@@ -559,9 +601,23 @@ def materialize(video_dir: Path, partial: bool = False) -> list[Path]:
         if sections_from_yaml
         else parse_sections(readme)
     )
-    cues = parse_srt(subtitles_path)
 
-    video_end_ms = max(cue.end_ms for cue in cues)
+    transcript_path = video_dir / "transcript.cleaned.md"
+    use_cleaned = transcript_path.is_file()
+    if use_cleaned:
+        blocks = parse_transcript_cleaned(transcript_path)
+        cues: list[Cue] = []
+        video_end_ms = blocks[-1].start_ms + 1
+        max_line_start_ms = blocks[-1].start_ms
+        source_name = "transcript.cleaned.md"
+    else:
+        subtitles_path = find_subtitles(video_dir)
+        cues = parse_srt(subtitles_path)
+        blocks = []
+        video_end_ms = max(cue.end_ms for cue in cues)
+        max_line_start_ms = max(cue.start_ms for cue in cues)
+        source_name = subtitles_path.name
+
     last = sections[-1]
     if partial and last.end_ms is None:
         raise ValueError(
@@ -569,7 +625,7 @@ def materialize(video_dir: Path, partial: bool = False) -> list[Path]:
             "заканчиваться явным таймкодом, не END."
         )
     effective_last_end = video_end_ms if last.end_ms is None else last.end_ms
-    if not partial and effective_last_end < max(cue.start_ms for cue in cues):
+    if not partial and effective_last_end < max_line_start_ms:
         raise ValueError(
             "Последний раздел заканчивается раньше субтитров. "
             "Используйте END или запустите с --partial для подтверждённого префикса."
@@ -582,16 +638,14 @@ def materialize(video_dir: Path, partial: bool = False) -> list[Path]:
     for stale in sections_dir.glob("[0-9][0-9].md"):
         stale.unlink()
 
-    source_name = (
-        "transcript.cleaned.md"
-        if (video_dir / "transcript.cleaned.md").is_file()
-        else subtitles_path.name
-    )
-
     written: list[Path] = []
     for section in sections:
         end_ms = video_end_ms if section.end_ms is None else section.end_ms
-        body = section_text_cleaned(cues, section.start_ms, end_ms)
+        body = (
+            section_text_from_blocks(blocks, section.start_ms, end_ms)
+            if use_cleaned
+            else section_text_cleaned(cues, section.start_ms, end_ms)
+        )
         if not body:
             raise ValueError(f"Раздел {section.number} не содержит субтитров")
 

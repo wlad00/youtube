@@ -9,6 +9,7 @@ from tools.materialize_sections import (
     materialize,
     materialize_chunks,
     parse_sections_yaml,
+    parse_transcript_cleaned,
     render_transcript,
 )
 
@@ -125,6 +126,152 @@ class AutomaticChunksTest(unittest.TestCase):
             self.assertIn("### 1. Первая мысль", updated_readme)
             self.assertIn("### 2. Вторая мысль", updated_readme)
             self.assertIn("review:\n  state: open", updated_readme)
+
+
+    def test_materialize_sections_uses_cleaned_transcript_without_srt(self):
+        with tempfile.TemporaryDirectory() as temp:
+            video_dir = Path(temp)
+            readme = "---\nreview:\n  state: open\n---\n\n# Ролик\n"
+            (video_dir / "README.md").write_text(readme, encoding="utf-8")
+            (video_dir / "transcript.cleaned.md").write_text(
+                "[00:00:00] Первая строка\n\n"
+                "[00:00:05] Вторая строка\n\n"
+                "[00:00:10] Третья строка\n",
+                encoding="utf-8",
+            )
+            sections_yaml = (
+                'sections:\n'
+                '  - title: "Начало"\n'
+                '    start: "00:00:00"\n'
+                '    end: "00:00:05"\n'
+                '  - title: "Продолжение"\n'
+                '    start: "00:00:05"\n'
+                '    end: END\n'
+            )
+            (video_dir / "sections.yaml").write_text(sections_yaml, encoding="utf-8")
+
+            # No subtitles.*.srt anywhere in video_dir: find_subtitles() would
+            # raise if the script tried to fall back to it.
+            written = materialize(video_dir)
+
+            self.assertEqual([path.name for path in written], ["01.md", "02.md"])
+            first = (video_dir / "sections" / "01.md").read_text(encoding="utf-8")
+            second = (video_dir / "sections" / "02.md").read_text(encoding="utf-8")
+            self.assertIn("[00:00:00] Первая строка", first)
+            self.assertNotIn("Вторая строка", first)
+            self.assertIn("[00:00:05] Вторая строка", second)
+            self.assertIn("[00:00:10] Третья строка", second)
+            self.assertIn("Источник: `../transcript.cleaned.md`", first)
+
+    def test_materialize_chunks_uses_cleaned_transcript_without_srt(self):
+        with tempfile.TemporaryDirectory() as temp:
+            video_dir = Path(temp)
+            (video_dir / "transcript.cleaned.md").write_text(
+                "[00:00:00] Раз\n\n"
+                "[00:00:01] Два\n\n"
+                "[00:00:02] Три\n",
+                encoding="utf-8",
+            )
+
+            materialize_chunks(video_dir, max_chars=6000, window_ms=30_000)
+
+            content = (video_dir / "chunks" / "01.md").read_text(encoding="utf-8")
+            self.assertIn("[00:00:00] Раз", content)
+            self.assertIn("[00:00:01] Два", content)
+            self.assertIn("[00:00:02] Три", content)
+            self.assertIn("../transcript.cleaned.md", content)
+            index = (video_dir / "chunks" / "README.md").read_text(encoding="utf-8")
+            self.assertIn("../transcript.cleaned.md", index)
+
+    def test_materialize_sections_falls_back_to_srt_without_cleaned_transcript(self):
+        with tempfile.TemporaryDirectory() as temp:
+            video_dir = Path(temp)
+            readme = "---\nreview:\n  state: open\n---\n\n# Ролик\n"
+            subtitles = (
+                "1\n00:00:00,000 --> 00:00:01,000\nПервая\nВторая\n\n"
+                "2\n00:00:01,000 --> 00:00:02,000\nВторая\nТретья\n\n"
+                "3\n00:00:02,000 --> 00:00:03,000\nТретья\nЧетвертая\n\n"
+                "4\n00:00:03,000 --> 00:00:04,000\nЧетвертая\nПятая\n"
+            )
+            sections_yaml = (
+                'sections:\n'
+                '  - title: "Первая мысль"\n'
+                '    start: "00:00:00"\n'
+                '    end: "00:00:02"\n'
+                '  - title: "Вторая мысль"\n'
+                '    start: "00:00:02"\n'
+                '    end: END\n'
+            )
+            (video_dir / "README.md").write_text(readme, encoding="utf-8")
+            (video_dir / "subtitles.ru.srt").write_text(subtitles, encoding="utf-8")
+            (video_dir / "sections.yaml").write_text(sections_yaml, encoding="utf-8")
+
+            # transcript.cleaned.md is intentionally absent: legacy videos
+            # must still materialize from subtitles.*.srt.
+            written = materialize(video_dir)
+
+            self.assertEqual([path.name for path in written], ["01.md", "02.md"])
+            first = (video_dir / "sections" / "01.md").read_text(encoding="utf-8")
+            self.assertIn("Источник: `../subtitles.ru.srt`", first)
+            self.assertEqual(first.count("Вторая"), 1)
+            self.assertEqual(first.count("Третья"), 1)
+
+    def test_materialize_prefers_cleaned_transcript_text_over_srt(self):
+        with tempfile.TemporaryDirectory() as temp:
+            video_dir = Path(temp)
+            readme = "---\nreview:\n  state: open\n---\n\n# Ролик\n"
+            (video_dir / "README.md").write_text(readme, encoding="utf-8")
+            (video_dir / "subtitles.ru.srt").write_text(
+                "1\n00:00:00,000 --> 00:00:01,000\nИз SRT\n", encoding="utf-8"
+            )
+            (video_dir / "transcript.cleaned.md").write_text(
+                "[00:00:00] Из transcript.cleaned.md\n", encoding="utf-8"
+            )
+            sections_yaml = (
+                'sections:\n'
+                '  - title: "Всё"\n'
+                '    start: "00:00:00"\n'
+                '    end: END\n'
+            )
+            (video_dir / "sections.yaml").write_text(sections_yaml, encoding="utf-8")
+
+            materialize(video_dir)
+
+            body = (video_dir / "sections" / "01.md").read_text(encoding="utf-8")
+            self.assertIn("Из transcript.cleaned.md", body)
+            self.assertNotIn("Из SRT", body)
+
+    def test_materialize_partial_uses_cleaned_transcript_without_srt(self):
+        with tempfile.TemporaryDirectory() as temp:
+            video_dir = Path(temp)
+            readme = "---\nreview:\n  state: open\n---\n\n# Ролик\n"
+            (video_dir / "README.md").write_text(readme, encoding="utf-8")
+            (video_dir / "transcript.cleaned.md").write_text(
+                "[00:00:00] Начало разговора\n\n"
+                "[00:00:07] Продолжение, ещё не размечено\n",
+                encoding="utf-8",
+            )
+            sections_yaml = (
+                'sections:\n'
+                '  - title: "Начало"\n'
+                '    start: "00:00:00"\n'
+                '    end: "00:00:07"\n'
+            )
+            (video_dir / "sections.yaml").write_text(sections_yaml, encoding="utf-8")
+
+            written = materialize(video_dir, partial=True)
+
+            self.assertEqual([path.name for path in written], ["01.md"])
+            first = (video_dir / "sections" / "01.md").read_text(encoding="utf-8")
+            self.assertIn("Начало разговора", first)
+            self.assertNotIn("Продолжение", first)
+
+    def test_parse_transcript_cleaned_rejects_malformed_line(self):
+        with tempfile.TemporaryDirectory() as temp:
+            path = Path(temp) / "transcript.cleaned.md"
+            path.write_text("не таймкод и текст\n", encoding="utf-8")
+            with self.assertRaises(ValueError):
+                parse_transcript_cleaned(path)
 
 
 if __name__ == "__main__":
