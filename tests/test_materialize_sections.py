@@ -6,7 +6,9 @@ from tools.materialize_sections import (
     Cue,
     build_transcript_blocks,
     chunk_transcript,
+    materialize,
     materialize_chunks,
+    parse_sections_yaml,
     render_transcript,
 )
 
@@ -63,6 +65,66 @@ class AutomaticChunksTest(unittest.TestCase):
             self.assertEqual((video_dir / "subtitles.uk.srt").read_text(encoding="utf-8"), subtitles)
             self.assertEqual((sections_dir / "01.md").read_text(encoding="utf-8"), "semantic\n")
             self.assertIn("Количество: **1**", (video_dir / "chunks" / "README.md").read_text(encoding="utf-8"))
+
+
+    def test_sections_yaml_parses_minimal_map(self):
+        sections = parse_sections_yaml(
+            'sections:\n'
+            '  - title: "Введение"\n'
+            '    start: "00:00:00"\n'
+            '    end: "00:00:02"\n'
+            '  - title: "Вывод"\n'
+            '    start: "00:00:02"\n'
+            '    end: END\n'
+        )
+
+        self.assertEqual([s.title for s in sections], ["Введение", "Вывод"])
+        self.assertEqual(sections[0].start_ms, 0)
+        self.assertEqual(sections[0].end_ms, 2000)
+        self.assertIsNone(sections[1].end_ms)
+
+    def test_yaml_materialization_uses_cleaned_text_and_syncs_readme(self):
+        with tempfile.TemporaryDirectory() as temp:
+            video_dir = Path(temp)
+            readme = "---\nreview:\n  state: open\n---\n\n# Ролик\n"
+            subtitles = (
+                "1\n00:00:00,000 --> 00:00:01,000\nПервая\nВторая\n\n"
+                "2\n00:00:01,000 --> 00:00:02,000\nВторая\nТретья\n\n"
+                "3\n00:00:02,000 --> 00:00:03,000\nТретья\nЧетвертая\n\n"
+                "4\n00:00:03,000 --> 00:00:04,000\nЧетвертая\nПятая\n"
+            )
+            sections_yaml = (
+                'sections:\n'
+                '  - title: "Первая мысль"\n'
+                '    start: "00:00:00"\n'
+                '    end: "00:00:02"\n'
+                '  - title: "Вторая мысль"\n'
+                '    start: "00:00:02"\n'
+                '    end: END\n'
+            )
+            (video_dir / "README.md").write_text(readme, encoding="utf-8")
+            (video_dir / "subtitles.ru.srt").write_text(subtitles, encoding="utf-8")
+            (video_dir / "transcript.cleaned.md").write_text(
+                "[00:00:00] Первая Вторая Третья\n\n"
+                "[00:00:02] Четвертая Пятая\n",
+                encoding="utf-8",
+            )
+            (video_dir / "sections.yaml").write_text(sections_yaml, encoding="utf-8")
+
+            written = materialize(video_dir)
+
+            self.assertEqual([path.name for path in written], ["01.md", "02.md"])
+            first = (video_dir / "sections" / "01.md").read_text(encoding="utf-8")
+            second = (video_dir / "sections" / "02.md").read_text(encoding="utf-8")
+            updated_readme = (video_dir / "README.md").read_text(encoding="utf-8")
+
+            self.assertEqual(first.count("Вторая"), 1)
+            self.assertEqual(first.count("Третья"), 1)
+            self.assertEqual(second.count("Четвертая"), 1)
+            self.assertIn("Источник: `../transcript.cleaned.md`", first)
+            self.assertIn("### 1. Первая мысль", updated_readme)
+            self.assertIn("### 2. Вторая мысль", updated_readme)
+            self.assertIn("review:\n  state: open", updated_readme)
 
 
 if __name__ == "__main__":
