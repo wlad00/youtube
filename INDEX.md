@@ -26,6 +26,7 @@
 
 | Дата | Ролик | YouTube | Раздел | Субтитры | Структура | Теги |
 |---|---|---|---|---|---|---|
+| 2026-09-18 | [На пороге великой скорби // Максим Дубовский //18.09.2026 // НПД №29](bible/maksim-dubovskiy/2026-09-18-na-poroge-velikoy-skorbi-npd-29/README.md) | [yi6Q_slaXsY](https://www.youtube.com/watch?v=yi6Q_slaXsY) | `bible/maksim-dubovskiy` | нет | нет | — |
 | 2026-09-18 | [IS THIS NEFARIOUS? WHAT ARE THEIR PLANS?](bible/watchman-river/2026-09-18-is-this-nefarious-what-are-their-plans/README.md) | [gFqm3unYu3Q](https://www.youtube.com/watch?v=gFqm3unYu3Q) | `bible/watchman-river` | да | нет | — |
 | 2026-09-18 | [13 УРОК. БИБЛИЯ ЯСНО ПОКАЗЫВАЕТ: ИИСУС — БОГ ИЛИ СЫН БОГА? 3 ГЛАВНЫХ ТЕКСТА!](bible/alexander-bolotnikov/lessons/2026-09-18-13-urok-iisus-bog-ili-syn-boga/README.md) | [8BCAF8duWlQ](https://www.youtube.com/watch?v=8BCAF8duWlQ) | `bible/alexander-bolotnikov/lessons` | да | нет | — |
 | 2026-09-18 | [Плагины и скиллы могут ухудшать ИИ? Новые правила работы с сильными моделями](ai/2026-09-18-plaginy-i-skilly-mogut-uhudshat-ii-novye-pravila-raboty-s-silnymi-modelyami/README.md) | [HKKVUszGjcI](https://www.youtube.com/watch?v=HKKVUszGjcI) | `ai` | да | нет | — |
