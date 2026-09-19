@@ -4,6 +4,7 @@ youtube: "https://www.youtube.com/watch?v=yi6Q_slaXsY"
 video_id: "yi6Q_slaXsY"
 date: "2026-09-18"
 collection: "bible/maksim-dubovskiy"
+language: "ru"
 structure_status: pending
 tags: []
 ---

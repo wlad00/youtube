@@ -4,6 +4,7 @@ youtube: "https://www.youtube.com/watch?v=2HC_PPheqtk"
 video_id: "2HC_PPheqtk"
 date: "2026-09-14"
 collection: "bible/watchman-river"
+language: "en"
 structure_status: pending
 tags: []
 ---
