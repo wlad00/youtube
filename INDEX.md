@@ -17,6 +17,7 @@
 - [`bible/maksim-dubovskiy`](bible/maksim-dubovskiy/) — выпуски Максима Дубовского с канала ЕЛЕОН.
 - [`bible/mir-vam-shalom`](bible/mir-vam-shalom/) — эфиры и ролики канала «Мир вам - Shalom».
 - [`bible/watchman-river`](bible/watchman-river/) — выпуски Watchman River Тома Коте о библейских пророчествах и последнем времени.
+- [`marketing`](marketing/) — ролики про маркетинг, продажи, личный бренд и развитие бизнеса.
 - [`margulan-seysembaev`](margulan-seysembaev/) — ролики Маргулана Сейсембаева.
 - [`mikhail-grebenyuk`](mikhail-grebenyuk/) — ролики Михаила Гребенюка.
 - [`mvp`](mvp/) — тематическая подборка про создание, проверку и монетизацию MVP и небольших интернет-продуктов.
@@ -26,7 +27,7 @@
 
 | Дата | Ролик | YouTube | Раздел | Субтитры | Структура | Теги |
 |---|---|---|---|---|---|---|
-| 2026-09-20 | [Мир изменился. Внедри эти 7 навыков чтобы не проиграть в эпоху ИИ](unsorted/2026-09-20-mir-izmenilsya-vnedri-7-navykov-epoha-ii/README.md) | [Zn6Igzxme-Y](https://www.youtube.com/watch?v=Zn6Igzxme-Y) | `unsorted` | да | нет | — |
+| 2026-09-20 | [Мир изменился. Внедри эти 7 навыков чтобы не проиграть в эпоху ИИ](marketing/2026-09-20-mir-izmenilsya-vnedri-7-navykov-epoha-ii/README.md) | [Zn6Igzxme-Y](https://www.youtube.com/watch?v=Zn6Igzxme-Y) | `marketing` | да | нет | — |
 | 2026-09-18 | [На пороге великой скорби // Максим Дубовский //18.09.2026 // НПД №29](bible/maksim-dubovskiy/2026-09-18-na-poroge-velikoy-skorbi-npd-29/README.md) | [yi6Q_slaXsY](https://www.youtube.com/watch?v=yi6Q_slaXsY) | `bible/maksim-dubovskiy` | да | нет | — |
 | 2026-09-18 | [IS THIS NEFARIOUS? WHAT ARE THEIR PLANS?](bible/watchman-river/2026-09-18-is-this-nefarious-what-are-their-plans/README.md) | [gFqm3unYu3Q](https://www.youtube.com/watch?v=gFqm3unYu3Q) | `bible/watchman-river` | да | нет | — |
 | 2026-09-18 | [13 УРОК. БИБЛИЯ ЯСНО ПОКАЗЫВАЕТ: ИИСУС — БОГ ИЛИ СЫН БОГА? 3 ГЛАВНЫХ ТЕКСТА!](bible/alexander-bolotnikov/lessons/2026-09-18-13-urok-iisus-bog-ili-syn-boga/README.md) | [8BCAF8duWlQ](https://www.youtube.com/watch?v=8BCAF8duWlQ) | `bible/alexander-bolotnikov/lessons` | да | нет | — |
