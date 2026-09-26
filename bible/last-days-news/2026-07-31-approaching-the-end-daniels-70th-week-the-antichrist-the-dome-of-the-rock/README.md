@@ -4,7 +4,7 @@ youtube: "https://www.youtube.com/watch?v=6YFaMwckeXM"
 video_id: "6YFaMwckeXM"
 date: "2026-07-31"
 collection: "bible/last-days-news"
-language: ""
+language: "en"
 structure_status: pending
 tags: []
 ---

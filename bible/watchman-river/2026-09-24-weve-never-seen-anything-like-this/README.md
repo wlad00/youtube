@@ -4,7 +4,7 @@ youtube: "https://www.youtube.com/watch?v=WcomjPANUeY"
 video_id: "WcomjPANUeY"
 date: "2026-09-24"
 collection: "bible/watchman-river"
-language: ""
+language: "en"
 structure_status: pending
 tags: []
 ---

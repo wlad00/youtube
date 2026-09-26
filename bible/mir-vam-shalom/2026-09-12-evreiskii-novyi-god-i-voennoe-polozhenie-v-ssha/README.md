@@ -4,7 +4,7 @@ youtube: "https://www.youtube.com/watch?v=vziCi9g8VcE"
 video_id: "vziCi9g8VcE"
 date: "2026-09-12"
 collection: "bible/mir-vam-shalom"
-language: ""
+language: "ru"
 structure_status: pending
 tags: []
 ---

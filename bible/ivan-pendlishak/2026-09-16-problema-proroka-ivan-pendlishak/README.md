@@ -4,7 +4,7 @@ youtube: "https://www.youtube.com/watch?v=rlWM0pZfMic"
 video_id: "rlWM0pZfMic"
 date: "2026-09-16"
 collection: "bible/ivan-pendlishak"
-language: ""
+language: "uk"
 structure_status: pending
 tags: []
 ---

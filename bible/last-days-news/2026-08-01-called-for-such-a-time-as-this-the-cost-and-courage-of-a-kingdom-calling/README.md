@@ -4,7 +4,7 @@ youtube: "https://www.youtube.com/watch?v=GXCfRepiMyc"
 video_id: "GXCfRepiMyc"
 date: "2026-08-01"
 collection: "bible/last-days-news"
-language: ""
+language: "en"
 structure_status: pending
 tags: []
 ---

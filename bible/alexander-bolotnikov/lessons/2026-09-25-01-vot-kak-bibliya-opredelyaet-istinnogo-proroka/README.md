@@ -4,7 +4,7 @@ youtube: "https://www.youtube.com/watch?v=gr3XwOipOXw"
 video_id: "gr3XwOipOXw"
 date: "2026-09-25"
 collection: "bible/alexander-bolotnikov/lessons"
-language: ""
+language: "ru"
 structure_status: pending
 tags: []
 ---
