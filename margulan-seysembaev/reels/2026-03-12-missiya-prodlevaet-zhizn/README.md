@@ -4,6 +4,7 @@ youtube: "https://www.youtube.com/watch?v=pAFxtpRucYc"
 video_id: "pAFxtpRucYc"
 date: "2026-03-12"
 collection: "margulan-seysembaev"
+language: "ru"
 structure_status: pending
 tags: []
 ---
