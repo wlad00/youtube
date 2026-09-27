@@ -4,7 +4,7 @@ youtube: "https://www.youtube.com/watch?v=j7EFa4kmzXE"
 video_id: "j7EFa4kmzXE"
 date: "2026-09-25"
 collection: "Апостроф TV"
-language: ""
+language: "ru"
 structure_status: pending
 tags: []
 ---
