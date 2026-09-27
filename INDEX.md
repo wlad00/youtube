@@ -28,7 +28,7 @@
 
 | Дата | Ролик | YouTube | Раздел | Субтитры | Структура | Теги |
 |---|---|---|---|---|---|---|
-| 2026-09-25 | [Кто заработает миллионы на новой волне искусственного интеллекта (Ты не опоздал)](mvp/2026-09-25-kto-zarabotaet-milliony-na-novoy-volne-iskusstvennogo-intellekta-ty-ne-opozdal/README.md) | [v1DNPMIGpDg](https://www.youtube.com/watch?v=v1DNPMIGpDg) | `mvp` | нет | нет | — |
+| 2026-09-25 | [Кто заработает миллионы на новой волне искусственного интеллекта (Ты не опоздал)](mvp/2026-09-25-kto-zarabotaet-milliony-na-novoy-volne-iskusstvennogo-intellekta-ty-ne-opozdal/README.md) | [v1DNPMIGpDg](https://www.youtube.com/watch?v=v1DNPMIGpDg) | `mvp` | да | нет | — |
 | 2026-09-25 | [Я перестал быть вайбкодером и стал программистом](vibe-coding/2026-09-25-ya-perestal-byt-vaybkoderom-i-stal-programmistom/README.md) | [CuwEXshw7uE](https://www.youtube.com/watch?v=CuwEXshw7uE) | `vibe-coding` | да | нет | — |
 | 2026-09-25 | [01. Вот как Библия Определяет Истинного Пророка](bible/alexander-bolotnikov/lessons/2026-09-25-01-vot-kak-bibliya-opredelyaet-istinnogo-proroka/README.md) | [gr3XwOipOXw](https://www.youtube.com/watch?v=gr3XwOipOXw) | `bible/alexander-bolotnikov/lessons` | да | нет | — |
 | 2026-09-25 | [Хто ти, коли ніхто не бачить? - Іван Пендлишак](bible/ivan-pendlishak/2026-09-25-hto-ti-koli-nihto-ne-bachit-ivan-pendlishak/README.md) | [EnuK5ki4mMc](https://www.youtube.com/watch?v=EnuK5ki4mMc) | `bible/ivan-pendlishak` | да | нет | — |
