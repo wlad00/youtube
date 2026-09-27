@@ -6,7 +6,7 @@ date: "2026-09-25"
 collection: "mvp"
 language: "ru"
 structure_status: pending
-tags: []
+tags: ["solopreneurship", "ai-tools", "ai-agents", "startup", "future-of-work"]
 ---
 
 # Кто заработает миллионы на новой волне искусственного интеллекта (Ты не опоздал)
