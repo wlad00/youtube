@@ -4,7 +4,7 @@ youtube: "https://www.youtube.com/watch?v=nTejIUf_BCk"
 video_id: "nTejIUf_BCk"
 date: "2026-09-26"
 collection: ""
-language: ""
+language: "ru"
 structure_status: pending
 tags: []
 ---

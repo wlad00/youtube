@@ -28,7 +28,7 @@
 
 | Дата | Ролик | YouTube | Раздел | Субтитры | Структура | Теги |
 |---|---|---|---|---|---|---|
-| 2026-09-26 | [Я только привык к Astra. Но Claude Opus 5.5 - это другой уровень](ai/2026-09-26-ya-tolko-privyk-k-astra-no-claude-opus-5-5-eto-drugoy-uroven/README.md) | [nTejIUf_BCk](https://www.youtube.com/watch?v=nTejIUf_BCk) | `ai` | нет | нет | — |
+| 2026-09-26 | [Я только привык к Astra. Но Claude Opus 5.5 - это другой уровень](ai/2026-09-26-ya-tolko-privyk-k-astra-no-claude-opus-5-5-eto-drugoy-uroven/README.md) | [nTejIUf_BCk](https://www.youtube.com/watch?v=nTejIUf_BCk) | `ai` | да | нет | — |
 | 2026-09-25 | [Кто заработает миллионы на новой волне искусственного интеллекта (Ты не опоздал)](mvp/2026-09-25-kto-zarabotaet-milliony-na-novoy-volne-iskusstvennogo-intellekta-ty-ne-opozdal/README.md) | [v1DNPMIGpDg](https://www.youtube.com/watch?v=v1DNPMIGpDg) | `mvp` | да | нет | — |
 | 2026-09-25 | [Я перестал быть вайбкодером и стал программистом](vibe-coding/2026-09-25-ya-perestal-byt-vaybkoderom-i-stal-programmistom/README.md) | [CuwEXshw7uE](https://www.youtube.com/watch?v=CuwEXshw7uE) | `vibe-coding` | да | нет | — |
 | 2026-09-25 | [01. Вот как Библия Определяет Истинного Пророка](bible/alexander-bolotnikov/lessons/2026-09-25-01-vot-kak-bibliya-opredelyaet-istinnogo-proroka/README.md) | [gr3XwOipOXw](https://www.youtube.com/watch?v=gr3XwOipOXw) | `bible/alexander-bolotnikov/lessons` | да | нет | — |
