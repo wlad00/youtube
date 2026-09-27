@@ -4,7 +4,7 @@ youtube: "https://www.youtube.com/watch?v=L1mIb2NrhL4"
 video_id: "L1mIb2NrhL4"
 date: "2026-09-24"
 collection: "ai"
-language: ""
+language: "ru"
 structure_status: pending
 tags: []
 ---
