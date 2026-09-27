@@ -346,17 +346,22 @@ def parse_srt(path: Path) -> list[Cue]:
 
 
 def parse_transcript_cleaned(path: Path) -> list[TranscriptBlock]:
-    # transcript.cleaned.md lines look like "[HH:MM:SS] text..."; one line is
-    # one already-deduplicated block. Blank lines only separate blocks.
+    # transcript.cleaned.md may start with a Markdown navigation preamble.
+    # After the first timestamped line, keep strict parsing so accidental text
+    # inside the transcript is still detected.
     raw = path.read_text(encoding="utf-8")
     blocks: list[TranscriptBlock] = []
+    transcript_started = False
     for raw_line in raw.splitlines():
         line = raw_line.strip()
         if not line:
             continue
         match = TRANSCRIPT_LINE_RE.match(line)
         if not match:
+            if not transcript_started:
+                continue
             raise ValueError(f"Некорректная строка transcript.cleaned.md: {line!r}")
+        transcript_started = True
         start_ms = parse_timecode(match.group(1))
         blocks.append(TranscriptBlock(start_ms, match.group(2)))
 
