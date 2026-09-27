@@ -4,6 +4,8 @@ youtube: "https://www.youtube.com/watch?v=v1DNPMIGpDg"
 video_id: "v1DNPMIGpDg"
 date: "2026-09-25"
 collection: "mvp"
+author: ""
+channel: "Визионеры"
 language: "ru"
 structure_status: pending
 tags: ["solopreneurship", "ai-tools", "ai-agents", "startup", "future-of-work"]
