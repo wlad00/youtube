@@ -4,9 +4,11 @@ youtube: "https://www.youtube.com/watch?v=0B35m9-0J7Y"
 video_id: "0B35m9-0J7Y"
 date: "2018-11-07"
 collection: "Online Univer"
+author: "Питер Тиль"
+channel: "Online Univer"
 language: "ru"
 structure_status: pending
-tags: []
+tags: [стартапы, монополия, конкуренция, Питер Тиль, стратегия, инновации, бизнес]
 ---
 
 # Курс по стартапам и бизнесу. Лекция №5. Конкуренция - это удел лузеров. Питер Тиль
