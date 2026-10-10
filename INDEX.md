@@ -10,6 +10,8 @@
 
 - [`ai`](ai/) — ролики про искусственный интеллект, AI-инструменты, модели, индустрию и практическое применение.
 - [`bible`](bible/) — субботняя подборка: библейские вопросы, толкование Писания, пророчества и религиозные авторские коллекции.
+- [`bible/sabbath-school`](bible/sabbath-school/) — уроки по кварталам, номерам и названиям; заметки и обсуждения (не видео).
+- [`bible/topics`](bible/topics/) — отдельные тематические видео.
 - [`bible/alexander-bolotnikov/lessons`](bible/alexander-bolotnikov/lessons/) — уроки и тематические разборы Александра Болотникова.
 - [`bible/alexander-bolotnikov/streams`](bible/alexander-bolotnikov/streams/) — стримы Александра Болотникова.
 - [`bible/ivan-pendlishak`](bible/ivan-pendlishak/) — ролики Ивана Пендлишака.
@@ -25,6 +27,18 @@
 - [`news`](news/) — новостные и аналитические ролики о текущих событиях.
 - [`unsorted`](unsorted/) — ролики, для которых тематическая коллекция пока неочевидна; ждут распределения.
 - [`vibe-coding`](vibe-coding/) — ролики про вайб-кодинг: разработку с помощью ИИ, поиск заказов и практические кейсы.
+
+## Приоритеты обработки материалов `bible` (предварительно)
+
+Это приоритет **изучения и каталогизации**, не рейтинг ценности авторов или истинности утверждений. Его можно менять; удаление не предполагается.
+
+| Приоритет | Разделы | Действие |
+|---|---|---|
+| **P1 — актуальные занятия** | [Субботняя школа](bible/sabbath-school/); [уроки Александра Болотникова](bible/alexander-bolotnikov/lessons/) | Разбирать текущий урок, собирать мнения и заметки по номеру; готовить нужные для обсуждения записи. |
+| **P2 — тематические разборы** | [Иван Пендлишак](bible/ivan-pendlishak/), [стримы Болотникова](bible/alexander-bolotnikov/streams/), [Максим Дубовский](bible/maksim-dubovskiy/), [отдельные темы](bible/topics/) | Уточнять метаданные, готовить по запросу. |
+| **P3 — обзорные и новостно-пророческие выпуски** | [Watchman River](bible/watchman-river/), [Last Days News](bible/last-days-news/), [Мир вам — Shalom](bible/mir-vam-shalom/) | Сохранить в архиве до решения пользователя; при использовании сверять факты и даты с первоисточниками. |
+
+[Замечания к метаданным и возможный дубль](bible/AUDIT-2026-10-10.md). Папки уроков **не** добавляются в таблицу YouTube-роликов; видео внутри уроков учитываются как обычно — по Video ID.
 
 | Дата | Ролик | Автор | Канал | YouTube | Коллекция | Субтитры | Подготовлен | О чём | Теги |
 |---|---|---|---|---|---|---|---|---|---|
@@ -92,7 +106,7 @@
 | 2026-09-07 | [48 часов ищу ЗАКАЗ на ВАЙБКОДИНГ на фрилансе БЕЗ ПОРТФОЛИО (вообще без проектов)](vibe-coding/2026-09-07-48-chasov-ishchu-zakaz-na-vaybkoding-na-frilanse-bez-portfolio-voobshche-bez-proektov/README.md) | — | — | [dUnkLaNN5aQ](https://www.youtube.com/watch?v=dUnkLaNN5aQ) | `vibe-coding` | да | нет | — | — |
 | 2026-09-07 | [Программирование без Нейросетей, Cursor остался без OpenAI, Игры снова убивают \| Как Там АйТи #115](ai/2026-09-07-programmirovanie-bez-neyrosetey-cursor-ostalsya-bez-openai-igry-snova-ubivayut-kak-tam-ayti-115/README.md) | — | — | [vcefioP8RG4](https://www.youtube.com/watch?v=vcefioP8RG4) | `ai` | да | нет | — | — |
 | 2026-09-06 | [Хто розсіяв Той і збере - Іван Пендлишак](bible/ivan-pendlishak/2026-09-06-hto-rozsiyav-toy-i-zbere/README.md) | Іван Пендлишак | — | [3_l6HGcgm_w](https://www.youtube.com/watch?v=3_l6HGcgm_w) | `bible/ivan-pendlishak` | да | нет | — | — |
-| 2026-09-06 | [Опасности Искусственного Интеллекта l Петр Пипченко](bible/2026-09-06-opasnosti-iskusstvennogo-intellekta-petr-pipchenko/README.md) | — | — | [DQsS4fq76wA](https://www.youtube.com/watch?v=DQsS4fq76wA) | `bible` | да | нет | — | — |
+| 2026-09-06 | [Опасности Искусственного Интеллекта l Петр Пипченко](bible/topics/2026-09-06-opasnosti-iskusstvennogo-intellekta-petr-pipchenko/README.md) | Пётр Пипченко | — | [DQsS4fq76wA](https://www.youtube.com/watch?v=DQsS4fq76wA) | `bible/topics` | да | нет | — | — |
 | 2026-09-06 | [Let's Pray Together Watchman River Family - Sept 6, 2026](bible/watchman-river/2026-09-06-lets-pray-together-watchman-river-family-sept-6-2026/README.md) | Том Коте | — | [VKryn7V4H2Y](https://www.youtube.com/watch?v=VKryn7V4H2Y) | `bible/watchman-river` | да | нет | — | — |
 | 2026-09-05 | [Будет великое землетрясение...](bible/mir-vam-shalom/2026-09-05-budet-velikoe-zemletryasenie/README.md) | — | — | [ql-ad5l3S8Q](https://www.youtube.com/watch?v=ql-ad5l3S8Q) | `bible/mir-vam-shalom` | да | нет | — | — |
 | 2026-09-05 | [11 УРОК. Что Библия говорит о ДЕСЯТИНЕ в Новом Завете?](bible/alexander-bolotnikov/lessons/2026-09-05-11-urok-desyatina-v-novom-zavete/README.md) | Александр Болотников | — | [HopVKHp_LEs](https://www.youtube.com/watch?v=HopVKHp_LEs) | `bible/alexander-bolotnikov/lessons` | да | нет | — | — |
@@ -109,7 +123,7 @@
 | 2026-09-03 | [Как заработать на ИИ сейчас – самый большой передел денег в истории уже начался](mvp/2026-09-03-kak-zarabotat-na-ii-seychas-samyy-bolshoy-peredel-deneg-v-istorii-uzhe-nachalsya/README.md) | — | — | [zMblYiMRHNM](https://www.youtube.com/watch?v=zMblYiMRHNM) | `mvp` | да | нет | — | — |
 | 2026-09-02 | [THE GREAT IMITATION — LOOK UP NOW!](bible/watchman-river/2026-09-02-the-great-imitation-look-up-now/README.md) | Том Коте | — | [BEnDDspH_6A](https://www.youtube.com/watch?v=BEnDDspH_6A) | `bible/watchman-river` | да | нет | — | — |
 | 2026-09-02 | [Как заработать больше с помощью ИИ, когда конкуренция только растет?](mvp/2026-09-02-kak-zarabotat-bolshe-s-pomoshchyu-ii-kogda-konkurentsiya-rastet/README.md) | — | — | [W0j6_PF0HsM](https://www.youtube.com/watch?v=W0j6_PF0HsM) | `mvp` | да | нет | — | — |
-| 2026-09-02 | [Земле 6000 и миллиарды лет ОДНОВРЕМЕННО](bible/2026-09-02-zemle-6000-i-milliardy-let-odnovremenno/README.md) | — | — | [RHBsB09RmJ8](https://www.youtube.com/watch?v=RHBsB09RmJ8) | `bible` | да | нет | — | — |
+| 2026-09-02 | [Земле 6000 и миллиарды лет ОДНОВРЕМЕННО](bible/topics/2026-09-02-zemle-6000-i-milliardy-let-odnovremenno/README.md) | — | — | [RHBsB09RmJ8](https://www.youtube.com/watch?v=RHBsB09RmJ8) | `bible/topics` | да | нет | — | — |
 | 2026-09-01 | [Россия проверяет НАТО на прочность. Что происходит в Балтии.](news/2026-09-01-rossiya-proveryaet-nato-na-prochnost-chto-proishodit-v-baltii/README.md) | — | — | [i8-PsVMBE4E](https://www.youtube.com/watch?v=i8-PsVMBE4E) | `news` | да | нет | — | — |
 | 2026-08-31 | [АУСЛЕНДЕР: эскалация в Ормузском проливе! Война ВСПЫХНУЛА с новой силой](news/2026-08-31-auslender-eskalatsiya-v-ormuzskom-prolive-voyna-vspyhnula-s-novoy-siloy/README.md) | — | — | [GYVQTG_plOI](https://www.youtube.com/watch?v=GYVQTG_plOI) | `news` | да | нет | — | — |
 | 2026-08-31 | [The End of AI Freebies: Rising Prices, Billion-Dollar Lawsuits, and Data Leaks](ai/2026-08-31-the-end-of-ai-freebies-rising-prices-billion-dollar-lawsuits-and-data-leaks/README.md) | — | — | [aJN1h3YCz00](https://www.youtube.com/watch?v=aJN1h3YCz00) | `ai` | да | нет | — | — |
