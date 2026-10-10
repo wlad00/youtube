@@ -3,7 +3,8 @@ title: "Опасности Искусственного Интеллекта l �
 youtube: "https://www.youtube.com/watch?v=DQsS4fq76wA"
 video_id: "DQsS4fq76wA"
 date: "2026-09-06"
-collection: "bible"
+collection: "bible/topics"
+author: "Пётр Пипченко"
 structure_status: pending
 tags: []
 ---
