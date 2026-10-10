@@ -1,3 +1,15 @@
+## Кратко
+
+- Том Коте открывает выпуск Псалмом 22 (23) и говорит о необычайном чувстве срочности: допускает близость восхищения Церкви, но признаёт, что не знает сроков и не располагает инсайдерской информацией.
+- Читает письмо мэра Оттамвы (Айова) о молитве с обращением к Сатане на заседании городского совета 6 октября. Мэр объясняет, что не поддерживал её и вместе с пастором молился за город.
+- Рассказывает о межрелигиозной встрече в Ассизи 25–27 октября с участием папы Льва XIV. Автор интерпретирует событие через своё представление о будущей «единой мировой религии».
+- Осуждает сообщения о созданных ИИ жестоких видеороликах на Facebook и обсуждает сообщение о предполагаемой публичной казни виновного в стрельбе на базе Форт-Худ; сам склоняется против смертной казни.
+- Пересказывает сообщения о возможных ударах по Ирану и атаках на аэропорт Эр-Рияда. Прогноз о военной эскалации в ближайшие выходные прямо называет собственным предположением.
+- В новостной подборке упоминает угрозу урагана на побережье Мексиканского залива, солнечную вспышку, повреждения украинской энергосистемы, несанкционированные камеры наблюдения во Флориде и человекоподобного робота Unitree G1.
+- После комментариев и историй зрителей завершает выпуск изложением Евангелия: смертью и воскресением Иисуса Христа, спасением через веру в Него и призывом не откладывать решение о вере.
+
+*Это краткое изложение сказанного ведущим, а не независимая проверка его новостных сообщений и прогнозов.*
+
 [00:00:02] There has only been a small handful of times since I started this YouTube channel years ago that I have said this is an important video to watch and today's one of those days. I feel an urgency I've never felt before and I want to share with you a lot of stuff today. A lot of stuff. Uh but we'll get to that. We'll do the news of the day, the comments of the day, clown world, the question of the day, all the things we do here daily on the Watchman River channel. My name is Tom. I'm glad you're here. I hope you're well. Today is Friday, October 9th, 2026.
 
 [00:00:35] And it is a beautiful autumn day here in the middle of Connecticut by the river. As far as a live studio audience goes today, I threw some peanuts behind the car here. So, there is one squirrel that is having a feast and he's running around the car here and there, but that's it. I don't see anybody else. There's no birds or cats or it's just me and the squirrel and you guys. So there you go. Before we get to all the stuff I've got to cover, which is pretty intense, but I'm going to go to the word of God. I think it's always important.
