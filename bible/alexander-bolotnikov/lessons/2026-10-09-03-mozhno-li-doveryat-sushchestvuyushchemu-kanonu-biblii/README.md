@@ -7,7 +7,7 @@ collection: "bible/alexander-bolotnikov/lessons"
 author: "Александр Болотников"
 channel: "Alexander Bolotnikov"
 language: "ru"
-tags: []
+tags: [библейский канон, Танах, Явне, ветхозаветные пророки, Ездра, Элен Уайт, адвентисты]
 ---
 
 # 03. ⚡⚠️ Можно ли Доверять Существующему Канону Библии 📖?
