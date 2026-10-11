@@ -5,3 +5,4 @@
 | Дата сохранения | Video ID | Ссылка | Статус |
 |---|---|---|---|
 | 2026-10-11 | `pDlHMpOi29k` | [YouTube](https://youtu.be/pDlHMpOi29k?si=kBSYZ0gbchb5LN2q) | Метаданные ролика не проверены, ожидает приёма. |
+| 2026-10-11 | `t87pPEHg-oI` | [YouTube](https://youtu.be/t87pPEHg-oI?si=MGZPA1l4A7O0-TyA) | Метаданные ролика не проверены, ожидает приёма. |
