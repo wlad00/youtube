@@ -13,3 +13,4 @@
 | 2026-10-11 | `NKnqb4aGkSo` | [YouTube](https://youtu.be/NKnqb4aGkSo?si=J0VYoInorU0hiPZj) | Метаданные ролика не проверены, ожидает приёма. |
 | 2026-10-11 | `h9A5wlE42Ls` | [YouTube](https://youtu.be/h9A5wlE42Ls?si=FZB5RNPRjA_tgqaK) | Метаданные ролика не проверены, ожидает приёма. |
 | 2026-10-11 | `LUAM3jVgfew` | [YouTube](https://youtu.be/LUAM3jVgfew?si=DUxVXe3d7i0HJAYt) | Метаданные ролика не проверены, ожидает приёма. |
+| 2026-10-11 | `DyxfC0zTvGg` | [YouTube](https://youtu.be/DyxfC0zTvGg?si=tq6cAwM9io08o7ye) | Метаданные ролика не проверены, ожидает приёма. |
