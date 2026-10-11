@@ -7,7 +7,7 @@ collection: "ai"
 author: "—"
 channel: "StringConcat"
 language: "ru"
-tags: []
+tags: ["ИИ", "enterprise-разработка", "DDD", "агенты", "вайбкодинг", "инфраструктура", "локальные модели", "инженерные практики"]
 ---
 
 # Личный опыт с ИИ в Enterprise-разработке
