@@ -21,3 +21,4 @@
 | 2026-10-11 | `O88XMaAIkZQ` | [YouTube](https://youtu.be/O88XMaAIkZQ?si=mnzH1S96Wi3pEzNR) | Метаданные ролика не проверены, ожидает приёма. |
 | 2026-10-11 | `BofOazb2elc` | [YouTube](https://youtu.be/BofOazb2elc?si=PYKAGGb3a-mM98Nb) | Метаданные ролика не проверены, ожидает приёма. |
 | 2026-10-11 | `0X43XQGfJ8U` | [YouTube](https://youtu.be/0X43XQGfJ8U?si=-C6vdWmrAAfPjSD0) | Метаданные ролика не проверены, ожидает приёма. |
+| 2026-10-11 | `BuSHi551Zyw` | [YouTube](https://youtu.be/BuSHi551Zyw?si=98wzgWc1_Ogjz-qM) | Метаданные ролика не проверены, ожидает приёма. |
