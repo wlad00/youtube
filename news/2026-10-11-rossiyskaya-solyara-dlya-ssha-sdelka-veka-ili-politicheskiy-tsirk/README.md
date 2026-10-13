@@ -1,0 +1,13 @@
+---
+title: "Российская соляра для США: сделка века или политический цирк? 11.10.2026"
+youtube: "https://www.youtube.com/watch?v=iRhXVfPLC-o"
+video_id: "iRhXVfPLC-o"
+date: "2026-10-11"
+collection: "news"
+author: "Сергей Ауслендер"
+channel: "Сергей Ауслендер"
+language: "ru"
+tags: []
+---
+
+# Российская соляра для США: сделка века или политический цирк? 11.10.2026
