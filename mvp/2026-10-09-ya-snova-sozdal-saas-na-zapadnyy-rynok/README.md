@@ -7,7 +7,7 @@ collection: "mvp"
 author: "Алмас Абулхаиров"
 channel: "Венчур По Понятиям | Алмас Абулхаиров"
 language: "ru"
-tags: []
+tags: ["SaaS", "Invoic", "Harvest", "Reddit", "SEO", "вайбкодинг"]
 ---
 
 # Я снова создал SaaS на западный рынок!

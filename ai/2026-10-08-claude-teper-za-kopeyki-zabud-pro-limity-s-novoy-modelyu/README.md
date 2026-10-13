@@ -7,7 +7,7 @@ collection: "ai"
 author: "—"
 channel: "Нейропросвещение"
 language: "ru"
-tags: []
+tags: ["Claude", "Haiku 5.5", "лимиты", "субагенты", "сравнение моделей", "OpenAI"]
 ---
 
 # Claude теперь за КОПЕЙКИ. Забудь про лимиты с новой моделью
