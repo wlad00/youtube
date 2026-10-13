@@ -42,6 +42,7 @@
 
 | Дата | Ролик | Автор | Канал | YouTube | Коллекция | Субтитры | Подготовлен | О чём | Теги |
 |---|---|---|---|---|---|---|---|---|---|
+| 2026-10-13 | [💥ЕКСТРЕНО! НЕ повірите, що ВІДБУВАЄТЬСЯ ПРЯМО на ФРОНТІ: Білецький КОШМАРИТЬ МОСКВУ. САЗОНОВ](news/2026-10-13-ekstrenno-ne-poveryte-shcho-vidbuvaetsya-na-fronti-biletskiy-koshmaryt-moskvu-sazonov/README.md) | — | 24 Канал | [HufjFt2YwQA](https://www.youtube.com/watch?v=HufjFt2YwQA) | `news` | нет | нет | — | — |
 | 2026-10-13 | [Ты ещё НЕ ОПОЗДАЛ. Вот где доход в ИИ в 2026](ai/2026-10-13-ty-eshche-ne-opozdal-vot-gde-dohod-v-ii-v-2026/README.md) | — | Нейропросвещение | [PHDPPiGGwKw](https://www.youtube.com/watch?v=PHDPPiGGwKw) | `ai` | да | нет | — | — |
 | 2026-10-13 | [Конец эпохи чистых программистов: как рынок IT изменился навсегда](ai/2026-10-13-konets-epohi-chistyh-programmistov-kak-rynok-it-izmenilsya-navsegda/README.md) | Артем Бабенко | Артем Бабенко | [LjTawr_Fi-0](https://www.youtube.com/watch?v=LjTawr_Fi-0) | `ai` | да | нет | — | — |
 | 2026-10-13 | [Россия без денег, такси и Алисы \| Жалобы на Яндекс: вклады зависли, водители жадничают, фото пропали](news/2026-10-13-rossiya-bez-deneg-taksi-i-alisy-zhaloby-na-yandeks-vklady-zavisli-voditeli-zhadnichayut-foto-propali/README.md) | Илья Варламов | varlamov | [rOIkOwZZoL0](https://www.youtube.com/watch?v=rOIkOwZZoL0) | `news` | да | нет | — | — |
