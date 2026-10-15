@@ -42,7 +42,7 @@
 
 | Дата | Ролик | Автор | Канал | YouTube | Коллекция | Субтитры | Подготовлен | О чём | Теги |
 |---|---|---|---|---|---|---|---|---|---|
-| 2026-10-15 | [Тоскуем по временам, когда надо было работать — Влад Тен — Мы обречены](ai/2026-10-15-toskuem-po-vremenam-kogda-nado-bylo-rabotat-vlad-ten-my-obrecheny/README.md) | Влад Тен | Мы обречены | [NwNZF5Ljzd8](https://www.youtube.com/watch?v=NwNZF5Ljzd8) | `ai` | да | нет | — | — |
+| 2026-10-15 | [Тоскуем по временам, когда надо было работать — Влад Тен — Мы обречены](ai/2026-10-15-toskuem-po-vremenam-kogda-nado-bylo-rabotat-vlad-ten-my-obrecheny/README.md) | Влад Тен | Мы обречены | [NwNZF5Ljzd8](https://www.youtube.com/watch?v=NwNZF5Ljzd8) | `ai` | да | да | Ведущие подкаста обсуждают, как ИИ-агенты и генеративный контент меняют профессию программиста, поддержку и открытый код. | ИИ, программирование, AI-агенты, вайб-кодинг, open source, генеративный контент, Авито, Линус Торвальдс |
 | 2026-10-14 | [Anthropic Just Warned Us About AI Agents](ai/2026-10-14-anthropic-just-warned-us-about-ai-agents/README.md) | Bryan Guerra | Bryan Guerra Vault | [8uem_TExCis](https://www.youtube.com/watch?v=8uem_TExCis) | `ai` | да | нет | — | — |
 | 2026-10-14 | [5 лет. 4 стартапа. Что из этого вышло?](unsorted/2026-10-14-5-let-4-startapa-chto-iz-etogo-vyshlo/README.md) | — | Айтишник в иммиграции | [KlTwt-huj3s](https://www.youtube.com/watch?v=KlTwt-huj3s) | `unsorted` | да | нет | — | — |
 | 2026-10-13 | [Я не реверс-инженер, но клонировал платное приложение за 2 часа \| REA + Claude Code ← рекомендую](vibe-coding/2026-10-13-ya-ne-reverse-inzhener-no-skopiroval-platnoe-prilozhenie-za-2-chasa/README.md) | — | Swag | [5AhuSmReTOk](https://www.youtube.com/watch?v=5AhuSmReTOk) | `vibe-coding` | да | нет | — | — |
