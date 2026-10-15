@@ -7,7 +7,7 @@ collection: "ai"
 author: "—"
 channel: "DenTrave"
 language: "ru"
-tags: []
+tags: ["ИИ", "пузырь", "OpenAI", "Anthropic", "долги", "дата-центры", "биржа"]
 ---
 
 # Почему создатели GPT6-Astra вдруг заговорили о конце света

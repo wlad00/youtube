@@ -7,7 +7,7 @@ collection: "ai"
 author: "—"
 channel: "ИИ Новости"
 language: "ru"
-tags: []
+tags: ["OpenAI", "математика", "AGI", "гипотеза Римана", "формальная проверка", "Anthropic", "AlphaEvolve"]
 ---
 
 # OpenAI ПЕРЕВЕРНУЛ Правила! GPT-7 Превзошёл Гениев! Учёных СПИСЫВАЮТ В Архив! Математики в Панике!
