@@ -142,7 +142,7 @@
 |---|---|---|---|---|
 | 2026-10-22 | Общая карта из 10 разделов; в «Новостях» 8 подтем | Навигация, **не зачтено как разбор** | Зафиксирована структура для будущих обсуждений; конкретные ролики по первоисточникам ещё не разбирали в рамках нового учёта. | [INDEX.md](INDEX.md) |
 
-| 2026-10-22 | Новости: Украина и Россия | В работе; 4 источника | Дипломатические переговоры; разногласия о территориях; Лиманское направление; энергетические санкции; атаки на инфраструктуру. Оценки спикеров отделяем от проверенных событий. Подтема ещё не завершена. | YouTube: fnKFjm20B_8, HufjFt2YwQA, iRhXVfPLC-o, mb2a2aSxq3g. Файлы транскриптов — в коллекции `news/`. |
+| 2026-10-22 | Новости: Украина и Россия | В работе; 4 источника | Дипломатические переговоры; разногласия о территориях; Лиманское направление; энергетические санкции; атаки на инфраструктуру. Оценки спикеров отделяем от проверенных событий. Подтема ещё не завершена. | [fnKFjm20B_8](news/2026-10-21-razvyazka-skoro-vnezapnyy-khod-ot-zelenskogo-putin-etogo-ne-predvidel/transcript.cleaned.md) (00:11:41–00:14:27); [HufjFt2YwQA](news/2026-10-13-ekstrenno-ne-poveryte-shcho-vidbuvaetsya-na-fronti-biletskiy-koshmaryt-moskvu-sazonov/transcript.cleaned.md) (00:16:18–00:19:34; 00:23:33–00:30:34); [iRhXVfPLC-o](news/2026-10-11-rossiyskaya-solyara-dlya-ssha-sdelka-veka-ili-politicheskiy-tsirk/transcript.cleaned.md) (00:09:00–00:10:05; 00:16:19–00:18:57); [mb2a2aSxq3g](news/2026-10-21-piter-vyshel-na-ulitsy-rossiyane-obratilis-k-zelenskomu-umolyayut-zakonchit-ataki/transcript.cleaned.md) (00:03:42–00:10:01). |
 
 ## Как продолжать
 
