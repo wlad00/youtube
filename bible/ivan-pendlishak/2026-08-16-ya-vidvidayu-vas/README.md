@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: ["проповедь", "Иеремия", "покаяние", "скорби", "Божий суд", "долготерпение", "Ветхий Завет"]
 ---
 
 # Я відвідаю вас - Іван Пендлишак

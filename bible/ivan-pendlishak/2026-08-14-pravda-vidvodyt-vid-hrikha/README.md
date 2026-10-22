@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: ["проповедь", "правда", "покаяние", "Иеремия", "обличение", "служение"]
 ---
 
 # Правда відводить від гріха - Іван Пендлишак
