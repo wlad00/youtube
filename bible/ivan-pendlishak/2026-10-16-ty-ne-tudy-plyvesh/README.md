@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: ["проповедь", "молитва", "благодарность", "духовные законы", "выбор", "семья", "совесть"]
 ---
 
 # Ти не туди пливеш - Іван Пендлишак
