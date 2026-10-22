@@ -4,8 +4,10 @@ youtube: "https://www.youtube.com/watch?v=0_R8wbaNBHs"
 video_id: "0_R8wbaNBHs"
 date: "2026-09-04"
 collection: "bible/ivan-pendlishak"
+author: "Іван Пендлишак"
+channel: "Ivan Pendlyshak"
 structure_status: pending
-tags: []
+tags: ["проповедь", "Иеремия", "пророчества", "Израиль", "Христос", "церковь и брак", "спорные тезисы"]
 ---
 
 # Бог повертає втрачене - Іван Пендлишак

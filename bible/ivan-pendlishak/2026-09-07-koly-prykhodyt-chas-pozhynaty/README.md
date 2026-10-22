@@ -4,8 +4,10 @@ youtube: "https://www.youtube.com/watch?v=L9qoor72A5w"
 video_id: "L9qoor72A5w"
 date: "2026-09-07"
 collection: "bible/ivan-pendlishak"
+author: "Іван Пендлишак"
+channel: "Ivan Pendlyshak"
 structure_status: pending
-tags: []
+tags: ["Библия", "Книга Иеремии", "Гедалия", "Иеремия", "проповедь", "предательство", "защита Бога"]
 ---
 
 # Коли приходить час пожинати - Іван Пендлишак
