@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: ["благодарность", "сравнение с другими", "ропот", "воля Божья", "зависть", "проповедь"]
 ---
 
 # Що заважає нам бути вдячними? - Іван Пендлишак

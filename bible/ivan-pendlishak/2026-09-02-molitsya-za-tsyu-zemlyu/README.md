@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: ["проповедь", "Иеремия", "плен", "молитва", "власть", "лжепророки", "суеверия"]
 ---
 
 # Моліться за цю землю - Іван Пендлишак
