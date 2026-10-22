@@ -4,9 +4,11 @@ youtube: "https://www.youtube.com/watch?v=fAtRb3n3BdI"
 video_id: "fAtRb3n3BdI"
 date: "2026-09-18"
 collection: "bible/ivan-pendlishak"
+author: "Іван Пендлишак"
+channel: "Ivan Pendlyshak"
 language: "uk"
 structure_status: pending
-tags: []
+tags: ["проповедь", "Иезекииль", "Самария и Иудея", "ревность Бога", "блуд", "мир и церковь", "наказание"]
 ---
 
 # Чим людина грішить тим і наказується - Іван Пендлишак
