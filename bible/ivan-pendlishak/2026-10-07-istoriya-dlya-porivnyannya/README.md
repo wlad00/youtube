@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: ["проповедь", "благодарность", "смирение", "довольство", "Библия", "сравнение", "голод"]
 ---
 
 # Історія для порівняння - Іван Пендлишак

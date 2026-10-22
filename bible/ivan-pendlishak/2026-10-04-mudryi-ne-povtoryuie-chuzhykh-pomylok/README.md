@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: ["проповедь", "Библия", "испытания", "ропот", "благодарность", "вера", "Исход"]
 ---
 
 # Мудрий не повторює чужих помилок - Іван Пендлишак
