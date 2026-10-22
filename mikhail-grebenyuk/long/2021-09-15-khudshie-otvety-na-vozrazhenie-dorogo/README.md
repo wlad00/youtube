@@ -1,0 +1,13 @@
+---
+title: "Худшие ответы на возражение «ДОРОГО»! / Как отвечать на возражения клиентов?"
+youtube: "https://www.youtube.com/watch?v=Mu_u-R27GOY"
+video_id: "Mu_u-R27GOY"
+date: "2021-09-15"
+collection: "mikhail-grebenyuk"
+author: "Михаил Гребенюк"
+channel: "Михаил Гребенюк"
+language: "ru"
+tags: []
+---
+
+# Худшие ответы на возражение «ДОРОГО»! / Как отвечать на возражения клиентов?
