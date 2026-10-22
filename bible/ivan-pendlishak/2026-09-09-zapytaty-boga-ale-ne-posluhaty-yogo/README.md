@@ -4,8 +4,10 @@ youtube: "https://www.youtube.com/watch?v=JQxvlXsLv6w"
 video_id: "JQxvlXsLv6w"
 date: "2026-09-09"
 collection: "bible/ivan-pendlishak"
+author: "Іван Пендлишак"
+channel: "Ivan Pendlyshak"
 structure_status: pending
-tags: []
+tags: ["Иеремия", "воля Божья", "пророчество", "эмиграция", "обеты Богу", "отвержение пророка", "Египет"]
 ---
 
 # Запитати Бога, але не послухати Його - Іван Пендлишак
