@@ -1,0 +1,202 @@
+# Михаил Гребенюк — продажи и клиенты
+
+**Дата плана:** 22.10.2026. [Общий план автора](../PLAN.md).
+
+Работа с клиентами, сделки, возражения, повторные продажи и отдел продаж.
+
+Распределение предварительное: только названия и тематические хештеги, без чтения содержания. У каждого Video ID одна основная тема; после расшифровки тему можно уточнить.
+
+Всего: **182**. Канал @grebenukm: **182** (56 видео, 126 Shorts). Уже имеющиеся записи других каналов: **0**.
+
+Локальные очищенные субтитры: **9 / 182**. Подготовлено: **1 / 182**.
+
+Порядок обработки: оригинальные субтитры → очистка с таймкодами → подготовка. `Субтитры = нет` означает отсутствие локального `transcript.cleaned.md`; доступность дорожек на YouTube ещё не проверена. Правило подготовки и общий прогресс — в [плане автора](../PLAN.md).
+
+## Каталог канала @grebenukm
+
+Порядок: вкладка «Видео», затем Shorts; внутри каждой сохранён порядок канала при сборе. Формат обозначает вкладку YouTube, а длина текста определяется после очистки.
+
+| Video ID | Ролик | Формат | Субтитры | Подготовлен | Существующая папка |
+|---|---|---|---|---|---|
+| `3xEEtq8jiHA` | [ПРОСТОЙ способ поднять продажи в бизнесе. Как увеличить прибыль в 2026?](https://www.youtube.com/watch?v=3xEEtq8jiHA) | Видео | нет | нет | — |
+| `6tQZMEaGTU4` | [Как создать сервис, которые ценят клиенты — Мой опыт](https://www.youtube.com/watch?v=6tQZMEaGTU4) | Видео | нет | нет | — |
+| `t2b0In3yuQ4` | [Ты сама тормозишь РОСТ своего бизнеса — начни уже закрывать крупные сделки!](https://www.youtube.com/watch?v=t2b0In3yuQ4) | Видео | нет | нет | — |
+| `CP3_YAOD1ew` | [В базе 7500 клиентов, а платят только 500. Что нужно сделать прямо сейчас?](https://www.youtube.com/watch?v=CP3_YAOD1ew) | Видео | да | да | [папка](../long/2026-08-15-v-baze-7500-klientov-a-platyat-tolko-500/README.md) |
+| `0SwoPSeb2_Y` | [У бизнеса НЕ будет клиентов, пока не сделать ЭТО. Пошаговый план](https://www.youtube.com/watch?v=0SwoPSeb2_Y) | Видео | нет | нет | — |
+| `SJFT2Ktg68A` | [НЕТ клиентов в бизнесе? Всего ОДНО действие всё изменит!](https://www.youtube.com/watch?v=SJFT2Ktg68A) | Видео | нет | нет | — |
+| `3p37YRHaL_E` | [Как понять, что на САМОМ деле хочет клиент? Узнай, чтобы НЕ упустить возможность!](https://www.youtube.com/watch?v=3p37YRHaL_E) | Видео | да | нет | [папка](../long/2025-08-30-kak-ponyat-chto-na-samom-dele-khochet-klient/README.md) |
+| `i_MZX8uGBJ0` | [ПОКОЛЕНИЕ. Бизнес-реалити Михаила Гребенюка. Кто из школьников станет лучшим в продажах?](https://www.youtube.com/watch?v=i_MZX8uGBJ0) | Видео | нет | нет | — |
+| `j14bfdf5k5o` | [Это самое главное при продажах на высокие чеки! / Как построить отдел продаж в премиум сегменте?](https://www.youtube.com/watch?v=j14bfdf5k5o) | Видео | нет | нет | — |
+| `6GVTdhpNGSY` | [Главные секреты деловых отношений для успешного бизнеса! / Как привлечь и удержать клиентов?](https://www.youtube.com/watch?v=6GVTdhpNGSY) | Видео | нет | нет | — |
+| `eORlzp7B4Kc` | [ВЫСОКИЙ ЧЕК – НИЗКИЕ ПРОДАЖИ? 13 лет каторги ради копеек // Проблемы ПРЕМИУМ-СЕГМЕНТА](https://www.youtube.com/watch?v=eORlzp7B4Kc) | Видео | нет | нет | — |
+| `woAJogYddXE` | [Как вернуть клиента и продать ему ПОВТОРНО? / Масштабирование продаж в бизнесе!](https://www.youtube.com/watch?v=woAJogYddXE) | Видео | нет | нет | — |
+| `xeCqzriF-48` | [Как начать сотрудничать с крупным бизнесом?](https://www.youtube.com/watch?v=xeCqzriF-48) | Видео | нет | нет | — |
+| `OEtcXNQjmeI` | [Как РАЗБОГАТЕТЬ на косметологии? / Как найти клиентов косметологу?](https://www.youtube.com/watch?v=OEtcXNQjmeI) | Видео | нет | нет | — |
+| `Wo_MSorLVbI` | [МИЛЛИОН на СТРОЙКЕ! / Пошаговый план, как увеличить ПРИБЫЛЬ и ПРОДАЖИ в ЛЮБОЙ нише](https://www.youtube.com/watch?v=Wo_MSorLVbI) | Видео | нет | нет | — |
+| `3M4DKZlIY3Y` | [Менеджеры уводят клиентов! / Как построить отдел продаж?](https://www.youtube.com/watch?v=3M4DKZlIY3Y) | Видео | нет | нет | — |
+| `JJ12gygdDME` | [ТОП-5 действий - и продажи вырастут! / Инструменты продаж для быстрой и максимальной прибыли](https://www.youtube.com/watch?v=JJ12gygdDME) | Видео | нет | нет | — |
+| `tmP4x7VdbpU` | [Дешёвый способ привлечения новых клиентов / Как увеличить продажи, используя нецелевые лиды?](https://www.youtube.com/watch?v=tmP4x7VdbpU) | Видео | нет | нет | — |
+| `U1DXbw8ZnsY` | [Страх звонка: как побороть и начать звонить клиенту / Эффективные упражнения, чтобы улучшить продажи](https://www.youtube.com/watch?v=U1DXbw8ZnsY) | Видео | нет | нет | — |
+| `USFr3IwtPrY` | [Как разговаривать с клиентом при продаже? / Каким нужно быть в продажах?](https://www.youtube.com/watch?v=USFr3IwtPrY) | Видео | нет | нет | — |
+| `mI1mhSSp9jM` | [Что должен уметь продавец? / 3 главных умения в профессии продавца](https://www.youtube.com/watch?v=mI1mhSSp9jM) | Видео | нет | нет | — |
+| `qRZwmVpdV78` | [Что такое КАСТДЕВ? / Как работает Customer Development? Нужен ли он бизнесу?](https://www.youtube.com/watch?v=qRZwmVpdV78) | Видео | нет | нет | — |
+| `JOCnDG3fbes` | [Плохой план продаж - НЕТ прибыли в компании! / Почему план продаж не выполняется?](https://www.youtube.com/watch?v=JOCnDG3fbes) | Видео | да | нет | [папка](../long/2021-09-17-plokhoy-plan-prodazh-net-pribyli-v-kompanii/README.md) |
+| `Mu_u-R27GOY` | [Худшие ответы на возражение «ДОРОГО»! / Как отвечать на возражения клиентов?](https://www.youtube.com/watch?v=Mu_u-R27GOY) | Видео | да | нет | [папка](../long/2021-09-15-khudshie-otvety-na-vozrazhenie-dorogo/README.md) |
+| `j1GyVYhOF94` | [Как увеличить прибыль в бизнесе? / Всё об LTV показателе! / Причины низкого LTV прибыли компании](https://www.youtube.com/watch?v=j1GyVYhOF94) | Видео | нет | нет | — |
+| `UVOa4Y6ce70` | [Выгодная скидка - успешная покупка! / Как правильно торговаться и получить скидку?](https://www.youtube.com/watch?v=UVOa4Y6ce70) | Видео | нет | нет | — |
+| `tXTGOPFhc-4` | [Как много продавать и не выгорать? / 5 лайфхаков для организации работы в отделе продаж](https://www.youtube.com/watch?v=tXTGOPFhc-4) | Видео | нет | нет | — |
+| `vGAKslQutcQ` | [Как дожать клиента и завершить продажу?! / 9 ошибок при закрытии сделки](https://www.youtube.com/watch?v=vGAKslQutcQ) | Видео | нет | нет | — |
+| `rbPkcFhrBCk` | [Какие ошибки в управлении и продажах мешают увеличить прибыль? / 10 ошибок в отделе продаж](https://www.youtube.com/watch?v=rbPkcFhrBCk) | Видео | нет | нет | — |
+| `IqCKuYeGaFM` | [Надо ли менеджеру по продажам дружить с клиентом? / Что делать, если клиент — друг?](https://www.youtube.com/watch?v=IqCKuYeGaFM) | Видео | нет | нет | — |
+| `dKpk_3NPzIo` | [От чего зависит успех продавца? / Тренинг по продажам: как стать лучшим продавцом?!](https://www.youtube.com/watch?v=dKpk_3NPzIo) | Видео | нет | нет | — |
+| `JgxS8p-PwiA` | [Без скидок в России продать невозможно?! / Как отказать клиенту в скидке и не потерять его?](https://www.youtube.com/watch?v=JgxS8p-PwiA) | Видео | нет | нет | — |
+| `DKlQ9YcP4gY` | [Шпаргалка возражений в продажах! / Эффективная техника работы с возражениями](https://www.youtube.com/watch?v=DKlQ9YcP4gY) | Видео | нет | нет | — |
+| `-zb0K-XRp64` | [Главное в продажах - создать убойные скрипты! / Основные ошибки в составлении скриптов продаж](https://www.youtube.com/watch?v=-zb0K-XRp64) | Видео | нет | нет | — |
+| `ePIEDCMnN9g` | [Правильная интонация - это залог успешной продажи! / Как интонация помогает в продажах?](https://www.youtube.com/watch?v=ePIEDCMnN9g) | Видео | нет | нет | — |
+| `7wtxVJmwDuw` | [Самое сильно видео про управление / Предсказываем срыв продаж РОПом по отчету](https://www.youtube.com/watch?v=7wtxVJmwDuw) | Видео | нет | нет | — |
+| `Ma7pBX_4DnA` | [Как продавать дороже конкурентов? / 7 лайфхаков, чтобы продать дороже](https://www.youtube.com/watch?v=Ma7pBX_4DnA) | Видео | нет | нет | — |
+| `-FP5CCLPfR4` | [Это тот продавец, который точно будет продавать! / Как выглядит идеальный менеджер по продажам?](https://www.youtube.com/watch?v=-FP5CCLPfR4) | Видео | нет | нет | — |
+| `1BgkbNSbPNw` | [ТОП-10 мифов про отдел продаж / Что обязательно нужно знать об отделе продаж?](https://www.youtube.com/watch?v=1BgkbNSbPNw) | Видео | нет | нет | — |
+| `UjJ9y6Ql7ig` | [Фразы для идеальной продажи / Как убедить клиента совершить покупку?](https://www.youtube.com/watch?v=UjJ9y6Ql7ig) | Видео | нет | нет | — |
+| `mQAjfJNFHVk` | [ТОП-7 фраз, убивающих продажи / Что сказать клиенту на фразу: «Ну, рассказывай…»?](https://www.youtube.com/watch?v=mQAjfJNFHVk) | Видео | нет | нет | — |
+| `f1S16gnjakE` | [Самый мощный приём и техники в переговорах / Как провести успешные переговоры?](https://www.youtube.com/watch?v=f1S16gnjakE) | Видео | нет | нет | — |
+| `Rr0L73yODk8` | [Как продать что угодно и кому угодно? / Как засунуть свой мозг в голову клиента?](https://www.youtube.com/watch?v=Rr0L73yODk8) | Видео | нет | нет | — |
+| `wybmr2pyJP8` | [Увеличиваем ПРОДАЖИ! Совершенная воронка продаж в CRM системе](https://www.youtube.com/watch?v=wybmr2pyJP8) | Видео | нет | нет | — |
+| `n2Qqk7V5Jco` | [Как увеличить продажи B2B сегмента? \| 5 ЭТАПОВ B2B ПРОДАЖ \| Разница Б2Б продажи и Б2С продажи](https://www.youtube.com/watch?v=n2Qqk7V5Jco) | Видео | нет | нет | — |
+| `7hcVd1Kvxgk` | [Программирование в продажах \| Как убедить купить ВСЕ ЧТО УГОДНО?](https://www.youtube.com/watch?v=7hcVd1Kvxgk) | Видео | нет | нет | — |
+| `u_nUEEOMKP8` | [Продажи СЛОЖНЫМ клиентам//Как решить конфликт при продаже](https://www.youtube.com/watch?v=u_nUEEOMKP8) | Видео | нет | нет | — |
+| `L0cnPVyo_-Y` | [ГОТОВЫЙ ОТВЕТ на возражение в продажах // Мы уже работаем с другой компанией](https://www.youtube.com/watch?v=L0cnPVyo_-Y) | Видео | нет | нет | — |
+| `ploWA5ytdNA` | [Возражение клиента "Я ПОДУМАЮ". Работа с возражениями в продажах](https://www.youtube.com/watch?v=ploWA5ytdNA) | Видео | нет | нет | — |
+| `LjzooBLs974` | [Как звонить в холодную? Легкий и понятный сценарий продающего разговора!](https://www.youtube.com/watch?v=LjzooBLs974) | Видео | нет | нет | — |
+| `qnkNwnk6PB8` | [Работа с возражением "ДОРОГО". Отработка возражений в продажах](https://www.youtube.com/watch?v=qnkNwnk6PB8) | Видео | нет | нет | — |
+| `XkAZg66tEr8` | [Самые дебильные ошибки в отделе продаж. Не делайте так никогда](https://www.youtube.com/watch?v=XkAZg66tEr8) | Видео | нет | нет | — |
+| `L6Vlo5U2Iks` | [Настройка воронки продаж в amoCRM. Вебинар](https://www.youtube.com/watch?v=L6Vlo5U2Iks) | Видео | нет | нет | — |
+| `_1iEicWjv34` | [5 ФИШЕК: как увеличить продажи. Строим отдел продаж. Михаил Гребенюк](https://www.youtube.com/watch?v=_1iEicWjv34) | Видео | нет | нет | — |
+| `IkXU02-shtg` | [Как увеличить продажи? 10 советов от Михаила Гребенюка](https://www.youtube.com/watch?v=IkXU02-shtg) | Видео | нет | нет | — |
+| `0zKM6d24X_Y` | [25 техник отработки возражений\| Лучшие ответы на возражения\| Михаил Гребенюк](https://www.youtube.com/watch?v=0zKM6d24X_Y) | Видео | да | нет | [папка](../long/2018-02-21-25-tehnik-otrabotki-vozrazheniy/README.md) |
+| `qSXhaWuCNXA` | [Покупательские привычки людей поменялись. И под эти привычки нужно адаптировать свой бизнес](https://www.youtube.com/watch?v=qSXhaWuCNXA) | Shorts | нет | нет | — |
+| `3TlQumILigo` | [100 клиентов? - Sell until they buy ☝🏼](https://www.youtube.com/watch?v=3TlQumILigo) | Shorts | нет | нет | — |
+| `2KftxnSI92s` | [Зумеры станут твоими главными клиентами!](https://www.youtube.com/watch?v=2KftxnSI92s) | Shorts | нет | нет | — |
+| `jedMHSACU3w` | [Не внедряй лояльность вслепую! Больше про бизнес в моём тг](https://www.youtube.com/watch?v=jedMHSACU3w) | Shorts | нет | нет | — |
+| `181UY4_VbAo` | [работать НАД бизнесом, вместо того чтобы работать В нём и самой ехать на продажи](https://www.youtube.com/watch?v=181UY4_VbAo) | Shorts | нет | нет | — |
+| `Z5ZNYR0yj-g` | [Сделать одну продажу - легко. Держать LTV на уровне 15-20 лет - это задачка для тру предпринимателя](https://www.youtube.com/watch?v=Z5ZNYR0yj-g) | Shorts | нет | нет | — |
+| `qOaOxNLt8Lw` | [В премиалке один из факторов успеха бизнеса - когда я не ищу клиентов, а выбираю их #предприниматель](https://www.youtube.com/watch?v=qOaOxNLt8Lw) | Shorts | нет | нет | — |
+| `E0N7mV2J2AM` | [С апреля по май сам закрыл 15 сделок на новый продукт. Это была каторга #предприниматель #побизнесу](https://www.youtube.com/watch?v=E0N7mV2J2AM) | Shorts | нет | нет | — |
+| `tTRkvGWLulE` | [Продажа - диалог о том, кому нужно больше. Грамотный продавец даст понять клиенту, что это ему НАДО](https://www.youtube.com/watch?v=tTRkvGWLulE) | Shorts | нет | нет | — |
+| `OtbHqvP5ahI` | [Я пришел в бизнес через продажи. Одна из первых должностей была такой: РОП в 20 лет с ЗП 300+](https://www.youtube.com/watch?v=OtbHqvP5ahI) | Shorts | нет | нет | — |
+| `wiMyW-pZYXo` | [Рост продаж начинается не сверху воронки. А с починки того, что уже теряет деньги внизу #бизнес](https://www.youtube.com/watch?v=wiMyW-pZYXo) | Shorts | нет | нет | — |
+| `MGm1TfzzQIc` | [Клиенты идут не к тем, кто громче продаёт. А к тем, чей продукт невозможно игнорировать](https://www.youtube.com/watch?v=MGm1TfzzQIc) | Shorts | нет | нет | — |
+| `CogByxwUuwA` | [Рассказал 19 рычагов для повышения прибыли бизнеса. Один из них - «5 единичек». Подробнее в ролике](https://www.youtube.com/watch?v=CogByxwUuwA) | Shorts | нет | нет | — |
+| `gCBZ8S6ku9U` | [База больших продаж - ширина воронки и скорость движение по ней #предприниматель #бизнес](https://www.youtube.com/watch?v=gCBZ8S6ku9U) | Shorts | нет | нет | — |
+| `KgXHNSnM8HE` | [Как плохой сервис убивает даже самый дорогой бизнес? #бизнес #медицина #предприниматель](https://www.youtube.com/watch?v=KgXHNSnM8HE) | Shorts | нет | нет | — |
+| `ZQYdcq1k-YM` | [Как работают ХОЛОДНЫЕ ПРОДАЖИ? Полный выпуск смотрите на канале! #гребенюк #продажи](https://www.youtube.com/watch?v=ZQYdcq1k-YM) | Shorts | нет | нет | — |
+| `qcrZoBzePDE` | [Почему в США дружба - «выгодная сделка»? Полный выпуск подкаста смотрите в VK видео!  #бизнес](https://www.youtube.com/watch?v=qcrZoBzePDE) | Shorts | нет | нет | — |
+| `KP2LEnhbjgk` | [Как УДЕРЖАТЬ клиента? Реальный способ #гребенюк #продажи #клиенты #лиды](https://www.youtube.com/watch?v=KP2LEnhbjgk) | Shorts | нет | нет | — |
+| `ef929RVjPjo` | [ГЛАВНОЕ правило продаж: как оставить свой контакт клиенту? #продажи #гребенюк](https://www.youtube.com/watch?v=ef929RVjPjo) | Shorts | нет | нет | — |
+| `_-2ue4PQ0Y8` | [3 секунды - и тебя уже прочитали. Как невербалика РУШИТ сделки? #гребенюк #бизнес](https://www.youtube.com/watch?v=_-2ue4PQ0Y8) | Shorts | нет | нет | — |
+| `JpJKfaZjGUw` | [Как работают с богатыми клиентами: VIP сервис от Louis Vuitton #гребенюк #михаилгребенюк #бизнес](https://www.youtube.com/watch?v=JpJKfaZjGUw) | Shorts | нет | нет | — |
+| `7NNLlE_awmM` | [Если звонишь так - тебя пошлют. Как перестать звучать как спам и начать продавать? #гребенюк #бизнес](https://www.youtube.com/watch?v=7NNLlE_awmM) | Shorts | нет | нет | — |
+| `UEhVpmAGx2U` | [Как продать "Черный квадрат" за миллионы — уроки от Малевича #гребенюк #бизнес #интересныефакты](https://www.youtube.com/watch?v=UEhVpmAGx2U) | Shorts | нет | нет | — |
+| `stoZ4mFJEAA` | [Как Wi-Fi уничтожает ПРОДАЖИ? Вот почему он не нужен Кофейням #продажи #гребенюк #бизнес](https://www.youtube.com/watch?v=stoZ4mFJEAA) | Shorts | нет | нет | — |
+| `U7c2CDFExP4` | [Простой способ превратить ХОЛОДНОГО клиента в теплого! #бизнес #деньги #продажи](https://www.youtube.com/watch?v=U7c2CDFExP4) | Shorts | нет | нет | — |
+| `zaOT3rGTgy4` | [90% продаж срываются по одной причине #гребенюк #бизнес #продажи](https://www.youtube.com/watch?v=zaOT3rGTgy4) | Shorts | нет | нет | — |
+| `o3HpAiMdx_M` | [Самая ЭФФЕКТИВНАЯ схема холодных продаж в 2026! #бизнес #деньги #продажи](https://www.youtube.com/watch?v=o3HpAiMdx_M) | Shorts | нет | нет | — |
+| `KMjlgY-Ifc8` | [Клиенты навсегда: как выстроить сервис? Фильм «Феномен» про Точка Банк на канале! #бизнес #продажи](https://www.youtube.com/watch?v=KMjlgY-Ifc8) | Shorts | нет | нет | — |
+| `qLARGSyVTbE` | [Как предприниматели отмечают успешные сделки? Полный выпуск с основателем "Бери заряд!" в VK видео!](https://www.youtube.com/watch?v=qLARGSyVTbE) | Shorts | нет | нет | — |
+| `dcl2DThkNZg` | [ВИП-клиенты в России и их доля в стране #гребенюк #саморазвитие #бизнес](https://www.youtube.com/watch?v=dcl2DThkNZg) | Shorts | нет | нет | — |
+| `d90qG840kpM` | [САМЫЙ странный звонок в поддержку, который вы слышали! #бизнес #лояльность #клиенты](https://www.youtube.com/watch?v=d90qG840kpM) | Shorts | нет | нет | — |
+| `GHTDBjw6MdI` | [ЭТОТ минутный разговор сделал обычного продажника знаменитым и вот как! #мем #маркетинг](https://www.youtube.com/watch?v=GHTDBjw6MdI) | Shorts | нет | нет | — |
+| `ouqHlE2vQ9s` | [Секрет продаж на миллиарды в б2б #продажи #бизнес #деньги](https://www.youtube.com/watch?v=ouqHlE2vQ9s) | Shorts | нет | нет | — |
+| `Pqjuevmxuik` | [Зачем покупать себе подарки? #гребенюк #михаилгребенюк](https://www.youtube.com/watch?v=Pqjuevmxuik) | Shorts | нет | нет | — |
+| `ebZWnY1q61g` | [Гениальный ход, который увеличил прибыль и продажи #гребенюк #бизнес #предприниматель #продажи](https://www.youtube.com/watch?v=ebZWnY1q61g) | Shorts | нет | нет | — |
+| `t9bvnd8mHmE` | [Как мне продали BMW в автосалоне #гребенюк #авто #бмв #продажи](https://www.youtube.com/watch?v=t9bvnd8mHmE) | Shorts | нет | нет | — |
+| `ZvfyUkN52Lw` | [Продай ручку: гениальный урок продаж от Волка с Уолл-стрит #гребенюк #продажи](https://www.youtube.com/watch?v=ZvfyUkN52Lw) | Shorts | нет | нет | — |
+| `xamcOBFhnjA` | [Как мне продали фридайвинг⠀#гребенюк #продажи #маркетинг](https://www.youtube.com/watch?v=xamcOBFhnjA) | Shorts | нет | нет | — |
+| `Z_go56dR7os` | [Как сделать так, чтобы Клиенты приходили сами #гребенюк #бизнес #предприниматель](https://www.youtube.com/watch?v=Z_go56dR7os) | Shorts | нет | нет | — |
+| `w-5c3uEkbhg` | [У вашего клиента только 3 эмоции и только ОДНА приносит ДЕНЬГИ #гребенюк #бизнес #предприниматель](https://www.youtube.com/watch?v=w-5c3uEkbhg) | Shorts | нет | нет | — |
+| `N1ic2V0Jvs4` | [Этот лайфхак увеличит ПРОДАЖИ #гребенюк #бизнес #предприниматель](https://www.youtube.com/watch?v=N1ic2V0Jvs4) | Shorts | нет | нет | — |
+| `E6rL9AedV5k` | [Простой шаг, который повысит конверсию и продажи #гребенюк #бизнес #предприниматель](https://www.youtube.com/watch?v=E6rL9AedV5k) | Shorts | нет | нет | — |
+| `LS-BQOKuASw` | [Почему нет продаж (и как это исправить) #гребенюк #бизнес #предприниматель #клиенты](https://www.youtube.com/watch?v=LS-BQOKuASw) | Shorts | нет | нет | — |
+| `W6vbt6CLb0k` | [Почему не получается продавать? Полный выпуск подкаста смотрите в VK видео #гребенюк #подкаст](https://www.youtube.com/watch?v=W6vbt6CLb0k) | Shorts | нет | нет | — |
+| `Syc8B5kObcM` | [Как продавать БОЛЬШЕ? Оксана Самойлова и ее влияние на продажи брендов одежды #гребенюк #продажи](https://www.youtube.com/watch?v=Syc8B5kObcM) | Shorts | нет | нет | — |
+| `94IOFkL5sUY` | [Как не потерять клиента? Ошибка многих предпринимателей #гребенюк #бизнес #продажи](https://www.youtube.com/watch?v=94IOFkL5sUY) | Shorts | нет | нет | — |
+| `_qcQKKVS_Us` | [Главная ФИШКА компании МакКинси: как продавать гигантским компаниям? #гребенюк #бизнес #продажи](https://www.youtube.com/watch?v=_qcQKKVS_Us) | Shorts | нет | нет | — |
+| `hug79fxy5F0` | [Что не так с вашей воронкой продаж?  Где вы теряете деньги? #гребенюк #бизнес #продажи](https://www.youtube.com/watch?v=hug79fxy5F0) | Shorts | нет | нет | — |
+| `DhOKp9-Dowg` | [Ты тоже так теряешь клиентов (и даже не замечаешь) #гребенюк #бизнес #продажи](https://www.youtube.com/watch?v=DhOKp9-Dowg) | Shorts | нет | нет | — |
+| `7m_LdtUeYcE` | [Как поднять ЦЕНУ, не потеряв клиента? Смотрите в закрепе моего тг канала. Ссылка в описании профиля](https://www.youtube.com/watch?v=7m_LdtUeYcE) | Shorts | нет | нет | — |
+| `45y6IEIbNmk` | [Как сделать так, чтобы КЛИЕНТЫ хотели купить ваш продукт? #гребенюк #бизнес #предприниматель](https://www.youtube.com/watch?v=45y6IEIbNmk) | Shorts | нет | нет | — |
+| `v-0EUyireUY` | [Клиент говорит ДОРОГО: как реже слышать такое возражение? #гребенюк #бизнес](https://www.youtube.com/watch?v=v-0EUyireUY) | Shorts | нет | нет | — |
+| `pOXlztfXSGc` | [Дешевый способ сделать МНОГО ПРОДАЖ #гребенюк #бизнес #предприниматель #мышление](https://www.youtube.com/watch?v=pOXlztfXSGc) | Shorts | нет | нет | — |
+| `THybHxZTF4M` | [Как одной фразой привлечь КЛИЕНТОВ? Полный выпуск с Александром Цыпкиным смотрите на VK Видео#бизнес](https://www.youtube.com/watch?v=THybHxZTF4M) | Shorts | нет | нет | — |
+| `0RFEgBjsslk` | [ТОП-3 знака, что в отделе ПРОДАЖ есть проблемы! #продажи #бизнес #гребенюк #михаилгребенюк](https://www.youtube.com/watch?v=0RFEgBjsslk) | Shorts | нет | нет | — |
+| `gwGcLJ17e40` | [Лучший совет для увеличения ПРОДАЖ #гребенюк #продажи #бизнес](https://www.youtube.com/watch?v=gwGcLJ17e40) | Shorts | нет | нет | — |
+| `80J75nujmFY` | [Как увеличить продажи в бизнесе? Подробности в закрепленном комментарии #гребенюк #бизнес](https://www.youtube.com/watch?v=80J75nujmFY) | Shorts | нет | нет | — |
+| `crDuQYAlL2o` | [Как стать лучшим продажником? #гребенюк #бизнес #предприниматель](https://www.youtube.com/watch?v=crDuQYAlL2o) | Shorts | нет | нет | — |
+| `n10lVvQ75_4` | [Почему клиенты НЕ покупают у вас? #гребенюк #михаилгребенюк #бизнес #клиенты #продажи](https://www.youtube.com/watch?v=n10lVvQ75_4) | Shorts | да | нет | [папка](../reels/2025-03-23-pochemu-klienty-ne-pokupayut-u-vas/README.md) |
+| `FjyrwfaIK1M` | [Преступление психолога: как манипулируют клиентами! #гребенюк #михаилгребенюк #психология](https://www.youtube.com/watch?v=FjyrwfaIK1M) | Shorts | нет | нет | — |
+| `ntfmNl289mA` | [Ключевые Факторы Успеха Отдела ПРОДАЖ #гребенюк #михаилгребенюк #бизнес #продажи](https://www.youtube.com/watch?v=ntfmNl289mA) | Shorts | нет | нет | — |
+| `tRNUIGwePzw` | [Как девушка взбесила весь отдел #гребенюк #михаилгребенюк #бизнес #продажи](https://www.youtube.com/watch?v=tRNUIGwePzw) | Shorts | нет | нет | — |
+| `Bo4zwKfjYrI` | [ДОРОГО! Почему клиенты возражают? #гребенюк #михаилгребенюк #продажи #клиенты #возражения #бизнес](https://www.youtube.com/watch?v=Bo4zwKfjYrI) | Shorts | нет | нет | — |
+| `41Hls7i9XOU` | [Как быстро поднять ПРОДАЖИ и бороться с возражениями? #гребенюк #михаилгребенюк #бизнес #продажи](https://www.youtube.com/watch?v=41Hls7i9XOU) | Shorts | нет | нет | — |
+| `YB-BWgSmaD0` | [Почему у вас мало клиентов и продаж? #гребенюк #михаилгребенюк #бизнес #предприниматель](https://www.youtube.com/watch?v=YB-BWgSmaD0) | Shorts | нет | нет | — |
+| `OJX3aEY5lwY` | [Секрет БОЛЬШИХ продаж! #гребенюк #михаилгребенюк #продажи #бизнес #предприниматель](https://www.youtube.com/watch?v=OJX3aEY5lwY) | Shorts | нет | нет | — |
+| `xudcxIT5OIg` | [Как расположить к себе клиента за пару секунд? #гребенюк #михаилгребенюк #продажи #бизнес](https://www.youtube.com/watch?v=xudcxIT5OIg) | Shorts | нет | нет | — |
+| `MTxX1Wa-ruY` | [Это самое главное в продажах! #гребенюк #михаилгребенюк #продажи #бизнес](https://www.youtube.com/watch?v=MTxX1Wa-ruY) | Shorts | нет | нет | — |
+| `RKg-A2Prulo` | [Фишка для больших продаж! #гребенюк #михаилгребенюк #бизнес #продажи](https://www.youtube.com/watch?v=RKg-A2Prulo) | Shorts | нет | нет | — |
+| `YawL14-KQvQ` | [Лайфхак: как повысить продажи #гребенюк #михаилгребенюк #бизнес #продажи #предприниматель](https://www.youtube.com/watch?v=YawL14-KQvQ) | Shorts | нет | нет | — |
+| `m9mCv7ooS5A` | [Как продавать больше? #гребенюк #продажи #михаилгребенюк #бизнес #предприниматель](https://www.youtube.com/watch?v=m9mCv7ooS5A) | Shorts | нет | нет | — |
+| `aG4eskxmX2Y` | [Такая схема в БИЗНЕСЕ больше не работает! #гребенюк #михаилгребенюк #бизнес #продажи](https://www.youtube.com/watch?v=aG4eskxmX2Y) | Shorts | нет | нет | — |
+| `1Is64Fwr5zc` | [Как быстро стартануть в БИЗНЕСЕ? #гребенюк #михаилгребенюк #бизнес #продажи #предприниматель](https://www.youtube.com/watch?v=1Is64Fwr5zc) | Shorts | нет | нет | — |
+| `qERHmIYCtCk` | [Главный БИЗНЕС секрет предпринимателей! #гребенюк #михаилгребенюк #продажи #бизнес #предприниматель](https://www.youtube.com/watch?v=qERHmIYCtCk) | Shorts | нет | нет | — |
+| `dz0cz_A9jgE` | [Как увеличить продажи в бизнесе? #михаилгребенюк #гребенюк #бизнес #продажи](https://www.youtube.com/watch?v=dz0cz_A9jgE) | Shorts | нет | нет | — |
+| `XURVsc8m81g` | [Как произвести ВАУ-эффект в БИЗНЕСЕ и увеличить продажи? #бизнес #михаилгребенюк #гребенюк](https://www.youtube.com/watch?v=XURVsc8m81g) | Shorts | нет | нет | — |
+| `XUeXY8zMM3I` | [Как вернуть лояльность КЛИЕНТА? #михаилгребенюк #гребенюк #бизнес #клиенты](https://www.youtube.com/watch?v=XUeXY8zMM3I) | Shorts | нет | нет | — |
+| `n2kAO5AzVkQ` | [Реальный пример того, как можно закрыть все боли клиента #успех #развитиебизнеса #бизнес](https://www.youtube.com/watch?v=n2kAO5AzVkQ) | Shorts | нет | нет | — |
+| `oBQJuwgpEdI` | [Секрет успешных продаж на маркетплейсах! #маркетплейсы #бизнес #предприниматель](https://www.youtube.com/watch?v=oBQJuwgpEdI) | Shorts | нет | нет | — |
+| `9U84RGkxLy4` | [Зачем покупать зубную пасту за 1800 рублей? #деньги #мышление #успех](https://www.youtube.com/watch?v=9U84RGkxLy4) | Shorts | нет | нет | — |
+| `f99pFXZKNX4` | [Как внутреннее состояние определяет успех продаж? #продажи #мышление #состояние](https://www.youtube.com/watch?v=f99pFXZKNX4) | Shorts | нет | нет | — |
+| `lcAOLkVor10` | [Это правило гарантирует тебе успешные продажи! #бизнес #продажи #воронкапродаж](https://www.youtube.com/watch?v=lcAOLkVor10) | Shorts | нет | нет | — |
+| `RqzANrUBj6g` | [Вы не знаете своего клиента, если не делали это! #маркетинг #продажи #клиенты](https://www.youtube.com/watch?v=RqzANrUBj6g) | Shorts | нет | нет | — |
+| `g2TWenAHlAw` | [ChatGPT может помочь вам увеличить продажи! #нейросети #продажи #chatgpt](https://www.youtube.com/watch?v=g2TWenAHlAw) | Shorts | нет | нет | — |
+| `TWCKvPDIhhs` | [Это убивает отдел продаж! #продажи #какпродавать #бизнес](https://www.youtube.com/watch?v=TWCKvPDIhhs) | Shorts | нет | нет | — |
+| `FrCaz5Ttc80` | [Уникальная фишка для анализа воронки продаж #бизнес #продажи #воронкапродаж](https://www.youtube.com/watch?v=FrCaz5Ttc80) | Shorts | нет | нет | — |
+| `7ZOPgfFnH_M` | [Как клиент принимает решение о покупке? #продажи #воронкапродаж #какпродавать](https://www.youtube.com/watch?v=7ZOPgfFnH_M) | Shorts | нет | нет | — |
+| `XxBh-5aBAtw` | [Что заставляет клиентов возвращаться снова и снова? #продажи #клиенты #бизнес](https://www.youtube.com/watch?v=XxBh-5aBAtw) | Shorts | нет | нет | — |
+| `3jyxw6hQfPE` | [Последний и самый ВАЖНЫЙ этап в продажах! #конвертер #продажи #этапыпродаж](https://www.youtube.com/watch?v=3jyxw6hQfPE) | Shorts | нет | нет | — |
+| `qCDk9JQKJSY` | [Чем продажи в бизнесе похожи на Warcraft? #продажи #бизнес #предпринимательство](https://www.youtube.com/watch?v=qCDk9JQKJSY) | Shorts | нет | нет | — |
+| `9WXWWvZJlJg` | [Мощнейшая техника продаж #продажи #какпродавать #бизнес](https://www.youtube.com/watch?v=9WXWWvZJlJg) | Shorts | нет | нет | — |
+| `4_fA_dctKrI` | [Как найти дилеров для оптовых продаж? #бизнес #предпринимательство #продажи](https://www.youtube.com/watch?v=4_fA_dctKrI) | Shorts | нет | нет | — |
+| `kWYBs9GdI2U` | [Главное правило любого менеджера по продажам #продажи #клиенты #менеджер](https://www.youtube.com/watch?v=kWYBs9GdI2U) | Shorts | нет | нет | — |
+| `I_60-J_SC4g` | [Принцип работы воронки продаж #воронкапродаж #бизнес #продажи](https://www.youtube.com/watch?v=I_60-J_SC4g) | Shorts | нет | нет | — |
+| `5ph5y8KxojU` | [Простой способ повысить лояльность клиентов #бизнес #клиенты #поискклиентов](https://www.youtube.com/watch?v=5ph5y8KxojU) | Shorts | нет | нет | — |
+| `xHPxi7GD3rc` | [Техника быстрого поиска клиентов #бизнес #клиенты #поискклиентов](https://www.youtube.com/watch?v=xHPxi7GD3rc) | Shorts | нет | нет | — |
+| `h_1UJW_ts74` | [Как поднять продажи ЗА ДЕНЬ? #бизнес #бизнесидеи #идеидлябизнеса](https://www.youtube.com/watch?v=h_1UJW_ts74) | Shorts | нет | нет | — |
+| `Mr52cSRBMPs` | [Пример крутого КАСТДЕВА #маркетинг #продажи #целеваяаудитория #ца](https://www.youtube.com/watch?v=Mr52cSRBMPs) | Shorts | нет | нет | — |
+| `Bb9KiSWD2u8` | [Как впарить хреновый продукт? #маркетинг #продажи #какпродавать #тренингпродаж](https://www.youtube.com/watch?v=Bb9KiSWD2u8) | Shorts | нет | нет | — |
+| `5Q88sk62Xj4` | [Как продавать БОЛЬШЕ в сфере B2B? #продажи #скрипты #деньги #бизнес](https://www.youtube.com/watch?v=5Q88sk62Xj4) | Shorts | да | нет | [папка](../reels/2024-03-07-kak-prodavat-bolshe-v-sfere-b2b/README.md) |
+| `Mq_-Hv5QBy8` | [ДОРОЖАЮТ клиенты? Это неизбежно в бизнесе! #клиенты #бизнес #предприниматель](https://www.youtube.com/watch?v=Mq_-Hv5QBy8) | Shorts | нет | нет | — |
+| `ytCL4ZnAPY8` | [Как отличить ценную обратную связь от шума? #обратнаясвязь #клиенты #бизнес](https://www.youtube.com/watch?v=ytCL4ZnAPY8) | Shorts | нет | нет | — |
+| `pwKAuMUbGh8` | [Что происходит с продажниками после выходных? #тренировки #обучение #отделпродаж #продажи](https://www.youtube.com/watch?v=pwKAuMUbGh8) | Shorts | нет | нет | — |
+| `WohnPog1TvE` | [КЛЮЧЕВОЙ ЭТАП ВОРОНКИ продаж, который взорвет ваши ПРОДАЖИ! #бизнес #продажи #воронкапродаж](https://www.youtube.com/watch?v=WohnPog1TvE) | Shorts | нет | нет | — |
+| `MuXR-4K2cqs` | [ЛУЧШИЕ КНИГИ, которые ВЗОРВУТ твои ПРОДАЖИ! #бизнес #книги #мышление #развитие](https://www.youtube.com/watch?v=MuXR-4K2cqs) | Shorts | нет | нет | — |
+| `XlwlqCNfLX0` | [ГЛАВНЫЙ УБИЙЦА ВОРОНКИ ПРОДАЖ! #продажи #воронкапродаж #отделпродаж](https://www.youtube.com/watch?v=XlwlqCNfLX0) | Shorts | нет | нет | — |
+| `LP3ukzEVc34` | [Самая ГЛАВНАЯ ошибка начинающего продавца! #продажи #менеджерпопродажам #бизнес](https://www.youtube.com/watch?v=LP3ukzEVc34) | Shorts | нет | нет | — |
+| `gF6bFlFLjTI` | [Как БЫСТРО составить аватар клиента? #клиенты #продажи #бизнес](https://www.youtube.com/watch?v=gF6bFlFLjTI) | Shorts | нет | нет | — |
+| `YiYJlx0UiEI` | [МОЩНЕЙШИЕ комбинации для продаж! #продажи #конверсия #бизнес](https://www.youtube.com/watch?v=YiYJlx0UiEI) | Shorts | нет | нет | — |
+| `TVGW7PJugTo` | [Как продавать ПОВТОРНО? Эффективное решение! #продажи #бизнес #деньги](https://www.youtube.com/watch?v=TVGW7PJugTo) | Shorts | нет | нет | — |
+| `wAYyDLjQHMg` | [СЕКРЕТ ПОВТОРНЫХ ПРОДАЖ! #продажи #бизнес #деньги](https://www.youtube.com/watch?v=wAYyDLjQHMg) | Shorts | нет | нет | — |
+| `z1Kup46jQTw` | [Как прокачать свой отдел продаж? #бизнес #продажи #деньги #отделпродаж](https://www.youtube.com/watch?v=z1Kup46jQTw) | Shorts | нет | нет | — |
+| `DpBh6A0xExQ` | [Как убедить клиента купить ваш товар СЕЙЧАС? #клиенты #продажи #маркетинг #деньги](https://www.youtube.com/watch?v=DpBh6A0xExQ) | Shorts | нет | нет | — |
+| `UGvWJknQII4` | [ЛУЧШИЙ СПОСОБ ЗАВОЕВАТЬ КЛИЕНТА! #клиенты #продажи #маркетинг #развитие](https://www.youtube.com/watch?v=UGvWJknQII4) | Shorts | нет | нет | — |
+| `mgiFztZgrcc` | [Как прогреть клиента? Превращаем лид в продажу! #продажи #клиенты #бизнес](https://www.youtube.com/watch?v=mgiFztZgrcc) | Shorts | нет | нет | — |
+| `iMqBT1NvuPk` | [РЕАЛЬНЫЙ способ удержать клиента на сайте! #аналитика #конверсия #маркетинг](https://www.youtube.com/watch?v=iMqBT1NvuPk) | Shorts | нет | нет | — |
+| `n_aReb3jGO8` | [Увеличение потока клиентов: 100% работающий метод! #продажи #маркетинг #бизнес](https://www.youtube.com/watch?v=n_aReb3jGO8) | Shorts | да | нет | [папка](../reels/2023-12-14-uvelichenie-potoka-klientov-100-rabotayuschiy-metod/README.md) |
+| `_bwH-9hJcIM` | [Как БЫСТРО увеличить средний чек? #деньги #продажи #бизнес](https://www.youtube.com/watch?v=_bwH-9hJcIM) | Shorts | нет | нет | — |
+| `qdjMUGYIIg8` | [Как ЛЕГКО привлечь новых клиентов #маркетинг #деньги #продажи](https://www.youtube.com/watch?v=qdjMUGYIIg8) | Shorts | нет | нет | — |
+| `tS9dwqjgBsI` | [Как заставить клиента платить дважды? #клиенты #деньги #продажи](https://www.youtube.com/watch?v=tS9dwqjgBsI) | Shorts | нет | нет | — |
+| `-k946RnsI0w` | [НАШИ ВОЗМОЖНОСТИ ПОВСЮДУ! #возможности #успех #продажи #бизнес](https://www.youtube.com/watch?v=-k946RnsI0w) | Shorts | нет | нет | — |
+| `5iv-A36v5PU` | [Самый ЛУЧШИЙ сервис в отеле! #сервис #отель #гостиница](https://www.youtube.com/watch?v=5iv-A36v5PU) | Shorts | нет | нет | — |
+| `i4yohWLoKmQ` | [УНИКАЛЬНАЯ техника продаж! #бизнес #продажи #развитие](https://www.youtube.com/watch?v=i4yohWLoKmQ) | Shorts | нет | нет | — |
+| `OliEPXvPeNY` | [Из каких ЭТАПОВ состоит ВОРОНКА продаж? #воронкапродаж #бизнес #продажи](https://www.youtube.com/watch?v=OliEPXvPeNY) | Shorts | нет | нет | — |
+| `tl-VLucAnDg` | [Как МГНОВЕННО увеличить продажи в любом бизнесе? #продажи #деньги #бизнес #мотивация](https://www.youtube.com/watch?v=tl-VLucAnDg) | Shorts | нет | нет | — |
+| `ERLb9J8VzJs` | [Как хитростью завоевать доверие клиента? #бизнес #саморазвитие](https://www.youtube.com/watch?v=ERLb9J8VzJs) | Shorts | да | нет | [папка](../reels/2023-03-21-kak-hitrostyu-zavoevat-doverie-klienta/README.md) |
