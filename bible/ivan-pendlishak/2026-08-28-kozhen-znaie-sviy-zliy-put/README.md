@@ -7,7 +7,7 @@ collection: "ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 structure_status: pending
-tags: []
+tags: ["покаяние", "пророчество", "Иеремия", "злой путь", "Ветхий Завет", "толкование Библии", "борода и головной убор"]
 ---
 
 # Кожен знає свій злий путь
