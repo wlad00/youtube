@@ -1,9 +1,10 @@
 ---
 title: "Звернення до пасторів"
-youtube: ""
-video_id: ""
+youtube: "https://www.youtube.com/watch?v=j2-AmM-5za0"
+video_id: "j2-AmM-5za0"
 date: "2026-08-21"
 collection: "ivan-pendlishak"
+channel: "Ivan Pendlyshak"
 author: "Іван Пендлишак"
 structure_status: pending
 tags: ["пастырское служение", "ответственность пастора", "духовная опека", "исповедь и покаяние", "служение без наёмничества", "беспристрастность"]
