@@ -5,8 +5,8 @@ video_id: "CqRvXECtUDM"
 date: "2026-09-15"
 collection: "margulan-seysembaev"
 language: "ru"
-structure_status: pending
-tags: []
+structure_status: ready
+tags: ["стартапы", "предпринимательство", "гипотезы", "тестирование идей", "стратегия слизняка", "неопределённость"]
 ---
 
 # Не ищите идеальную идею. Тестируйте гипотезы
