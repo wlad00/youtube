@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: ["лжепророки", "пророчество", "Иеремия", "Ананий", "различение слова", "проповедь", "церковный порядок"]
 ---
 
 # Час покаже - Іван Пендлишак
