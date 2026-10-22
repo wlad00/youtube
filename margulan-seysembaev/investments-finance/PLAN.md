@@ -2,19 +2,21 @@
 
 [Все темы и общий прогресс](../PLAN.md)
 
-Дата снимка и статусов: **22.10.2026**.
+Снимок каталога: **22.10.2026**. Очередь и статусы обновлены: **23.10.2026**.
 
 Инвестиции, заработок, капитал, долги, кредиты и финансовая грамотность.
 
+В очереди только обычные видео и эфиры. Shorts/рилсы исключены; отбор определяется форматом публикации. Порог 40 000 знаков применяется только при нарезке расшифровки и не ограничивает очередь.
+
 Распределение предварительное, по названию. Один Video ID относится к одной основной теме; содержание транскриптов при распределении не анализировалось.
 
-Всего **106** роликов: основной канал — **106**, другие каналы — **0**. Субтитры: **4/106**; подготовлено: **0/106**.
+Всего в очереди: **50**. Субтитры: **1/50**; подготовлено: **0/50**.
 
-«Нет» в статусе означает отсутствие локального файла. Наличие оригинальной дорожки на YouTube проверяется при скачивании. Формат взят из вкладки канала; правила готовности и последовательность «скачать оригинальные субтитры → очистить → подготовить» — в общем плане.
+«Нет» в статусе означает отсутствие локального файла. Наличие оригинальной дорожки на YouTube проверяется при скачивании. Правила готовности и последовательность «скачать оригинальные субтитры → очистить → подготовить» — в общем плане.
 
-## Каталог основного канала
+## Очередь основного канала
 
-[МАРГУЛАН СЕЙСЕМБАЙ](https://www.youtube.com/channel/UCTHXtr2FZibOytQV7Yt7FqA). Порядок: видео, Shorts, трансляции; внутри формата сохранена последовательность выдачи вкладки.
+[МАРГУЛАН СЕЙСЕМБАЙ](https://www.youtube.com/channel/UCTHXtr2FZibOytQV7Yt7FqA). Порядок: обычные видео, затем эфиры; внутри формата сохранена последовательность выдачи вкладки.
 
 | Video ID | Ролик | Формат | Субтитры | Подготовлен | Папка |
 | --- | --- | --- | --- | --- | --- |
@@ -68,59 +70,3 @@
 | `vxnf68NgtFM` | [Қазақстан Иран мен АҚШ қақтығысы салдарынан 500 миллион доллар жоғалтады ма?](https://www.youtube.com/watch?v=vxnf68NgtFM) | Видео | нет | нет | — |
 | `K8f0QmlSnC0` | [Школa практического инвестирования \| 1 часть записи заседания](https://www.youtube.com/watch?v=K8f0QmlSnC0) | Видео | нет | нет | — |
 | `JPCVYDqnmC0` | [Школa практического инвестирования \| 2 часть записи заседания](https://www.youtube.com/watch?v=JPCVYDqnmC0) | Видео | нет | нет | — |
-| `ZYtgk5f3P1M` | [I recently analyzed labor market reports for the US and China.](https://www.youtube.com/watch?v=ZYtgk5f3P1M) | Shorts | нет | нет | — |
-| `mEXWf8fyYQY` | [Where Attention Goes, Money Follows \| Margulan Seissembai](https://www.youtube.com/watch?v=mEXWf8fyYQY) | Shorts | нет | нет | — |
-| `V-WzWjyR6lA` | [The Only Way to Make Money \| Margulan Seissembay](https://www.youtube.com/watch?v=V-WzWjyR6lA) | Shorts | да | нет | [папка](../reels/2026-08-06-edinstvennyy-sposob-zarabatyvat-dengi/README.md) |
-| `EOybQX1scMY` | [Warren Buffett's Rule \| Margulan Seissembai](https://www.youtube.com/watch?v=EOybQX1scMY) | Shorts | нет | нет | — |
-| `NR2GV3LNuf0` | [Investing is about thinking \| Margulan Seisembay](https://www.youtube.com/watch?v=NR2GV3LNuf0) | Shorts | нет | нет | — |
-| `2BZuVJoGOzI` | [Capturing Attention - Monetizing Attention \| Margulan Seissembai](https://www.youtube.com/watch?v=2BZuVJoGOzI) | Shorts | нет | нет | — |
-| `DYNpxrKK2fM` | [The Attention Economy Is Now \| Margulan Seisembay](https://www.youtube.com/watch?v=DYNpxrKK2fM) | Shorts | нет | нет | — |
-| `mVFDP5K6o4Q` | [Smart Shopping \| Margulan Seisembay](https://www.youtube.com/watch?v=mVFDP5K6o4Q) | Shorts | нет | нет | — |
-| `6WMCgKdKKQM` | [Opportunities Bring Wealth \| Margulan Seisembay](https://www.youtube.com/watch?v=6WMCgKdKKQM) | Shorts | нет | нет | — |
-| `fjogxi5wApk` | [Why is it hard for people to manage money? \| Margulan Seisembay](https://www.youtube.com/watch?v=fjogxi5wApk) | Shorts | нет | нет | — |
-| `GCUIj2uKjBo` | [Money is a tool \| Margulan Seisembay](https://www.youtube.com/watch?v=GCUIj2uKjBo) | Shorts | нет | нет | — |
-| `S_BknYlA6j8` | [Кредит в валюте? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=S_BknYlA6j8) | Shorts | нет | нет | — |
-| `0cujhI1GDlw` | [Маргулан Сейсембай \| Жизнь миллиардера](https://www.youtube.com/watch?v=0cujhI1GDlw) | Shorts | нет | нет | — |
-| `6N6L7tr9eqc` | [Держите деньги в кулаке \| Маргулан Сейсембай](https://www.youtube.com/watch?v=6N6L7tr9eqc) | Shorts | нет | нет | — |
-| `EcbqnAl-UDM` | [Что значит настоящее богатство? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=EcbqnAl-UDM) | Shorts | нет | нет | — |
-| `XaY6CTp89vA` | [Сколько нужно денег для жизни? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=XaY6CTp89vA) | Shorts | нет | нет | — |
-| `TCTM2dByCSo` | [Как стать миллиардером? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=TCTM2dByCSo) | Shorts | нет | нет | — |
-| `wqg4Xo2qbLI` | [Научитесь управлять деньгами \| Маргулан Сейсембай](https://www.youtube.com/watch?v=wqg4Xo2qbLI) | Shorts | нет | нет | — |
-| `06x3FxVkhIo` | [Деньги любят тишину \| Маргулан Сейсембай](https://www.youtube.com/watch?v=06x3FxVkhIo) | Shorts | нет | нет | — |
-| `lH5zRHmbEU8` | [Научитесь управлять деньгами \| Маргулан Сейсембай](https://www.youtube.com/watch?v=lH5zRHmbEU8) | Shorts | нет | нет | — |
-| `xRQYkixN6Io` | [Деньги - не равно счастье \| Маргулан Сейсембай](https://www.youtube.com/watch?v=xRQYkixN6Io) | Shorts | нет | нет | — |
-| `KmvtEVNJUxI` | [Сила накопительного эффекта \| Маргулан Сейсембай](https://www.youtube.com/watch?v=KmvtEVNJUxI) | Shorts | нет | нет | — |
-| `gAmT-WBCOQ4` | [Кому дается богатство? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=gAmT-WBCOQ4) | Shorts | нет | нет | — |
-| `ardIPZgnrsU` | [Я больше не верю в доллар \| Маргулан Сейсембай](https://www.youtube.com/watch?v=ardIPZgnrsU) | Shorts | нет | нет | — |
-| `PB1CUaP-OE4` | [Моя стратегия инвестирования \| Маргулан Сейсембай](https://www.youtube.com/watch?v=PB1CUaP-OE4) | Shorts | нет | нет | — |
-| `9uPG8hk3b4c` | [Я не инвестирую в эти компании… \| Маргулан Сейсембай](https://www.youtube.com/watch?v=9uPG8hk3b4c) | Shorts | нет | нет | — |
-| `SgisX-dE2y4` | [Мой инвест подход к жизни \| Маргулан Сейсембай](https://www.youtube.com/watch?v=SgisX-dE2y4) | Shorts | нет | нет | — |
-| `iURVEtyYNFI` | [Сколько нужно денег человеку? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=iURVEtyYNFI) | Shorts | нет | нет | — |
-| `Z-SegLH4A4U` | [Маргулан Сейсембай \| Как создать богатство?](https://www.youtube.com/watch?v=Z-SegLH4A4U) | Shorts | нет | нет | — |
-| `e5fd4gyELjY` | [Моя Главная Инвестиция \| Маргулан Сейсембай](https://www.youtube.com/watch?v=e5fd4gyELjY) | Shorts | нет | нет | — |
-| `usEd-Vih2Cw` | [Как заработать большие деньги? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=usEd-Vih2Cw) | Shorts | да | нет | [папка](../reels/2026-01-05-kak-zarabotat-bolshie-dengi/README.md) |
-| `KKo_Kmb8ly0` | [Как Заработать Большие Деньги? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=KKo_Kmb8ly0) | Shorts | да | нет | [папка](../reels/2025-12-19-kak-zarabotat-bolshie-dengi/README.md) |
-| `9J53ZiP8I6s` | [Tg: Margulan Seissembai #инвестиции #бизнес](https://www.youtube.com/watch?v=9J53ZiP8I6s) | Shorts | нет | нет | — |
-| `K3SxsmtGPwI` | [Tg: Margulan Seissembai #бизнес #инвестиции](https://www.youtube.com/watch?v=K3SxsmtGPwI) | Shorts | нет | нет | — |
-| `9MQ-Ae1X4dY` | [Tg: Margulan Seissembai #инвестиции](https://www.youtube.com/watch?v=9MQ-Ae1X4dY) | Shorts | нет | нет | — |
-| `nGPItI9SV8s` | [Tg: Margulan Seissembai #инфляция](https://www.youtube.com/watch?v=nGPItI9SV8s) | Shorts | нет | нет | — |
-| `f6MP5gHsrUE` | [Сила накопительного эффекта \| Маргулан Сейсембай](https://www.youtube.com/watch?v=f6MP5gHsrUE) | Shorts | нет | нет | — |
-| `RXpADlKhnZo` | [Заработать - не значит стать богатым \| Маргулан Сейсембай](https://www.youtube.com/watch?v=RXpADlKhnZo) | Shorts | нет | нет | — |
-| `QWHqhhzn104` | [Money Loves Silence! \| Margulan Seissembai](https://www.youtube.com/watch?v=QWHqhhzn104) | Shorts | нет | нет | — |
-| `eoFD9vO4ZhA` | [How Do Wealthy People Make Purchases the Right Way? \| Margulan Seissembai](https://www.youtube.com/watch?v=eoFD9vO4ZhA) | Shorts | нет | нет | — |
-| `c1gvCtjMapw` | [Как Делать Обдуманные Покупки? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=c1gvCtjMapw) | Shorts | нет | нет | — |
-| `OZcv0_A2Lr4` | [Правильное Отношение к Деньгам \| Маргулан Сейсембай](https://www.youtube.com/watch?v=OZcv0_A2Lr4) | Shorts | нет | нет | — |
-| `np-LzvA-0Bo` | [Деньги Это Счастье? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=np-LzvA-0Bo) | Shorts | нет | нет | — |
-| `7BVDahUr8Zs` | [Проблема Богатых Людей \| Маргулан Сейсембай](https://www.youtube.com/watch?v=7BVDahUr8Zs) | Shorts | нет | нет | — |
-| `02xSmB-Wfck` | [Как Становятся Миллиардерами \| Маргулан Сейсембаев](https://www.youtube.com/watch?v=02xSmB-Wfck) | Shorts | нет | нет | — |
-| `woQ-iOO8ZAU` | [Откладывайте свои деньги \| Маргулан Сейсембаев](https://www.youtube.com/watch?v=woQ-iOO8ZAU) | Shorts | нет | нет | — |
-| `yoXruZNm6-4` | [Loans Are Like a Fix \| Margulan Seissembayev](https://www.youtube.com/watch?v=yoXruZNm6-4) | Shorts | нет | нет | — |
-| `TIjCGrOEJgE` | [Основа Богатства Начинается с Довольства! \| Маргулан Сейсембаев](https://www.youtube.com/watch?v=TIjCGrOEJgE) | Shorts | нет | нет | — |
-| `0ParjV2Uido` | [Больше $100млн не Зарабатывайте! Предел Богатства Маргулан Сейсембаев](https://www.youtube.com/watch?v=0ParjV2Uido) | Shorts | нет | нет | — |
-| `4ewk9c2_doM` | [Why Your Approach to Money Might Be Wrong Margulan Seisenbayev #margulanseisenbayev #money](https://www.youtube.com/watch?v=4ewk9c2_doM) | Shorts | нет | нет | — |
-| `dz3TIdzbYOA` | [780 000 000$ на cчету \| Маргулан Сейсембаев](https://www.youtube.com/watch?v=dz3TIdzbYOA) | Shorts | нет | нет | — |
-| `XGJjhKevZUc` | [5 800 000 000$ Отобрало Государство! \| Маргулан Сейсембаев](https://www.youtube.com/watch?v=XGJjhKevZUc) | Shorts | нет | нет | — |
-| `eeKdCMdcArc` | [Как научить ребенка копить? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=eeKdCMdcArc) | Shorts | нет | нет | — |
-| `D1VPNYegsnc` | [What to Do If Someone Asks to Borrow Money \| Margulan Seissembai](https://www.youtube.com/watch?v=D1VPNYegsnc) | Shorts | нет | нет | — |
-| `9p3IabA5tYI` | [Черная пятница \| Шопоголизм \| Маргулан Сейсембай](https://www.youtube.com/watch?v=9p3IabA5tYI) | Shorts | нет | нет | — |
-| `WxfGQnb5erM` | [Я работал Не ради денег! Деньги были счетом в игре.](https://www.youtube.com/watch?v=WxfGQnb5erM) | Shorts | нет | нет | — |

@@ -2,19 +2,21 @@
 
 [Все темы и общий прогресс](../PLAN.md)
 
-Дата снимка и статусов: **22.10.2026**.
+Снимок каталога: **22.10.2026**. Очередь и статусы обновлены: **23.10.2026**.
 
 Книги, обучение, навыки, внимание, планирование и личная эффективность.
 
+В очереди только обычные видео и эфиры. Shorts/рилсы исключены; отбор определяется форматом публикации. Порог 40 000 знаков применяется только при нарезке расшифровки и не ограничивает очередь.
+
 Распределение предварительное, по названию. Один Video ID относится к одной основной теме; содержание транскриптов при распределении не анализировалось.
 
-Всего **94** роликов: основной канал — **94**, другие каналы — **0**. Субтитры: **0/94**; подготовлено: **0/94**.
+Всего в очереди: **58**. Субтитры: **0/58**; подготовлено: **0/58**.
 
-«Нет» в статусе означает отсутствие локального файла. Наличие оригинальной дорожки на YouTube проверяется при скачивании. Формат взят из вкладки канала; правила готовности и последовательность «скачать оригинальные субтитры → очистить → подготовить» — в общем плане.
+«Нет» в статусе означает отсутствие локального файла. Наличие оригинальной дорожки на YouTube проверяется при скачивании. Правила готовности и последовательность «скачать оригинальные субтитры → очистить → подготовить» — в общем плане.
 
-## Каталог основного канала
+## Очередь основного канала
 
-[МАРГУЛАН СЕЙСЕМБАЙ](https://www.youtube.com/channel/UCTHXtr2FZibOytQV7Yt7FqA). Порядок: видео, Shorts, трансляции; внутри формата сохранена последовательность выдачи вкладки.
+[МАРГУЛАН СЕЙСЕМБАЙ](https://www.youtube.com/channel/UCTHXtr2FZibOytQV7Yt7FqA). Порядок: обычные видео, затем эфиры; внутри формата сохранена последовательность выдачи вкладки.
 
 | Video ID | Ролик | Формат | Субтитры | Подготовлен | Папка |
 | --- | --- | --- | --- | --- | --- |
@@ -75,40 +77,4 @@
 | `p_lndAvWe5Y` | [Kaizen Visualization, Examples, and Methods, Session #3](https://www.youtube.com/watch?v=p_lndAvWe5Y) | Видео | нет | нет | — |
 | `mQMHdI7--Dk` | [Стандартизация цели, задачи, принципы и методы по Кайдзен, сессия #2](https://www.youtube.com/watch?v=mQMHdI7--Dk) | Видео | нет | нет | — |
 | `Hl5NM5Q4GTg` | [Кайдзен - Проблемы и их решение, сессия #1](https://www.youtube.com/watch?v=Hl5NM5Q4GTg) | Видео | нет | нет | — |
-| `e_5s0a90AbM` | [No focus, no results](https://www.youtube.com/watch?v=e_5s0a90AbM) | Shorts | нет | нет | — |
-| `4EKEuKJmakw` | [What is wisdom? \| Margulan Seissembay](https://www.youtube.com/watch?v=4EKEuKJmakw) | Shorts | нет | нет | — |
-| `U4s5B03NCno` | [Эффективное несовершенство \| Маргулан Сейсембай](https://www.youtube.com/watch?v=U4s5B03NCno) | Shorts | нет | нет | — |
-| `SygdETYRFXQ` | [A Book Is an Exoskeleton \| Margulan Seissembai](https://www.youtube.com/watch?v=SygdETYRFXQ) | Shorts | нет | нет | — |
-| `AcG0wncYi0c` | [My Thoughts on Speed Reading \| Margulan Seissembay](https://www.youtube.com/watch?v=AcG0wncYi0c) | Shorts | нет | нет | — |
-| `m2GoEStPC3Q` | [How to Think Effectively? \| Margulan Seissembai](https://www.youtube.com/watch?v=m2GoEStPC3Q) | Shorts | нет | нет | — |
-| `tRiEe9mMhqY` | [4 Questions of Efficiency \| Margulan Seisembay](https://www.youtube.com/watch?v=tRiEe9mMhqY) | Shorts | нет | нет | — |
-| `D9DfngCjbcQ` | [How long can you focus on a thought? \| Margulan Seisembay](https://www.youtube.com/watch?v=D9DfngCjbcQ) | Shorts | нет | нет | — |
-| `3SjyiIaTo8I` | [The Role of Books \| Margulan Seysembay](https://www.youtube.com/watch?v=3SjyiIaTo8I) | Shorts | нет | нет | — |
-| `wjDO23Quzbo` | [The Power of Thinking \| Margulan Seisembay](https://www.youtube.com/watch?v=wjDO23Quzbo) | Shorts | нет | нет | — |
-| `z9f0aKIesmY` | [How to discard all unnecessary tasks? \| Margulan Seisembay](https://www.youtube.com/watch?v=z9f0aKIesmY) | Shorts | нет | нет | — |
-| `mrD3ocgeiSY` | [Where does procrastination come from? \| Margulan Seisembay](https://www.youtube.com/watch?v=mrD3ocgeiSY) | Shorts | нет | нет | — |
-| `MXo5FnkmrhE` | [Знания должны быть по назначению \| Маргулан Сейсембай](https://www.youtube.com/watch?v=MXo5FnkmrhE) | Shorts | нет | нет | — |
-| `n_Nh6cSMVOQ` | [Делай это и лень, прокрастинация исчезнут \| Маргулан Сейсембай](https://www.youtube.com/watch?v=n_Nh6cSMVOQ) | Shorts | нет | нет | — |
-| `wwSR61jGjOA` | [Где внимание там и рост \| Маргулан Сейсембай](https://www.youtube.com/watch?v=wwSR61jGjOA) | Shorts | нет | нет | — |
-| `ZL8aUk6H3lg` | [Рост всегда там, где внимание \| Маргулан Сейсембай](https://www.youtube.com/watch?v=ZL8aUk6H3lg) | Shorts | нет | нет | — |
-| `4A8XsFen7AE` | [Как Научиться Концентрироваться? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=4A8XsFen7AE) | Shorts | нет | нет | — |
-| `Mu60gEXTA74` | [Маргулан Сейсембай \| Время Ускорения](https://www.youtube.com/watch?v=Mu60gEXTA74) | Shorts | нет | нет | — |
-| `DkwLaN0kR-Y` | [Маргулан Сейсембай \| О ценности знаний](https://www.youtube.com/watch?v=DkwLaN0kR-Y) | Shorts | нет | нет | — |
-| `MjmvD8odsXk` | [Есть ли здесь те, кто хотел бы прочитать мою новую книгу?👇🏻](https://www.youtube.com/watch?v=MjmvD8odsXk) | Shorts | нет | нет | — |
-| `xkVgtVsTzY8` | [Лень и Депрессия Уйдут, Когда Ты Осознаешь Это… \| Маргулан Сейсембаев](https://www.youtube.com/watch?v=xkVgtVsTzY8) | Shorts | нет | нет | — |
-| `2w32d15YJCU` | [Отбрось Лишнее и Займись Важным! \| Маргулан Сейсембай](https://www.youtube.com/watch?v=2w32d15YJCU) | Shorts | нет | нет | — |
-| `hivkEDdDXMc` | [Как Выбрать Школу? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=hivkEDdDXMc) | Shorts | нет | нет | — |
-| `Dstct6gxGNc` | [Всегда Растет То, На Что Вы Обращаете Внимание \| Маргулан Сейсембай](https://www.youtube.com/watch?v=Dstct6gxGNc) | Shorts | нет | нет | — |
-| `QyWMgO23db8` | [Growing Greens at Home \| Kaizen Kitchen \| Margulan Seissembay](https://www.youtube.com/watch?v=QyWMgO23db8) | Shorts | нет | нет | — |
-| `jkrQHSyR1yw` | [What Is Attention \| Margulan Seissembay](https://www.youtube.com/watch?v=jkrQHSyR1yw) | Shorts | нет | нет | — |
-| `zd24A5FtenI` | [Что такое внимание? \| Маргулан Сейсембай \| Gemba podcast](https://www.youtube.com/watch?v=zd24A5FtenI) | Shorts | нет | нет | — |
-| `vJL4RGqC8ik` | [Pay More Attention to This \| Margulan Seissembai](https://www.youtube.com/watch?v=vJL4RGqC8ik) | Shorts | нет | нет | — |
-| `vfCkQw4-Qds` | [Кластеризация времени \| Маргулан Сейсембай](https://www.youtube.com/watch?v=vfCkQw4-Qds) | Shorts | нет | нет | — |
-| `iHQ9wXBpstc` | [Повысь свою эффективность на 30% \| Маргулан Сейсембай](https://www.youtube.com/watch?v=iHQ9wXBpstc) | Shorts | нет | нет | — |
-| `wXcRge6HRaA` | [Самый Главный Ресурс Это Ваш Мозг! Маргулан Сейсембай](https://www.youtube.com/watch?v=wXcRge6HRaA) | Shorts | нет | нет | — |
-| `HBIxa7DDmKQ` | [Why We Are Lazy \| Margulan Seissembayev](https://www.youtube.com/watch?v=HBIxa7DDmKQ) | Shorts | нет | нет | — |
-| `8TYxOvpQupg` | [Важно Готовность Ученика, а Не Учителя! \| Маргулан Сейсембаев](https://www.youtube.com/watch?v=8TYxOvpQupg) | Shorts | нет | нет | — |
-| `4avGuv-mxHI` | [Этот метод используют в Японии \| Метод “Shisa Kanko” \| Маргулан Сейсембай #маргулансейсембай](https://www.youtube.com/watch?v=4avGuv-mxHI) | Shorts | нет | нет | — |
-| `_nW9kGpVhdw` | [Как перестать прокрастинировать?](https://www.youtube.com/watch?v=_nW9kGpVhdw) | Shorts | нет | нет | — |
-| `WrVGmkq0oU0` | [Задача №1, которую вам надо решить! \| 4 фактора беспокойства!](https://www.youtube.com/watch?v=WrVGmkq0oU0) | Shorts | нет | нет | — |
 | `wF58hpBbMcI` | [Встреча с читателями \| 29 ноября](https://www.youtube.com/watch?v=wF58hpBbMcI) | Трансляция | нет | нет | — |

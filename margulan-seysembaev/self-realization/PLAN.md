@@ -2,19 +2,21 @@
 
 [Все темы и общий прогресс](../PLAN.md)
 
-Дата снимка и статусов: **22.10.2026**.
+Снимок каталога: **22.10.2026**. Очередь и статусы обновлены: **23.10.2026**.
 
 Предназначение, таланты, счастье, личные решения, энергия и привычки.
 
+В очереди только обычные видео и эфиры. Shorts/рилсы исключены; отбор определяется форматом публикации. Порог 40 000 знаков применяется только при нарезке расшифровки и не ограничивает очередь.
+
 Распределение предварительное, по названию. Один Video ID относится к одной основной теме; содержание транскриптов при распределении не анализировалось.
 
-Всего **291** роликов: основной канал — **289**, другие каналы — **2**. Субтитры: **4/291**; подготовлено: **0/291**.
+Всего в очереди: **81**. Субтитры: **1/81**; подготовлено: **0/81**.
 
-«Нет» в статусе означает отсутствие локального файла. Наличие оригинальной дорожки на YouTube проверяется при скачивании. Формат взят из вкладки канала; правила готовности и последовательность «скачать оригинальные субтитры → очистить → подготовить» — в общем плане.
+«Нет» в статусе означает отсутствие локального файла. Наличие оригинальной дорожки на YouTube проверяется при скачивании. Правила готовности и последовательность «скачать оригинальные субтитры → очистить → подготовить» — в общем плане.
 
-## Каталог основного канала
+## Очередь основного канала
 
-[МАРГУЛАН СЕЙСЕМБАЙ](https://www.youtube.com/channel/UCTHXtr2FZibOytQV7Yt7FqA). Порядок: видео, Shorts, трансляции; внутри формата сохранена последовательность выдачи вкладки.
+[МАРГУЛАН СЕЙСЕМБАЙ](https://www.youtube.com/channel/UCTHXtr2FZibOytQV7Yt7FqA). Порядок: обычные видео, затем эфиры; внутри формата сохранена последовательность выдачи вкладки.
 
 | Video ID | Ролик | Формат | Субтитры | Подготовлен | Папка |
 | --- | --- | --- | --- | --- | --- |
@@ -99,220 +101,3 @@
 | `fuVh4e88hfw` | [CRISIS, ISLAM, AND HAPPINESS \| LIVE STREAM with Sergey Romanovich](https://www.youtube.com/watch?v=fuVh4e88hfw) | Видео | нет | нет | — |
 | `Bnsf8P6Hoag` | [Икигай то, что придаёт Вашей жизни смысл Майнинг в Дубай](https://www.youtube.com/watch?v=Bnsf8P6Hoag) | Видео | нет | нет | — |
 | `9mNLz7OTLwE` | [Икигай сіздің өміріңізге мән мағына беретін - Дубайдағы майнинг](https://www.youtube.com/watch?v=9mNLz7OTLwE) | Видео | нет | нет | — |
-| `HY_zeJN6PSY` | [The Right Values \| Margulan Seissembay](https://www.youtube.com/watch?v=HY_zeJN6PSY) | Shorts | нет | нет | — |
-| `89SuK3O64pQ` | [Don't be afraid to make mistakes, friends.](https://www.youtube.com/watch?v=89SuK3O64pQ) | Shorts | нет | нет | — |
-| `LH1HYNA8x5Q` | [What are decisions?](https://www.youtube.com/watch?v=LH1HYNA8x5Q) | Shorts | нет | нет | — |
-| `e311K9ARoDk` | [How to Make High-Quality Decisions?](https://www.youtube.com/watch?v=e311K9ARoDk) | Shorts | нет | нет | — |
-| `w7SJL6m99dQ` | [What makes you happy?](https://www.youtube.com/watch?v=w7SJL6m99dQ) | Shorts | нет | нет | — |
-| `ZYdXkILk5g8` | [Don't go to the sauna! It's way too good)](https://www.youtube.com/watch?v=ZYdXkILk5g8) | Shorts | нет | нет | — |
-| `3yxtS3COZfw` | [Would you like to have a sauna session in a place like this?](https://www.youtube.com/watch?v=3yxtS3COZfw) | Shorts | нет | нет | — |
-| `upsugjHesgY` | [Fear Is an Illusion \| Margulan Seissembay](https://www.youtube.com/watch?v=upsugjHesgY) | Shorts | нет | нет | — |
-| `HG9i0hfAESQ` | [Energy Comes First \| Margulan Seissembai](https://www.youtube.com/watch?v=HG9i0hfAESQ) | Shorts | нет | нет | — |
-| `FjR2O67lF4Q` | [Which jobs will disappear? \| Margulan Seissembai](https://www.youtube.com/watch?v=FjR2O67lF4Q) | Shorts | нет | нет | — |
-| `2Rey7RooxwM` | [Stop Making These Mistakes!](https://www.youtube.com/watch?v=2Rey7RooxwM) | Shorts | нет | нет | — |
-| `b9ySIPTpcDQ` | [I am a dreamer](https://www.youtube.com/watch?v=b9ySIPTpcDQ) | Shorts | нет | нет | — |
-| `f3o29Cd0AUs` | [Success ≠ Happiness, Happiness = Success \| Margulan Seissembai](https://www.youtube.com/watch?v=f3o29Cd0AUs) | Shorts | нет | нет | — |
-| `vBYOBjcrFbI` | [Are You a Cog or a Creator of Meaning? \| Margulan Seissembai](https://www.youtube.com/watch?v=vBYOBjcrFbI) | Shorts | нет | нет | — |
-| `zIh7YdYgqm8` | [Make Many Small Mistakes \| Margulan Seissembai](https://www.youtube.com/watch?v=zIh7YdYgqm8) | Shorts | нет | нет | — |
-| `YSbmLXL-50k` | [Professions That Won't Die Out \| Margulan Seissembay](https://www.youtube.com/watch?v=YSbmLXL-50k) | Shorts | нет | нет | — |
-| `08h1sWAAVk8` | [I Like This Game Called "Life" \| Margulan Seissembay](https://www.youtube.com/watch?v=08h1sWAAVk8) | Shorts | нет | нет | — |
-| `i7wHcw7wsME` | [Don't Avoid Progress \| Margulan Seissembay](https://www.youtube.com/watch?v=i7wHcw7wsME) | Shorts | нет | нет | — |
-| `06-u9mLGQVc` | [Overcome Your Fear! \| Margulan Seissembay](https://www.youtube.com/watch?v=06-u9mLGQVc) | Shorts | нет | нет | — |
-| `DNPqgV2jOW4` | [Energy Comes First \| Margulan Seissembai](https://www.youtube.com/watch?v=DNPqgV2jOW4) | Shorts | нет | нет | — |
-| `lh0Zb7FFZgQ` | [Believe in the best! \| Margulan Seissembai](https://www.youtube.com/watch?v=lh0Zb7FFZgQ) | Shorts | нет | нет | — |
-| `gdZkgzd4F0U` | [The Secret to Exponential Growth \| Margulan Seissembai](https://www.youtube.com/watch?v=gdZkgzd4F0U) | Shorts | да | нет | [папка](../reels/2026-06-14-sekret-mnogokratnogo-rosta/README.md) |
-| `gGQ5pHZkE_w` | [I Dream \| Margulan Seisembay](https://www.youtube.com/watch?v=gGQ5pHZkE_w) | Shorts | нет | нет | — |
-| `484Xtr_q29s` | [A Goal Must Be Meaningful \| Margulan Seissembay](https://www.youtube.com/watch?v=484Xtr_q29s) | Shorts | нет | нет | — |
-| `CKc28z0ZwII` | [Strengthen the strong! \| Margulan Seisembay](https://www.youtube.com/watch?v=CKc28z0ZwII) | Shorts | нет | нет | — |
-| `WLdavi4xbY0` | [Life Is Energy \| Margulan Seissembai](https://www.youtube.com/watch?v=WLdavi4xbY0) | Shorts | нет | нет | — |
-| `_mhmwhZuCu8` | [Never Regret Anything in Life \| Margulan Seissembay](https://www.youtube.com/watch?v=_mhmwhZuCu8) | Shorts | нет | нет | — |
-| `vChvl3XCoYM` | [On the Midlife Crisis \| Margulan Seisembay](https://www.youtube.com/watch?v=vChvl3XCoYM) | Shorts | нет | нет | — |
-| `wD3cESxmdsw` | [Great Development Emerges in the Unknown \| Margulan Seisembay](https://www.youtube.com/watch?v=wD3cESxmdsw) | Shorts | нет | нет | — |
-| `2kaLsVYwjYE` | [2 States of Life \| Margulan Seisembay](https://www.youtube.com/watch?v=2kaLsVYwjYE) | Shorts | нет | нет | — |
-| `oIsrSznvziw` | [What is the meaning of life? \| Margulan Seisembay](https://www.youtube.com/watch?v=oIsrSznvziw) | Shorts | нет | нет | — |
-| `T9yiG6z7z_Q` | [How Much LIFE Is in Your Life? \| Margulan Seisembay](https://www.youtube.com/watch?v=T9yiG6z7z_Q) | Shorts | нет | нет | — |
-| `YG3g5L5yVnU` | [Strengthen your strength \| Margulan Seysembay](https://www.youtube.com/watch?v=YG3g5L5yVnU) | Shorts | нет | нет | — |
-| `7wV0ds73xIE` | [We will all lose the meaning of life \| Margulan Seisembay](https://www.youtube.com/watch?v=7wV0ds73xIE) | Shorts | нет | нет | — |
-| `Crpcdp_Hu0I` | [The Power of Small Steps \| Margulan Seisembay](https://www.youtube.com/watch?v=Crpcdp_Hu0I) | Shorts | нет | нет | — |
-| `C_XKsOhvbSo` | [Growth Algorithm \| Margulan Seisembay](https://www.youtube.com/watch?v=C_XKsOhvbSo) | Shorts | нет | нет | — |
-| `QyPbn0PARRs` | [Mission Extends Life \| Margulan Seisembay](https://www.youtube.com/watch?v=QyPbn0PARRs) | Shorts | нет | нет | — |
-| `Xj3Q8FC4n0M` | [Our Value in the Eyes of Children \| Margulan Seisembay](https://www.youtube.com/watch?v=Xj3Q8FC4n0M) | Shorts | нет | нет | — |
-| `kv6yHJjNT9g` | [Happiness \| Margulan Seisembay](https://www.youtube.com/watch?v=kv6yHJjNT9g) | Shorts | нет | нет | — |
-| `J7vKqUEu3Uc` | [A Flaw in Child-Raising \| Margulan Seisembay](https://www.youtube.com/watch?v=J7vKqUEu3Uc) | Shorts | нет | нет | — |
-| `iORTNeyS8nw` | [Mission \| Margulan Seisembay](https://www.youtube.com/watch?v=iORTNeyS8nw) | Shorts | нет | нет | — |
-| `nnzSUxqjxrk` | [The Secret to Achieving Everything \| Margulan Seisembay](https://www.youtube.com/watch?v=nnzSUxqjxrk) | Shorts | нет | нет | — |
-| `gCq4dyaAhSo` | [How to Get Your Life in Order? \| Margulan Seisembay](https://www.youtube.com/watch?v=gCq4dyaAhSo) | Shorts | нет | нет | — |
-| `sKlTK2yel08` | [Questions are life \| Margulan Seisembay](https://www.youtube.com/watch?v=sKlTK2yel08) | Shorts | нет | нет | — |
-| `yarkj-Wytx8` | [How to Replenish Spiritual Energy? \| Margulan Seisembay](https://www.youtube.com/watch?v=yarkj-Wytx8) | Shorts | нет | нет | — |
-| `Vfy11DhVOLo` | [People's Bad Habits \| Margulan Seisembay](https://www.youtube.com/watch?v=Vfy11DhVOLo) | Shorts | нет | нет | — |
-| `gDGGyFolpVg` | [Two Forces for Achieving Goals \| Margulan Seisembay](https://www.youtube.com/watch?v=gDGGyFolpVg) | Shorts | нет | нет | — |
-| `ztSaD7sKCU0` | [Why are people afraid of loneliness? \| Margulan Seisembay](https://www.youtube.com/watch?v=ztSaD7sKCU0) | Shorts | нет | нет | — |
-| `DrwD9hTGfiw` | [Never Blame Anyone \| Margulan Seisembay](https://www.youtube.com/watch?v=DrwD9hTGfiw) | Shorts | нет | нет | — |
-| `Ok2b2wQN3WQ` | [3 Levels of Life Goals \| Margulan Seisembay](https://www.youtube.com/watch?v=Ok2b2wQN3WQ) | Shorts | нет | нет | — |
-| `1pjKB4fYtvw` | [What is love? \| Margulan Seisembay](https://www.youtube.com/watch?v=1pjKB4fYtvw) | Shorts | нет | нет | — |
-| `TXx-_7WNP0s` | [First the Intention, Then the Goal \| Margulan Seisembay](https://www.youtube.com/watch?v=TXx-_7WNP0s) | Shorts | нет | нет | — |
-| `2jvywzzvJt8` | [Don't be afraid of judgment \| Margulan Seisembay](https://www.youtube.com/watch?v=2jvywzzvJt8) | Shorts | нет | нет | — |
-| `ubr5nShoVHQ` | [Fall ≠ Loss \| Margulan Seisembay](https://www.youtube.com/watch?v=ubr5nShoVHQ) | Shorts | нет | нет | — |
-| `g24ymIpz-Oo` | [How to find your passion? \| Margulan Seisembay](https://www.youtube.com/watch?v=g24ymIpz-Oo) | Shorts | нет | нет | — |
-| `I1NK-4pcUyY` | [There are no ungrateful people \| Margulan Seisembay](https://www.youtube.com/watch?v=I1NK-4pcUyY) | Shorts | нет | нет | — |
-| `SWrFeQfr7fs` | [Awareness of One's Mission \| Margulan Seisembay](https://www.youtube.com/watch?v=SWrFeQfr7fs) | Shorts | нет | нет | — |
-| `6Bq_xPeLOis` | [How to start doing something? \| Margulan Seisembay](https://www.youtube.com/watch?v=6Bq_xPeLOis) | Shorts | нет | нет | — |
-| `IojxvsviT1A` | [What is gratitude? \| Margulan Seisembay](https://www.youtube.com/watch?v=IojxvsviT1A) | Shorts | нет | нет | — |
-| `4VmD6_gWseE` | [2 types of gratitude \| Margulan Seysembay](https://www.youtube.com/watch?v=4VmD6_gWseE) | Shorts | нет | нет | — |
-| `oDWY-WSng6I` | [Two Moments of Successful People \| Margulan Seisembay](https://www.youtube.com/watch?v=oDWY-WSng6I) | Shorts | нет | нет | — |
-| `4ZkT0VESSqg` | [Знаки как инструмент общения с миром \| Маргулан Сейсембай](https://www.youtube.com/watch?v=4ZkT0VESSqg) | Shorts | нет | нет | — |
-| `PjIjzBV46OU` | [Как сформировать привычку достижения цели? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=PjIjzBV46OU) | Shorts | нет | нет | — |
-| `-EMFpNJGARw` | [Сколько нужно попыток чтобы достичь цели? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=-EMFpNJGARw) | Shorts | нет | нет | — |
-| `NrHhoEnuMAA` | [Что дает вера? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=NrHhoEnuMAA) | Shorts | нет | нет | — |
-| `tp72F0bkeBY` | [Как работать над осознанностью? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=tp72F0bkeBY) | Shorts | нет | нет | — |
-| `VB_Cm_Utsus` | [4 вещи которые повышают мотивацию \| Маргулан Сейсембай](https://www.youtube.com/watch?v=VB_Cm_Utsus) | Shorts | нет | нет | — |
-| `o7bjRWvnas4` | [Эти фразы изменят вашу жизнь \| Маргулан Сейсембай](https://www.youtube.com/watch?v=o7bjRWvnas4) | Shorts | нет | нет | — |
-| `gHV3YjtGNNg` | [Правило жизни \| Маргулан Сейсембай](https://www.youtube.com/watch?v=gHV3YjtGNNg) | Shorts | нет | нет | — |
-| `vk0ZrcQ9wpY` | [Не бойтесь совершать ошибки \| Маргулан Сейсембай](https://www.youtube.com/watch?v=vk0ZrcQ9wpY) | Shorts | нет | нет | — |
-| `hRNOCw9h1WA` | [Что убивает счастье?\| Маргулан Сейсембай](https://www.youtube.com/watch?v=hRNOCw9h1WA) | Shorts | нет | нет | — |
-| `2tQaSa07-hA` | [Вы выбираете свою жизнь \| Маргулан Сейсембай](https://www.youtube.com/watch?v=2tQaSa07-hA) | Shorts | нет | нет | — |
-| `MfgK0uw36iM` | [Эта привычка изменит вашу жизнь \| Маргулан Сейсембай](https://www.youtube.com/watch?v=MfgK0uw36iM) | Shorts | нет | нет | — |
-| `BoQxqPcHMLU` | [Кто становиться успешным? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=BoQxqPcHMLU) | Shorts | нет | нет | — |
-| `eq4tRoD4x2I` | [Почему пожилые быстро стареют? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=eq4tRoD4x2I) | Shorts | нет | нет | — |
-| `LuJsBSiE3Uo` | [Не оправдывайся! \| Маргулан Сейсембай](https://www.youtube.com/watch?v=LuJsBSiE3Uo) | Shorts | нет | нет | — |
-| `5Y6HfNoK8sA` | [Что убивает счастье? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=5Y6HfNoK8sA) | Shorts | нет | нет | — |
-| `8lznF1ng05o` | [Как делать обдуманные поступки? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=8lznF1ng05o) | Shorts | нет | нет | — |
-| `zIVGER_8FUs` | [Парадокс в жизни \| Маргулан Сейсембай](https://www.youtube.com/watch?v=zIVGER_8FUs) | Shorts | нет | нет | — |
-| `EcyqoIHC4D8` | [Мир - это отражение твоих мыслей \| Маргулан Сейсембай](https://www.youtube.com/watch?v=EcyqoIHC4D8) | Shorts | нет | нет | — |
-| `GDHnbKvBhus` | [Успех не достигается за одну попытку \| Маргулан Сейсембай](https://www.youtube.com/watch?v=GDHnbKvBhus) | Shorts | нет | нет | — |
-| `gmBTfFg-HhI` | [Рост в деле \| Маргулан Сейсембай](https://www.youtube.com/watch?v=gmBTfFg-HhI) | Shorts | нет | нет | — |
-| `RfTFhWBfpYc` | [Как найти свою миссию? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=RfTFhWBfpYc) | Shorts | нет | нет | — |
-| `i5IRwhCHmlU` | [Баланс в жизни \| Маргулан Сейсембай](https://www.youtube.com/watch?v=i5IRwhCHmlU) | Shorts | нет | нет | — |
-| `FFD06pb4GB8` | [Счастье и успех \| Маргулан Сейсембай](https://www.youtube.com/watch?v=FFD06pb4GB8) | Shorts | нет | нет | — |
-| `mJlXRxEwBtA` | [6 часов достаточно для достижения успеха \| Маргулан Сейсембай](https://www.youtube.com/watch?v=mJlXRxEwBtA) | Shorts | нет | нет | — |
-| `qKExvSkgGZE` | [Не застаивайте энергию \| Маргулан Сейсембай](https://www.youtube.com/watch?v=qKExvSkgGZE) | Shorts | нет | нет | — |
-| `SGgwZA41Dls` | [Два главных события человека \| Маргулан Сейсембай](https://www.youtube.com/watch?v=SGgwZA41Dls) | Shorts | нет | нет | — |
-| `TGLBKW2QY9E` | [Отличия успешных от не успешных \| Маргулан Сейсембай](https://www.youtube.com/watch?v=TGLBKW2QY9E) | Shorts | нет | нет | — |
-| `li580i6zcA0` | [Эта привычка изменит вашу жизнь! \| Маргулан Сейсембай](https://www.youtube.com/watch?v=li580i6zcA0) | Shorts | нет | нет | — |
-| `bBgAJz3cj4s` | [Почему нет мотивации? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=bBgAJz3cj4s) | Shorts | нет | нет | — |
-| `BiTjZh2Rl4g` | [Маргулан Сейсембай \| Испытания даются не просто так](https://www.youtube.com/watch?v=BiTjZh2Rl4g) | Shorts | нет | нет | — |
-| `9Dz_zO8xGGo` | [Маргулан Сейсембай \| Счастье залог успеха](https://www.youtube.com/watch?v=9Dz_zO8xGGo) | Shorts | нет | нет | — |
-| `zpRo92s8Al4` | [Эта привычка изменит вашу жизнь \| Маргулан Сейсембай](https://www.youtube.com/watch?v=zpRo92s8Al4) | Shorts | нет | нет | — |
-| `dvb-Ju8Yg0s` | [Значимость самооценки и самоуважения \| Маргулан Сейсембай](https://www.youtube.com/watch?v=dvb-Ju8Yg0s) | Shorts | нет | нет | — |
-| `uDNlEYxQ30I` | [Как быстро и легко уснуть? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=uDNlEYxQ30I) | Shorts | нет | нет | — |
-| `KBWqgrdiRA8` | [Как раскрыть потенциал человека? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=KBWqgrdiRA8) | Shorts | нет | нет | — |
-| `l2cUWLvvYCQ` | [Ограничьте свою свободу \| Маргулан Сейсембай](https://www.youtube.com/watch?v=l2cUWLvvYCQ) | Shorts | нет | нет | — |
-| `YjKFWbKx8Q8` | [Парадигма Людей \| Маргулан Сейсембай](https://www.youtube.com/watch?v=YjKFWbKx8Q8) | Shorts | нет | нет | — |
-| `gAzfhNJ0HmM` | [Найдите свою уникальность \| Маргулан Сейсембай](https://www.youtube.com/watch?v=gAzfhNJ0HmM) | Shorts | нет | нет | — |
-| `LMEpgjAQK0s` | [Стресс только у Вас в Голове! \| Маргулан Сейсембай](https://www.youtube.com/watch?v=LMEpgjAQK0s) | Shorts | нет | нет | — |
-| `m_n2ip3EXeg` | [Неправильные ценности человека \| Маргулан Сейсембай](https://www.youtube.com/watch?v=m_n2ip3EXeg) | Shorts | нет | нет | — |
-| `VP7g66PjM0M` | [Как правильно решать проблемы? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=VP7g66PjM0M) | Shorts | нет | нет | — |
-| `3pMiTvJnkUY` | [Качество успешного человека \| Маргулан Сейсембай](https://www.youtube.com/watch?v=3pMiTvJnkUY) | Shorts | нет | нет | — |
-| `fs5KW-mPy5g` | [Маргулан Сейсембай \| В чем смысл жизни?](https://www.youtube.com/watch?v=fs5KW-mPy5g) | Shorts | нет | нет | — |
-| `wnsdUwfh8gY` | [Как работает ЭГО против нас? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=wnsdUwfh8gY) | Shorts | нет | нет | — |
-| `g7Gu-836Qm8` | [Принципы Успешных Ледей \| Маргулан Сейсембай](https://www.youtube.com/watch?v=g7Gu-836Qm8) | Shorts | нет | нет | — |
-| `unExu7SQGes` | [Какой Вопрос В Прошлом Году Чаще Всего Задавал Себе? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=unExu7SQGes) | Shorts | нет | нет | — |
-| `7M4CqR1XmK4` | [Как Правильно Достигать Целей? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=7M4CqR1XmK4) | Shorts | нет | нет | — |
-| `diFJzhBRDpI` | [Принципы Успешных Людей \| Маргулан Сейсембай](https://www.youtube.com/watch?v=diFJzhBRDpI) | Shorts | нет | нет | — |
-| `F1yXOU_gxuo` | [Что Необходимо Для Достижения Цели? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=F1yXOU_gxuo) | Shorts | нет | нет | — |
-| `BqU_P4ghmAY` | [Каких ошибок не стоит совершать? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=BqU_P4ghmAY) | Shorts | нет | нет | — |
-| `8kDoTQI57kQ` | [Как Добиться Успеха? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=8kDoTQI57kQ) | Shorts | нет | нет | — |
-| `hJnNbeC4yTQ` | [Еще больше пользы в новом выпуске «Беседы с Маргуланом» на тему - Саморазвитие.](https://www.youtube.com/watch?v=hJnNbeC4yTQ) | Shorts | нет | нет | — |
-| `WzNbw8Lbxgo` | [Еще больше пользы можете узнать в новом выпуске «Беседы с Маргуланом» на тему - Саморазвитие.](https://www.youtube.com/watch?v=WzNbw8Lbxgo) | Shorts | нет | нет | — |
-| `yg59qQdJUaQ` | [Новый выпуск «Беседы с Маргуланом» на тему саморазвитие, уже на канале!](https://www.youtube.com/watch?v=yg59qQdJUaQ) | Shorts | нет | нет | — |
-| `oJlsIsbT4Hg` | [Никогда Никого Не Обвиняйте! \| Маргулан Сейсембай](https://www.youtube.com/watch?v=oJlsIsbT4Hg) | Shorts | нет | нет | — |
-| `L6xY53_EOvM` | [Выпуск «Беседы» уже на канале! О миссии, предназначении и вопросах, которые часто не дают покоя.](https://www.youtube.com/watch?v=L6xY53_EOvM) | Shorts | нет | нет | — |
-| `eInniEnkI0U` | [Выпуск «Беседы» уже на канале! О миссии, предназначении и вопросах, которые часто не дают покоя.](https://www.youtube.com/watch?v=eInniEnkI0U) | Shorts | нет | нет | — |
-| `AjQdTwh15RI` | [Выпуск «Беседы» уже на канале! О миссии, предназначении и вопросах, которые часто не дают покоя.](https://www.youtube.com/watch?v=AjQdTwh15RI) | Shorts | нет | нет | — |
-| `Jtzx3clnoIc` | [Воспоминания - это то, что останется с нами навсегда.](https://www.youtube.com/watch?v=Jtzx3clnoIc) | Shorts | нет | нет | — |
-| `r9wAXNbPg-c` | [Выпуск «Беседы» уже на канале! О миссии, предназначении и вопросах, которые часто не дают покоя.](https://www.youtube.com/watch?v=r9wAXNbPg-c) | Shorts | нет | нет | — |
-| `CGPV4neJSCE` | [Выпуск «Беседы» уже на канале! О миссии, предназначении и вопросах, которые часто не дают покоя.](https://www.youtube.com/watch?v=CGPV4neJSCE) | Shorts | нет | нет | — |
-| `Aig8kda0pns` | [Выпуск «Беседы» уже на канале! О миссии, предназначении и вопросах, которые часто не дают покоя.](https://www.youtube.com/watch?v=Aig8kda0pns) | Shorts | нет | нет | — |
-| `HoQXcnD95Oo` | [Выпуск «Беседы» уже на канале! О миссии, предназначении и вопросах, которые часто не дают покоя.](https://www.youtube.com/watch?v=HoQXcnD95Oo) | Shorts | нет | нет | — |
-| `Jhg5OrQcwWU` | [Настало Время Понять Свою Уникальность \| Маргулан Сейсембай](https://www.youtube.com/watch?v=Jhg5OrQcwWU) | Shorts | нет | нет | — |
-| `I8FZtVnCshg` | [А у вас есть цель, которая по настоящему вас зажигает? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=I8FZtVnCshg) | Shorts | нет | нет | — |
-| `r7RVlxdfaaE` | [I Do Not Create Idols for Myself \| Margulan Seissembai](https://www.youtube.com/watch?v=r7RVlxdfaaE) | Shorts | нет | нет | — |
-| `7jAb1u1t5EA` | [3 Вещи Для Достижения Любой Цели! \| Маргулан Сейсембай](https://www.youtube.com/watch?v=7jAb1u1t5EA) | Shorts | нет | нет | — |
-| `_T5Pnm3W8EA` | [Как Понять, Что Ты Идешь Не Туда? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=_T5Pnm3W8EA) | Shorts | нет | нет | — |
-| `hL4AFWRzRaA` | [Как Стать Везучим? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=hL4AFWRzRaA) | Shorts | нет | нет | — |
-| `PkPCxz5gbM0` | [Как Управлять Своим Везением? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=PkPCxz5gbM0) | Shorts | нет | нет | — |
-| `N76RGVmqeNE` | [ЭГО - Разрушает Вашу Жизнь \| Маргулан Сейсембай](https://www.youtube.com/watch?v=N76RGVmqeNE) | Shorts | нет | нет | — |
-| `qKBG4hBEwB8` | [Как Выбрать Правильную Цель? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=qKBG4hBEwB8) | Shorts | нет | нет | — |
-| `N5JMKqpA3sc` | [Без Цели Результатов Не будет! \| Маргулан Сейсембай](https://www.youtube.com/watch?v=N5JMKqpA3sc) | Shorts | нет | нет | — |
-| `_2K_NqSx99s` | [Разница Между Успешными и Великими Людьми \| Маргулан Сейсембай](https://www.youtube.com/watch?v=_2K_NqSx99s) | Shorts | нет | нет | — |
-| `SlKRrhkSF4Q` | [SUPERPOSITION \| Reaching the Next Level \| Margulan Seissembay](https://www.youtube.com/watch?v=SlKRrhkSF4Q) | Shorts | нет | нет | — |
-| `9DK-MNRVqHw` | [Свободен Тот, Кто Мыслит Масштабно! \| Маргулан Сейсембай](https://www.youtube.com/watch?v=9DK-MNRVqHw) | Shorts | нет | нет | — |
-| `WPEcc8RWPJ4` | [Ограничьте Свою Свободу! \| Маргулан Сейсембай](https://www.youtube.com/watch?v=WPEcc8RWPJ4) | Shorts | нет | нет | — |
-| `S7f2KebP9fY` | [Высокий Уровень Развития Личности \| Маргулан Сейсембай](https://www.youtube.com/watch?v=S7f2KebP9fY) | Shorts | нет | нет | — |
-| `dFa9hqyKjfA` | [Что Вызывает Дискомфорт? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=dFa9hqyKjfA) | Shorts | нет | нет | — |
-| `zT_ZbR6kl5U` | [Your Fear Is an Illusion! \| Margulan Seissembay](https://www.youtube.com/watch?v=zT_ZbR6kl5U) | Shorts | нет | нет | — |
-| `gzMQ6RdNjpQ` | [Как Обрести Спокойствие? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=gzMQ6RdNjpQ) | Shorts | нет | нет | — |
-| `f9SNa3JT83A` | [Чем Выше Рост, Тем Меньше Страхов \| Маргулан Сейсембай](https://www.youtube.com/watch?v=f9SNa3JT83A) | Shorts | нет | нет | — |
-| `BZfeMpUTdgE` | [Как Реагировать На Провал? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=BZfeMpUTdgE) | Shorts | нет | нет | — |
-| `diSCIH-Zj1I` | [Как Восстановить Эмоциональную Энергию? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=diSCIH-Zj1I) | Shorts | нет | нет | — |
-| `VrWcLD95VVE` | [Верьте в Свою Цель! \| Маргулан Сейсембай](https://www.youtube.com/watch?v=VrWcLD95VVE) | Shorts | нет | нет | — |
-| `hV7A1iyurgo` | [Ставьте Цель Быть Счастливым! \| Маргулан Сейсембаев](https://www.youtube.com/watch?v=hV7A1iyurgo) | Shorts | нет | нет | — |
-| `7MEeNs1F6ZM` | [Двигайтесь от Страха! \| Маргулан Сейсембай](https://www.youtube.com/watch?v=7MEeNs1F6ZM) | Shorts | нет | нет | — |
-| `fosnFTFtIZg` | [Не Бойтесь Совершать Ошибки! \| Маргулан Сейсембаев](https://www.youtube.com/watch?v=fosnFTFtIZg) | Shorts | нет | нет | — |
-| `88VYmxUPj-4` | [Как я Пришел к Саморазвитию? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=88VYmxUPj-4) | Shorts | нет | нет | — |
-| `6KRAwutgIos` | [Как Найти Свою Миссию? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=6KRAwutgIos) | Shorts | нет | нет | — |
-| `cIhutKazBLs` | [4 Фразы с Немыслимой Силой и Энергией \| Маргулан Сейсембай](https://www.youtube.com/watch?v=cIhutKazBLs) | Shorts | нет | нет | — |
-| `dA1aNVBl0v0` | [2 Главных События Человека! Маргулан Сейсембай](https://www.youtube.com/watch?v=dA1aNVBl0v0) | Shorts | нет | нет | — |
-| `pCnpSFrdR7A` | [Что поможет облегчить быт \| Закуп продуктов \| Маргулан Сейсембай](https://www.youtube.com/watch?v=pCnpSFrdR7A) | Shorts | нет | нет | — |
-| `SqJOEXSjLUU` | [What Kills Happiness? Margulan Seissembayev](https://www.youtube.com/watch?v=SqJOEXSjLUU) | Shorts | нет | нет | — |
-| `ileTfv-xkKg` | [There is 50% Good and 50% Bad in Each of Us! Margulan Seissembayev #money #margulanseissembayev](https://www.youtube.com/watch?v=ileTfv-xkKg) | Shorts | нет | нет | — |
-| `5pU__znX5eg` | [Why I Don’t Celebrate Birthdays! \| Margulan Seissembayev #money #margulanseissembayev #margulanse...](https://www.youtube.com/watch?v=5pU__znX5eg) | Shorts | нет | нет | — |
-| `YrYrkMCRmf8` | [Куда Уходят Таланты \| Маргулан Сейсембаев](https://www.youtube.com/watch?v=YrYrkMCRmf8) | Shorts | нет | нет | — |
-| `Bpq3YyaESz0` | [Почему Пожилые Быстро Стареют \| Маргулан Сейсембаев](https://www.youtube.com/watch?v=Bpq3YyaESz0) | Shorts | нет | нет | — |
-| `liinSfieiA8` | [How to Find Motivation \| Incentive vs. Motivation \| Margulan Seissembayev](https://www.youtube.com/watch?v=liinSfieiA8) | Shorts | нет | нет | — |
-| `7_fFPfMabc8` | [Для Чего Я Живу \| Маргулан Сейсембаев](https://www.youtube.com/watch?v=7_fFPfMabc8) | Shorts | нет | нет | — |
-| `-JqtyML0RbM` | [Вопросы Это Жизнь! Маргулан Сейсембаев](https://www.youtube.com/watch?v=-JqtyML0RbM) | Shorts | нет | нет | — |
-| `_urhDiVh4Do` | [Maintain Balance in All Aspects of Life! Margulan Seissembayev](https://www.youtube.com/watch?v=_urhDiVh4Do) | Shorts | нет | нет | — |
-| `k3eqSvmaRwo` | [Demand Yourself as a Tsar! Margulan Seissembaev](https://www.youtube.com/watch?v=k3eqSvmaRwo) | Shorts | нет | нет | — |
-| `DQtBPkexkMs` | [Принимайте мир таким, какой он есть \| Маргулан Сейсембай](https://www.youtube.com/watch?v=DQtBPkexkMs) | Shorts | нет | нет | — |
-| `rG6IcSDCdnM` | [Всегда беру ответственность на себя \| Маргулан Сейсембай](https://www.youtube.com/watch?v=rG6IcSDCdnM) | Shorts | нет | нет | — |
-| `RhtyX_MzINQ` | [Найдите Свою Мотивацию! \| Маргулан Сейсембаев](https://www.youtube.com/watch?v=RhtyX_MzINQ) | Shorts | нет | нет | — |
-| `ei5aZgtGWHM` | [Все Решаемо Пока Вы Живы! Маргулан Сейсембаев](https://www.youtube.com/watch?v=ei5aZgtGWHM) | Shorts | нет | нет | — |
-| `41uUqM1PCX4` | [Это Поможет Решить Любую Проблему! Как Решить Сложную Проблему Маргулан Сейсембаев](https://www.youtube.com/watch?v=41uUqM1PCX4) | Shorts | нет | нет | — |
-| `gOs5RwdSG3o` | [Don't Be Ungrateful! Margulan Seissembayev](https://www.youtube.com/watch?v=gOs5RwdSG3o) | Shorts | нет | нет | — |
-| `hj0tvTBn2H0` | [YOU Are the Main Cause of Your Problems! \| Margulan Seisembayev](https://www.youtube.com/watch?v=hj0tvTBn2H0) | Shorts | нет | нет | — |
-| `om-40s5Yt44` | [Виню Во Всем Только Себя! \| Маргулан Сейсембаев](https://www.youtube.com/watch?v=om-40s5Yt44) | Shorts | нет | нет | — |
-| `aBOJ6AePqNI` | [Ставьте Цель Быть Счастливым! \| Маргулан Сейсембаев](https://www.youtube.com/watch?v=aBOJ6AePqNI) | Shorts | нет | нет | — |
-| `YiW9av7z2j0` | [Отказался от сахара \| Маргулан Сейсембай](https://www.youtube.com/watch?v=YiW9av7z2j0) | Shorts | нет | нет | — |
-| `MPRmsJuKaok` | [Правильное питания \| Маргулан Сейсембай](https://www.youtube.com/watch?v=MPRmsJuKaok) | Shorts | нет | нет | — |
-| `Z1m9EO2nWys` | [Будьте На Позитиве! Маргулан Сейсембаев](https://www.youtube.com/watch?v=Z1m9EO2nWys) | Shorts | нет | нет | — |
-| `qNpkEl66iQM` | [Вы Родились Не Просто Так! \| Маргулан Сейсембаев](https://www.youtube.com/watch?v=qNpkEl66iQM) | Shorts | нет | нет | — |
-| `y0YG57CNLng` | [Управляйте своими эмоциями! \| Маргулан Сейсембай](https://www.youtube.com/watch?v=y0YG57CNLng) | Shorts | нет | нет | — |
-| `0UgBqwkqHVg` | [Pride Comes at a High Price \| Margulan Seissembai](https://www.youtube.com/watch?v=0UgBqwkqHVg) | Shorts | нет | нет | — |
-| `0IZ5z5yIkY4` | [A SMART MAN IS PRACTICAL \| Margulan Seissembaev](https://www.youtube.com/watch?v=0IZ5z5yIkY4) | Shorts | нет | нет | — |
-| `SpZn7kdz4-A` | [Преследуйте Счастье, а не успех! \| Маргулан Сейсембаев](https://www.youtube.com/watch?v=SpZn7kdz4-A) | Shorts | нет | нет | — |
-| `Y129eoPlB-I` | [Как привести в порядок свою жизнь? \| Маргулан Сейсембаев #маргулансейсембай](https://www.youtube.com/watch?v=Y129eoPlB-I) | Shorts | нет | нет | — |
-| `P-garlkm3gs` | [Почему Нет Мотивации Маргулан Сейсембаев #shorts](https://www.youtube.com/watch?v=P-garlkm3gs) | Shorts | нет | нет | — |
-| `U1xpa4BKvoI` | [Ask Yourself 5 Questions \| Margulan Seissembayev](https://www.youtube.com/watch?v=U1xpa4BKvoI) | Shorts | нет | нет | — |
-| `R-v1J-EeQC4` | [What Is Disappointment? \| Margulan Seissembaev](https://www.youtube.com/watch?v=R-v1J-EeQC4) | Shorts | нет | нет | — |
-| `Om9bOLylRQo` | [Как Изменить Привычки? \| Маргулан Сейсембаев](https://www.youtube.com/watch?v=Om9bOLylRQo) | Shorts | нет | нет | — |
-| `QSUcygwlnTk` | [Найдите своё предназначение \| Маргулан Сейсембаев](https://www.youtube.com/watch?v=QSUcygwlnTk) | Shorts | нет | нет | — |
-| `kpY_UDrGd_4` | [How to Make the Most of Luck? \| Margulan Seissembaev](https://www.youtube.com/watch?v=kpY_UDrGd_4) | Shorts | нет | нет | — |
-| `x1xTGD-tz7k` | [В ЖИЗНИ НИКОГДА ПОРЯДКА НЕ БУДЕТ \| МАРГУЛАН СЕЙСЕМБАЙ](https://www.youtube.com/watch?v=x1xTGD-tz7k) | Shorts | нет | нет | — |
-| `2v5ebtAxC0g` | [Как страх и страсть влияют на нас? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=2v5ebtAxC0g) | Shorts | нет | нет | — |
-| `nhuqwBzEp6M` | [Soul Is About Shared Values \| Margulan Seissembay](https://www.youtube.com/watch?v=nhuqwBzEp6M) | Shorts | нет | нет | — |
-| `BSgDRgpjv7k` | [Когда ребенок просит что-то купить \| Маргулан Сейсембай](https://www.youtube.com/watch?v=BSgDRgpjv7k) | Shorts | нет | нет | — |
-| `yqSNvriRaA4` | [Как остановить спад энергии?](https://www.youtube.com/watch?v=yqSNvriRaA4) | Shorts | нет | нет | — |
-| `_xKn4d5EfQY` | [Как не потерять интерес к работе и оставаться счастливым?](https://www.youtube.com/watch?v=_xKn4d5EfQY) | Shorts | нет | нет | — |
-| `7OHfnJaSSEQ` | [Внедрите полезные привычки в свою жизнь](https://www.youtube.com/watch?v=7OHfnJaSSEQ) | Shorts | нет | нет | — |
-| `9CWpZEMxAMg` | [Имейте правило - чем вы моложе, тем больше рисков вы можете себе позволить.](https://www.youtube.com/watch?v=9CWpZEMxAMg) | Shorts | нет | нет | — |
-| `NrGUTY8GkRo` | [Как побороть страх?](https://www.youtube.com/watch?v=NrGUTY8GkRo) | Shorts | нет | нет | — |
-| `VV2kW90GSd4` | [Дайте ребёнку свободу развития](https://www.youtube.com/watch?v=VV2kW90GSd4) | Shorts | нет | нет | — |
-| `OOLTfeKBWv8` | [Где нет стремления к счастью, там нет стремления вообще!](https://www.youtube.com/watch?v=OOLTfeKBWv8) | Shorts | нет | нет | — |
-| `MfM1mv_1OtQ` | [Проблемы всех родителей?](https://www.youtube.com/watch?v=MfM1mv_1OtQ) | Shorts | нет | нет | — |
-| `exlshwvCETE` | [Мечтайте. Думайте о будущем.](https://www.youtube.com/watch?v=exlshwvCETE) | Shorts | нет | нет | — |
-| `1OrPRWfiMi4` | [5 Elements of Happiness](https://www.youtube.com/watch?v=1OrPRWfiMi4) | Shorts | нет | нет | — |
-| `vMk-UNV-NfY` | [До какого возраста нужно пробовать различные направления?](https://www.youtube.com/watch?v=vMk-UNV-NfY) | Shorts | нет | нет | — |
-| `-FsTcdEthdE` | [Success is unique, mistakes are common.](https://www.youtube.com/watch?v=-FsTcdEthdE) | Shorts | нет | нет | — |
-| `FyhGGlCoqe4` | [How are problems solved? Problems are not scary.](https://www.youtube.com/watch?v=FyhGGlCoqe4) | Shorts | нет | нет | — |
-| `rxTTt2chpww` | [Как дети прикрывают безделье?](https://www.youtube.com/watch?v=rxTTt2chpww) | Shorts | нет | нет | — |
-| `3AaM4ivGARw` | [How is the entire process of achieving success structured?](https://www.youtube.com/watch?v=3AaM4ivGARw) | Shorts | нет | нет | — |
-
-## Ранее сохранённые ролики с других каналов
-
-Эти записи учитываются отдельно от полного каталога основного канала. Ссылки ведут на их существующие папки; повторный приём и скачивание уже имеющихся субтитров не требуются.
-
-| Video ID | Ролик | Формат | Канал | Субтитры | Подготовлен | Папка |
-| --- | --- | --- | --- | --- | --- | --- |
-| `pAFxtpRucYc` | [Миссия Продлевает Жизнь \| Маргулан Сейсембаев](https://www.youtube.com/watch?v=pAFxtpRucYc) | Shorts | МАРГУЛАН СЕЙСЕМБАЕВ SHORTS | да | нет | [папка](../reels/2026-03-12-missiya-prodlevaet-zhizn/README.md) |
-| `UdU8P9_RxVc` | [Маргулан Сейсембаев: успешные люди приписывают неудачи себе, а победы — обстоятельствам и другим](https://www.youtube.com/watch?v=UdU8P9_RxVc) | Shorts | Основатели | да | нет | [папка](../reels/2025-12-12-uspeshnye-lyudi-pripisyvayut-neudachi-sebe-a-pobedy-obstoyatelstvam/README.md) |

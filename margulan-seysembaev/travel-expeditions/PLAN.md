@@ -2,19 +2,21 @@
 
 [Все темы и общий прогресс](../PLAN.md)
 
-Дата снимка и статусов: **22.10.2026**.
+Снимок каталога: **22.10.2026**. Очередь и статусы обновлены: **23.10.2026**.
 
 Поездки, экспедиции, маршруты, путешествия и туризм.
 
+В очереди только обычные видео и эфиры. Shorts/рилсы исключены; отбор определяется форматом публикации. Порог 40 000 знаков применяется только при нарезке расшифровки и не ограничивает очередь.
+
 Распределение предварительное, по названию. Один Video ID относится к одной основной теме; содержание транскриптов при распределении не анализировалось.
 
-Всего **55** роликов: основной канал — **55**, другие каналы — **0**. Субтитры: **0/55**; подготовлено: **0/55**.
+Всего в очереди: **36**. Субтитры: **0/36**; подготовлено: **0/36**.
 
-«Нет» в статусе означает отсутствие локального файла. Наличие оригинальной дорожки на YouTube проверяется при скачивании. Формат взят из вкладки канала; правила готовности и последовательность «скачать оригинальные субтитры → очистить → подготовить» — в общем плане.
+«Нет» в статусе означает отсутствие локального файла. Наличие оригинальной дорожки на YouTube проверяется при скачивании. Правила готовности и последовательность «скачать оригинальные субтитры → очистить → подготовить» — в общем плане.
 
-## Каталог основного канала
+## Очередь основного канала
 
-[МАРГУЛАН СЕЙСЕМБАЙ](https://www.youtube.com/channel/UCTHXtr2FZibOytQV7Yt7FqA). Порядок: видео, Shorts, трансляции; внутри формата сохранена последовательность выдачи вкладки.
+[МАРГУЛАН СЕЙСЕМБАЙ](https://www.youtube.com/channel/UCTHXtr2FZibOytQV7Yt7FqA). Порядок: обычные видео, затем эфиры; внутри формата сохранена последовательность выдачи вкладки.
 
 | Video ID | Ролик | Формат | Субтитры | Подготовлен | Папка |
 | --- | --- | --- | --- | --- | --- |
@@ -54,22 +56,3 @@
 | `bZjE0h29AHQ` | [NOMAD EXPLORER \| Көлсай және Қайыңды көлдері](https://www.youtube.com/watch?v=bZjE0h29AHQ) | Видео | нет | нет | — |
 | `IWEEQ56yFz4` | ['Легенды Юга' разведовательная экспедиция](https://www.youtube.com/watch?v=IWEEQ56yFz4) | Видео | нет | нет | — |
 | `dQFVUkii4aM` | [Туризм дамыту мәселелерi жөнiнде сұхбат. Интервью по проблемам развития туризма.](https://www.youtube.com/watch?v=dQFVUkii4aM) | Видео | нет | нет | — |
-| `4gPp9XD_WrI` | [The Joy of Travel](https://www.youtube.com/watch?v=4gPp9XD_WrI) | Shorts | нет | нет | — |
-| `hSXhH3F6yZY` | [Unreal water clarity](https://www.youtube.com/watch?v=hSXhH3F6yZY) | Shorts | нет | нет | — |
-| `IvStNFiRxr8` | [You can't say no to an invitation like this. Well, looks like we're flying to Antarctica on Febru...](https://www.youtube.com/watch?v=IvStNFiRxr8) | Shorts | нет | нет | — |
-| `xk77JTDHCwk` | [Escaping into nature for a week. A perfect mix of work and relaxation.](https://www.youtube.com/watch?v=xk77JTDHCwk) | Shorts | нет | нет | — |
-| `PYL_-soqvAY` | [Starting our short trip across Central Kazakhstan 🇰🇿](https://www.youtube.com/watch?v=PYL_-soqvAY) | Shorts | нет | нет | — |
-| `dajG-bVbm5Q` | [Get out of the city more often, friends! Solitude and nature really provide a lot of insights.](https://www.youtube.com/watch?v=dajG-bVbm5Q) | Shorts | нет | нет | — |
-| `Hw7UEVFGpuo` | [Польза Путешествий \| Маргулан Сейсембай](https://www.youtube.com/watch?v=Hw7UEVFGpuo) | Shorts | нет | нет | — |
-| `5KjCTbka1VQ` | [Путешествие в Перу 🇵🇪 Переходите к просмотру! 👆](https://www.youtube.com/watch?v=5KjCTbka1VQ) | Shorts | нет | нет | — |
-| `3MivPHEG0fg` | [Атмосфера Квадротура на дне Аральского моря.🔥](https://www.youtube.com/watch?v=3MivPHEG0fg) | Shorts | нет | нет | — |
-| `TBOsVfQwDWw` | [Вот в такой обстановке мы проводим свои путешествия.🔥](https://www.youtube.com/watch?v=TBOsVfQwDWw) | Shorts | нет | нет | — |
-| `QxxzIrv56EQ` | [Что может быть лучше, чем обед на природе? Табиғат аясындағы түскі астан артық не болуы мүмкін?](https://www.youtube.com/watch?v=QxxzIrv56EQ) | Shorts | нет | нет | — |
-| `bqanoLz3Obg` | [Первые впечатления в Баку \| Прилетели в Баку на 4 слет Кайдзен клуба](https://www.youtube.com/watch?v=bqanoLz3Obg) | Shorts | нет | нет | — |
-| `gqiFjV-A1w0` | [Аэропорт в Баку \| Маргулан Сейсембай](https://www.youtube.com/watch?v=gqiFjV-A1w0) | Shorts | нет | нет | — |
-| `4k8tiOegJZw` | [Конный выезд \| Маргулан Сейсембай](https://www.youtube.com/watch?v=4k8tiOegJZw) | Shorts | нет | нет | — |
-| `yzRewy_yJSg` | [Beautiful airport in Baku #MargulanSeisembayev](https://www.youtube.com/watch?v=yzRewy_yJSg) | Shorts | нет | нет | — |
-| `rCN0aBuYf84` | [САМЫЙ ОПАСНЫЙ АЭРОПОРТ! \| МАРГУЛАН СЕЙСЕМБАЙ](https://www.youtube.com/watch?v=rCN0aBuYf84) | Shorts | нет | нет | — |
-| `DiTTJaWgLmA` | [Так я готовлюсь к путешествиям \|Технология Кайдзен\| Маргулан Сейсембаев](https://www.youtube.com/watch?v=DiTTJaWgLmA) | Shorts | нет | нет | — |
-| `jT5Ua0tGv2g` | [ПРЫГНУЛ С ПАРАШЮТА \| Маргулан Сейсембай](https://www.youtube.com/watch?v=jT5Ua0tGv2g) | Shorts | нет | нет | — |
-| `UmUQoaKpEaU` | [Дорога и багги олицетворяет жизнь!](https://www.youtube.com/watch?v=UmUQoaKpEaU) | Shorts | нет | нет | — |
