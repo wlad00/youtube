@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: ["Пендлишак", "проповедь", "грех", "покаяние", "Библия", "Иисус", "христианская жизнь"]
 ---
 
 # Чи існує звільнення від гріха? - Іван Пендлишак

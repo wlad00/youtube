@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: ["проповедь", "молитва", "пост", "послушание Богу", "Библия", "покаяние"]
 ---
 
 # Ми молимось, а Ти не чуєш - Іван Пендлишак
