@@ -4,8 +4,10 @@ youtube: "https://www.youtube.com/watch?v=rf0GAxbV4Sw"
 video_id: "rf0GAxbV4Sw"
 date: "2026-09-11"
 collection: "bible/ivan-pendlishak"
+author: "Іван Пендлишак"
+channel: "Ivan Pendlyshak"
 structure_status: pending
-tags: []
+tags: ["проповедь", "Иеремия", "идолопоклонство", "покаяние", "выбор человека", "благословение и проклятие", "потеря спасения"]
 ---
 
 # До чого приводить впертість - Іван Пендлишак
