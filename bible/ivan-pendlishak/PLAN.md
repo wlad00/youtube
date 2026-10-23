@@ -33,8 +33,8 @@
 | Год | Всего | Видео | Трансляции | Готово | Скачано без выжимки | Нет ссылки | Не начато |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | 2026 | 174 | 134 | 39 | 153 | 20 | 1 | 0 |
-| 2025 | 192 | 163 | 29 | 0 | 20 | 0 | 172 |
-| **Итого** | **366** | **297** | **68** | **153** | **40** | **1** | **172** |
+| 2025 | 192 | 163 | 29 | 0 | 106 | 0 | 86 |
+| **Итого** | **366** | **297** | **68** | **153** | **126** | **1** | **86** |
 
 Пояснения к числам:
 
@@ -225,7 +225,7 @@
 
 ## 2025
 
-Всего **192**: скачано без выжимки — 20, не начато — 172. От новых к старым.
+Всего **192**: скачано без выжимки — 106, не начато — 86. От новых к старым.
 
 | Video ID | Дата | Ролик | Тип | Статус |
 |---|---|---|---|---|
@@ -249,92 +249,92 @@
 | `uq1jxcipmso` | 2025-11-26 | [Завантажити роботою - Іван Пендлишак](https://www.youtube.com/watch?v=uq1jxcipmso) | видео | **скачано без выжимки** |
 | `Dq-5rIHMPA8` | 2025-11-23 | [Не давай нікому владу над собою - Іван Пендлишак](https://www.youtube.com/watch?v=Dq-5rIHMPA8) | видео | **скачано без выжимки** |
 | `Jkc2us3BOdE` | 2025-11-21 | [Тотальне рабство - Іван Пендлишак](https://www.youtube.com/watch?v=Jkc2us3BOdE) | видео | **скачано без выжимки** |
-| `anlWVw1Tq3s` | 2025-11-19 | [А чому так? - Іван Пендлишак](https://www.youtube.com/watch?v=anlWVw1Tq3s) | видео | **не начато** |
-| `y-FUR9SpKYc` | 2025-11-16 | [Поручитися небезпечно - Іван Пендлишак](https://www.youtube.com/watch?v=y-FUR9SpKYc) | видео | **не начато** |
-| `-h8_3JYHGZo` | 2025-11-14 | [Хвалися тим, що розумієш і знаєш Господа - Іван Пендлишак](https://www.youtube.com/watch?v=-h8_3JYHGZo) | видео | **не начато** |
-| `KxPwB--0-rU` | 2025-11-12 | [Він не боїться дати в борг - Іван Пендлишак](https://www.youtube.com/watch?v=KxPwB--0-rU) | видео | **не начато** |
-| `6YYxs9yV4ts` | 2025-11-07 | [Комплекси - Іван Пендлишак](https://www.youtube.com/watch?v=6YYxs9yV4ts) | видео | **не начато** |
-| `JXButjAKwgk` | 2025-11-07 | [Вірність - Іван Пендлишак](https://www.youtube.com/watch?v=JXButjAKwgk) | трансляция | **не начато** |
-| `bW-HaKlrWX8` | 2025-10-31 | [Час особистого прикладу - Іван Пендлишак](https://www.youtube.com/watch?v=bW-HaKlrWX8) | видео | **не начато** |
-| `m-OnIpItG1k` | 2025-10-30 | [Коли ми будемо з Ним - Іван Пендлишак](https://www.youtube.com/watch?v=m-OnIpItG1k) | трансляция | **не начато** |
-| `0mhMX8DH9kQ` | 2025-10-26 | [До кого нам йти? - Іван Пендлишак](https://www.youtube.com/watch?v=0mhMX8DH9kQ) | видео | **не начато** |
-| `Vl_UdzQdr5c` | 2025-10-24 | [Реакція Бога на зухвалість - Іван Пендлишак](https://www.youtube.com/watch?v=Vl_UdzQdr5c) | видео | **не начато** |
-| `21PIAniAj78` | 2025-10-24 | [Амінь! - Іван Пендлишак](https://www.youtube.com/watch?v=21PIAniAj78) | трансляция | **не начато** |
-| `yPTtFmzqMQs` | 2025-10-22 | [Відректися від свого Я - Іван Пендлишак](https://www.youtube.com/watch?v=yPTtFmzqMQs) | видео | **не начато** |
-| `hNNlXl_Wjrk` | 2025-10-17 | [Ви є власність Христа - Іван Пендлишак](https://www.youtube.com/watch?v=hNNlXl_Wjrk) | видео | **не начато** |
-| `Q3lPKkNJCXI` | 2025-10-17 | [Для кожного є призначення від Господа - Іван Пендлишак](https://www.youtube.com/watch?v=Q3lPKkNJCXI) | трансляция | **не начато** |
-| `0ZItrRFL8mQ` | 2025-10-12 | [Що зробив Христос - Іван Пендлишак](https://www.youtube.com/watch?v=0ZItrRFL8mQ) | видео | **не начато** |
-| `de0i_c-dpW0` | 2025-10-10 | [Або здобув вічність або втратив усе - Іван Пендлишак](https://www.youtube.com/watch?v=de0i_c-dpW0) | видео | **не начато** |
-| `CS7fuhKs6fo` | 2025-10-10 | [Бог любить тих, хто не нарікає - Іван Пендлишак](https://www.youtube.com/watch?v=CS7fuhKs6fo) | трансляция | **не начато** |
-| `Q2Esa___vbc` | 2025-10-08 | [Що добре для людини - Іван Пендлишак](https://www.youtube.com/watch?v=Q2Esa___vbc) | видео | **не начато** |
-| `KeSX3Op9pxc` | 2025-10-05 | [Вміння бути задоволеним - Іван Пендлишак](https://www.youtube.com/watch?v=KeSX3Op9pxc) | видео | **не начато** |
-| `msnjNTuwC_c` | 2025-10-03 | [Чому ми падаємо - Іван Пендлишак](https://www.youtube.com/watch?v=msnjNTuwC_c) | видео | **не начато** |
-| `UZwGp99_Jsk` | 2025-10-03 | [Чи вмієш ти бути винним? - Іван Пендлишак](https://www.youtube.com/watch?v=UZwGp99_Jsk) | трансляция | **не начато** |
-| `8EC_gW5mvC0` | 2025-10-01 | [Твій духовний стан - Іван Пендлишак](https://www.youtube.com/watch?v=8EC_gW5mvC0) | видео | **не начато** |
-| `9hVHksFWyGQ` | 2025-09-28 | [Премудрість Божа цього не вміщає - Іван Пендлишак](https://www.youtube.com/watch?v=9hVHksFWyGQ) | видео | **не начато** |
-| `gBSaC6tCbYc` | 2025-09-26 | [Духовна система речей. Чистилище - Іван Пендлишак](https://www.youtube.com/watch?v=gBSaC6tCbYc) | видео | **не начато** |
-| `R8hM54HvFC4` | 2025-09-26 | [Ціль Бога: Нова людина ! - Іван Пендлишак](https://www.youtube.com/watch?v=R8hM54HvFC4) | трансляция | **не начато** |
-| `f_LUTBlDOQY` | 2025-09-24 | [Однодумність, любов і згода - Іван Пендлишак](https://www.youtube.com/watch?v=f_LUTBlDOQY) | видео | **не начато** |
-| `RJ7_lLbMTXM` | 2025-09-21 | [Коли живеш як каже Бог - Іван Пендлишак](https://www.youtube.com/watch?v=RJ7_lLbMTXM) | видео | **не начато** |
-| `P3-F4WvwJe8` | 2025-09-19 | [Не чекай поки зламаєшся під власним тягарем - Іван Пендлишак](https://www.youtube.com/watch?v=P3-F4WvwJe8) | видео | **не начато** |
-| `YYTp5ot56OA` | 2025-09-19 | [Радійте з тими хто радіє! - Іван Пендлишак](https://www.youtube.com/watch?v=YYTp5ot56OA) | трансляция | **не начато** |
-| `QyuFwUyOs00` | 2025-09-17 | [Які ознаки нерозумного - Іван Пендлишак](https://www.youtube.com/watch?v=QyuFwUyOs00) | видео | **не начато** |
-| `ssY4sOSmovQ` | 2025-09-14 | [Сатанинська атака - Іван Пендлишак](https://www.youtube.com/watch?v=ssY4sOSmovQ) | видео | **не начато** |
-| `F9iT1LtVvMs` | 2025-09-12 | [Страх мучить людину - Іван Пендлишак](https://www.youtube.com/watch?v=F9iT1LtVvMs) | видео | **не начато** |
-| `unPCJUlG_BY` | 2025-09-10 | [Я стану на сторожі серця мого - Іван Пендлишак](https://www.youtube.com/watch?v=unPCJUlG_BY) | видео, короткое (161 с) | **не начато** |
-| `JZwna-B-y-U` | 2025-09-07 | [Твоя доля найкраща! - Іван Пендлишак](https://www.youtube.com/watch?v=JZwna-B-y-U) | видео | **не начато** |
-| `aoUTq9X_xaA` | 2025-09-05 | [Людське Я - Іван Пендлишак](https://www.youtube.com/watch?v=aoUTq9X_xaA) | видео | **не начато** |
-| `g_wFXfONEdE` | 2025-08-29 | [Чи можуть віруючі впливати на хід війни? Молитва за Україну! - Іван Пендлишак](https://www.youtube.com/watch?v=g_wFXfONEdE) | видео | **не начато** |
-| `QJGMpsl_Daw` | 2025-08-24 | [Хто перетерпить до кінця, спасеться! - Іван Пендлишак](https://www.youtube.com/watch?v=QJGMpsl_Daw) | видео | **не начато** |
-| `EImgbB4bvHQ` | 2025-08-10 | [Притча про султана і його 4 дружини - Іван Пендлишак](https://www.youtube.com/watch?v=EImgbB4bvHQ) | видео | **не начато** |
-| `K0Zi9bsGwI4` | 2025-08-08 | [Хіба є межа Божій силі? - Іван Пендлишак](https://www.youtube.com/watch?v=K0Zi9bsGwI4) | видео | **не начато** |
-| `jAuggGijkA4` | 2025-08-07 | [Річ, яка береже людину від гріха - Іван Пендлишак](https://www.youtube.com/watch?v=jAuggGijkA4) | трансляция | **не начато** |
-| `zP4WO-MgUzQ` | 2025-08-06 | [Одяг, вираз лиця і хода - Іван Пендлишак](https://www.youtube.com/watch?v=zP4WO-MgUzQ) | видео | **не начато** |
-| `wblXRrQbbXQ` | 2025-08-03 | [Спомин смерті Христа - Іван Пендлишак](https://www.youtube.com/watch?v=wblXRrQbbXQ) | видео | **не начато** |
-| `sYYTofV0Uvs` | 2025-08-01 | [Чим Бог утішає людей - Іван Пендлишак](https://www.youtube.com/watch?v=sYYTofV0Uvs) | видео | **не начато** |
-| `fvzwiFaOQo0` | 2025-07-31 | [Мідний змій став прообразом - Іван Пендлишак](https://www.youtube.com/watch?v=fvzwiFaOQo0) | трансляция | **не начато** |
-| `bYVB5_4onfo` | 2025-07-30 | [Ти смакуєш недоліки ближнього? - Іван Пендлишак](https://www.youtube.com/watch?v=bYVB5_4onfo) | видео | **не начато** |
-| `r6MMY2DNHWk` | 2025-07-27 | [Гріх язика - Іван Пендлишак](https://www.youtube.com/watch?v=r6MMY2DNHWk) | видео | **не начато** |
-| `Cs26pzf_K8k` | 2025-07-25 | [Тягар минулого і страх майбутнього - Іван Пендлишак](https://www.youtube.com/watch?v=Cs26pzf_K8k) | видео | **не начато** |
-| `hLvlIP7HC80` | 2025-07-25 | [Як уникнути впливу розчарування - Іван Пендлишак](https://www.youtube.com/watch?v=hLvlIP7HC80) | трансляция | **не начато** |
-| `vvaPk26PjLs` | 2025-07-23 | [Чи покарав Бог, чи благословив - Іван Пендлишак](https://www.youtube.com/watch?v=vvaPk26PjLs) | видео | **не начато** |
-| `6mb9CbCzGIQ` | 2025-07-20 | [Не хвалися нечестивими дітьми - Іван Пендлишак](https://www.youtube.com/watch?v=6mb9CbCzGIQ) | видео | **не начато** |
-| `2U3kaylfd5A` | 2025-07-18 | [Адекватність - Іван Пендлишак](https://www.youtube.com/watch?v=2U3kaylfd5A) | видео | **не начато** |
-| `XNPLmSqIHc0` | 2025-07-17 | [Три умови спасіння - Іван Пендлишак](https://www.youtube.com/watch?v=XNPLmSqIHc0) | трансляция | **не начато** |
-| `20LgsuYa130` | 2025-07-16 | [Тому що був в присутності Божій - Іван Пендлишак](https://www.youtube.com/watch?v=20LgsuYa130) | видео | **не начато** |
-| `0qMuZynJ3gI` | 2025-07-13 | [Доля визначена наперед - Іван Пендлишак](https://www.youtube.com/watch?v=0qMuZynJ3gI) | видео | **не начато** |
-| `bbA-0jTbL_w` | 2025-07-11 | [Де початок відступлення - Іван Пендлишак](https://www.youtube.com/watch?v=bbA-0jTbL_w) | видео | **не начато** |
-| `vgCEcCCYisw` | 2025-07-10 | [Ми покликані пройти дорогою Христа - Іван Пендлишак](https://www.youtube.com/watch?v=vgCEcCCYisw) | трансляция | **не начато** |
-| `kYp1gg-87kA` | 2025-07-09 | [Використай свій акумулятор на повну - Іван Пендлишак](https://www.youtube.com/watch?v=kYp1gg-87kA) | видео | **не начато** |
-| `n4t4-KlmDxc` | 2025-07-06 | [Давай згідно своїх можливостей - Іван Пендлишак](https://www.youtube.com/watch?v=n4t4-KlmDxc) | видео | **не начато** |
-| `obDVeEtjHEQ` | 2025-07-04 | [Виконай те, що обіцяв - Іван Пендлишак](https://www.youtube.com/watch?v=obDVeEtjHEQ) | видео | **не начато** |
-| `5yDQjN_jk7s` | 2025-07-03 | [Тобі важко. Шукай Бога! - Іван Пендлишак](https://www.youtube.com/watch?v=5yDQjN_jk7s) | трансляция | **не начато** |
-| `48Tbw0PZk7Q` | 2025-06-30 | [Тримайся подалі від гордих - Іван Пендлишак](https://www.youtube.com/watch?v=48Tbw0PZk7Q) | видео | **не начато** |
-| `J6LfCXKNwhY` | 2025-06-29 | [Правда на стороні сильного - Іван Пендлишак](https://www.youtube.com/watch?v=J6LfCXKNwhY) | видео | **не начато** |
-| `GqbnwkpIRb0` | 2025-06-27 | [Люди які дані нам Богом - Іван Пендлишак](https://www.youtube.com/watch?v=GqbnwkpIRb0) | видео | **не начато** |
-| `RJHFilvGto8` | 2025-06-27 | [Приниження ради слави - Іван Пендлишак](https://www.youtube.com/watch?v=RJHFilvGto8) | трансляция | **не начато** |
-| `ISUezQc0ZVg` | 2025-06-25 | [Що я роблю для Ісуса - Іван Пендлишак](https://www.youtube.com/watch?v=ISUezQc0ZVg) | видео | **не начато** |
-| `k5Nmi_4SK4s` | 2025-06-23 | [Він дає сили йти далі - Іван Пендлишак](https://www.youtube.com/watch?v=k5Nmi_4SK4s) | видео | **не начато** |
-| `BotQhRUHbvs` | 2025-06-22 | [Людина отримує те, у що вірить - Іван Пендлишак](https://www.youtube.com/watch?v=BotQhRUHbvs) | видео | **не начато** |
-| `wmbNO9JQ2ck` | 2025-06-20 | [Як розпізнати що ти в падінні - Іван Пендлишак](https://www.youtube.com/watch?v=wmbNO9JQ2ck) | видео | **не начато** |
-| `jYsCLgdF1F4` | 2025-06-19 | [Святі грішники - Іван Пендлишак](https://www.youtube.com/watch?v=jYsCLgdF1F4) | трансляция | **не начато** |
-| `GaYtzNBVVLE` | 2025-06-18 | [Не хвали людину за її красу - Іван Пендлишак](https://www.youtube.com/watch?v=GaYtzNBVVLE) | видео | **не начато** |
-| `nR6yqunaDL4` | 2025-06-15 | [Смиренного Бог піднесе - Іван Пендлишак](https://www.youtube.com/watch?v=nR6yqunaDL4) | видео | **не начато** |
-| `ZmKKHcraq-g` | 2025-06-13 | [Як навчитись стримуватись - Іван Пендлишак](https://www.youtube.com/watch?v=ZmKKHcraq-g) | видео | **не начато** |
-| `IY6pJXPpORM` | 2025-06-13 | [Як стати миротворцем - Іван Пендлишак](https://www.youtube.com/watch?v=IY6pJXPpORM) | трансляция | **не начато** |
-| `a2huaVy_2XM` | 2025-06-11 | [Який цар - такі і люди - Іван Пендлишак](https://www.youtube.com/watch?v=a2huaVy_2XM) | видео | **не начато** |
-| `DVpayUxVQ1o` | 2025-06-08 | [Сила Церкви Христа - Іван Пендлишак](https://www.youtube.com/watch?v=DVpayUxVQ1o) | видео | **не начато** |
-| `kAFBg9twNdM` | 2025-06-06 | [Твоє належить тобі - Іван Пендлишак](https://www.youtube.com/watch?v=kAFBg9twNdM) | видео | **не начато** |
-| `IebZ-V2w86I` | 2025-06-06 | [Народжений від плоті чи від духа - Іван Пендлишак](https://www.youtube.com/watch?v=IebZ-V2w86I) | трансляция | **не начато** |
-| `bCk1QScDGUY` | 2025-06-04 | [Пріоритет у дружбі - Іван Пендлишак](https://www.youtube.com/watch?v=bCk1QScDGUY) | видео | **не начато** |
-| `W0Gw7CR8pps` | 2025-06-01 | [Як уникнути небезпеки - Іван Пендлишак](https://www.youtube.com/watch?v=W0Gw7CR8pps) | видео, короткое (135 с) | **не начато** |
-| `rJEKEn-blVA` | 2025-05-31 | [Це не твоя вагова категорія - Іван Пендлишак](https://www.youtube.com/watch?v=rJEKEn-blVA) | видео | **не начато** |
-| `kBFI1xHhRLQ` | 2025-05-30 | [Духовні рівні розвитку - Іван Пендлишак](https://www.youtube.com/watch?v=kBFI1xHhRLQ) | видео | **не начато** |
-| `-F9q0ORh4Cs` | 2025-05-30 | [Закон у світлі Євангелії - Іван Пендлишак](https://www.youtube.com/watch?v=-F9q0ORh4Cs) | трансляция | **не начато** |
-| `j4M8HMEU4B4` | 2025-05-25 | [Що таке Боже Царство? - Іван Пендлишак](https://www.youtube.com/watch?v=j4M8HMEU4B4) | видео | **не начато** |
-| `DHDdoQFy1n8` | 2025-05-23 | [Відповіді немає - Іван Пендлишак](https://www.youtube.com/watch?v=DHDdoQFy1n8) | видео | **не начато** |
-| `lAAqAXegaMU` | 2025-05-23 | [Що руйнує духовне здоров'я? - Іван Пендлишак](https://www.youtube.com/watch?v=lAAqAXegaMU) | трансляция | **не начато** |
-| `kW4OhN5_u4I` | 2025-05-21 | [Бог кличе тебе, щоб зробити кращим! - Іван Пендлишак](https://www.youtube.com/watch?v=kW4OhN5_u4I) | видео | **не начато** |
+| `anlWVw1Tq3s` | 2025-11-19 | [А чому так? - Іван Пендлишак](https://www.youtube.com/watch?v=anlWVw1Tq3s) | видео | **скачано без выжимки** |
+| `y-FUR9SpKYc` | 2025-11-16 | [Поручитися небезпечно - Іван Пендлишак](https://www.youtube.com/watch?v=y-FUR9SpKYc) | видео | **скачано без выжимки** |
+| `-h8_3JYHGZo` | 2025-11-14 | [Хвалися тим, що розумієш і знаєш Господа - Іван Пендлишак](https://www.youtube.com/watch?v=-h8_3JYHGZo) | видео | **скачано без выжимки** |
+| `KxPwB--0-rU` | 2025-11-12 | [Він не боїться дати в борг - Іван Пендлишак](https://www.youtube.com/watch?v=KxPwB--0-rU) | видео | **скачано без выжимки** |
+| `6YYxs9yV4ts` | 2025-11-07 | [Комплекси - Іван Пендлишак](https://www.youtube.com/watch?v=6YYxs9yV4ts) | видео | **скачано без выжимки** |
+| `JXButjAKwgk` | 2025-11-07 | [Вірність - Іван Пендлишак](https://www.youtube.com/watch?v=JXButjAKwgk) | трансляция | **скачано без выжимки** |
+| `bW-HaKlrWX8` | 2025-10-31 | [Час особистого прикладу - Іван Пендлишак](https://www.youtube.com/watch?v=bW-HaKlrWX8) | видео | **скачано без выжимки** |
+| `m-OnIpItG1k` | 2025-10-30 | [Коли ми будемо з Ним - Іван Пендлишак](https://www.youtube.com/watch?v=m-OnIpItG1k) | трансляция | **скачано без выжимки** |
+| `0mhMX8DH9kQ` | 2025-10-26 | [До кого нам йти? - Іван Пендлишак](https://www.youtube.com/watch?v=0mhMX8DH9kQ) | видео | **скачано без выжимки** |
+| `Vl_UdzQdr5c` | 2025-10-24 | [Реакція Бога на зухвалість - Іван Пендлишак](https://www.youtube.com/watch?v=Vl_UdzQdr5c) | видео | **скачано без выжимки** |
+| `21PIAniAj78` | 2025-10-24 | [Амінь! - Іван Пендлишак](https://www.youtube.com/watch?v=21PIAniAj78) | трансляция | **скачано без выжимки** |
+| `yPTtFmzqMQs` | 2025-10-22 | [Відректися від свого Я - Іван Пендлишак](https://www.youtube.com/watch?v=yPTtFmzqMQs) | видео | **скачано без выжимки** |
+| `hNNlXl_Wjrk` | 2025-10-17 | [Ви є власність Христа - Іван Пендлишак](https://www.youtube.com/watch?v=hNNlXl_Wjrk) | видео | **скачано без выжимки** |
+| `Q3lPKkNJCXI` | 2025-10-17 | [Для кожного є призначення від Господа - Іван Пендлишак](https://www.youtube.com/watch?v=Q3lPKkNJCXI) | трансляция | **скачано без выжимки** |
+| `0ZItrRFL8mQ` | 2025-10-12 | [Що зробив Христос - Іван Пендлишак](https://www.youtube.com/watch?v=0ZItrRFL8mQ) | видео | **скачано без выжимки** |
+| `de0i_c-dpW0` | 2025-10-10 | [Або здобув вічність або втратив усе - Іван Пендлишак](https://www.youtube.com/watch?v=de0i_c-dpW0) | видео | **скачано без выжимки** |
+| `CS7fuhKs6fo` | 2025-10-10 | [Бог любить тих, хто не нарікає - Іван Пендлишак](https://www.youtube.com/watch?v=CS7fuhKs6fo) | трансляция | **скачано без выжимки** |
+| `Q2Esa___vbc` | 2025-10-08 | [Що добре для людини - Іван Пендлишак](https://www.youtube.com/watch?v=Q2Esa___vbc) | видео | **скачано без выжимки** |
+| `KeSX3Op9pxc` | 2025-10-05 | [Вміння бути задоволеним - Іван Пендлишак](https://www.youtube.com/watch?v=KeSX3Op9pxc) | видео | **скачано без выжимки** |
+| `msnjNTuwC_c` | 2025-10-03 | [Чому ми падаємо - Іван Пендлишак](https://www.youtube.com/watch?v=msnjNTuwC_c) | видео | **скачано без выжимки** |
+| `UZwGp99_Jsk` | 2025-10-03 | [Чи вмієш ти бути винним? - Іван Пендлишак](https://www.youtube.com/watch?v=UZwGp99_Jsk) | трансляция | **скачано без выжимки** |
+| `8EC_gW5mvC0` | 2025-10-01 | [Твій духовний стан - Іван Пендлишак](https://www.youtube.com/watch?v=8EC_gW5mvC0) | видео | **скачано без выжимки** |
+| `9hVHksFWyGQ` | 2025-09-28 | [Премудрість Божа цього не вміщає - Іван Пендлишак](https://www.youtube.com/watch?v=9hVHksFWyGQ) | видео | **скачано без выжимки** |
+| `gBSaC6tCbYc` | 2025-09-26 | [Духовна система речей. Чистилище - Іван Пендлишак](https://www.youtube.com/watch?v=gBSaC6tCbYc) | видео | **скачано без выжимки** |
+| `R8hM54HvFC4` | 2025-09-26 | [Ціль Бога: Нова людина ! - Іван Пендлишак](https://www.youtube.com/watch?v=R8hM54HvFC4) | трансляция | **скачано без выжимки** |
+| `f_LUTBlDOQY` | 2025-09-24 | [Однодумність, любов і згода - Іван Пендлишак](https://www.youtube.com/watch?v=f_LUTBlDOQY) | видео | **скачано без выжимки** |
+| `RJ7_lLbMTXM` | 2025-09-21 | [Коли живеш як каже Бог - Іван Пендлишак](https://www.youtube.com/watch?v=RJ7_lLbMTXM) | видео | **скачано без выжимки** |
+| `P3-F4WvwJe8` | 2025-09-19 | [Не чекай поки зламаєшся під власним тягарем - Іван Пендлишак](https://www.youtube.com/watch?v=P3-F4WvwJe8) | видео | **скачано без выжимки** |
+| `YYTp5ot56OA` | 2025-09-19 | [Радійте з тими хто радіє! - Іван Пендлишак](https://www.youtube.com/watch?v=YYTp5ot56OA) | трансляция | **скачано без выжимки** |
+| `QyuFwUyOs00` | 2025-09-17 | [Які ознаки нерозумного - Іван Пендлишак](https://www.youtube.com/watch?v=QyuFwUyOs00) | видео | **скачано без выжимки** |
+| `ssY4sOSmovQ` | 2025-09-14 | [Сатанинська атака - Іван Пендлишак](https://www.youtube.com/watch?v=ssY4sOSmovQ) | видео | **скачано без выжимки** |
+| `F9iT1LtVvMs` | 2025-09-12 | [Страх мучить людину - Іван Пендлишак](https://www.youtube.com/watch?v=F9iT1LtVvMs) | видео | **скачано без выжимки** |
+| `unPCJUlG_BY` | 2025-09-10 | [Я стану на сторожі серця мого - Іван Пендлишак](https://www.youtube.com/watch?v=unPCJUlG_BY) | видео, короткое (161 с) | **скачано без выжимки** |
+| `JZwna-B-y-U` | 2025-09-07 | [Твоя доля найкраща! - Іван Пендлишак](https://www.youtube.com/watch?v=JZwna-B-y-U) | видео | **скачано без выжимки** |
+| `aoUTq9X_xaA` | 2025-09-05 | [Людське Я - Іван Пендлишак](https://www.youtube.com/watch?v=aoUTq9X_xaA) | видео | **скачано без выжимки** |
+| `g_wFXfONEdE` | 2025-08-29 | [Чи можуть віруючі впливати на хід війни? Молитва за Україну! - Іван Пендлишак](https://www.youtube.com/watch?v=g_wFXfONEdE) | видео | **скачано без выжимки** |
+| `QJGMpsl_Daw` | 2025-08-24 | [Хто перетерпить до кінця, спасеться! - Іван Пендлишак](https://www.youtube.com/watch?v=QJGMpsl_Daw) | видео | **скачано без выжимки** |
+| `EImgbB4bvHQ` | 2025-08-10 | [Притча про султана і його 4 дружини - Іван Пендлишак](https://www.youtube.com/watch?v=EImgbB4bvHQ) | видео | **скачано без выжимки** |
+| `K0Zi9bsGwI4` | 2025-08-08 | [Хіба є межа Божій силі? - Іван Пендлишак](https://www.youtube.com/watch?v=K0Zi9bsGwI4) | видео | **скачано без выжимки** |
+| `jAuggGijkA4` | 2025-08-07 | [Річ, яка береже людину від гріха - Іван Пендлишак](https://www.youtube.com/watch?v=jAuggGijkA4) | трансляция | **скачано без выжимки** |
+| `zP4WO-MgUzQ` | 2025-08-06 | [Одяг, вираз лиця і хода - Іван Пендлишак](https://www.youtube.com/watch?v=zP4WO-MgUzQ) | видео | **скачано без выжимки** |
+| `wblXRrQbbXQ` | 2025-08-03 | [Спомин смерті Христа - Іван Пендлишак](https://www.youtube.com/watch?v=wblXRrQbbXQ) | видео | **скачано без выжимки** |
+| `sYYTofV0Uvs` | 2025-08-01 | [Чим Бог утішає людей - Іван Пендлишак](https://www.youtube.com/watch?v=sYYTofV0Uvs) | видео | **скачано без выжимки** |
+| `fvzwiFaOQo0` | 2025-07-31 | [Мідний змій став прообразом - Іван Пендлишак](https://www.youtube.com/watch?v=fvzwiFaOQo0) | трансляция | **скачано без выжимки** |
+| `bYVB5_4onfo` | 2025-07-30 | [Ти смакуєш недоліки ближнього? - Іван Пендлишак](https://www.youtube.com/watch?v=bYVB5_4onfo) | видео | **скачано без выжимки** |
+| `r6MMY2DNHWk` | 2025-07-27 | [Гріх язика - Іван Пендлишак](https://www.youtube.com/watch?v=r6MMY2DNHWk) | видео | **скачано без выжимки** |
+| `Cs26pzf_K8k` | 2025-07-25 | [Тягар минулого і страх майбутнього - Іван Пендлишак](https://www.youtube.com/watch?v=Cs26pzf_K8k) | видео | **скачано без выжимки** |
+| `hLvlIP7HC80` | 2025-07-25 | [Як уникнути впливу розчарування - Іван Пендлишак](https://www.youtube.com/watch?v=hLvlIP7HC80) | трансляция | **скачано без выжимки** |
+| `vvaPk26PjLs` | 2025-07-23 | [Чи покарав Бог, чи благословив - Іван Пендлишак](https://www.youtube.com/watch?v=vvaPk26PjLs) | видео | **скачано без выжимки** |
+| `6mb9CbCzGIQ` | 2025-07-20 | [Не хвалися нечестивими дітьми - Іван Пендлишак](https://www.youtube.com/watch?v=6mb9CbCzGIQ) | видео | **скачано без выжимки** |
+| `2U3kaylfd5A` | 2025-07-18 | [Адекватність - Іван Пендлишак](https://www.youtube.com/watch?v=2U3kaylfd5A) | видео | **скачано без выжимки** |
+| `XNPLmSqIHc0` | 2025-07-17 | [Три умови спасіння - Іван Пендлишак](https://www.youtube.com/watch?v=XNPLmSqIHc0) | трансляция | **скачано без выжимки** |
+| `20LgsuYa130` | 2025-07-16 | [Тому що був в присутності Божій - Іван Пендлишак](https://www.youtube.com/watch?v=20LgsuYa130) | видео | **скачано без выжимки** |
+| `0qMuZynJ3gI` | 2025-07-13 | [Доля визначена наперед - Іван Пендлишак](https://www.youtube.com/watch?v=0qMuZynJ3gI) | видео | **скачано без выжимки** |
+| `bbA-0jTbL_w` | 2025-07-11 | [Де початок відступлення - Іван Пендлишак](https://www.youtube.com/watch?v=bbA-0jTbL_w) | видео | **скачано без выжимки** |
+| `vgCEcCCYisw` | 2025-07-10 | [Ми покликані пройти дорогою Христа - Іван Пендлишак](https://www.youtube.com/watch?v=vgCEcCCYisw) | трансляция | **скачано без выжимки** |
+| `kYp1gg-87kA` | 2025-07-09 | [Використай свій акумулятор на повну - Іван Пендлишак](https://www.youtube.com/watch?v=kYp1gg-87kA) | видео | **скачано без выжимки** |
+| `n4t4-KlmDxc` | 2025-07-06 | [Давай згідно своїх можливостей - Іван Пендлишак](https://www.youtube.com/watch?v=n4t4-KlmDxc) | видео | **скачано без выжимки** |
+| `obDVeEtjHEQ` | 2025-07-04 | [Виконай те, що обіцяв - Іван Пендлишак](https://www.youtube.com/watch?v=obDVeEtjHEQ) | видео | **скачано без выжимки** |
+| `5yDQjN_jk7s` | 2025-07-03 | [Тобі важко. Шукай Бога! - Іван Пендлишак](https://www.youtube.com/watch?v=5yDQjN_jk7s) | трансляция | **скачано без выжимки** |
+| `48Tbw0PZk7Q` | 2025-06-30 | [Тримайся подалі від гордих - Іван Пендлишак](https://www.youtube.com/watch?v=48Tbw0PZk7Q) | видео | **скачано без выжимки** |
+| `J6LfCXKNwhY` | 2025-06-29 | [Правда на стороні сильного - Іван Пендлишак](https://www.youtube.com/watch?v=J6LfCXKNwhY) | видео | **скачано без выжимки** |
+| `GqbnwkpIRb0` | 2025-06-27 | [Люди які дані нам Богом - Іван Пендлишак](https://www.youtube.com/watch?v=GqbnwkpIRb0) | видео | **скачано без выжимки** |
+| `RJHFilvGto8` | 2025-06-27 | [Приниження ради слави - Іван Пендлишак](https://www.youtube.com/watch?v=RJHFilvGto8) | трансляция | **скачано без выжимки** |
+| `ISUezQc0ZVg` | 2025-06-25 | [Що я роблю для Ісуса - Іван Пендлишак](https://www.youtube.com/watch?v=ISUezQc0ZVg) | видео | **скачано без выжимки** |
+| `k5Nmi_4SK4s` | 2025-06-23 | [Він дає сили йти далі - Іван Пендлишак](https://www.youtube.com/watch?v=k5Nmi_4SK4s) | видео | **скачано без выжимки** |
+| `BotQhRUHbvs` | 2025-06-22 | [Людина отримує те, у що вірить - Іван Пендлишак](https://www.youtube.com/watch?v=BotQhRUHbvs) | видео | **скачано без выжимки** |
+| `wmbNO9JQ2ck` | 2025-06-20 | [Як розпізнати що ти в падінні - Іван Пендлишак](https://www.youtube.com/watch?v=wmbNO9JQ2ck) | видео | **скачано без выжимки** |
+| `jYsCLgdF1F4` | 2025-06-19 | [Святі грішники - Іван Пендлишак](https://www.youtube.com/watch?v=jYsCLgdF1F4) | трансляция | **скачано без выжимки** |
+| `GaYtzNBVVLE` | 2025-06-18 | [Не хвали людину за її красу - Іван Пендлишак](https://www.youtube.com/watch?v=GaYtzNBVVLE) | видео | **скачано без выжимки** |
+| `nR6yqunaDL4` | 2025-06-15 | [Смиренного Бог піднесе - Іван Пендлишак](https://www.youtube.com/watch?v=nR6yqunaDL4) | видео | **скачано без выжимки** |
+| `ZmKKHcraq-g` | 2025-06-13 | [Як навчитись стримуватись - Іван Пендлишак](https://www.youtube.com/watch?v=ZmKKHcraq-g) | видео | **скачано без выжимки** |
+| `IY6pJXPpORM` | 2025-06-13 | [Як стати миротворцем - Іван Пендлишак](https://www.youtube.com/watch?v=IY6pJXPpORM) | трансляция | **скачано без выжимки** |
+| `a2huaVy_2XM` | 2025-06-11 | [Який цар - такі і люди - Іван Пендлишак](https://www.youtube.com/watch?v=a2huaVy_2XM) | видео | **скачано без выжимки** |
+| `DVpayUxVQ1o` | 2025-06-08 | [Сила Церкви Христа - Іван Пендлишак](https://www.youtube.com/watch?v=DVpayUxVQ1o) | видео | **скачано без выжимки** |
+| `kAFBg9twNdM` | 2025-06-06 | [Твоє належить тобі - Іван Пендлишак](https://www.youtube.com/watch?v=kAFBg9twNdM) | видео | **скачано без выжимки** |
+| `IebZ-V2w86I` | 2025-06-06 | [Народжений від плоті чи від духа - Іван Пендлишак](https://www.youtube.com/watch?v=IebZ-V2w86I) | трансляция | **скачано без выжимки** |
+| `bCk1QScDGUY` | 2025-06-04 | [Пріоритет у дружбі - Іван Пендлишак](https://www.youtube.com/watch?v=bCk1QScDGUY) | видео | **скачано без выжимки** |
+| `W0Gw7CR8pps` | 2025-06-01 | [Як уникнути небезпеки - Іван Пендлишак](https://www.youtube.com/watch?v=W0Gw7CR8pps) | видео, короткое (135 с) | **скачано без выжимки** |
+| `rJEKEn-blVA` | 2025-05-31 | [Це не твоя вагова категорія - Іван Пендлишак](https://www.youtube.com/watch?v=rJEKEn-blVA) | видео | **скачано без выжимки** |
+| `kBFI1xHhRLQ` | 2025-05-30 | [Духовні рівні розвитку - Іван Пендлишак](https://www.youtube.com/watch?v=kBFI1xHhRLQ) | видео | **скачано без выжимки** |
+| `-F9q0ORh4Cs` | 2025-05-30 | [Закон у світлі Євангелії - Іван Пендлишак](https://www.youtube.com/watch?v=-F9q0ORh4Cs) | трансляция | **скачано без выжимки** |
+| `j4M8HMEU4B4` | 2025-05-25 | [Що таке Боже Царство? - Іван Пендлишак](https://www.youtube.com/watch?v=j4M8HMEU4B4) | видео | **скачано без выжимки** |
+| `DHDdoQFy1n8` | 2025-05-23 | [Відповіді немає - Іван Пендлишак](https://www.youtube.com/watch?v=DHDdoQFy1n8) | видео | **скачано без выжимки** |
+| `lAAqAXegaMU` | 2025-05-23 | [Що руйнує духовне здоров'я? - Іван Пендлишак](https://www.youtube.com/watch?v=lAAqAXegaMU) | трансляция | **скачано без выжимки** |
+| `kW4OhN5_u4I` | 2025-05-21 | [Бог кличе тебе, щоб зробити кращим! - Іван Пендлишак](https://www.youtube.com/watch?v=kW4OhN5_u4I) | видео | **скачано без выжимки** |
 | `QQnMMPnbThg` | 2025-05-18 | [Справжній друг - Іван Пендлишак](https://www.youtube.com/watch?v=QQnMMPnbThg) | видео | **не начато** |
 | `gVla2ifNZuM` | 2025-05-16 | [Як стати мудрим? - Іван Пендлишак](https://www.youtube.com/watch?v=gVla2ifNZuM) | видео | **не начато** |
 | `XoNUVWj4OyI` | 2025-05-16 | [Люби і будеш щасливим! - Іван Пендлишак](https://www.youtube.com/watch?v=XoNUVWj4OyI) | трансляция | **не начато** |
