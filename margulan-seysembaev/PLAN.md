@@ -26,10 +26,10 @@
 | --- | ---: | ---: | ---: |
 | [Бизнес и управление](business-management/PLAN.md) | 32 | 29 | 29 |
 | [Влияние и лидерство](influence-leadership/PLAN.md) | 17 | 16 | 16 |
-| [Самореализация и качество жизни](self-realization/PLAN.md) | 82 | 33 | 32 |
 | [Маркетинг, продажи и личный бренд](marketing-sales-brand/PLAN.md) | 7 | 2 | 0 |
 | [Искусственный интеллект и технологии](ai-technology/PLAN.md) | 17 | 1 | 1 |
 | [Переговоры и общение](negotiations-communication/PLAN.md) | 10 | 0 | 0 |
+| [Самореализация и качество жизни](self-realization/PLAN.md) | 82 | 33 | 32 |
 | [Обучение, фокус и эффективность](learning-focus/PLAN.md) | 58 | 0 | 0 |
 | [Прочее / уточнить](other-clarify/PLAN.md) | 51 | 1 | 1 |
 | [Инвестиции и личные финансы](investments-finance/PLAN.md) | 40 | 32 | 32 |
