@@ -10,7 +10,7 @@
 
 Распределение предварительное, по названию. Один Video ID относится к одной основной теме; содержание транскриптов при распределении не анализировалось.
 
-Всего в очереди: **81**. Субтитры: **1/81**; подготовлено: **0/81**.
+Всего в очереди: **82**. Субтитры: **33/82**; подготовлено: **32/82**.
 
 «Нет» в статусе означает отсутствие локального файла. Наличие оригинальной дорожки на YouTube проверяется при скачивании. Правила готовности и последовательность «скачать оригинальные субтитры → очистить → подготовить» — в общем плане.
 
@@ -20,37 +20,38 @@
 
 | Video ID | Ролик | Формат | Субтитры | Подготовлен | Папка |
 | --- | --- | --- | --- | --- | --- |
-| `R_Sn2tkXbKk` | [What Worries the Younger Generation? \| Q&A with Margulan Seissembai](https://www.youtube.com/watch?v=R_Sn2tkXbKk) | Видео | нет | нет | — |
-| `SW-65s1zP9Q` | [Why do strong people choose solitude? What are the benefits of solitude, and why are people afrai...](https://www.youtube.com/watch?v=SW-65s1zP9Q) | Видео | нет | нет | — |
-| `aimx6Al_wuA` | [How does your morning shape your entire day? How do you start your day right so everything goes a...](https://www.youtube.com/watch?v=aimx6Al_wuA) | Видео | нет | нет | — |
-| `aNSirFLPq5U` | [3 убеждения, которые мешают вам расти \| Главная ловушка человеческого мышления](https://www.youtube.com/watch?v=aNSirFLPq5U) | Видео | нет | нет | — |
-| `G9WI4HGKMQM` | [The main reason for resentment and disappointment \|](https://www.youtube.com/watch?v=G9WI4HGKMQM) | Видео | нет | нет | — |
-| `Dxl_Z9N8pHQ` | [6 причин, почему у вас постоянно нет энергии \| Главные утечки энергии в жизни](https://www.youtube.com/watch?v=Dxl_Z9N8pHQ) | Видео | нет | нет | — |
-| `bJhk0l0phh0` | [Почему самодисциплина не работает в долгую? Движение к цели не должно быть борьбой.](https://www.youtube.com/watch?v=bJhk0l0phh0) | Видео | нет | нет | — |
-| `abWUnqsFKH0` | [Чтобы я сделал если бы пришлось начинать сначала? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=abWUnqsFKH0) | Видео | нет | нет | — |
-| `HquOwOgaNSI` | [Как определить свои таланты: простой пошаговый метод \| Как понять, в чём вы действительно сильны?](https://www.youtube.com/watch?v=HquOwOgaNSI) | Видео | нет | нет | — |
-| `Kj22AmeIaqI` | [САМОРАЗВИТИЕ: тренд или необходимость? \| О привычках и поиске себя \| Беседы с Маргуланом](https://www.youtube.com/watch?v=Kj22AmeIaqI) | Видео | нет | нет | — |
-| `cbgiAK_UnOc` | [Почему ты чувствуешь ПУСТОТУ? \| Все дело в твоей МИССИИ \| Беседы с Маргуланом](https://www.youtube.com/watch?v=cbgiAK_UnOc) | Видео | нет | нет | — |
-| `mDZ6i1nhHd8` | [ПРИЧИНЫ, из-за которых ВЫ НЕ СЧАСТЛИВЫ: Бизнес, семья и смысл жизни \| Беседы с Маргуланом](https://www.youtube.com/watch?v=mDZ6i1nhHd8) | Видео | нет | нет | — |
-| `4-KXKof0J9Q` | [Как ВСЕГДА и ЛЕГКО достигать своих ЦЕЛЕЙ? ЭФФЕКТ РЫЧАГА \| СУПЕРПОЗИЦИЯ \| 8 ВЫПУСК](https://www.youtube.com/watch?v=4-KXKof0J9Q) | Видео | нет | нет | — |
-| `jQfi64TTRm8` | [Как справляться со СТРЕССОМ и продлить ЖИЗНЬ? \| Беседы с Маргуланом](https://www.youtube.com/watch?v=jQfi64TTRm8) | Видео | нет | нет | — |
-| `MhnCOOlNpDM` | [90% ваших ОШИБОК из-за ЭГО \| Как это обезвредить? \| СУПЕРПОЗИЦИЯ \| 6 ВЫПУСК](https://www.youtube.com/watch?v=MhnCOOlNpDM) | Видео | нет | нет | — |
-| `k6dnIDTI-Sw` | [Секрет Суперпозиции: как создавать ситуации, при которых вам ВЕЗЁТ \| СУПЕРПОЗИЦИЯ \| 2 ВЫПУСК](https://www.youtube.com/watch?v=k6dnIDTI-Sw) | Видео | нет | нет | — |
-| `6his5HsYmGo` | [1 САМАЯ главная причина, из за которой вы НЕ растете!](https://www.youtube.com/watch?v=6his5HsYmGo) | Видео | нет | нет | — |
-| `DQigtASvYhY` | [Вы НЕ умеете замечать ЗНАКИ и ПОДСКАЗКИ от жизни](https://www.youtube.com/watch?v=DQigtASvYhY) | Видео | нет | нет | — |
-| `wQmYO4GOjOg` | [Почему дети или другие люди становятся НЕблагодарными? Как сделать людей благодарными?](https://www.youtube.com/watch?v=wQmYO4GOjOg) | Видео | нет | нет | — |
-| `LtG8qYaO1jg` | [Почему нужно забыть о БАЛАНСЕ в жизни? Большая ошибка 99% людей...](https://www.youtube.com/watch?v=LtG8qYaO1jg) | Видео | нет | нет | — |
-| `sCMyxzJD8ao` | [10 ужасных типов людей, которые незаметно превратят вашу жизнь в ХАОС](https://www.youtube.com/watch?v=sCMyxzJD8ao) | Видео | нет | нет | — |
-| `IJcm2QwQHzM` | [5 вещей, которые я бы хотел осознать до 25 лет! Жаль понял ЭТО намного позже…](https://www.youtube.com/watch?v=IJcm2QwQHzM) | Видео | нет | нет | — |
-| `rey00145yxM` | [6 типов людей, которые разрушают вашу жизнь. Они приносят только БЕДЫ!](https://www.youtube.com/watch?v=rey00145yxM) | Видео | нет | нет | — |
-| `Sij5J-RHrQs` | [Как перестать ходить по кругу и совершать одни и те же ошибки? Берем жизнь под свой контроль](https://www.youtube.com/watch?v=Sij5J-RHrQs) | Видео | нет | нет | — |
-| `2IUvbhoCU-w` | [Скрытая сила одиночества, которой пользуются единицы. Вот почему важно научиться быть одному!](https://www.youtube.com/watch?v=2IUvbhoCU-w) | Видео | нет | нет | — |
-| `MBNhkLr0s-4` | [Всю жизнь ты начинал свой день НЕПРАВИЛЬНО! Феномен утра, знакомый КАЖДОМУ миллионеру](https://www.youtube.com/watch?v=MBNhkLr0s-4) | Видео | нет | нет | — |
-| `C0XHRm-2Kxo` | [Как НЕ обижаться и НЕ разочаровываться в людях – МУДРОСТЬ, о которой ты НЕ ЗНАЕШЬ](https://www.youtube.com/watch?v=C0XHRm-2Kxo) | Видео | нет | нет | — |
-| `W6MhUZDQF84` | [3 убеждения, которые мешают развиваться любому человеку!](https://www.youtube.com/watch?v=W6MhUZDQF84) | Видео | нет | нет | — |
-| `w4VXh_46yxo` | [6 причин, почему у тебя вечно нет сил! Куда уходит ваша энергия?](https://www.youtube.com/watch?v=w4VXh_46yxo) | Видео | нет | нет | — |
-| `fIEPfKgXK6g` | [Как сделать 2024 год началом твоей лучшей жизни – 6 главных привычек](https://www.youtube.com/watch?v=fIEPfKgXK6g) | Видео | нет | нет | — |
-| `zGuWxj7544E` | [Как изменить свою жизнь к лучшему? \| О постановке целей и здоровье \| Маргулан Сейсембай](https://www.youtube.com/watch?v=zGuWxj7544E) | Видео | нет | нет | — |
+| `R_Sn2tkXbKk` | [What Worries the Younger Generation? \| Q&A with Margulan Seissembai](https://www.youtube.com/watch?v=R_Sn2tkXbKk) | Видео | да | да | [папка](2026-05-17-chto-volnuet-molodoe-pokolenie-vopros-otvet-s-margulanom-seysembaevym/README.md) |
+| `SW-65s1zP9Q` | [Why do strong people choose solitude? What are the benefits of solitude, and why are people afrai...](https://www.youtube.com/watch?v=SW-65s1zP9Q) | Видео | да | да | [папка](2026-04-27-pochemu-silnye-lyudi-vybirayut-odinochestvo-chto-dayot-odinochestvo-i-pochemu-ego-boyatsya/README.md) |
+| `D8C6nTN8yrg` | [Как выйти из замкнутого круга и перестать повторять ошибки](https://www.youtube.com/watch?v=D8C6nTN8yrg) | Видео | да | да | [папка](2026-04-15-kak-vyyti-iz-zamknutogo-kruga-i-perestat-povtoryat-oshibki/README.md) |
+| `aimx6Al_wuA` | [How does your morning shape your entire day? How do you start your day right so everything goes a...](https://www.youtube.com/watch?v=aimx6Al_wuA) | Видео | да | да | [папка](2026-03-20-kak-utro-formiruet-ves-vash-den-kak-pravilno-nachinat-den-chtoby-vse-shlo-po-planu/README.md) |
+| `aNSirFLPq5U` | [3 убеждения, которые мешают вам расти \| Главная ловушка человеческого мышления](https://www.youtube.com/watch?v=aNSirFLPq5U) | Видео | да | да | [папка](2026-03-16-3-ubezhdeniya-kotorye-meshayut-vam-rasti-glavnaya-lovushka-chelovecheskogo-myshleniya/README.md) |
+| `G9WI4HGKMQM` | [The main reason for resentment and disappointment \|](https://www.youtube.com/watch?v=G9WI4HGKMQM) | Видео | да | да | [папка](2026-03-13-glavnaya-prichina-obid-i-razocharovaniy/README.md) |
+| `Dxl_Z9N8pHQ` | [6 причин, почему у вас постоянно нет энергии \| Главные утечки энергии в жизни](https://www.youtube.com/watch?v=Dxl_Z9N8pHQ) | Видео | да | да | [папка](2026-03-04-6-prichin-pochemu-u-vas-postoyanno-net-energii-glavnye-utechki-energii-v-zhizni/README.md) |
+| `bJhk0l0phh0` | [Почему самодисциплина не работает в долгую? Движение к цели не должно быть борьбой.](https://www.youtube.com/watch?v=bJhk0l0phh0) | Видео | да | да | [папка](2026-02-27-pochemu-samodistsiplina-ne-rabotaet-v-dolguyu-dvizhenie-k-tseli-ne-dolzhno-byt-borboy/README.md) |
+| `abWUnqsFKH0` | [Чтобы я сделал если бы пришлось начинать сначала? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=abWUnqsFKH0) | Видео | да | да | [папка](2026-02-25-chtoby-ya-sdelal-esli-by-prishlos-nachinat-snachala-margulan-seysembay/README.md) |
+| `HquOwOgaNSI` | [Как определить свои таланты: простой пошаговый метод \| Как понять, в чём вы действительно сильны?](https://www.youtube.com/watch?v=HquOwOgaNSI) | Видео | да | да | [папка](2026-02-11-kak-opredelit-svoi-talanty-prostoy-poshagovyy-metod-kak-ponyat-v-chem-vy-deystvitelno-silny/README.md) |
+| `Kj22AmeIaqI` | [САМОРАЗВИТИЕ: тренд или необходимость? \| О привычках и поиске себя \| Беседы с Маргуланом](https://www.youtube.com/watch?v=Kj22AmeIaqI) | Видео | да | да | [папка](2025-09-13-samorazvitie-trend-ili-neobkhodimost-o-privychkakh-i-poiske-sebya-besedy-s-margulanom/README.md) |
+| `cbgiAK_UnOc` | [Почему ты чувствуешь ПУСТОТУ? \| Все дело в твоей МИССИИ \| Беседы с Маргуланом](https://www.youtube.com/watch?v=cbgiAK_UnOc) | Видео | да | да | [папка](2025-08-04-pochemu-ty-chuvstvuesh-pustotu-vse-delo-v-tvoey-missii-besedy-s-margulanom/README.md) |
+| `mDZ6i1nhHd8` | [ПРИЧИНЫ, из-за которых ВЫ НЕ СЧАСТЛИВЫ: Бизнес, семья и смысл жизни \| Беседы с Маргуланом](https://www.youtube.com/watch?v=mDZ6i1nhHd8) | Видео | да | да | [папка](2025-06-21-prichiny-iz-za-kotoryh-vy-ne-schastlivy-biznes-semya-i-smysl-zhizni-besedy-s-margulanom/README.md) |
+| `4-KXKof0J9Q` | [Как ВСЕГДА и ЛЕГКО достигать своих ЦЕЛЕЙ? ЭФФЕКТ РЫЧАГА \| СУПЕРПОЗИЦИЯ \| 8 ВЫПУСК](https://www.youtube.com/watch?v=4-KXKof0J9Q) | Видео | да | да | [папка](2025-05-17-kak-vsegda-i-legko-dostigat-svoih-tseley-effekt-rychaga-superpozitsiya-8-vypusk/README.md) |
+| `jQfi64TTRm8` | [Как справляться со СТРЕССОМ и продлить ЖИЗНЬ? \| Беседы с Маргуланом](https://www.youtube.com/watch?v=jQfi64TTRm8) | Видео | да | да | [папка](2025-05-10-kak-spravlyatsya-so-stressom-i-prodlit-zhizn-besedy-s-margulanom/README.md) |
+| `MhnCOOlNpDM` | [90% ваших ОШИБОК из-за ЭГО \| Как это обезвредить? \| СУПЕРПОЗИЦИЯ \| 6 ВЫПУСК](https://www.youtube.com/watch?v=MhnCOOlNpDM) | Видео | да | да | [папка](2025-04-18-90-vashih-oshibok-iz-za-ego-kak-eto-obezvredit-superpozitsiya-6-vypusk/README.md) |
+| `k6dnIDTI-Sw` | [Секрет Суперпозиции: как создавать ситуации, при которых вам ВЕЗЁТ \| СУПЕРПОЗИЦИЯ \| 2 ВЫПУСК](https://www.youtube.com/watch?v=k6dnIDTI-Sw) | Видео | да | да | [папка](2025-03-07-sekret-superpozitsii-kak-sozdavat-situatsii-pri-kotoryh-vam-vezyot-superpozitsiya-2-vypusk/README.md) |
+| `6his5HsYmGo` | [1 САМАЯ главная причина, из за которой вы НЕ растете!](https://www.youtube.com/watch?v=6his5HsYmGo) | Видео | да | да | [папка](2025-01-15-1-samaya-glavnaya-prichina-iz-za-kotoroy-vy-ne-rastete/README.md) |
+| `DQigtASvYhY` | [Вы НЕ умеете замечать ЗНАКИ и ПОДСКАЗКИ от жизни](https://www.youtube.com/watch?v=DQigtASvYhY) | Видео | да | да | [папка](2025-01-08-vy-ne-umeete-zamechat-znaki-i-podskazki-ot-zhizni/README.md) |
+
+| `LtG8qYaO1jg` | [Почему нужно забыть о БАЛАНСЕ в жизни? Большая ошибка 99% людей...](https://www.youtube.com/watch?v=LtG8qYaO1jg) | Видео | да | да | [папка](2024-11-22-pochemu-nuzhno-zabyt-o-balanse-v-zhizni-bolshaya-oshibka-99-lyudey/README.md) |
+| `sCMyxzJD8ao` | [10 ужасных типов людей, которые незаметно превратят вашу жизнь в ХАОС](https://www.youtube.com/watch?v=sCMyxzJD8ao) | Видео | да | да | [папка](2024-05-09-10-uzhasnyh-tipov-lyudey-kotorye-nezametno-prevratyat-vashu-zhizn-v-haos/README.md) |
+| `IJcm2QwQHzM` | [5 вещей, которые я бы хотел осознать до 25 лет! Жаль понял ЭТО намного позже…](https://www.youtube.com/watch?v=IJcm2QwQHzM) | Видео | да | да | [папка](2024-05-01-5-veshchey-kotorye-ya-by-hotel-osoznat-do-25-let-zhal-ponyal-eto-namnogo-pozzhe/README.md) |
+| `rey00145yxM` | [6 типов людей, которые разрушают вашу жизнь. Они приносят только БЕДЫ!](https://www.youtube.com/watch?v=rey00145yxM) | Видео | да | да | [папка](2024-04-03-6-tipov-lyudey-kotorye-razrushayut-vashu-zhizn-oni-prinosyat-tolko-bedy/README.md) |
+| `Sij5J-RHrQs` | [Как перестать ходить по кругу и совершать одни и те же ошибки? Берем жизнь под свой контроль](https://www.youtube.com/watch?v=Sij5J-RHrQs) | Видео | да | да | [папка](2024-03-20-kak-perestat-hodit-po-krugu-i-sovershat-odni-i-te-zhe-oshibki-berem-zhizn-pod-svoy-kontrol/README.md) |
+| `2IUvbhoCU-w` | [Скрытая сила одиночества, которой пользуются единицы. Вот почему важно научиться быть одному!](https://www.youtube.com/watch?v=2IUvbhoCU-w) | Видео | да | да | [папка](2024-03-13-skrytaya-sila-odinochestva-kotoroy-polzuyutsya-edinitsy-vot-pochemu-vazhno-nauchitsya-byt-odnomu/README.md) |
+| `MBNhkLr0s-4` | [Всю жизнь ты начинал свой день НЕПРАВИЛЬНО! Феномен утра, знакомый КАЖДОМУ миллионеру](https://www.youtube.com/watch?v=MBNhkLr0s-4) | Видео | да | да | [папка](2024-02-07-vsyu-zhizn-ty-nachinal-svoy-den-nepravilno-fenomen-utra-znakomyy-kazhdomu-millioneru/README.md) |
+| `C0XHRm-2Kxo` | [Как НЕ обижаться и НЕ разочаровываться в людях – МУДРОСТЬ, о которой ты НЕ ЗНАЕШЬ](https://www.youtube.com/watch?v=C0XHRm-2Kxo) | Видео | да | да | [папка](2024-01-31-kak-ne-obizhatsya-i-ne-razocharovyvatsya-v-lyudyah-mudrost-o-kotoroy-ty-ne-znaesh/README.md) |
+| `W6MhUZDQF84` | [3 убеждения, которые мешают развиваться любому человеку!](https://www.youtube.com/watch?v=W6MhUZDQF84) | Видео | да | да | [папка](2024-01-10-3-ubezhdeniya-kotorye-meshayut-razvivatsya-lyubomu-cheloveku/README.md) |
+| `w4VXh_46yxo` | [6 причин, почему у тебя вечно нет сил! Куда уходит ваша энергия?](https://www.youtube.com/watch?v=w4VXh_46yxo) | Видео | да | да | [папка](2024-01-06-6-prichin-pochemu-u-tebya-vechno-net-sil-kuda-uhodit-vasha-energiya/README.md) |
+| `fIEPfKgXK6g` | [Как сделать 2024 год началом твоей лучшей жизни – 6 главных привычек](https://www.youtube.com/watch?v=fIEPfKgXK6g) | Видео | да | да | [папка](2024-01-02-kak-sdelat-2024-god-nachalom-tvoey-luchshey-zhizni-6-glavnyh-privychek/README.md) |
+| `zGuWxj7544E` | [Как изменить свою жизнь к лучшему? \| О постановке целей и здоровье  \| Маргулан Сейсембай](https://www.youtube.com/watch?v=zGuWxj7544E) | Видео | да | да | [папка](2023-12-31-kak-izmenit-svoyu-zhizn-k-luchshemu-o-postanovke-tseley-i-zdorove-margulan-seysembaev/README.md) |
 | `9Wc28bpsN_A` | [Самодисциплина и сила воли — БЛАГО или ЗЛО? Моя история и мои ошибки](https://www.youtube.com/watch?v=9Wc28bpsN_A) | Видео | нет | нет | — |
 | `vSVB6QKkaO4` | [Маргулан Сейсембай — Как бы я начал, если бы пришлось начинать сначала?](https://www.youtube.com/watch?v=vSVB6QKkaO4) | Видео | нет | нет | — |
 | `5Xm5YHISCtM` | [Всего 1 привычка, которая изменит вашу жизнь на ДО и ПОСЛЕ](https://www.youtube.com/watch?v=5Xm5YHISCtM) | Видео | нет | нет | — |
@@ -65,6 +66,7 @@
 | `v32RG0NeI3s` | [Переосмысли свою жизнь \| Как правильно отдыхать? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=v32RG0NeI3s) | Видео | нет | нет | — |
 | `NuzrU_HhZ2k` | [4 КОМПОНЕНТА УСПЕХА \| МАРГУЛАН СЕЙСЕМБАЙ](https://www.youtube.com/watch?v=NuzrU_HhZ2k) | Видео | нет | нет | — |
 | `yb73JyZuKBs` | [Don't Dedicate Yourself Only to Business! \| Margulan Seisembay](https://www.youtube.com/watch?v=yb73JyZuKBs) | Видео | нет | нет | — |
+| `s98o_WlOZKo` | [Почему одни пашут за гроши, а другие зарабатывают больше? \|  Маргулан Сейсембай](https://www.youtube.com/watch?v=s98o_WlOZKo) | Видео | да | да | [папка](2023-07-10-pochemu-odni-pashut-za-groshi-a-drugie-zarabatyvayut-bolshe-margulan-seysembay/README.md) |
 | `0HPN669zXUo` | [Мой рацион питания \| Маргулан Сейсембай](https://www.youtube.com/watch?v=0HPN669zXUo) | Видео | нет | нет | — |
 | `N69daGqlHPA` | [КАК ПРОЖИТЬ СЧАСТЛИВУЮ ЖИЗНЬ? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=N69daGqlHPA) | Видео | нет | нет | — |
 | `AZG-sXpun0s` | [ЕСЛИ У ВАС НЕТ ЭНЕРГИИ \| МАРГУЛАН СЕЙСЕМБАЙ](https://www.youtube.com/watch?v=AZG-sXpun0s) | Видео | нет | нет | — |
