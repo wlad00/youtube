@@ -4,8 +4,10 @@ youtube: "https://www.youtube.com/watch?v=3_l6HGcgm_w"
 video_id: "3_l6HGcgm_w"
 date: "2026-09-06"
 collection: "bible/ivan-pendlishak"
+author: "Іван Пендлишак"
+channel: "Ivan Pendlyshak"
 structure_status: pending
-tags: []
+tags: ["проповедь", "Иван Пендлишак", "Иеремия", "Израиль", "родовое проклятие", "Новый завет"]
 ---
 
 # Хто розсіяв Той і збере - Іван Пендлишак

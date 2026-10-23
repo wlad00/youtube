@@ -1,11 +1,13 @@
 ---
 title: "Служіння докору і виявлення гріхів"
-youtube: ""
-video_id: ""
+youtube: "https://www.youtube.com/watch?v=cvwWi6EcXFs"
+video_id: "cvwWi6EcXFs"
 date: "2026-08-23"
 collection: "ivan-pendlishak"
+channel: "Ivan Pendlyshak"
+author: "Іван Пендлишак"
 structure_status: pending
-tags: []
+tags: ["обличение греха", "ложные пророки", "истинное пророчество", "сны и видения", "суд Божий и благословение", "слово как тягар", "эмиграция и война"]
 ---
 
 # Служіння докору і виявлення гріхів

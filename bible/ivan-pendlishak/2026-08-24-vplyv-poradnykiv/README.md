@@ -1,11 +1,13 @@
 ---
 title: "Вплив порадників"
-youtube: ""
-video_id: ""
+youtube: "https://www.youtube.com/watch?v=OT4e-r61czE"
+video_id: "OT4e-r61czE"
 date: "2026-08-24"
 collection: "ivan-pendlishak"
+channel: "Ivan Pendlyshak"
+author: "Іван Пендлишак"
 structure_status: pending
-tags: []
+tags: ["советчики", "влияние окружения", "мудрость", "библейские примеры советов", "опыт и возраст", "интернет и советы", "молитва о Слове Божьем"]
 ---
 
 # Вплив порадників

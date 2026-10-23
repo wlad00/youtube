@@ -4,8 +4,10 @@ youtube: "https://www.youtube.com/watch?v=uyhhFSML9Ds"
 video_id: "uyhhFSML9Ds"
 date: "2026-09-10"
 collection: "bible/ivan-pendlishak"
+author: "Іван Пендлишак"
+channel: "Ivan Pendlyshak"
 structure_status: pending
-tags: []
+tags: ["проповедь", "Библия", "спасение", "победа", "смирение", "любовь к ближнему", "семья"]
 ---
 
 # Переможець успадкує все - Іван Пендлишак

@@ -1,11 +1,13 @@
 ---
 title: "Роби те, на що ти призначений"
-youtube: ""
-video_id: ""
+youtube: "https://www.youtube.com/watch?v=BMwuoWbRa6I"
+video_id: "BMwuoWbRa6I"
 date: "2026-08-26"
 collection: "ivan-pendlishak"
+channel: "Ivan Pendlyshak"
+author: "Іван Пендлишак"
 structure_status: pending
-tags: []
+tags: ["проповедь", "Иеремия", "призвание", "служение", "наклонности", "слушание правды"]
 ---
 
 # Роби те, на що ти призначений

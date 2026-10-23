@@ -4,9 +4,11 @@ youtube: "https://www.youtube.com/watch?v=rlWM0pZfMic"
 video_id: "rlWM0pZfMic"
 date: "2026-09-16"
 collection: "bible/ivan-pendlishak"
+author: "Іван Пендлишак"
+channel: "Ivan Pendlyshak"
 language: "uk"
 structure_status: pending
-tags: []
+tags: ["пророчество", "ложные пророки", "Иезекииль", "проповедь", "служение", "ответственность", "Писание"]
 ---
 
 # Проблема пророка - Іван Пендлишак

@@ -1,11 +1,13 @@
 ---
 title: "Кожен знає свій злий путь"
-youtube: ""
-video_id: ""
+youtube: "https://www.youtube.com/watch?v=tmSVa5cNCZc"
+video_id: "tmSVa5cNCZc"
 date: "2026-08-28"
 collection: "ivan-pendlishak"
+author: "Іван Пендлишак"
+channel: "Ivan Pendlyshak"
 structure_status: pending
-tags: []
+tags: ["покаяние", "пророчество", "Иеремия", "злой путь", "Ветхий Завет", "толкование Библии", "борода и головной убор"]
 ---
 
 # Кожен знає свій злий путь
