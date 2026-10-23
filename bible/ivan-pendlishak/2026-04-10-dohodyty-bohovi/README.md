@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: ["угождение Богу", "Божья воля", "верность", "Енох", "Авраам", "Давид", "воспитание детей"]
 ---
 
 # Догодити Богові - Іван Пендлишак

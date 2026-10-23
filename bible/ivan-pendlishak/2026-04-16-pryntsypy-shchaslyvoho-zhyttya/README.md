@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: ["счастливая жизнь", "простота", "благодарность", "доброта", "прощение", "терпение", "вера"]
 ---
 
 # Принципи щасливого життя - Іван Пендлишак

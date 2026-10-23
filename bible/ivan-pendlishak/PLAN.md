@@ -32,9 +32,9 @@
 
 | Год | Всего | Видео | Трансляции | Готово | Скачано без выжимки | Нет ссылки | Не начато |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| 2026 | 174 | 134 | 39 | 153 | 20 | 1 | 0 |
+| 2026 | 174 | 134 | 39 | 158 | 15 | 1 | 0 |
 | 2025 | 192 | 163 | 29 | 0 | 146 | 0 | 46 |
-| **Итого** | **366** | **297** | **68** | **153** | **166** | **1** | **46** |
+| **Итого** | **366** | **297** | **68** | **158** | **161** | **1** | **46** |
 
 Пояснения к числам:
 
@@ -44,7 +44,7 @@
 
 ## 2026
 
-Всего **174**: готово — 153, скачано без выжимки — 20, нет ссылки — 1. От новых к старым.
+Всего **174**: готово — 158, скачано без выжимки — 15, нет ссылки — 1. От новых к старым.
 
 | Video ID | Дата | Ролик | Тип | Статус | Папка |
 |---|---|---|---|---|---|
@@ -147,12 +147,12 @@
 | `iCzW1YZwPBI` | 2026-06-02 | [Гординя засліплює очі. Нетверезі духовно - Іван Пендлишак](https://www.youtube.com/watch?v=iCzW1YZwPBI) | видео | готово | [2026-06-02-hordynya-zasliplyuie-ochi-netverezi-dukhovno](2026-06-02-hordynya-zasliplyuie-ochi-netverezi-dukhovno/) |
 | `jm4Jwm8kp68` | 2026-05-31 | [Служіння Святого Духа - Іван Пендлишак](https://www.youtube.com/watch?v=jm4Jwm8kp68) | видео | готово | [2026-05-31-sluzhinnya-svyatoho-dukha](2026-05-31-sluzhinnya-svyatoho-dukha/) |
 | `0ZlkQM1K-Yk` | 2026-05-29 | [Наскільки я знаю Духа Святого - Іван Пендлишак](https://www.youtube.com/watch?v=0ZlkQM1K-Yk) | видео | готово | [2026-05-29-naskilky-ya-znayu-dukha-svyatoho](2026-05-29-naskilky-ya-znayu-dukha-svyatoho/) |
-| `i4iFthZczT8` | 2026-05-28 | [Господь оберне твої сльози на радість - Іван Пендлишак](https://www.youtube.com/watch?v=i4iFthZczT8) | трансляция | **скачано без выжимки** | [2026-05-28-hospod-oberne-tvoi-slozy-na-radist](2026-05-28-hospod-oberne-tvoi-slozy-na-radist/) |
+| `i4iFthZczT8` | 2026-05-28 | [Господь оберне твої сльози на радість - Іван Пендлишак](https://www.youtube.com/watch?v=i4iFthZczT8) | трансляция | готово | [2026-05-28-hospod-oberne-tvoi-slozy-na-radist](2026-05-28-hospod-oberne-tvoi-slozy-na-radist/) |
 | `LT-kVUAUs70` | 2026-05-27 | [Правило на правило, заповідь на заповідь - Іван Пендлишак](https://www.youtube.com/watch?v=LT-kVUAUs70) | видео | готово | [2026-05-27-pravylo-na-pravylo-zapovid-na-zapovid](2026-05-27-pravylo-na-pravylo-zapovid-na-zapovid/) |
 | `_kgHNjVC4x4` | 2026-05-26 | [На що надіятись у війні - Іван Пендлишак](https://www.youtube.com/watch?v=_kgHNjVC4x4) | видео | готово | [2026-05-26-na-shcho-nadiyatys-u-viini](2026-05-26-na-shcho-nadiyatys-u-viini/) |
 | `HoZ-dHnrMJw` | 2026-05-24 | [Скинутий у пекло - Іван Пендлишак](https://www.youtube.com/watch?v=HoZ-dHnrMJw) | видео | готово | [2026-05-24-skynutyi-u-peklo](2026-05-24-skynutyi-u-peklo/) |
 | `6_rLDkbzfvc` | 2026-05-22 | [Це буде буквально? - Іван Пендлишак](https://www.youtube.com/watch?v=6_rLDkbzfvc) | видео | готово | [2026-05-22-tse-bude-bukvalno](2026-05-22-tse-bude-bukvalno/) |
-| `xP9VGp_h1wg` | 2026-05-21 | [Бог дає шанс: покайся сьогодні - Іван Пендлишак](https://www.youtube.com/watch?v=xP9VGp_h1wg) | трансляция | **скачано без выжимки** | [2026-05-21-boh-daie-shans-pokaisya-sohodni](2026-05-21-boh-daie-shans-pokaisya-sohodni/) |
+| `xP9VGp_h1wg` | 2026-05-21 | [Бог дає шанс: покайся сьогодні - Іван Пендлишак](https://www.youtube.com/watch?v=xP9VGp_h1wg) | трансляция | готово | [2026-05-21-boh-daie-shans-pokaisya-sohodni](2026-05-21-boh-daie-shans-pokaisya-sohodni/) |
 | `Zz4axwBuifg` | 2026-05-20 | [Спочине на ньому Дух Господній - Іван Пендлишак](https://www.youtube.com/watch?v=Zz4axwBuifg) | видео | готово | [2026-05-20-spochyne-na-nomu-dukh-hospodnii](2026-05-20-spochyne-na-nomu-dukh-hospodnii/) |
 | `szbL3WtLpE0` | 2026-05-17 | [Він прийде - Іван Пендлишак](https://www.youtube.com/watch?v=szbL3WtLpE0) | видео | готово | [2026-05-17-vin-pryide](2026-05-17-vin-pryide/) |
 | `upWJgdcLKv4` | 2026-05-15 | [Бог допустив покарання - Іван Пендлишак](https://www.youtube.com/watch?v=upWJgdcLKv4) | видео | готово | [2026-05-15-boh-dopustyv-pokarannya](2026-05-15-boh-dopustyv-pokarannya/) |
@@ -167,14 +167,14 @@
 | `_6dQPAbkcWA` | 2026-04-24 | [Бійся Бога, виконуй Його заповіді - Іван Пендлишак](https://www.youtube.com/watch?v=_6dQPAbkcWA) | видео | готово | [2026-04-24-biisya-boha-vykonui-ioho-zapovidi](2026-04-24-biisya-boha-vykonui-ioho-zapovidi/) |
 | `PEnlilhxBUI` | 2026-04-22 | [Чи буває те, чого Бог не повелів бути - Іван Пендлишак](https://www.youtube.com/watch?v=PEnlilhxBUI) | видео | готово | [2026-04-22-chy-buvaie-te-choho-boh-ne-poveliv-buty](2026-04-22-chy-buvaie-te-choho-boh-ne-poveliv-buty/) |
 | `8mtleZtnVc4` | 2026-04-17 | [Духовні досягнення вдома - Іван Пендлишак](https://www.youtube.com/watch?v=8mtleZtnVc4) | видео | готово | [2026-04-17-dukhovni-dosyahnennya-vdoma](2026-04-17-dukhovni-dosyahnennya-vdoma/) |
-| `rMFLzePev4U` | 2026-04-16 | [Принципи щасливого життя - Іван Пендлишак](https://www.youtube.com/watch?v=rMFLzePev4U) | трансляция | **скачано без выжимки** | [2026-04-16-pryntsypy-shchaslyvoho-zhyttya](2026-04-16-pryntsypy-shchaslyvoho-zhyttya/) |
+| `rMFLzePev4U` | 2026-04-16 | [Принципи щасливого життя - Іван Пендлишак](https://www.youtube.com/watch?v=rMFLzePev4U) | трансляция | готово | [2026-04-16-pryntsypy-shchaslyvoho-zhyttya](2026-04-16-pryntsypy-shchaslyvoho-zhyttya/) |
 | `Pa3VqNXuyq8` | 2026-04-15 | [Нерукотворний храм - Іван Пендлишак](https://www.youtube.com/watch?v=Pa3VqNXuyq8) | видео | готово | [2026-04-15-nerukotvornyi-khram](2026-04-15-nerukotvornyi-khram/) |
 | `0Q73EvspLc8` | 2026-04-12 | [Не поспішай засуджувати - навчися розуміти - Іван Пендлишак](https://www.youtube.com/watch?v=0Q73EvspLc8) | видео | готово | [2026-04-12-ne-pospishai-zasudzhuvaty-navchysya-rozumity](2026-04-12-ne-pospishai-zasudzhuvaty-navchysya-rozumity/) |
-| `e35amjRmmM4` | 2026-04-10 | [Догодити Богові - Іван Пендлишак](https://www.youtube.com/watch?v=e35amjRmmM4) | трансляция | **скачано без выжимки** | [2026-04-10-dohodyty-bohovi](2026-04-10-dohodyty-bohovi/) |
+| `e35amjRmmM4` | 2026-04-10 | [Догодити Богові - Іван Пендлишак](https://www.youtube.com/watch?v=e35amjRmmM4) | трансляция | готово | [2026-04-10-dohodyty-bohovi](2026-04-10-dohodyty-bohovi/) |
 | `XIBJRqOys0A` | 2026-04-06 | [Яке значення воскресіння Христа для нас - Іван Пендлишак](https://www.youtube.com/watch?v=XIBJRqOys0A) | видео | готово | [2026-04-06-yake-znachennya-voskresinnya-khrysta-dlya-nas](2026-04-06-yake-znachennya-voskresinnya-khrysta-dlya-nas/) |
 | `oj3ExlI5ciA` | 2026-04-05 | [Буде воскресіння із мертвих - Іван Пендлишак](https://www.youtube.com/watch?v=oj3ExlI5ciA) | видео | готово | [2026-04-05-bude-voskresinnya-iz-mertvykh](2026-04-05-bude-voskresinnya-iz-mertvykh/) |
 | `u1Sj5DAReG8` | 2026-04-03 | [У світі є багато добрих людей - Іван Пендлишак](https://www.youtube.com/watch?v=u1Sj5DAReG8) | видео | готово | [2026-04-03-u-sviti-ie-bahato-dobrykh-lyudei](2026-04-03-u-sviti-ie-bahato-dobrykh-lyudei/) |
-| `Mdvvda0-uUk` | 2026-04-02 | [Три критерії Євангельської віри - Іван Пендлишак](https://www.youtube.com/watch?v=Mdvvda0-uUk) | трансляция | **скачано без выжимки** | [2026-04-02-try-kryterii-ievanhelskoi-viry](2026-04-02-try-kryterii-ievanhelskoi-viry/) |
+| `Mdvvda0-uUk` | 2026-04-02 | [Три критерії Євангельської віри - Іван Пендлишак](https://www.youtube.com/watch?v=Mdvvda0-uUk) | трансляция | готово | [2026-04-02-try-kryterii-ievanhelskoi-viry](2026-04-02-try-kryterii-ievanhelskoi-viry/) |
 | `jOcR65UVxS0` | 2026-04-01 | [Горе тим, які ... - Іван Пендлишак](https://www.youtube.com/watch?v=jOcR65UVxS0) | видео | готово | [2026-04-01-hore-tym-yaki](2026-04-01-hore-tym-yaki/) |
 | `6teUGRQJZM4` | 2026-03-29 | [Бог все зробив для Свого виноградника - Іван Пендлишак](https://www.youtube.com/watch?v=6teUGRQJZM4) | видео | готово | [2026-03-29-boh-vse-zrobyv-dlya-svoho-vynohradnyka](2026-03-29-boh-vse-zrobyv-dlya-svoho-vynohradnyka/) |
 | `ujJpZkxdNd8` | 2026-03-27 | [Чим допомогти людській душі - Іван Пендлишак](https://www.youtube.com/watch?v=ujJpZkxdNd8) | видео | готово | [2026-03-27-chym-dopomohty-lyudskii-dushi](2026-03-27-chym-dopomohty-lyudskii-dushi/) |
