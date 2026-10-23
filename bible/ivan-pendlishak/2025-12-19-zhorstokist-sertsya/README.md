@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: ["жорстокість серця", "гріх", "покаяння", "благоговіння", "випробування", "духовне життя"]
 ---
 
 # Жорстокість серця - Іван Пендлишак

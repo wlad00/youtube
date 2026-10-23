@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: ["семья", "брак", "ответственность мужчины", "безбрачие", "целомудрие", "призвание"]
 ---
 
 # Краще мати сім'ю - Іван Пендлишак

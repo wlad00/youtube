@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: ["дружба", "заздрість", "вірність", "взаємодопомога", "біблійна мудрість", "чоловіча й жіноча дружба"]
 ---
 
 # Є різні друзі - Іван Пендлишак

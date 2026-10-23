@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: ["сумніви", "віра", "духовна боротьба", "Біблія", "спасіння", "воскресіння"]
 ---
 
 # Сумніви - Іван Пендлишак
