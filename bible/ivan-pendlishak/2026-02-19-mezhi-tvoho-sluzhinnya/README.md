@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: [Біблія, християнство, служіння, покликання, смирення, осудження, церква]
 ---
 
 # Межі твого служіння - Іван Пендлишак

@@ -20,7 +20,7 @@
 
 | Этап | Что | Роликов | Состояние |
 |---|---|---:|---|
-| 1 | «скачано без выжимки»: 20 роликов 2026 + 20 роликов 2025 (2025-12-31 … 2025-11-21) | 40 | подготовлено 10, ждут подготовки 30 |
+| 1 | «скачано без выжимки»: 20 роликов 2026 + 20 роликов 2025 (2025-12-31 … 2025-11-21) | 40 | подготовлено 15, ждут подготовки 25 |
 | 2 | 2025-11-19 … 2025-05-21 | 86 | не скачан |
 | 3 | 2025-05-18 … 2025-01-14 | 86 | не скачан |
 
@@ -32,9 +32,9 @@
 
 | Год | Всего | Видео | Трансляции | Готово | Скачано без выжимки | Нет ссылки | Не начато |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| 2026 | 174 | 134 | 39 | 163 | 10 | 1 | 0 |
+| 2026 | 174 | 134 | 39 | 168 | 5 | 1 | 0 |
 | 2025 | 192 | 163 | 29 | 0 | 166 | 0 | 26 |
-| **Итого** | **366** | **297** | **68** | **163** | **176** | **1** | **26** |
+| **Итого** | **366** | **297** | **68** | **168** | **171** | **1** | **26** |
 
 Пояснения к числам:
 
@@ -44,7 +44,7 @@
 
 ## 2026
 
-Всего **174**: готово — 163, скачано без выжимки — 10, нет ссылки — 1. От новых к старым.
+Всего **174**: готово — 168, скачано без выжимки — 5, нет ссылки — 1. От новых к старым.
 
 | Video ID | Дата | Ролик | Тип | Статус | Папка |
 |---|---|---|---|---|---|
@@ -196,21 +196,21 @@
 | `ISKV4YmSggg` | 2026-02-25 | [Не роби зображення з метою поклоніння - Іван Пендлишак](https://www.youtube.com/watch?v=ISKV4YmSggg) | видео | готово | [2026-02-25-ne-roby-zobrazhennya-z-metoyu-pokloninnya](2026-02-25-ne-roby-zobrazhennya-z-metoyu-pokloninnya/) |
 | `muETdiIkor0` | 2026-02-22 | [Це люди придумали - Іван Пендлишак](https://www.youtube.com/watch?v=muETdiIkor0) | видео | готово | [2026-02-22-tse-lyudy-prydumaly](2026-02-22-tse-lyudy-prydumaly/) |
 | `iQnyGdHXgU0` | 2026-02-20 | [Він хотів підтримати Бога - Іван Пендлишак](https://www.youtube.com/watch?v=iQnyGdHXgU0) | видео | готово | [2026-02-20-vin-khotiv-pidtrymaty-boha](2026-02-20-vin-khotiv-pidtrymaty-boha/) |
-| `kJjlJ3dk1pU` | 2026-02-19 | [Межі твого служіння - Іван Пендлишак](https://www.youtube.com/watch?v=kJjlJ3dk1pU) | трансляция | **скачано без выжимки** | [2026-02-19-mezhi-tvoho-sluzhinnya](2026-02-19-mezhi-tvoho-sluzhinnya/) |
+| `kJjlJ3dk1pU` | 2026-02-19 | [Межі твого служіння - Іван Пендлишак](https://www.youtube.com/watch?v=kJjlJ3dk1pU) | трансляция | готово | [2026-02-19-mezhi-tvoho-sluzhinnya](2026-02-19-mezhi-tvoho-sluzhinnya/) |
 | `oUS2d69Nt34` | 2026-02-18 | [Всі народи прийдуть на Гору Святу - Іван Пендлишак](https://www.youtube.com/watch?v=oUS2d69Nt34) | видео | готово | [2026-02-18-vsi-narody-pryidut-na-horu-svyatu](2026-02-18-vsi-narody-pryidut-na-horu-svyatu/) |
 | `dNAFAqBffto` | 2026-02-13 | [Він буде з тобою - Іван Пендлишак](https://www.youtube.com/watch?v=dNAFAqBffto) | видео | готово | [2026-02-13-vin-bude-z-toboyu](2026-02-13-vin-bude-z-toboyu/) |
-| `_eAqD_mH4hI` | 2026-02-12 | [Як Бог реагує на милосердя - Іван Пендлишак](https://www.youtube.com/watch?v=_eAqD_mH4hI) | трансляция | **скачано без выжимки** | [2026-02-12-yak-boh-reahuie-na-myloserdya](2026-02-12-yak-boh-reahuie-na-myloserdya/) |
+| `_eAqD_mH4hI` | 2026-02-12 | [Як Бог реагує на милосердя - Іван Пендлишак](https://www.youtube.com/watch?v=_eAqD_mH4hI) | трансляция | готово | [2026-02-12-yak-boh-reahuie-na-myloserdya](2026-02-12-yak-boh-reahuie-na-myloserdya/) |
 | `5VMgA4kpxBk` | 2026-02-11 | [Ти повинен змінитись - Іван Пендлишак](https://www.youtube.com/watch?v=5VMgA4kpxBk) | видео | готово | [2026-02-11-ty-povynen-zminytys](2026-02-11-ty-povynen-zminytys/) |
 | `6YnUmh8lQdE` | 2026-02-08 | [Виклик Богу - Іван Пендлишак](https://www.youtube.com/watch?v=6YnUmh8lQdE) | видео | готово | [2026-02-08-vyklyk-bohu](2026-02-08-vyklyk-bohu/) |
 | `-ZpgFHow7EE` | 2026-02-06 | [Благо буде тим, хто боїться Бога - Іван Пендлишак](https://www.youtube.com/watch?v=-ZpgFHow7EE) | видео | готово | [2026-02-06-blaho-bude-tym-khto-boitsya-boha](2026-02-06-blaho-bude-tym-khto-boitsya-boha/) |
-| `_bK_KYWXJ1Y` | 2026-02-05 | [Благословіння неба і землі - Іван Пендлишак](https://www.youtube.com/watch?v=_bK_KYWXJ1Y) | трансляция | **скачано без выжимки** | [2026-02-05-blahoslovinnya-neba-i-zemli](2026-02-05-blahoslovinnya-neba-i-zemli/) |
+| `_bK_KYWXJ1Y` | 2026-02-05 | [Благословіння неба і землі - Іван Пендлишак](https://www.youtube.com/watch?v=_bK_KYWXJ1Y) | трансляция | готово | [2026-02-05-blahoslovinnya-neba-i-zemli](2026-02-05-blahoslovinnya-neba-i-zemli/) |
 | `L6XOxs1BdRI` | 2026-02-04 | [Не йди від Бога - Іван Пендлишак](https://www.youtube.com/watch?v=L6XOxs1BdRI) | видео | готово | [2026-02-04-ne-idy-vid-boha](2026-02-04-ne-idy-vid-boha/) |
 | `udG9Qnnkokw` | 2026-01-30 | [Який образ у нас формує Господь - Іван Пендлишак](https://www.youtube.com/watch?v=udG9Qnnkokw) | видео | готово | [2026-01-30-yakyi-obraz-u-nas-formuie-hospod](2026-01-30-yakyi-obraz-u-nas-formuie-hospod/) |
-| `Mwui2bprbUw` | 2026-01-29 | [Слухняність краще жертви - Іван Пендлишак](https://www.youtube.com/watch?v=Mwui2bprbUw) | трансляция | **скачано без выжимки** | [2026-01-29-slukhnyanist-krashche-zhertvy](2026-01-29-slukhnyanist-krashche-zhertvy/) |
+| `Mwui2bprbUw` | 2026-01-29 | [Слухняність краще жертви - Іван Пендлишак](https://www.youtube.com/watch?v=Mwui2bprbUw) | трансляция | готово | [2026-01-29-slukhnyanist-krashche-zhertvy](2026-01-29-slukhnyanist-krashche-zhertvy/) |
 | `VlSMjxlgJNk` | 2026-01-28 | [Є про що молитись - Іван Пендлишак](https://www.youtube.com/watch?v=VlSMjxlgJNk) | видео | готово | [2026-01-28-ie-pro-shcho-molytys](2026-01-28-ie-pro-shcho-molytys/) |
 | `Ep1Fwjp5Id8` | 2026-01-25 | [Не соромся це виконувати - Іван Пендлишак](https://www.youtube.com/watch?v=Ep1Fwjp5Id8) | видео | готово | [2026-01-25-ne-soromsya-tse-vykonuvaty](2026-01-25-ne-soromsya-tse-vykonuvaty/) |
 | `i6CeVbaSuMc` | 2026-01-23 | [Вони залишились самі - Іван Пендлишак](https://www.youtube.com/watch?v=i6CeVbaSuMc) | видео | готово | [2026-01-23-vony-zalyshylys-sami](2026-01-23-vony-zalyshylys-sami/) |
-| `-Vi4iniO9YQ` | 2026-01-22 | [Розказати який Бог добрий - Іван Пендлишак](https://www.youtube.com/watch?v=-Vi4iniO9YQ) | трансляция | **скачано без выжимки** | [2026-01-22-rozkazaty-yakyi-boh-dobryi](2026-01-22-rozkazaty-yakyi-boh-dobryi/) |
+| `-Vi4iniO9YQ` | 2026-01-22 | [Розказати який Бог добрий - Іван Пендлишак](https://www.youtube.com/watch?v=-Vi4iniO9YQ) | трансляция | готово | [2026-01-22-rozkazaty-yakyi-boh-dobryi](2026-01-22-rozkazaty-yakyi-boh-dobryi/) |
 | `ynKWrrVvZk8` | 2026-01-21 | [Істинно сором'язливий - Іван Пендлишак](https://www.youtube.com/watch?v=ynKWrrVvZk8) | видео | готово | [2026-01-21-istynno-soromyazlyvyi](2026-01-21-istynno-soromyazlyvyi/) |
 | `vH7e4SjOJTM` | 2026-01-18 | [Смерть - це надбання - Іван Пендлишак](https://www.youtube.com/watch?v=vH7e4SjOJTM) | видео | готово | [2026-01-18-smert-tse-nadbannya](2026-01-18-smert-tse-nadbannya/) |
 | `3tehns5NMUg` | 2026-01-16 | [Як бути радісним - Іван Пендлишак](https://www.youtube.com/watch?v=3tehns5NMUg) | видео | готово | [2026-01-16-yak-buty-radisnym](2026-01-16-yak-buty-radisnym/) |

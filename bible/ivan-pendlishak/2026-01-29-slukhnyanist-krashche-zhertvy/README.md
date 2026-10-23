@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: ["послух Богові", "випробувана віра", "спасіння", "покаяння", "Біблія"]
 ---
 
 # Слухняність краще жертви - Іван Пендлишак
