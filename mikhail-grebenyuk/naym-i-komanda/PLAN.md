@@ -10,7 +10,7 @@
 
 Всего в теме: **42**. Обычных видео: **42**. Эфиров: **0**.
 
-Локальные очищенные субтитры: **27 / 42**. Подготовлено: **1 / 42**.
+Локальные очищенные субтитры: **35 / 42**. Подготовлено: **1 / 42**.
 
 Порядок обработки: оригинальные субтитры → очистка с таймкодами → подготовка. `Субтитры = нет` означает отсутствие локального `transcript.cleaned.md`; доступность дорожек на YouTube ещё не проверена у остальных записей без локальных субтитров. Правило подготовки и общий прогресс — в [плане автора](../PLAN.md).
 
@@ -54,11 +54,11 @@
 | `jG1Vy_b2qIY` | [Подопечный, где результат? / Что делать, если сотрудники плохо работают?](https://www.youtube.com/watch?v=jG1Vy_b2qIY) | Видео | да | нет | [папка](2021-06-09-podopechnyy-gde-rezultat-chto-delat-esli-sotrudniki-plokho-rabotayut/README.md) |
 | `-FP5CCLPfR4` | [Это тот продавец, который точно будет продавать! / Как выглядит идеальный менеджер по продажам?](https://www.youtube.com/watch?v=-FP5CCLPfR4) | Видео | да | да | [папка](2021-05-18-eto-tot-prodavec-kotoryy-tochno-budet-prodavat-kak-vyglyadit-idealnyy-menedzher-po-prodazham/README.md) |
 | `B6XUXitTYXA` | [Какие бывают ошибки в найме продавцов? / 10 фатальных ошибок при найме менеджеров в отдел продаж](https://www.youtube.com/watch?v=B6XUXitTYXA) | Видео | да | нет | [папка](2021-05-12-kakie-byvayut-oshibki-v-nayme-prodavtsov-10-fatalnykh-oshibok-pri-nayme-menedzherov-v-otdel-prodazh/README.md) |
-| `gng354mpVWQ` | [Как обучать новых сотрудников? / 4 шага в создании системы обучения сотрудников](https://www.youtube.com/watch?v=gng354mpVWQ) | Видео | нет | нет | — |
-| `XKGjZxjWlBM` | [Как собрать сильную команду для бизнеса? / Все, что необходимо знать об управлении командой](https://www.youtube.com/watch?v=XKGjZxjWlBM) | Видео | нет | нет | — |
-| `_D_Jnme2Rk0` | [Что такое делегирование? / Делегирование как инструмент руководителя](https://www.youtube.com/watch?v=_D_Jnme2Rk0) | Видео | нет | нет | — |
-| `mOVzGdbxRDA` | [Когда нужно увольнять сотрудников? / Почему люди плохо работают?](https://www.youtube.com/watch?v=mOVzGdbxRDA) | Видео | нет | нет | — |
-| `288OcROTgPY` | [Как мотивировать своих сотрудников? / Почему нельзя обесценивать работу сотрудников?](https://www.youtube.com/watch?v=288OcROTgPY) | Видео | нет | нет | — |
-| `5TXt5w7UIGk` | [Как находить сильных кандидатов в hh.ru за 30 секунд](https://www.youtube.com/watch?v=5TXt5w7UIGk) | Видео | нет | нет | — |
-| `TFkYZd6Pk5Q` | [Подбор менеджера по продажам \| Кто отличный менеджер по продажам?](https://www.youtube.com/watch?v=TFkYZd6Pk5Q) | Видео | нет | нет | — |
-| `zqm_pEbGP3I` | [Что такое KPI? Ключевой показатель эффективности сотрудника](https://www.youtube.com/watch?v=zqm_pEbGP3I) | Видео | нет | нет | — |
+| `gng354mpVWQ` | [Как обучать новых сотрудников? / 4 шага в создании системы обучения сотрудников](https://www.youtube.com/watch?v=gng354mpVWQ) | Видео | да | нет | [папка](2021-05-07-kak-obuchat-novykh-sotrudnikov-4-shaga-v-sozdanii-sistemy-obucheniya-sotrudnikov/README.md) |
+| `XKGjZxjWlBM` | [Как собрать сильную команду для бизнеса? / Все, что необходимо знать об управлении командой](https://www.youtube.com/watch?v=XKGjZxjWlBM) | Видео | да | нет | [папка](2021-05-05-kak-sobrat-silnuyu-komandu-dlya-biznesa-vse-chto-neobkhodimo-znat-ob-upravlenii-komandoy/README.md) |
+| `_D_Jnme2Rk0` | [Что такое делегирование? / Делегирование как инструмент руководителя](https://www.youtube.com/watch?v=_D_Jnme2Rk0) | Видео | да | нет | [папка](2021-04-09-chto-takoe-delegirovanie-delegirovanie-kak-instrument-rukovoditelya/README.md) |
+| `mOVzGdbxRDA` | [Когда нужно увольнять сотрудников? / Почему люди плохо работают?](https://www.youtube.com/watch?v=mOVzGdbxRDA) | Видео | да | нет | [папка](2021-03-19-kogda-nuzhno-uvolnyat-sotrudnikov-pochemu-lyudi-plokho-rabotayut/README.md) |
+| `288OcROTgPY` | [Как мотивировать своих сотрудников? / Почему нельзя обесценивать работу сотрудников?](https://www.youtube.com/watch?v=288OcROTgPY) | Видео | да | нет | [папка](2021-02-10-kak-motivirovat-svoikh-sotrudnikov-pochemu-nelzya-obestsenivat-rabotu-sotrudnikov/README.md) |
+| `5TXt5w7UIGk` | [Как находить сильных кандидатов в hh.ru за 30 секунд](https://www.youtube.com/watch?v=5TXt5w7UIGk) | Видео | да | нет | [папка](2019-05-15-kak-nakhodit-silnykh-kandidatov-v-hh-ru-za-30-sekund/README.md) |
+| `TFkYZd6Pk5Q` | [Подбор менеджера по продажам \| Кто отличный менеджер по продажам?](https://www.youtube.com/watch?v=TFkYZd6Pk5Q) | Видео | да | нет | [папка](2018-10-02-podbor-menedzhera-po-prodazham-kto-otlichnyy-menedzher-po-prodazham/README.md) |
+| `zqm_pEbGP3I` | [Что такое KPI? Ключевой показатель эффективности сотрудника](https://www.youtube.com/watch?v=zqm_pEbGP3I) | Видео | да | нет | [папка](2018-04-10-chto-takoe-kpi-klyuchevoy-pokazatel-effektivnosti-sotrudnika/README.md) |
