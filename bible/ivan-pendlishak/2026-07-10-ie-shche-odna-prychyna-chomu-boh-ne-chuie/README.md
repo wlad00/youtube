@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: ["проповедь", "молитва", "грех", "беззаконие", "десятина", "ложь", "Исаия"]
 ---
 
 # Є ще одна причина, чому Бог не чує - Іван Пендлишак

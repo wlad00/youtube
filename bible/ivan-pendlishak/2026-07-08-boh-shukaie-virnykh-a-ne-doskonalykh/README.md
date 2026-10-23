@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: ["проповедь", "Исаия", "суббота", "иноплеменники", "церковь", "пастор", "конфликты"]
 ---
 
 # Бог шукає вірних, а не досконалих - Іван Пендлишак
