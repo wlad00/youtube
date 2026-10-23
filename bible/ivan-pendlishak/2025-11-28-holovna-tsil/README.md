@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: [християнське життя, духовна зміна, Святий Дух, радість у вірі, молитва, церква]
 ---
 
 # Головна ціль - Іван Пендлишак

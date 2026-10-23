@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: ["залежність", "інтернет", "виховання дітей", "біблійна проповідь", "християнське життя"]
 ---
 
 # Тотальне рабство - Іван Пендлишак

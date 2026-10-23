@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: ["труд", "ответственность", "воспитание детей", "семья", "безделье", "библейское наставление"]
 ---
 
 # Завантажити роботою - Іван Пендлишак
