@@ -10,7 +10,7 @@
 
 Всего в теме: **59**. Обычных видео: **59**. Эфиров: **0**.
 
-Локальные очищенные субтитры: **41 / 59**. Подготовлено: **0 / 59**.
+Локальные очищенные субтитры: **59 / 59**. Подготовлено: **0 / 59**.
 
 Порядок обработки: оригинальные субтитры → очистка с таймкодами → подготовка. `Субтитры = нет` означает отсутствие локального `transcript.cleaned.md`; доступность дорожек на YouTube ещё не проверена. Правило подготовки и общий прогресс — в [плане автора](../PLAN.md).
 
@@ -61,21 +61,21 @@
 | `1ImJAVKTMII` | [Предприниматель УСТАЛ! Как МАСШТАБИРОВАТЬ бизнес, когда НЕ ЗНАЕШЬ куда?](https://www.youtube.com/watch?v=1ImJAVKTMII) | Видео | да | нет | [папка](2023-04-27-predprinimatel-ustal-kak-masshtabirovat-biznes-kogda-ne-znaesh-kuda/README.md) |
 | `b86eE0a3Q9k` | [ПРИБЫЛЬ есть только у тех, кто НЕ БОИТСЯ ЭТОГО! Что ограничивает РОСТ В БИЗНЕСЕ?](https://www.youtube.com/watch?v=b86eE0a3Q9k) | Видео | да | нет | [папка](2023-04-20-pribyl-est-tolko-u-tekh-kto-ne-boitsya-etogo-chto-ogranichivaet-rost-v-biznese/README.md) |
 | `YgQtcKEdsVE` | [РЕАЛЬНОСТЬ общепита! / Как МАСШТАБИРОВАТЬ кондитерскую и освободить время на СЕМЬЮ!](https://www.youtube.com/watch?v=YgQtcKEdsVE) | Видео | да | нет | [папка](2023-03-09-realnost-obshchepita-kak-masshtabirovat-konditerskuyu-i-osvobodit-vremya-na-semyu/README.md) |
-| `1Wz7qS3wIx8` | [МИЛЛИОНЫ на КОМАРАХ! / Как создать ФРАНШИЗУ на СЛОЖНОЙ нише?](https://www.youtube.com/watch?v=1Wz7qS3wIx8) | Видео | нет | нет | — |
-| `FKR-fvJvC_o` | [Как развивать бизнес, если ты в нём первый?](https://www.youtube.com/watch?v=FKR-fvJvC_o) | Видео | нет | нет | — |
-| `WbNb1qDz3T8` | [КАК открыть бизнес и выйти на прибыль 50 МЛН рублей? / СОВЕТЫ как БЫСТРО развить дело](https://www.youtube.com/watch?v=WbNb1qDz3T8) | Видео | нет | нет | — |
-| `xLXiQWkQ9bk` | [Как на франшизах зарабатывать 10 миллионов рублей в месяц?](https://www.youtube.com/watch?v=xLXiQWkQ9bk) | Видео | нет | нет | — |
-| `ZazdY1Sehjs` | [Как стать миллиардером на строительстве?](https://www.youtube.com/watch?v=ZazdY1Sehjs) | Видео | нет | нет | — |
-| `bFA1WyTTE3M` | [Как заработать МИЛЛИОН на продаже готового бизнеса? / Как масштабировать бизнес в два раза?](https://www.youtube.com/watch?v=bFA1WyTTE3M) | Видео | нет | нет | — |
-| `bNo1eHHzqks` | [КАК открыть второй бизнес БЕЗ ущерба первому? / СТРАТЕГИЯ быстрого роста компании](https://www.youtube.com/watch?v=bNo1eHHzqks) | Видео | нет | нет | — |
-| `zWApaPlPamo` | [Что изменить в бизнесе, чтобы ВЫРАСТИ Х4 в доходе СРАЗУ? Секрет ЭФФЕКТИВНОГО отдела продаж в 2026!](https://www.youtube.com/watch?v=zWApaPlPamo) | Видео | нет | нет | — |
-| `fkSEkJIITt8` | [Как развивать строительный бизнес в кризис?](https://www.youtube.com/watch?v=fkSEkJIITt8) | Видео | нет | нет | — |
-| `nVwWVVvczFQ` | [Бизнес за рубежом? ЛЕГКО! / Как масштабировать отельный бизнес?](https://www.youtube.com/watch?v=nVwWVVvczFQ) | Видео | нет | нет | — |
-| `m74lc87WH8c` | [Раскрутить бизнес в 2022 – реально? / Как масштабировать бизнес?](https://www.youtube.com/watch?v=m74lc87WH8c) | Видео | нет | нет | — |
-| `6pFV9KMcKl0` | [1 000 000 000 на бассейнах! ❘ Как продать экспертность, масштабироваться и передать бизнес сыну?](https://www.youtube.com/watch?v=6pFV9KMcKl0) | Видео | нет | нет | — |
-| `kZGiWK92Ly0` | [Как увеличить доход в 10 раз? / Масштабирование бизнеса ЛЕГКО и ПРОСТО!](https://www.youtube.com/watch?v=kZGiWK92Ly0) | Видео | нет | нет | — |
-| `v3Lfq5w95cw` | [Чтобы стать богаче, нужно тратить больше?! / Как выйти на новый уровень состояния своего кошелька?](https://www.youtube.com/watch?v=v3Lfq5w95cw) | Видео | нет | нет | — |
-| `B2nZQL6Yxpw` | [Сколько и как я терял деньги в бизнесе? / Что нужно, чтобы бизнес развивался?](https://www.youtube.com/watch?v=B2nZQL6Yxpw) | Видео | нет | нет | — |
-| `I45wRxN7gX4` | [Смертельные ошибки для бизнеса / Как не убить бизнес, а начать расти](https://www.youtube.com/watch?v=I45wRxN7gX4) | Видео | нет | нет | — |
-| `FKYFuu0-wjQ` | [Как вывести компанию на миллиардный оборот? / Как правильно масштабировать бизнес?](https://www.youtube.com/watch?v=FKYFuu0-wjQ) | Видео | нет | нет | — |
-| `15UTHcMkZhc` | [Самые популярные бизнес-тренды на 2021 год! / Зачем нужна аналитика в бизнесе?](https://www.youtube.com/watch?v=15UTHcMkZhc) | Видео | нет | нет | — |
+| `1Wz7qS3wIx8` | [МИЛЛИОНЫ на КОМАРАХ! / Как создать ФРАНШИЗУ на СЛОЖНОЙ нише?](https://www.youtube.com/watch?v=1Wz7qS3wIx8) | Видео | да | нет | [папка](2023-03-03-milliony-na-komarakh-kak-sozdat-franshizu-na-slozhnoy-nishe/README.md) |
+| `FKR-fvJvC_o` | [Как развивать бизнес, если ты в нём первый?](https://www.youtube.com/watch?v=FKR-fvJvC_o) | Видео | да | нет | [папка](2023-01-24-kak-razvivat-biznes-esli-ty-v-nem-pervyy/README.md) |
+| `WbNb1qDz3T8` | [КАК открыть бизнес и выйти на прибыль 50 МЛН рублей? / СОВЕТЫ как БЫСТРО развить дело](https://www.youtube.com/watch?v=WbNb1qDz3T8) | Видео | да | нет | [папка](2023-01-08-kak-otkryt-biznes-i-vyyti-na-pribyl-50-mln-rubley-sovety-kak-bystro-razvit-delo/README.md) |
+| `xLXiQWkQ9bk` | [Как на франшизах зарабатывать 10 миллионов рублей в месяц?](https://www.youtube.com/watch?v=xLXiQWkQ9bk) | Видео | да | нет | [папка](2022-12-09-kak-na-franshizakh-zarabatyvat-10-millionov-rubley-v-mesyats/README.md) |
+| `ZazdY1Sehjs` | [Как стать миллиардером на строительстве?](https://www.youtube.com/watch?v=ZazdY1Sehjs) | Видео | да | нет | [папка](2022-11-30-kak-stat-milliarderom-na-stroitelstve/README.md) |
+| `bFA1WyTTE3M` | [Как заработать МИЛЛИОН на продаже готового бизнеса? / Как масштабировать бизнес в два раза?](https://www.youtube.com/watch?v=bFA1WyTTE3M) | Видео | да | нет | [папка](2022-11-23-kak-zarabotat-million-na-prodazhe-gotovogo-biznesa-kak-masshtabirovat-biznes-v-dva-raza/README.md) |
+| `bNo1eHHzqks` | [КАК открыть второй бизнес БЕЗ ущерба первому? / СТРАТЕГИЯ быстрого роста компании](https://www.youtube.com/watch?v=bNo1eHHzqks) | Видео | да | нет | [папка](2022-10-25-kak-otkryt-vtoroy-biznes-bez-ushcherba-pervomu-strategiya-bystrogo-rosta-kompanii/README.md) |
+| `zWApaPlPamo` | [Что изменить в бизнесе, чтобы ВЫРАСТИ Х4 в доходе СРАЗУ? Секрет ЭФФЕКТИВНОГО отдела продаж в 2026!](https://www.youtube.com/watch?v=zWApaPlPamo) | Видео | да | нет | [папка](2022-10-19-chto-izmenit-v-biznese-chtoby-vyrasti-kh4-v-dokhode-srazu-sekret-effektivnogo-otdela-prodazh-v-2026/README.md) |
+| `fkSEkJIITt8` | [Как развивать строительный бизнес в кризис?](https://www.youtube.com/watch?v=fkSEkJIITt8) | Видео | да | нет | [папка](2022-07-18-kak-razvivat-stroitelnyy-biznes-v-krizis/README.md) |
+| `nVwWVVvczFQ` | [Бизнес за рубежом? ЛЕГКО! / Как масштабировать отельный бизнес?](https://www.youtube.com/watch?v=nVwWVVvczFQ) | Видео | да | нет | [папка](2022-06-26-biznes-za-rubezhom-legko-kak-masshtabirovat-otelnyy-biznes/README.md) |
+| `m74lc87WH8c` | [Раскрутить бизнес в 2022 – реально? / Как масштабировать бизнес?](https://www.youtube.com/watch?v=m74lc87WH8c) | Видео | да | нет | [папка](2022-05-20-raskrutit-biznes-v-2022-realno-kak-masshtabirovat-biznes/README.md) |
+| `6pFV9KMcKl0` | [1 000 000 000 на бассейнах! ❘ Как продать экспертность, масштабироваться и передать бизнес сыну?](https://www.youtube.com/watch?v=6pFV9KMcKl0) | Видео | да | нет | [папка](2022-04-23-1-000-000-000-na-basseynakh-kak-prodat-ekspertnost-masshtabirovatsya-i-peredat-biznes-synu/README.md) |
+| `kZGiWK92Ly0` | [Как увеличить доход в 10 раз? / Масштабирование бизнеса ЛЕГКО и ПРОСТО!](https://www.youtube.com/watch?v=kZGiWK92Ly0) | Видео | да | нет | [папка](2021-11-03-kak-uvelichit-dokhod-v-10-raz-masshtabirovanie-biznesa-legko-i-prosto/README.md) |
+| `v3Lfq5w95cw` | [Чтобы стать богаче, нужно тратить больше?! / Как выйти на новый уровень состояния своего кошелька?](https://www.youtube.com/watch?v=v3Lfq5w95cw) | Видео | да | нет | [папка](2021-10-01-chtoby-stat-bogache-nuzhno-tratit-bolshe-kak-vyyti-na-novyy-uroven-sostoyaniya-svoego-koshelka/README.md) |
+| `B2nZQL6Yxpw` | [Сколько и как я терял деньги в бизнесе? / Что нужно, чтобы бизнес развивался?](https://www.youtube.com/watch?v=B2nZQL6Yxpw) | Видео | да | нет | [папка](2021-09-08-skolko-i-kak-ya-teryal-dengi-v-biznese-chto-nuzhno-chtoby-biznes-razvivalsya/README.md) |
+| `I45wRxN7gX4` | [Смертельные ошибки для бизнеса / Как не убить бизнес, а начать расти](https://www.youtube.com/watch?v=I45wRxN7gX4) | Видео | да | нет | [папка](2021-08-06-smertelnye-oshibki-dlya-biznesa-kak-ne-ubit-biznes-a-nachat-rasti/README.md) |
+| `FKYFuu0-wjQ` | [Как вывести компанию на миллиардный оборот? / Как правильно масштабировать бизнес?](https://www.youtube.com/watch?v=FKYFuu0-wjQ) | Видео | да | нет | [папка](2021-03-24-kak-vyvesti-kompaniyu-na-milliardnyy-oborot-kak-pravilno-masshtabirovat-biznes/README.md) |
+| `15UTHcMkZhc` | [Самые популярные бизнес-тренды на 2021 год! / Зачем нужна аналитика в бизнесе?](https://www.youtube.com/watch?v=15UTHcMkZhc) | Видео | да | нет | [папка](2021-02-24-samye-populyarnye-biznes-trendy-na-2021-god-zachem-nuzhna-analitika-v-biznese/README.md) |
