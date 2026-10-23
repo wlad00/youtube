@@ -10,7 +10,7 @@
 
 Всего в теме: **16**. Обычных видео: **16**. Эфиров: **0**.
 
-Локальные очищенные субтитры: **3 / 16**. Подготовлено: **1 / 16**.
+Локальные очищенные субтитры: **3 / 16**. Подготовлено: **3 / 16**.
 
 Порядок обработки: оригинальные субтитры → очистка с таймкодами → подготовка. `Субтитры = нет` означает отсутствие локального `transcript.cleaned.md`; доступность дорожек на YouTube ещё не проверена. Правило подготовки и общий прогресс — в [плане автора](../PLAN.md).
 
@@ -24,8 +24,8 @@
 | `ZqPs9d2P83M` | [Как ЛИДЫ могут уб•ть бизнес. Мы к этому НЕ были готовы!](https://www.youtube.com/watch?v=ZqPs9d2P83M) | Видео | нет | нет | — |
 | `-IKk1zzVCmA` | [Об этой бизнес-модели НЕ догадываются 98% блогеров. Денис Кукояка](https://www.youtube.com/watch?v=-IKk1zzVCmA) | Видео | нет | нет | — |
 | `ca2gBb6n9p0` | [Идеальный контент-план для телеграма! Пошаговая инструкция как создать тг-канал для своего бизнеса](https://www.youtube.com/watch?v=ca2gBb6n9p0) | Видео | нет | нет | — |
-| `gII4v0vkpNs` | [Лучшая маркетинговая стратегия по привлечению и удержанию клиентов](https://www.youtube.com/watch?v=gII4v0vkpNs) | Видео | да | нет | [папка](../long/2024-06-09-luchshaya-marketingovaya-strategiya-po-privlecheniyu-i-uderzhaniyu-klientov/README.md) |
-| `5AyfFzg_3Kg` | [Самый дешевый и эффективный маркетинг! / Как увеличить продажи И ПРИБЫЛЬ БЫСТРО?](https://www.youtube.com/watch?v=5AyfFzg_3Kg) | Видео | да | нет | [папка](../long/2024-06-02-samyy-deshevyy-i-effektivnyy-marketing/README.md) |
+| `gII4v0vkpNs` | [Лучшая маркетинговая стратегия по привлечению и удержанию клиентов](https://www.youtube.com/watch?v=gII4v0vkpNs) | Видео | да | да | [папка](../long/2024-06-09-luchshaya-marketingovaya-strategiya-po-privlecheniyu-i-uderzhaniyu-klientov/README.md) |
+| `5AyfFzg_3Kg` | [Самый дешевый и эффективный маркетинг! / Как увеличить продажи И ПРИБЫЛЬ БЫСТРО?](https://www.youtube.com/watch?v=5AyfFzg_3Kg) | Видео | да | да | [папка](../long/2024-06-02-samyy-deshevyy-i-effektivnyy-marketing/README.md) |
 | `QCC1FCGajNM` | [Пошаговый алгоритм, чтобы увеличить ПРИБЫЛЬ в бизнесе! Как раскрутить личный бренд?](https://www.youtube.com/watch?v=QCC1FCGajNM) | Видео | нет | нет | — |
 | `AAoEeB8bKjE` | [Эффективное продвижение бизнеса – что нужно знать, чтобы раскрутить свой личный бренд?!](https://www.youtube.com/watch?v=AAoEeB8bKjE) | Видео | нет | нет | — |
 | `IvIir8tDSpo` | [Что такое миссия компании и почему это важно? / Как создать ценность бренда?](https://www.youtube.com/watch?v=IvIir8tDSpo) | Видео | нет | нет | — |
