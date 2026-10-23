@@ -10,7 +10,7 @@
 
 Всего в теме: **46**. Обычных видео: **46**. Эфиров: **0**.
 
-Локальные очищенные субтитры: **0 / 46**. Подготовлено: **0 / 46**.
+Локальные очищенные субтитры: **11 / 46**. Подготовлено: **0 / 46**.
 
 Порядок обработки: оригинальные субтитры → очистка с таймкодами → подготовка. `Субтитры = нет` означает отсутствие локального `transcript.cleaned.md`; доступность дорожек на YouTube ещё не проверена. Правило подготовки и общий прогресс — в [плане автора](../PLAN.md).
 
@@ -20,17 +20,17 @@
 
 | Video ID | Ролик | Формат | Субтитры | Подготовлен | Существующая папка |
 |---|---|---|---|---|---|
-| `N2EdPZTNbBY` | [Бизнес пока НЕ для тебя. Почему сейчас тебе стоит идти в найм?](https://www.youtube.com/watch?v=N2EdPZTNbBY) | Видео | нет | нет | — |
-| `fIJoXW-Br2g` | [Так думает только 1% предпринимателей. Как вырасти в доходе в 2026?](https://www.youtube.com/watch?v=fIJoXW-Br2g) | Видео | нет | нет | — |
-| `NUfOwJC5cas` | [Дай мне 12 минут, чтобы ПЕРЕСТАТЬ сомневаться в решениях](https://www.youtube.com/watch?v=NUfOwJC5cas) | Видео | нет | нет | — |
-| `TVU6_p7OeDM` | [Смена окружения к 2027. Рассказал всё, что знаю. Метод «Теория рек»](https://www.youtube.com/watch?v=TVU6_p7OeDM) | Видео | нет | нет | — |
-| `cqq0-pZe1d8` | [Я предприниматель, и вот, что спасает меня от выгорания в 2026](https://www.youtube.com/watch?v=cqq0-pZe1d8) | Видео | нет | нет | — |
-| `q2F0wpSBxhc` | [Рост калибра личности к 2027. Рассказал всё, что знаю](https://www.youtube.com/watch?v=q2F0wpSBxhc) | Видео | нет | нет | — |
-| `GzmHx8oOZZI` | [Я улетел отдыхать на Бали и оставил бизнес команде. Это было ошибкой…](https://www.youtube.com/watch?v=GzmHx8oOZZI) | Видео | нет | нет | — |
-| `2mKnT04ZXYk` | [Я сбежал из города в родную деревню — и вот, что я понял](https://www.youtube.com/watch?v=2mKnT04ZXYk) | Видео | нет | нет | — |
-| `7o0Oi6ns4gE` | [Правда о жизни предпринимателя, к которой вы не готовы](https://www.youtube.com/watch?v=7o0Oi6ns4gE) | Видео | нет | нет | — |
-| `QmbJ_aaD90I` | [Истинный характер русского предпринимателя: как физрук из Коврова создал многомиллиардную компанию?](https://www.youtube.com/watch?v=QmbJ_aaD90I) | Видео | нет | нет | — |
-| `mRQSbkoSKK0` | [ТАКИЕ бизнесы будут успешными в 2030 году! Внедри ЭТО, пока не поздно...](https://www.youtube.com/watch?v=mRQSbkoSKK0) | Видео | нет | нет | — |
+| `N2EdPZTNbBY` | [Бизнес пока НЕ для тебя. Почему сейчас тебе стоит идти в найм?](https://www.youtube.com/watch?v=N2EdPZTNbBY) | Видео | да | нет | [папка](2026-10-02-biznes-poka-ne-dlya-tebya-pochemu-seychas-tebe-stoit-idti-v-naym/README.md) |
+| `fIJoXW-Br2g` | [Так думает только 1% предпринимателей. Как вырасти в доходе в 2026?](https://www.youtube.com/watch?v=fIJoXW-Br2g) | Видео | да | нет | [папка](2026-09-14-tak-dumaet-tolko-1-predprinimateley-kak-vyrasti-v-dokhode-v-2026/README.md) |
+| `NUfOwJC5cas` | [Дай мне 12 минут, чтобы ПЕРЕСТАТЬ сомневаться в решениях](https://www.youtube.com/watch?v=NUfOwJC5cas) | Видео | да | нет | [папка](2026-08-27-day-mne-12-minut-chtoby-perestat-somnevatsya-v-resheniyakh/README.md) |
+| `TVU6_p7OeDM` | [Смена окружения к 2027. Рассказал всё, что знаю. Метод «Теория рек»](https://www.youtube.com/watch?v=TVU6_p7OeDM) | Видео | да | нет | [папка](2026-08-14-smena-okruzheniya-k-2027-rasskazal-vse-chto-znayu-metod-teoriya-rek/README.md) |
+| `cqq0-pZe1d8` | [Я предприниматель, и вот, что спасает меня от выгорания в 2026](https://www.youtube.com/watch?v=cqq0-pZe1d8) | Видео | да | нет | [папка](2026-08-11-ya-predprinimatel-i-vot-chto-spasaet-menya-ot-vygoraniya-v-2026/README.md) |
+| `q2F0wpSBxhc` | [Рост калибра личности к 2027. Рассказал всё, что знаю](https://www.youtube.com/watch?v=q2F0wpSBxhc) | Видео | да | нет | [папка](2026-08-07-rost-kalibra-lichnosti-k-2027-rasskazal-vse-chto-znayu/README.md) |
+| `GzmHx8oOZZI` | [Я улетел отдыхать на Бали и оставил бизнес команде. Это было ошибкой…](https://www.youtube.com/watch?v=GzmHx8oOZZI) | Видео | да | нет | [папка](2026-07-06-ya-uletel-otdykhat-na-bali-i-ostavil-biznes-komande-eto-bylo-oshibkoy/README.md) |
+| `2mKnT04ZXYk` | [Я сбежал из города в родную деревню — и вот, что я понял](https://www.youtube.com/watch?v=2mKnT04ZXYk) | Видео | да | нет | [папка](2026-06-15-ya-sbezhal-iz-goroda-v-rodnuyu-derevnyu-i-vot-chto-ya-ponyal/README.md) |
+| `7o0Oi6ns4gE` | [Правда о жизни предпринимателя, к которой вы не готовы](https://www.youtube.com/watch?v=7o0Oi6ns4gE) | Видео | да | нет | [папка](2026-05-25-pravda-o-zhizni-predprinimatelya-k-kotoroy-vy-ne-gotovy/README.md) |
+| `QmbJ_aaD90I` | [Истинный характер русского предпринимателя: как физрук из Коврова создал многомиллиардную компанию?](https://www.youtube.com/watch?v=QmbJ_aaD90I) | Видео | да | нет | [папка](2026-02-13-istinnyy-kharakter-russkogo-predprinimatelya-kak-fizruk-iz-kovrova-sozdal-mnogomilliardnuyu/README.md) |
+| `mRQSbkoSKK0` | [ТАКИЕ бизнесы будут успешными в 2030 году! Внедри ЭТО, пока не поздно...](https://www.youtube.com/watch?v=mRQSbkoSKK0) | Видео | да | нет | [папка](2025-11-02-takie-biznesy-budut-uspeshnymi-v-2030-godu-vnedri-eto-poka-ne-pozdno/README.md) |
 | `RGGu6y8pc1Q` | [Олимпийский чемпион: как НЕ сдаться, когда каждый шаг — борьба? Семён Елистратов](https://www.youtube.com/watch?v=RGGu6y8pc1Q) | Видео | нет | нет | — |
 | `0wID0XQUSSQ` | [Я выучил английский за 6 месяцев и выступил в Дубае](https://www.youtube.com/watch?v=0wID0XQUSSQ) | Видео | нет | нет | — |
 | `XNr-BUDfI4I` | [L‘One БОЛЬШОЕ ИНТЕРВЬЮ. Как творить 10 лет и не выгореть](https://www.youtube.com/watch?v=XNr-BUDfI4I) | Видео | нет | нет | — |

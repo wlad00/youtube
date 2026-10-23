@@ -10,7 +10,7 @@
 
 Всего в теме: **5**. Обычных видео: **5**. Эфиров: **0**.
 
-Локальные очищенные субтитры: **2 / 5**. Подготовлено: **0 / 5**.
+Локальные очищенные субтитры: **5 / 5**. Подготовлено: **0 / 5**.
 
 Порядок обработки: оригинальные субтитры → очистка с таймкодами → подготовка. `Субтитры = нет` означает отсутствие локального `transcript.cleaned.md`; доступность дорожек на YouTube ещё не проверена. Правило подготовки и общий прогресс — в [плане автора](../PLAN.md).
 
@@ -22,6 +22,6 @@
 |---|---|---|---|---|---|
 | `VFW4iKblbqw` | [Посмотри это видео и СЭКОНОМЬ 10 лет в бизнесе — Михаил Гребенюк](https://www.youtube.com/watch?v=VFW4iKblbqw) | Видео | да | нет | [папка](2026-08-20-posmotri-eto-video-i-sekonom-10-let-v-biznese-mikhail-grebenyuk/README.md) |
 | `I_YdF6Q1c2A` | [Такого бизнеса ещё нет в РФ — и это главная проблема...](https://www.youtube.com/watch?v=I_YdF6Q1c2A) | Видео | да | нет | [папка](2026-07-13-takogo-biznesa-eshche-net-v-rf-i-eto-glavnaya-problema/README.md) |
-| `ZP9SMlpoyVo` | [Это ждёт 98% предпринимателей, если НЕ сделать ЭТО. Неприятная правда...](https://www.youtube.com/watch?v=ZP9SMlpoyVo) | Видео | нет | нет | — |
-| `OUbczu-N4k0` | [Я провёл 10 часов разборов нон-стоп. 34 разбора подряд — ТАКОЕ нельзя пропустить!](https://www.youtube.com/watch?v=OUbczu-N4k0) | Видео | нет | нет | — |
-| `q-Xkf6Pcnjc` | [ВЛОГ: ГРАНД РАЗБОРЫ Гребенюка. КАК ЭТО БЫЛО? / Мой путь в Crocus City Hall!](https://www.youtube.com/watch?v=q-Xkf6Pcnjc) | Видео | нет | нет | — |
+| `ZP9SMlpoyVo` | [Это ждёт 98% предпринимателей, если НЕ сделать ЭТО. Неприятная правда...](https://www.youtube.com/watch?v=ZP9SMlpoyVo) | Видео | да | нет | [папка](2025-11-21-eto-zhdet-98-predprinimateley-esli-ne-sdelat-eto-nepriyatnaya-pravda/README.md) |
+| `OUbczu-N4k0` | [Я провёл 10 часов разборов нон-стоп. 34 разбора подряд — ТАКОЕ нельзя пропустить!](https://www.youtube.com/watch?v=OUbczu-N4k0) | Видео | да | нет | [папка](2025-05-20-ya-provel-10-chasov-razborov-non-stop-34-razbora-podryad-takoe-nelzya-propustit/README.md) |
+| `q-Xkf6Pcnjc` | [ВЛОГ: ГРАНД РАЗБОРЫ Гребенюка. КАК ЭТО БЫЛО? / Мой путь в Crocus City Hall!](https://www.youtube.com/watch?v=q-Xkf6Pcnjc) | Видео | да | нет | [папка](2023-12-04-vlog-grand-razbory-grebenyuka-kak-eto-bylo-moy-put-v-crocus-city-hall/README.md) |

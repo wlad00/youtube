@@ -10,7 +10,7 @@
 
 Всего в теме: **42**. Обычных видео: **42**. Эфиров: **0**.
 
-Локальные очищенные субтитры: **1 / 42**. Подготовлено: **1 / 42**.
+Локальные очищенные субтитры: **7 / 42**. Подготовлено: **1 / 42**.
 
 Порядок обработки: оригинальные субтитры → очистка с таймкодами → подготовка. `Субтитры = нет` означает отсутствие локального `transcript.cleaned.md`; доступность дорожек на YouTube ещё не проверена у остальных записей без локальных субтитров. Правило подготовки и общий прогресс — в [плане автора](../PLAN.md).
 
@@ -27,12 +27,12 @@
 | `ARYYovNthwQ` | [Компания с Урала, перевернувшая игру — 20 млрд прибыли без регламентов \| В чем феномен Точка Банк?](https://www.youtube.com/watch?v=ARYYovNthwQ) | Видео | нет | нет | — |
 | `_A5-n4FX4rw` | [Руководитель ФНС: вот, как налоговая видит НАС изнутри](https://www.youtube.com/watch?v=_A5-n4FX4rw) | Видео | нет | нет | — |
 | `U_x2w-6ogSg` | [Ошибки, которые РЕЖУТ ПРИБЫЛЬ! Секрет ЭФФЕКТИВНОЙ схемы управления сотрудниками!](https://www.youtube.com/watch?v=U_x2w-6ogSg) | Видео | нет | нет | — |
-| `RjIzHlEjLPM` | [Работающая HR-стратегия! Как стать работодателем мечты для лучших специалистов?](https://www.youtube.com/watch?v=RjIzHlEjLPM) | Видео | нет | нет | — |
-| `1abV4v8H_ZE` | [Бизнес-партнёр тянет на ДНО! Выходим на 15 миллионов чистой прибыли в месяц САМОСТОЯТЕЛЬНО!](https://www.youtube.com/watch?v=1abV4v8H_ZE) | Видео | нет | нет | — |
-| `BNzQGmKBvpE` | [В ЭТОМ кроется УСПЕХ твоего БИЗНЕСА! / Как создать команду МЕЧТЫ?](https://www.youtube.com/watch?v=BNzQGmKBvpE) | Видео | нет | нет | — |
-| `QloJj5BkgZI` | [СЕМЕЙНЫЙ БИЗНЕС: Как УСПЕШНО сотрудничать с отцом и не разрушить семью?](https://www.youtube.com/watch?v=QloJj5BkgZI) | Видео | нет | нет | — |
-| `j913ZSa_paE` | [Как РУКОВОДИТЕЛЮ выстраивать отношения с КОМАНДОЙ \| Разбор на миллион](https://www.youtube.com/watch?v=j913ZSa_paE) | Видео | нет | нет | — |
-| `aKctMSFaDyo` | [Как МАСШТАБИРОВАТЬ свой БИЗНЕС на партнёрстве? Учимся управлять ТОПами и командой.](https://www.youtube.com/watch?v=aKctMSFaDyo) | Видео | нет | нет | — |
+| `RjIzHlEjLPM` | [Работающая HR-стратегия! Как стать работодателем мечты для лучших специалистов?](https://www.youtube.com/watch?v=RjIzHlEjLPM) | Видео | да | нет | [папка](2024-06-30-rabotayushchaya-hr-strategiya-kak-stat-rabotodatelem-mechty-dlya-luchshikh-spetsialistov/README.md) |
+| `1abV4v8H_ZE` | [Бизнес-партнёр тянет на ДНО! Выходим на 15 миллионов чистой прибыли в месяц САМОСТОЯТЕЛЬНО!](https://www.youtube.com/watch?v=1abV4v8H_ZE) | Видео | да | нет | [папка](2024-04-26-biznes-partner-tyanet-na-dno-vykhodim-na-15-millionov-chistoy-pribyli-v-mesyats-samostoyatelno/README.md) |
+| `BNzQGmKBvpE` | [В ЭТОМ кроется УСПЕХ твоего БИЗНЕСА! / Как создать команду МЕЧТЫ?](https://www.youtube.com/watch?v=BNzQGmKBvpE) | Видео | да | нет | [папка](2023-11-05-v-etom-kroetsya-uspekh-tvoego-biznesa-kak-sozdat-komandu-mechty/README.md) |
+| `QloJj5BkgZI` | [СЕМЕЙНЫЙ БИЗНЕС: Как УСПЕШНО сотрудничать с отцом и не разрушить семью?](https://www.youtube.com/watch?v=QloJj5BkgZI) | Видео | да | нет | [папка](2023-08-04-semeynyy-biznes-kak-uspeshno-sotrudnichat-s-ottsom-i-ne-razrushit-semyu/README.md) |
+| `j913ZSa_paE` | [Как РУКОВОДИТЕЛЮ выстраивать отношения с КОМАНДОЙ \| Разбор на миллион](https://www.youtube.com/watch?v=j913ZSa_paE) | Видео | да | нет | [папка](2023-06-29-kak-rukovoditelyu-vystraivat-otnosheniya-s-komandoy-razbor-na-million/README.md) |
+| `aKctMSFaDyo` | [Как МАСШТАБИРОВАТЬ свой БИЗНЕС на партнёрстве? Учимся управлять ТОПами и командой.](https://www.youtube.com/watch?v=aKctMSFaDyo) | Видео | да | нет | [папка](2023-05-25-kak-masshtabirovat-svoy-biznes-na-partnerstve-uchimsya-upravlyat-topami-i-komandoy/README.md) |
 | `xsRZN2Gf248` | [Как распределить доли в бизнесе между партнерами?](https://www.youtube.com/watch?v=xsRZN2Gf248) | Видео | нет | нет | — |
 | `ccbGknMD9Sw` | [Зачем бизнесмену нужен личный помощник?](https://www.youtube.com/watch?v=ccbGknMD9Sw) | Видео | нет | нет | — |
 | `ws9rG4QlR6w` | [Почему нельзя дружить с сотрудниками?](https://www.youtube.com/watch?v=ws9rG4QlR6w) | Видео | нет | нет | — |
