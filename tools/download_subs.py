@@ -5,6 +5,10 @@
 
 Список — TSV: Video ID <TAB> папка ролика относительно корня репо (например
 bible/ivan-pendlishak/2025-11-21-totalne-rabstvo). Пустые строки, строки с # и заголовок пропускаются.
+Папка с «/» на конце (например margulan-seysembaev/self-realization/) — имя ролика скрипт строит сам
+из тех же метаданных: <ГГГГ-ММ-ДД>-<транслит оригинального названия> (х → kh, щ → shch, ё → e;
+для языка uk — г → h, и → y; части названия через «|», равные author или каналу, отбрасываются;
+слаг до 100 знаков), занятое имя — суффикс -2, -3. Ролик, уже записанный в этой папке, берётся по video_id.
 
 По одному ролику: --list-subs с метаданными → выбор оригинальной дорожки (правила AGENTS.md,
 «Скачивание субтитров») → скачивание → очистка через tools/materialize_sections.py --transcript →
@@ -76,8 +80,53 @@ def read_list(path):
         parts = [p.strip() for p in ln.split("\t")]
         if len(parts) < 2 or not ID_RE.match(parts[0]):
             continue
-        items.append((parts[0], parts[1].replace("\\", "/").strip("/")))
+        p = parts[1].replace("\\", "/")
+        items.append((parts[0], p.strip("/") + ("/" if p.endswith("/") else "")))
     return items
+
+
+TR = {
+    "а": "a", "б": "b", "в": "v", "г": "g", "д": "d", "е": "e", "ё": "e", "ж": "zh", "з": "z", "и": "i",
+    "й": "y", "к": "k", "л": "l", "м": "m", "н": "n", "о": "o", "п": "p", "р": "r", "с": "s", "т": "t",
+    "у": "u", "ф": "f", "х": "kh", "ц": "ts", "ч": "ch", "ш": "sh", "щ": "shch", "ъ": "", "ы": "y", "ь": "",
+    "э": "e", "ю": "yu", "я": "ya",
+    "ә": "a", "ғ": "gh", "қ": "q", "ң": "n", "ө": "o", "ұ": "u", "ү": "u", "һ": "h", "і": "i",
+    "є": "ie", "ї": "i", "ґ": "g",
+}
+TR_UK = {**TR, "г": "h", "и": "y", "й": "i"}
+SLUG_MAX = 100
+
+
+def slugify(title, lang, drop):
+    parts = [p for p in re.split(r"\s*\|\s*", title) if p.strip().casefold() not in drop]
+    tr = TR_UK if lang == "uk" else TR
+    out = []
+    for ch in " ".join(parts).lower():
+        if ch in tr:
+            out.append(tr[ch])
+        elif ch in "'’ʼ`":
+            continue
+        elif ch.isascii() and ch.isalnum():
+            out.append(ch)
+        else:
+            out.append("-")
+    s = re.sub(r"-+", "-", "".join(out)).strip("-")
+    if len(s) > SLUG_MAX:
+        cut = s[:SLUG_MAX + 1]
+        s = cut[:cut.rfind("-")] if "-" in cut else s[:SLUG_MAX]
+    return s.strip("-") or "video"
+
+
+def auto_name(parent_dir, meta, lang, author):
+    u = meta["date"]
+    if not re.fullmatch(r"\d{8}", u):
+        raise Stuck(f"нет даты публикации для имени папки ({u or '—'})")
+    drop = {s.strip().casefold() for s in (author or "", meta["channel"]) if s and s.strip()}
+    name = base_name = f"{u[:4]}-{u[4:6]}-{u[6:]}-{slugify(meta['title'], lang, drop)}"
+    n = 2
+    while (parent_dir / name).exists():
+        name, n = f"{base_name}-{n}", n + 1
+    return name
 
 
 def repo_owners(repo):
@@ -212,9 +261,21 @@ def write_readme(folder, rel, vid, meta, lang, author):
 
 
 def one(repo, vid, rel, owners, args, cache):
+    """Возвращает (статус, пояснение, папка ролика относительно репо)."""
+    subs = None
+    if rel.endswith("/"):
+        parent = rel.rstrip("/")
+        mine = sorted(o for o in owners.get(vid, ()) if o.rsplit("/", 1)[0] == parent)
+        if mine:
+            rel = mine[0]
+        else:
+            subs = list_subs(vid)
+            code, lang = choose_track(subs[0], subs[1], subs[2]["language"])
+            author = args.author if args.author is not None else collection_author(repo / parent, cache)
+            rel = f"{parent}/{auto_name(repo / parent, subs[2], lang, author)}"
     folder = repo / rel
     if (folder / "transcript.cleaned.md").exists():
-        return "skip", "transcript.cleaned.md уже есть"
+        return "skip", "transcript.cleaned.md уже есть", rel
     other = owners.get(vid, set()) - {rel}
     if other:
         raise Stuck("дубль: Video ID уже в " + ", ".join(sorted(other)))
@@ -223,7 +284,7 @@ def one(repo, vid, rel, owners, args, cache):
         m = VID_RE.search(rd.read_text(encoding="utf-8", errors="replace"))
         if m and m.group(1) != vid:
             raise Stuck(f"в README папки другой video_id {m.group(1)}")
-    auto, manual, meta = list_subs(vid)
+    auto, manual, meta = subs or list_subs(vid)
     code, lang = choose_track(auto, manual, meta["language"])
     created = not folder.exists()
     folder.mkdir(parents=True, exist_ok=True)
@@ -239,7 +300,8 @@ def one(repo, vid, rel, owners, args, cache):
     finally:
         for f in folder.glob("subtitles.*"):
             f.unlink()
-    return "ok", f"{lang} ({code}), {n} знаков, {rel}"
+    owners.setdefault(vid, set()).add(rel)
+    return "ok", f"{lang} ({code}), {n} знаков, {rel}", rel
 
 
 def git(repo, *a):
@@ -303,7 +365,7 @@ def main():
             if i > 1:
                 time.sleep(PAUSE)
             try:
-                status, note = one(repo, vid, rel, owners, args, cache)
+                status, note, rel = one(repo, vid, rel, owners, args, cache)
                 streak = 0
             except Blocked as e:
                 status, note = "block", f"блокировка YouTube: {e}"
