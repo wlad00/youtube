@@ -4,15 +4,15 @@
 
 Работа с клиентами, сделки, возражения, повторные продажи и отдел продаж.
 
-Распределение предварительное: только названия и тематические хештеги, без чтения содержания. У каждого Video ID одна основная тема; после расшифровки тему можно уточнить.
+Распределение оставшихся записей предварительное: только названия и тематические хештеги, без чтения содержания. По SUMMARY двадцати шести роликов двадцать три соответствуют теме «Продажи и клиенты»; `tmP4x7VdbpU` перенесён в «Маркетинг и продвижение», `qRZwmVpdV78` — в «Ниши и бизнес-модель», а `-FP5CCLPfR4` — в «Найм и команда» по теме отбора продавцов и собеседования. У каждого Video ID одна основная тема.
 
 В очереди только обычные видео и эфиры. Shorts/рилсы исключены. Порог 40 000 знаков определяет нарезку расшифровки при подготовке, а не отбор публикаций.
 
-Всего в теме: **56**. Обычных видео: **56**. Эфиров: **0**.
+Всего в теме: **53**. Обычных видео: **53**. Эфиров: **0**.
 
-Локальные очищенные субтитры: **5 / 56**. Подготовлено: **1 / 56**.
+Локальные очищенные субтитры: **46 / 53**. Подготовлено: **45 / 53**.
 
-Порядок обработки: оригинальные субтитры → очистка с таймкодами → подготовка. `Субтитры = нет` означает отсутствие локального `transcript.cleaned.md`; доступность дорожек на YouTube ещё не проверена. Правило подготовки и общий прогресс — в [плане автора](../PLAN.md).
+Порядок обработки: оригинальные субтитры → очистка с таймкодами → подготовка. `Субтитры = нет` означает отсутствие локального `transcript.cleaned.md`. Доступность дорожек проверена только у записей с указанной причиной; у остальных её ещё не проверяли. Правило подготовки и общий прогресс — в [плане автора](../PLAN.md).
 
 ## Очередь обычных видео и эфиров @grebenukm
 
@@ -20,59 +20,56 @@
 
 | Video ID | Ролик | Формат | Субтитры | Подготовлен | Существующая папка |
 |---|---|---|---|---|---|
-| `3xEEtq8jiHA` | [ПРОСТОЙ способ поднять продажи в бизнесе. Как увеличить прибыль в 2026?](https://www.youtube.com/watch?v=3xEEtq8jiHA) | Видео | нет | нет | — |
-| `6tQZMEaGTU4` | [Как создать сервис, которые ценят клиенты — Мой опыт](https://www.youtube.com/watch?v=6tQZMEaGTU4) | Видео | нет | нет | — |
-| `t2b0In3yuQ4` | [Ты сама тормозишь РОСТ своего бизнеса — начни уже закрывать крупные сделки!](https://www.youtube.com/watch?v=t2b0In3yuQ4) | Видео | нет | нет | — |
+| `3xEEtq8jiHA` | [ПРОСТОЙ способ поднять продажи в бизнесе. Как увеличить прибыль в 2026?](https://www.youtube.com/watch?v=3xEEtq8jiHA) | Видео | да | да | [папка](2026-09-12-prostoy-sposob-podnyat-prodazhi-v-biznese-kak-uvelichit-pribyl-v-2026/README.md) |
+| `6tQZMEaGTU4` | [Как создать сервис, которые ценят клиенты — Мой опыт](https://www.youtube.com/watch?v=6tQZMEaGTU4) | Видео | да | да | [папка](2026-08-31-kak-sozdat-servis-kotorye-cenyat-klienty-moy-opyt/README.md) |
+| `t2b0In3yuQ4` | [Ты сама тормозишь РОСТ своего бизнеса — начни уже закрывать крупные сделки!](https://www.youtube.com/watch?v=t2b0In3yuQ4) | Видео | да | да | [папка](2026-08-22-ty-sama-tormozish-rost-svoego-biznesa-nachni-uzhe-zakryvat-krupnye-sdelki/README.md) |
 | `CP3_YAOD1ew` | [В базе 7500 клиентов, а платят только 500. Что нужно сделать прямо сейчас?](https://www.youtube.com/watch?v=CP3_YAOD1ew) | Видео | да | да | [папка](../long/2026-08-15-v-baze-7500-klientov-a-platyat-tolko-500/README.md) |
-| `0SwoPSeb2_Y` | [У бизнеса НЕ будет клиентов, пока не сделать ЭТО. Пошаговый план](https://www.youtube.com/watch?v=0SwoPSeb2_Y) | Видео | нет | нет | — |
-| `SJFT2Ktg68A` | [НЕТ клиентов в бизнесе? Всего ОДНО действие всё изменит!](https://www.youtube.com/watch?v=SJFT2Ktg68A) | Видео | нет | нет | — |
-| `3p37YRHaL_E` | [Как понять, что на САМОМ деле хочет клиент? Узнай, чтобы НЕ упустить возможность!](https://www.youtube.com/watch?v=3p37YRHaL_E) | Видео | да | нет | [папка](../long/2025-08-30-kak-ponyat-chto-na-samom-dele-khochet-klient/README.md) |
-| `i_MZX8uGBJ0` | [ПОКОЛЕНИЕ. Бизнес-реалити Михаила Гребенюка. Кто из школьников станет лучшим в продажах?](https://www.youtube.com/watch?v=i_MZX8uGBJ0) | Видео | нет | нет | — |
-| `j14bfdf5k5o` | [Это самое главное при продажах на высокие чеки! / Как построить отдел продаж в премиум сегменте?](https://www.youtube.com/watch?v=j14bfdf5k5o) | Видео | нет | нет | — |
-| `6GVTdhpNGSY` | [Главные секреты деловых отношений для успешного бизнеса! / Как привлечь и удержать клиентов?](https://www.youtube.com/watch?v=6GVTdhpNGSY) | Видео | нет | нет | — |
-| `eORlzp7B4Kc` | [ВЫСОКИЙ ЧЕК – НИЗКИЕ ПРОДАЖИ? 13 лет каторги ради копеек // Проблемы ПРЕМИУМ-СЕГМЕНТА](https://www.youtube.com/watch?v=eORlzp7B4Kc) | Видео | нет | нет | — |
-| `woAJogYddXE` | [Как вернуть клиента и продать ему ПОВТОРНО? / Масштабирование продаж в бизнесе!](https://www.youtube.com/watch?v=woAJogYddXE) | Видео | нет | нет | — |
-| `xeCqzriF-48` | [Как начать сотрудничать с крупным бизнесом?](https://www.youtube.com/watch?v=xeCqzriF-48) | Видео | нет | нет | — |
-| `OEtcXNQjmeI` | [Как РАЗБОГАТЕТЬ на косметологии? / Как найти клиентов косметологу?](https://www.youtube.com/watch?v=OEtcXNQjmeI) | Видео | нет | нет | — |
-| `Wo_MSorLVbI` | [МИЛЛИОН на СТРОЙКЕ! / Пошаговый план, как увеличить ПРИБЫЛЬ и ПРОДАЖИ в ЛЮБОЙ нише](https://www.youtube.com/watch?v=Wo_MSorLVbI) | Видео | нет | нет | — |
-| `3M4DKZlIY3Y` | [Менеджеры уводят клиентов! / Как построить отдел продаж?](https://www.youtube.com/watch?v=3M4DKZlIY3Y) | Видео | нет | нет | — |
-| `JJ12gygdDME` | [ТОП-5 действий - и продажи вырастут! / Инструменты продаж для быстрой и максимальной прибыли](https://www.youtube.com/watch?v=JJ12gygdDME) | Видео | нет | нет | — |
-| `tmP4x7VdbpU` | [Дешёвый способ привлечения новых клиентов / Как увеличить продажи, используя нецелевые лиды?](https://www.youtube.com/watch?v=tmP4x7VdbpU) | Видео | нет | нет | — |
-| `U1DXbw8ZnsY` | [Страх звонка: как побороть и начать звонить клиенту / Эффективные упражнения, чтобы улучшить продажи](https://www.youtube.com/watch?v=U1DXbw8ZnsY) | Видео | нет | нет | — |
-| `USFr3IwtPrY` | [Как разговаривать с клиентом при продаже? / Каким нужно быть в продажах?](https://www.youtube.com/watch?v=USFr3IwtPrY) | Видео | нет | нет | — |
-| `mI1mhSSp9jM` | [Что должен уметь продавец? / 3 главных умения в профессии продавца](https://www.youtube.com/watch?v=mI1mhSSp9jM) | Видео | нет | нет | — |
-| `qRZwmVpdV78` | [Что такое КАСТДЕВ? / Как работает Customer Development? Нужен ли он бизнесу?](https://www.youtube.com/watch?v=qRZwmVpdV78) | Видео | нет | нет | — |
-| `JOCnDG3fbes` | [Плохой план продаж - НЕТ прибыли в компании! / Почему план продаж не выполняется?](https://www.youtube.com/watch?v=JOCnDG3fbes) | Видео | да | нет | [папка](../long/2021-09-17-plokhoy-plan-prodazh-net-pribyli-v-kompanii/README.md) |
-| `Mu_u-R27GOY` | [Худшие ответы на возражение «ДОРОГО»! / Как отвечать на возражения клиентов?](https://www.youtube.com/watch?v=Mu_u-R27GOY) | Видео | да | нет | [папка](../long/2021-09-15-khudshie-otvety-na-vozrazhenie-dorogo/README.md) |
-| `j1GyVYhOF94` | [Как увеличить прибыль в бизнесе? / Всё об LTV показателе! / Причины низкого LTV прибыли компании](https://www.youtube.com/watch?v=j1GyVYhOF94) | Видео | нет | нет | — |
-| `UVOa4Y6ce70` | [Выгодная скидка - успешная покупка! / Как правильно торговаться и получить скидку?](https://www.youtube.com/watch?v=UVOa4Y6ce70) | Видео | нет | нет | — |
-| `tXTGOPFhc-4` | [Как много продавать и не выгорать? / 5 лайфхаков для организации работы в отделе продаж](https://www.youtube.com/watch?v=tXTGOPFhc-4) | Видео | нет | нет | — |
-| `vGAKslQutcQ` | [Как дожать клиента и завершить продажу?! / 9 ошибок при закрытии сделки](https://www.youtube.com/watch?v=vGAKslQutcQ) | Видео | нет | нет | — |
-| `rbPkcFhrBCk` | [Какие ошибки в управлении и продажах мешают увеличить прибыль? / 10 ошибок в отделе продаж](https://www.youtube.com/watch?v=rbPkcFhrBCk) | Видео | нет | нет | — |
-| `IqCKuYeGaFM` | [Надо ли менеджеру по продажам дружить с клиентом? / Что делать, если клиент — друг?](https://www.youtube.com/watch?v=IqCKuYeGaFM) | Видео | нет | нет | — |
-| `dKpk_3NPzIo` | [От чего зависит успех продавца? / Тренинг по продажам: как стать лучшим продавцом?!](https://www.youtube.com/watch?v=dKpk_3NPzIo) | Видео | нет | нет | — |
-| `JgxS8p-PwiA` | [Без скидок в России продать невозможно?! / Как отказать клиенту в скидке и не потерять его?](https://www.youtube.com/watch?v=JgxS8p-PwiA) | Видео | нет | нет | — |
-| `DKlQ9YcP4gY` | [Шпаргалка возражений в продажах! / Эффективная техника работы с возражениями](https://www.youtube.com/watch?v=DKlQ9YcP4gY) | Видео | нет | нет | — |
-| `-zb0K-XRp64` | [Главное в продажах - создать убойные скрипты! / Основные ошибки в составлении скриптов продаж](https://www.youtube.com/watch?v=-zb0K-XRp64) | Видео | нет | нет | — |
-| `ePIEDCMnN9g` | [Правильная интонация - это залог успешной продажи! / Как интонация помогает в продажах?](https://www.youtube.com/watch?v=ePIEDCMnN9g) | Видео | нет | нет | — |
-| `7wtxVJmwDuw` | [Самое сильно видео про управление / Предсказываем срыв продаж РОПом по отчету](https://www.youtube.com/watch?v=7wtxVJmwDuw) | Видео | нет | нет | — |
-| `Ma7pBX_4DnA` | [Как продавать дороже конкурентов? / 7 лайфхаков, чтобы продать дороже](https://www.youtube.com/watch?v=Ma7pBX_4DnA) | Видео | нет | нет | — |
-| `-FP5CCLPfR4` | [Это тот продавец, который точно будет продавать! / Как выглядит идеальный менеджер по продажам?](https://www.youtube.com/watch?v=-FP5CCLPfR4) | Видео | нет | нет | — |
-| `1BgkbNSbPNw` | [ТОП-10 мифов про отдел продаж / Что обязательно нужно знать об отделе продаж?](https://www.youtube.com/watch?v=1BgkbNSbPNw) | Видео | нет | нет | — |
-| `UjJ9y6Ql7ig` | [Фразы для идеальной продажи / Как убедить клиента совершить покупку?](https://www.youtube.com/watch?v=UjJ9y6Ql7ig) | Видео | нет | нет | — |
-| `mQAjfJNFHVk` | [ТОП-7 фраз, убивающих продажи / Что сказать клиенту на фразу: «Ну, рассказывай…»?](https://www.youtube.com/watch?v=mQAjfJNFHVk) | Видео | нет | нет | — |
-| `f1S16gnjakE` | [Самый мощный приём и техники в переговорах / Как провести успешные переговоры?](https://www.youtube.com/watch?v=f1S16gnjakE) | Видео | нет | нет | — |
-| `Rr0L73yODk8` | [Как продать что угодно и кому угодно? / Как засунуть свой мозг в голову клиента?](https://www.youtube.com/watch?v=Rr0L73yODk8) | Видео | нет | нет | — |
-| `wybmr2pyJP8` | [Увеличиваем ПРОДАЖИ! Совершенная воронка продаж в CRM системе](https://www.youtube.com/watch?v=wybmr2pyJP8) | Видео | нет | нет | — |
-| `n2Qqk7V5Jco` | [Как увеличить продажи B2B сегмента? \| 5 ЭТАПОВ B2B ПРОДАЖ \| Разница Б2Б продажи и Б2С продажи](https://www.youtube.com/watch?v=n2Qqk7V5Jco) | Видео | нет | нет | — |
-| `7hcVd1Kvxgk` | [Программирование в продажах \| Как убедить купить ВСЕ ЧТО УГОДНО?](https://www.youtube.com/watch?v=7hcVd1Kvxgk) | Видео | нет | нет | — |
-| `u_nUEEOMKP8` | [Продажи СЛОЖНЫМ клиентам//Как решить конфликт при продаже](https://www.youtube.com/watch?v=u_nUEEOMKP8) | Видео | нет | нет | — |
-| `L0cnPVyo_-Y` | [ГОТОВЫЙ ОТВЕТ на возражение в продажах // Мы уже работаем с другой компанией](https://www.youtube.com/watch?v=L0cnPVyo_-Y) | Видео | нет | нет | — |
-| `ploWA5ytdNA` | [Возражение клиента "Я ПОДУМАЮ". Работа с возражениями в продажах](https://www.youtube.com/watch?v=ploWA5ytdNA) | Видео | нет | нет | — |
-| `LjzooBLs974` | [Как звонить в холодную? Легкий и понятный сценарий продающего разговора!](https://www.youtube.com/watch?v=LjzooBLs974) | Видео | нет | нет | — |
-| `qnkNwnk6PB8` | [Работа с возражением "ДОРОГО". Отработка возражений в продажах](https://www.youtube.com/watch?v=qnkNwnk6PB8) | Видео | нет | нет | — |
-| `XkAZg66tEr8` | [Самые дебильные ошибки в отделе продаж. Не делайте так никогда](https://www.youtube.com/watch?v=XkAZg66tEr8) | Видео | нет | нет | — |
-| `L6Vlo5U2Iks` | [Настройка воронки продаж в amoCRM. Вебинар](https://www.youtube.com/watch?v=L6Vlo5U2Iks) | Видео | нет | нет | — |
-| `_1iEicWjv34` | [5 ФИШЕК: как увеличить продажи. Строим отдел продаж. Михаил Гребенюк](https://www.youtube.com/watch?v=_1iEicWjv34) | Видео | нет | нет | — |
-| `IkXU02-shtg` | [Как увеличить продажи? 10 советов от Михаила Гребенюка](https://www.youtube.com/watch?v=IkXU02-shtg) | Видео | нет | нет | — |
+| `0SwoPSeb2_Y` | [У бизнеса НЕ будет клиентов, пока не сделать ЭТО. Пошаговый план](https://www.youtube.com/watch?v=0SwoPSeb2_Y) | Видео | да | да | [папка](2026-06-29-u-biznesa-ne-budet-klientov-poka-ne-sdelat-eto-poshagovyy-plan/README.md) |
+| `SJFT2Ktg68A` | [НЕТ клиентов в бизнесе? Всего ОДНО действие всё изменит!](https://www.youtube.com/watch?v=SJFT2Ktg68A) | Видео | да | да | [папка](2026-01-04-net-klientov-v-biznese-vsego-odno-deystvie-vsyo-izmenit/README.md) |
+| `3p37YRHaL_E` | [Как понять, что на САМОМ деле хочет клиент? Узнай, чтобы НЕ упустить возможность!](https://www.youtube.com/watch?v=3p37YRHaL_E) | Видео | да | да | [папка](2025-08-30-kak-ponyat-chto-na-samom-dele-khochet-klient/README.md) |
+| `i_MZX8uGBJ0` | [ПОКОЛЕНИЕ. Бизнес-реалити Михаила Гребенюка. Кто из школьников станет лучшим в продажах?](https://www.youtube.com/watch?v=i_MZX8uGBJ0) | Видео | да | да | [папка](2024-09-14-pokolenie-biznes-realiti-mihaila-grebenyuka-kto-iz-shkolnikov-stanet-luchshim-v-prodazhah/README.md) |
+| `j14bfdf5k5o` | [Это самое главное при продажах на высокие чеки! / Как построить отдел продаж в премиум сегменте?](https://www.youtube.com/watch?v=j14bfdf5k5o) | Видео | да | да | [папка](2024-06-05-eto-samoe-glavnoe-pri-prodazhah-na-vysokie-cheki-kak-postroit-otdel-prodazh-v-premium-segmente/README.md) |
+| `6GVTdhpNGSY` | [Главные секреты деловых отношений для успешного бизнеса! / Как привлечь и удержать клиентов?](https://www.youtube.com/watch?v=6GVTdhpNGSY) | Видео | да | да | [папка](2024-05-29-glavnye-sekrety-delovyh-otnosheniy-dlya-uspeshnogo-biznesa-kak-privlech-i-uderzhat-klientov/README.md) |
+| `eORlzp7B4Kc` | [ВЫСОКИЙ ЧЕК – НИЗКИЕ ПРОДАЖИ? 13 лет каторги ради копеек // Проблемы ПРЕМИУМ-СЕГМЕНТА](https://www.youtube.com/watch?v=eORlzp7B4Kc) | Видео | нет | нет | [папка](2024-03-09-vysokiy-chek-nizkie-prodazhi-13-let-katorgi-radi-kopeek-problemy-premium-segmenta/README.md) — YouTube: дорожек субтитров нет |
+| `woAJogYddXE` | [Как вернуть клиента и продать ему ПОВТОРНО? / Масштабирование продаж в бизнесе!](https://www.youtube.com/watch?v=woAJogYddXE) | Видео | нет | нет | [папка](2023-12-22-kak-vernut-klienta-i-prodat-emu-povtorno-masshtabirovanie-prodazh-v-biznese/README.md) — YouTube: дорожек субтитров нет |
+| `xeCqzriF-48` | [Как начать сотрудничать с крупным бизнесом?](https://www.youtube.com/watch?v=xeCqzriF-48) | Видео | нет | нет | [папка](2023-03-14-kak-nachat-sotrudnichat-s-krupnym-biznesom/README.md) — YouTube: дорожек субтитров нет |
+| `OEtcXNQjmeI` | [Как РАЗБОГАТЕТЬ на косметологии? / Как найти клиентов косметологу?](https://www.youtube.com/watch?v=OEtcXNQjmeI) | Видео | нет | нет | [папка](2022-08-16-kak-razbogatet-na-kosmetologii-kak-nayti-klientov-kosmetologu/README.md) — YouTube: дорожек субтитров нет |
+| `Wo_MSorLVbI` | [МИЛЛИОН на СТРОЙКЕ! / Пошаговый план, как увеличить ПРИБЫЛЬ и ПРОДАЖИ в ЛЮБОЙ нише](https://www.youtube.com/watch?v=Wo_MSorLVbI) | Видео | да | да | [папка](2022-08-01-million-na-stroyke-poshagovyy-plan-kak-uvelichit-pribyl-i-prodazhi-v-lyuboy-nishe/README.md) |
+| `3M4DKZlIY3Y` | [Менеджеры уводят клиентов! / Как построить отдел продаж?](https://www.youtube.com/watch?v=3M4DKZlIY3Y) | Видео | да | да | [папка](2022-06-09-menedzhery-uvodyat-klientov-kak-postroit-otdel-prodazh/README.md) |
+| `JJ12gygdDME` | [ТОП-5 действий - и продажи вырастут! / Инструменты продаж для быстрой и максимальной прибыли](https://www.youtube.com/watch?v=JJ12gygdDME) | Видео | да | да | [папка](2022-02-09-top-5-deystviy-i-prodazhi-vyrastut-instrumenty-prodazh/README.md) |
+| `U1DXbw8ZnsY` | [Страх звонка: как побороть и начать звонить клиенту / Эффективные упражнения, чтобы улучшить продажи](https://www.youtube.com/watch?v=U1DXbw8ZnsY) | Видео | да | да | [папка](2021-10-20-strah-zvonka-kak-poborot-i-nachat-zvonit-klientu-effektivnye-uprazhneniya-chtoby-uluchshit-prodazhi/README.md) |
+| `USFr3IwtPrY` | [Как разговаривать с клиентом при продаже? / Каким нужно быть в продажах?](https://www.youtube.com/watch?v=USFr3IwtPrY) | Видео | да | да | [папка](2021-10-15-kak-razgovarivat-s-klientom-pri-prodazhe-kakim-nuzhno-byt-v-prodazhah/README.md) |
+| `mI1mhSSp9jM` | [Что должен уметь продавец? / 3 главных умения в профессии продавца](https://www.youtube.com/watch?v=mI1mhSSp9jM) | Видео | да | да | [папка](2021-10-13-chto-dolzhen-umet-prodavec-3-glavnyh-umeniya-v-professii-prodavtsa/README.md) |
+| `JOCnDG3fbes` | [Плохой план продаж - НЕТ прибыли в компании! / Почему план продаж не выполняется?](https://www.youtube.com/watch?v=JOCnDG3fbes) | Видео | да | да | [папка](../long/2021-09-17-plokhoy-plan-prodazh-net-pribyli-v-kompanii/README.md) |
+| `Mu_u-R27GOY` | [Худшие ответы на возражение «ДОРОГО»! / Как отвечать на возражения клиентов?](https://www.youtube.com/watch?v=Mu_u-R27GOY) | Видео | да | да | [папка](../long/2021-09-15-khudshie-otvety-na-vozrazhenie-dorogo/README.md) |
+| `j1GyVYhOF94` | [Как увеличить прибыль в бизнесе? / Всё об LTV показателе! / Причины низкого LTV прибыли компании](https://www.youtube.com/watch?v=j1GyVYhOF94) | Видео | да | да | [папка](2021-09-10-kak-uvelichit-pribyl-v-biznese-vsyo-ob-ltv-pokazatele-prichiny-nizkogo-ltv-pribyli-kompanii/README.md) |
+| `UVOa4Y6ce70` | [Выгодная скидка - успешная покупка! / Как правильно торговаться и получить скидку?](https://www.youtube.com/watch?v=UVOa4Y6ce70) | Видео | да | да | [папка](2021-08-18-vygodnaya-skidka-uspeshnaya-pokupka-kak-pravilno-torgovatsya-i-poluchit-skidku/README.md) |
+| `tXTGOPFhc-4` | [Как много продавать и не выгорать? / 5 лайфхаков для организации работы в отделе продаж](https://www.youtube.com/watch?v=tXTGOPFhc-4) | Видео | да | да | [папка](2021-08-04-kak-mnogo-prodavat-i-ne-vygorat-5-layfhakov-dlya-organizatsii-raboty-v-otdele-prodazh/README.md) |
+| `vGAKslQutcQ` | [Как дожать клиента и завершить продажу?! / 9 ошибок при закрытии сделки](https://www.youtube.com/watch?v=vGAKslQutcQ) | Видео | да | да | [папка](2021-07-30-kak-dozhat-klienta-i-zavershit-prodazhu-9-oshibok-pri-zakrytii-sdelki/README.md) |
+| `rbPkcFhrBCk` | [Какие ошибки в управлении и продажах мешают увеличить прибыль? / 10 ошибок в отделе продаж](https://www.youtube.com/watch?v=rbPkcFhrBCk) | Видео | нет | нет | [папка](2021-07-28-kakie-oshibki-v-upravlenii-i-prodazhah-meshayut-uvelichit-pribyl-10-oshibok-v-otdele-prodazh/README.md) — YouTube: дорожек субтитров нет |
+| `IqCKuYeGaFM` | [Надо ли менеджеру по продажам дружить с клиентом? / Что делать, если клиент — друг?](https://www.youtube.com/watch?v=IqCKuYeGaFM) | Видео | да | да | [папка](2021-07-22-nado-li-menedzheru-po-prodazham-druzhit-s-klientom-chto-delat-esli-klient-drug/README.md) |
+| `dKpk_3NPzIo` | [От чего зависит успех продавца? / Тренинг по продажам: как стать лучшим продавцом?!](https://www.youtube.com/watch?v=dKpk_3NPzIo) | Видео | да | да | [папка](2021-07-15-ot-chego-zavisit-uspeh-prodavtsa-trening-po-prodazham-kak-stat-luchshim-prodavtsom/README.md) |
+| `JgxS8p-PwiA` | [Без скидок в России продать невозможно?! / Как отказать клиенту в скидке и не потерять его?](https://www.youtube.com/watch?v=JgxS8p-PwiA) | Видео | да | да | [папка](2021-07-06-bez-skidok-v-rossii-prodat-nevozmozhno-kak-otkazat-klientu-v-skidke-i-ne-poteryat-ego/README.md) |
+| `DKlQ9YcP4gY` | [Шпаргалка возражений в продажах! / Эффективная техника работы с возражениями](https://www.youtube.com/watch?v=DKlQ9YcP4gY) | Видео | да | да | [папка](2021-06-30-shpargalka-vozrazheniy-v-prodazhah-effektivnaya-tehnika-raboty-s-vozrazheniyami/README.md) |
+| `-zb0K-XRp64` | [Главное в продажах - создать убойные скрипты! / Основные ошибки в составлении скриптов продаж](https://www.youtube.com/watch?v=-zb0K-XRp64) | Видео | да | да | [папка](2021-06-25-glavnoe-v-prodazhah-sozdat-uboynye-skripty-oshibki-v-sostavlenii-skriptov-prodazh/README.md) |
+| `ePIEDCMnN9g` | [Правильная интонация - это залог успешной продажи! / Как интонация помогает в продажах?](https://www.youtube.com/watch?v=ePIEDCMnN9g) | Видео | нет | нет | [папка](2021-06-23-pravilnaya-intonatsiya-zalog-uspeshnoy-prodazhi-kak-intonatsiya-pomogaet-v-prodazhah/README.md) — YouTube: дорожек субтитров нет |
+| `7wtxVJmwDuw` | [Самое сильно видео про управление / Предсказываем срыв продаж РОПом по отчету](https://www.youtube.com/watch?v=7wtxVJmwDuw) | Видео | да | да | [папка](2021-06-19-samoe-silno-video-pro-upravlenie-predskazyvaem-sryv-prodazh-ropom-po-otchetu/README.md) |
+| `Ma7pBX_4DnA` | [Как продавать дороже конкурентов? / 7 лайфхаков, чтобы продать дороже](https://www.youtube.com/watch?v=Ma7pBX_4DnA) | Видео | да | да | [папка](2021-06-17-kak-prodavat-dorozhe-konkurentov-7-layfhakov-chtoby-prodat-dorozhe/README.md) |
+| `1BgkbNSbPNw` | [ТОП-10 мифов про отдел продаж / Что обязательно нужно знать об отделе продаж?](https://www.youtube.com/watch?v=1BgkbNSbPNw) | Видео | да | да | [папка](2021-04-22-top-10-mifov-pro-otdel-prodazh-chto-obyazatelno-nuzhno-znat/README.md) |
+| `UjJ9y6Ql7ig` | [Фразы для идеальной продажи / Как убедить клиента совершить покупку?](https://www.youtube.com/watch?v=UjJ9y6Ql7ig) | Видео | да | да | [папка](2021-03-12-frazy-dlya-idealnoy-prodazhi-kak-ubedit-klienta-sovershit-pokupku/README.md) |
+| `mQAjfJNFHVk` | [ТОП-7 фраз, убивающих продажи / Что сказать клиенту на фразу: «Ну, рассказывай…»?](https://www.youtube.com/watch?v=mQAjfJNFHVk) | Видео | да | да | [папка](2021-03-05-top-7-fraz-ubivayushchikh-prodazhi-chto-skazat-klientu-na-frazu-nu-rasskazyvay/README.md) |
+| `f1S16gnjakE` | [Самый мощный приём и техники в переговорах / Как провести успешные переговоры?](https://www.youtube.com/watch?v=f1S16gnjakE) | Видео | да | да | [папка](2021-02-15-samyy-moshchnyy-priyom-i-tehniki-v-peregovorah-kak-provesti-uspeshnye-peregovory/README.md) |
+| `Rr0L73yODk8` | [Как продать что угодно и кому угодно? / Как засунуть свой мозг в голову клиента?](https://www.youtube.com/watch?v=Rr0L73yODk8) | Видео | да | да | [папка](2021-02-03-kak-prodat-chto-ugodno-i-komu-ugodno-kak-zasunut-svoy-mozg-v-golovu-klienta/README.md) |
+| `wybmr2pyJP8` | [Увеличиваем ПРОДАЖИ! Совершенная воронка продаж в CRM системе](https://www.youtube.com/watch?v=wybmr2pyJP8) | Видео | да | да | [папка](2018-09-25-uvelichivaem-prodazhi-sovershennaya-voronka-prodazh-v-crm-sisteme/README.md) |
+| `n2Qqk7V5Jco` | [Как увеличить продажи B2B сегмента? \| 5 ЭТАПОВ B2B ПРОДАЖ \| Разница Б2Б продажи и Б2С продажи](https://www.youtube.com/watch?v=n2Qqk7V5Jco) | Видео | да | да | [папка](2018-08-03-kak-uvelichit-prodazhi-b2b-segmenta-5-etapov-b2b-prodazh-raznitsa-b2b-i-b2c-prodazh/README.md) |
+| `7hcVd1Kvxgk` | [Программирование в продажах \| Как убедить купить ВСЕ ЧТО УГОДНО?](https://www.youtube.com/watch?v=7hcVd1Kvxgk) | Видео | да | да | [папка](2018-06-28-programmirovanie-v-prodazhah-kak-ubedit-kupit-vse-chto-ugodno/README.md) |
+| `u_nUEEOMKP8` | [Продажи СЛОЖНЫМ клиентам//Как решить конфликт при продаже](https://www.youtube.com/watch?v=u_nUEEOMKP8) | Видео | да | да | [папка](2018-06-05-prodazhi-slozhnym-klientam-kak-reshit-konflikt-pri-prodazhe/README.md) |
+| `L0cnPVyo_-Y` | [ГОТОВЫЙ ОТВЕТ на возражение в продажах // Мы уже работаем с другой компанией](https://www.youtube.com/watch?v=L0cnPVyo_-Y) | Видео | да | да | [папка](2018-05-31-gotovyy-otvet-na-vozrazhenie-v-prodazhah-my-uzhe-rabotaem-s-drugoy-kompaniey/README.md) |
+| `ploWA5ytdNA` | [Возражение клиента "Я ПОДУМАЮ". Работа с возражениями в продажах](https://www.youtube.com/watch?v=ploWA5ytdNA) | Видео | да | да | [папка](2018-05-29-vozrazhenie-klienta-ya-podumayu-rabota-s-vozrazheniyami-v-prodazhah/README.md) |
+| `LjzooBLs974` | [Как звонить в холодную? Легкий и понятный сценарий продающего разговора!](https://www.youtube.com/watch?v=LjzooBLs974) | Видео | нет | нет | [папка](2018-05-03-kak-zvonit-v-kholodnuyu-legkiy-i-ponyatnyy-stsenariy-prodayushchego-razgovora/README.md) — YouTube: оригинальной дорожки субтитров нет (yt-dlp: LjzooBLs974 has no subtitles) |
+| `qnkNwnk6PB8` | [Работа с возражением "ДОРОГО". Отработка возражений в продажах](https://www.youtube.com/watch?v=qnkNwnk6PB8) | Видео | да | да | [папка](2018-04-26-rabota-s-vozrazheniem-dorogo-otrabotka-vozrazheniy-v-prodazhah/README.md) |
+| `XkAZg66tEr8` | [Самые дебильные ошибки в отделе продаж. Не делайте так никогда](https://www.youtube.com/watch?v=XkAZg66tEr8) | Видео | да | да | [папка](2018-04-24-samye-debilnye-oshibki-v-otdele-prodazh-ne-delayte-tak-nikogda/README.md) |
+| `L6Vlo5U2Iks` | [Настройка воронки продаж в amoCRM. Вебинар](https://www.youtube.com/watch?v=L6Vlo5U2Iks) | Видео | да | да | [папка](2018-04-12-nastroyka-voronki-prodazh-v-amocrm-vebinar/README.md) |
+| `_1iEicWjv34` | [5 ФИШЕК: как увеличить продажи. Строим отдел продаж. Михаил Гребенюк](https://www.youtube.com/watch?v=_1iEicWjv34) | Видео | да | да | [папка](2018-03-20-5-fishek-kak-uvelichit-prodazhi-stroim-otdel-prodazh-mikhail-grebenyuk/README.md) |
+| `IkXU02-shtg` | [Как увеличить продажи? 10 советов от Михаила Гребенюка](https://www.youtube.com/watch?v=IkXU02-shtg) | Видео | да | да | [папка](2018-02-26-kak-uvelichit-prodazhi-10-sovetov-ot-mihaila-grebenyuka/README.md) |
 | `0zKM6d24X_Y` | [25 техник отработки возражений\| Лучшие ответы на возражения\| Михаил Гребенюк](https://www.youtube.com/watch?v=0zKM6d24X_Y) | Видео | да | нет | [папка](../long/2018-02-21-25-tehnik-otrabotki-vozrazheniy/README.md) |
