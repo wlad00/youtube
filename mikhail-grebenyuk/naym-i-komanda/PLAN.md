@@ -10,7 +10,7 @@
 
 Всего в теме: **42**. Обычных видео: **42**. Эфиров: **0**.
 
-Локальные очищенные субтитры: **35 / 42**. Подготовлено: **1 / 42**.
+Локальные очищенные субтитры: **36 / 42**. Подготовлено: **1 / 42**.
 
 Порядок обработки: оригинальные субтитры → очистка с таймкодами → подготовка. `Субтитры = нет` означает отсутствие локального `transcript.cleaned.md`; доступность дорожек на YouTube ещё не проверена у остальных записей без локальных субтитров. Правило подготовки и общий прогресс — в [плане автора](../PLAN.md).
 
@@ -26,7 +26,7 @@
 | `f55FdlbHD1g` | [В ПОТЕРЕ бизнес-партнера виноват только ты! Теперь бизнес обречён на провал?](https://www.youtube.com/watch?v=f55FdlbHD1g) | Видео | нет | нет | — |
 | `ARYYovNthwQ` | [Компания с Урала, перевернувшая игру — 20 млрд прибыли без регламентов \| В чем феномен Точка Банк?](https://www.youtube.com/watch?v=ARYYovNthwQ) | Видео | нет | нет | — |
 | `_A5-n4FX4rw` | [Руководитель ФНС: вот, как налоговая видит НАС изнутри](https://www.youtube.com/watch?v=_A5-n4FX4rw) | Видео | нет | нет | — |
-| `U_x2w-6ogSg` | [Ошибки, которые РЕЖУТ ПРИБЫЛЬ! Секрет ЭФФЕКТИВНОЙ схемы управления сотрудниками!](https://www.youtube.com/watch?v=U_x2w-6ogSg) | Видео | нет | нет | — |
+| `U_x2w-6ogSg` | [Ошибки, которые РЕЖУТ ПРИБЫЛЬ! Секрет ЭФФЕКТИВНОЙ схемы управления сотрудниками!](https://www.youtube.com/watch?v=U_x2w-6ogSg) | Видео | да | нет | [папка](2025-01-06-oshibki-kotorye-rezhut-pribyl-sekret-effektivnoy-skhemy-upravleniya-sotrudnikami/README.md) |
 | `RjIzHlEjLPM` | [Работающая HR-стратегия! Как стать работодателем мечты для лучших специалистов?](https://www.youtube.com/watch?v=RjIzHlEjLPM) | Видео | да | нет | [папка](2024-06-30-rabotayushchaya-hr-strategiya-kak-stat-rabotodatelem-mechty-dlya-luchshikh-spetsialistov/README.md) |
 | `1abV4v8H_ZE` | [Бизнес-партнёр тянет на ДНО! Выходим на 15 миллионов чистой прибыли в месяц САМОСТОЯТЕЛЬНО!](https://www.youtube.com/watch?v=1abV4v8H_ZE) | Видео | да | нет | [папка](2024-04-26-biznes-partner-tyanet-na-dno-vykhodim-na-15-millionov-chistoy-pribyli-v-mesyats-samostoyatelno/README.md) |
 | `BNzQGmKBvpE` | [В ЭТОМ кроется УСПЕХ твоего БИЗНЕСА! / Как создать команду МЕЧТЫ?](https://www.youtube.com/watch?v=BNzQGmKBvpE) | Видео | да | нет | [папка](2023-11-05-v-etom-kroetsya-uspekh-tvoego-biznesa-kak-sozdat-komandu-mechty/README.md) |

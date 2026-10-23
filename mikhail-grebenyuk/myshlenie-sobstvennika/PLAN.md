@@ -10,7 +10,7 @@
 
 Всего в теме: **46**. Обычных видео: **46**. Эфиров: **0**.
 
-Локальные очищенные субтитры: **11 / 46**. Подготовлено: **0 / 46**.
+Локальные очищенные субтитры: **23 / 46**. Подготовлено: **0 / 46**.
 
 Порядок обработки: оригинальные субтитры → очистка с таймкодами → подготовка. `Субтитры = нет` означает отсутствие локального `transcript.cleaned.md`; доступность дорожек на YouTube ещё не проверена. Правило подготовки и общий прогресс — в [плане автора](../PLAN.md).
 
@@ -31,18 +31,18 @@
 | `7o0Oi6ns4gE` | [Правда о жизни предпринимателя, к которой вы не готовы](https://www.youtube.com/watch?v=7o0Oi6ns4gE) | Видео | да | нет | [папка](2026-05-25-pravda-o-zhizni-predprinimatelya-k-kotoroy-vy-ne-gotovy/README.md) |
 | `QmbJ_aaD90I` | [Истинный характер русского предпринимателя: как физрук из Коврова создал многомиллиардную компанию?](https://www.youtube.com/watch?v=QmbJ_aaD90I) | Видео | да | нет | [папка](2026-02-13-istinnyy-kharakter-russkogo-predprinimatelya-kak-fizruk-iz-kovrova-sozdal-mnogomilliardnuyu/README.md) |
 | `mRQSbkoSKK0` | [ТАКИЕ бизнесы будут успешными в 2030 году! Внедри ЭТО, пока не поздно...](https://www.youtube.com/watch?v=mRQSbkoSKK0) | Видео | да | нет | [папка](2025-11-02-takie-biznesy-budut-uspeshnymi-v-2030-godu-vnedri-eto-poka-ne-pozdno/README.md) |
-| `RGGu6y8pc1Q` | [Олимпийский чемпион: как НЕ сдаться, когда каждый шаг — борьба? Семён Елистратов](https://www.youtube.com/watch?v=RGGu6y8pc1Q) | Видео | нет | нет | — |
-| `0wID0XQUSSQ` | [Я выучил английский за 6 месяцев и выступил в Дубае](https://www.youtube.com/watch?v=0wID0XQUSSQ) | Видео | нет | нет | — |
-| `XNr-BUDfI4I` | [L‘One БОЛЬШОЕ ИНТЕРВЬЮ. Как творить 10 лет и не выгореть](https://www.youtube.com/watch?v=XNr-BUDfI4I) | Видео | нет | нет | — |
-| `yGyKIoKX0wM` | [Нет сил = нет результата! / Вот почему невыгодно быть трудоголиком!](https://www.youtube.com/watch?v=yGyKIoKX0wM) | Видео | нет | нет | — |
-| `K66NQcJPfrk` | [Влог Михаила Гребенюка с серфинга / Лучший отдых для предпринимателя](https://www.youtube.com/watch?v=K66NQcJPfrk) | Видео | нет | нет | — |
-| `0hydJFMJZcM` | [Отказ от плана Михаила Гребенюка! Что делать, если разочаровался в собственном бизнесе?](https://www.youtube.com/watch?v=0hydJFMJZcM) | Видео | нет | нет | — |
-| `eQYA8TaqTJ8` | [Фатальная ошибка на «Декларации»! / Как мышление предпринимателя определяет судьбу бизнеса?](https://www.youtube.com/watch?v=eQYA8TaqTJ8) | Видео | нет | нет | — |
-| `AZ8PUDRFEG4` | [Пошаговый план на 5 000 000 рублей в месяц! Как перестать работать в одиночку и тащить все на себе?](https://www.youtube.com/watch?v=AZ8PUDRFEG4) | Видео | нет | нет | — |
-| `Ifk3DNBmyuc` | [Как школьникам и студентам добавить себе 10 лет опыта и потенциала в развитии](https://www.youtube.com/watch?v=Ifk3DNBmyuc) | Видео | нет | нет | — |
-| `oystLu9zpgU` | [ФАКАПЫ в бизнесе – обычное дело! / Как заставить себя думать и действовать ИНАЧЕ?](https://www.youtube.com/watch?v=oystLu9zpgU) | Видео | нет | нет | — |
-| `DzdwKK-6Vfo` | [От мечты к реальности: как выглядит настоящий путь к успеху? Павел Гительман](https://www.youtube.com/watch?v=DzdwKK-6Vfo) | Видео | нет | нет | — |
-| `7xHwH8GE_8Q` | [Как РАСШИРИТЬ рынок сбыта? Учимся выстраивать здоровую коммуникацию \| Разбор на миллион](https://www.youtube.com/watch?v=7xHwH8GE_8Q) | Видео | нет | нет | — |
+| `RGGu6y8pc1Q` | [Олимпийский чемпион: как НЕ сдаться, когда каждый шаг — борьба? Семён Елистратов](https://www.youtube.com/watch?v=RGGu6y8pc1Q) | Видео | да | нет | [папка](2025-06-01-olimpiyskiy-chempion-kak-ne-sdatsya-kogda-kazhdyy-shag-borba-semen-elistratov/README.md) |
+| `0wID0XQUSSQ` | [Я выучил английский за 6 месяцев и выступил в Дубае](https://www.youtube.com/watch?v=0wID0XQUSSQ) | Видео | да | нет | [папка](2024-12-03-ya-vyuchil-angliyskiy-za-6-mesyatsev-i-vystupil-v-dubae/README.md) |
+| `XNr-BUDfI4I` | [L‘One БОЛЬШОЕ ИНТЕРВЬЮ. Как творить 10 лет и не выгореть](https://www.youtube.com/watch?v=XNr-BUDfI4I) | Видео | да | нет | [папка](2024-09-20-l-one-bolshoe-intervyu-kak-tvorit-10-let-i-ne-vygoret/README.md) |
+| `yGyKIoKX0wM` | [Нет сил = нет результата! / Вот почему невыгодно быть трудоголиком!](https://www.youtube.com/watch?v=yGyKIoKX0wM) | Видео | да | нет | [папка](2024-07-19-net-sil-net-rezultata-vot-pochemu-nevygodno-byt-trudogolikom/README.md) |
+| `K66NQcJPfrk` | [Влог Михаила Гребенюка с серфинга / Лучший отдых для предпринимателя](https://www.youtube.com/watch?v=K66NQcJPfrk) | Видео | да | нет | [папка](2024-07-13-vlog-mikhaila-grebenyuka-s-serfinga-luchshiy-otdykh-dlya-predprinimatelya/README.md) |
+| `0hydJFMJZcM` | [Отказ от плана Михаила Гребенюка! Что делать, если разочаровался в собственном бизнесе?](https://www.youtube.com/watch?v=0hydJFMJZcM) | Видео | да | нет | [папка](2024-06-19-otkaz-ot-plana-mikhaila-grebenyuka-chto-delat-esli-razocharovalsya-v-sobstvennom-biznese/README.md) |
+| `eQYA8TaqTJ8` | [Фатальная ошибка на «Декларации»! / Как мышление предпринимателя определяет судьбу бизнеса?](https://www.youtube.com/watch?v=eQYA8TaqTJ8) | Видео | да | нет | [папка](2024-06-12-fatalnaya-oshibka-na-deklaratsii-kak-myshlenie-predprinimatelya-opredelyaet-sudbu-biznesa/README.md) |
+| `AZ8PUDRFEG4` | [Пошаговый план на 5 000 000 рублей в месяц! Как перестать работать в одиночку и тащить все на себе?](https://www.youtube.com/watch?v=AZ8PUDRFEG4) | Видео | да | нет | [папка](2024-04-14-poshagovyy-plan-na-5-000-000-rubley-v-mesyats-kak-perestat-rabotat-v-odinochku-i-tashchit-vse-na/README.md) |
+| `Ifk3DNBmyuc` | [Как школьникам и студентам добавить себе 10 лет опыта и потенциала в развитии](https://www.youtube.com/watch?v=Ifk3DNBmyuc) | Видео | да | нет | [папка](2024-04-12-kak-shkolnikam-i-studentam-dobavit-sebe-10-let-opyta-i-potentsiala-v-razvitii/README.md) |
+| `oystLu9zpgU` | [ФАКАПЫ в бизнесе – обычное дело! / Как заставить себя думать и действовать ИНАЧЕ?](https://www.youtube.com/watch?v=oystLu9zpgU) | Видео | да | нет | [папка](2023-10-27-fakapy-v-biznese-obychnoe-delo-kak-zastavit-sebya-dumat-i-deystvovat-inache/README.md) |
+| `DzdwKK-6Vfo` | [От мечты к реальности: как выглядит настоящий путь к успеху? Павел Гительман](https://www.youtube.com/watch?v=DzdwKK-6Vfo) | Видео | да | нет | [папка](2023-09-09-ot-mechty-k-realnosti-kak-vyglyadit-nastoyashchiy-put-k-uspekhu-pavel-gitelman/README.md) |
+| `7xHwH8GE_8Q` | [Как РАСШИРИТЬ рынок сбыта? Учимся выстраивать здоровую коммуникацию \| Разбор на миллион](https://www.youtube.com/watch?v=7xHwH8GE_8Q) | Видео | да | нет | [папка](2023-07-20-kak-rasshirit-rynok-sbyta-uchimsya-vystraivat-zdorovuyu-kommunikatsiyu-razbor-na-million/README.md) |
 | `xsOvu4uRXo4` | [Как научиться расставлять приоритеты и распределять обязанности в бизнесе?](https://www.youtube.com/watch?v=xsOvu4uRXo4) | Видео | нет | нет | — |
 | `hHtHB0X6Jd4` | [Как сохранить баланс между жизнью и работой предпринимателю?](https://www.youtube.com/watch?v=hHtHB0X6Jd4) | Видео | нет | нет | — |
 | `DIIn3kGIYyk` | [Откуда бизнесмену черпать новые знания? / Личностный рост предпринимателя](https://www.youtube.com/watch?v=DIIn3kGIYyk) | Видео | нет | нет | — |
