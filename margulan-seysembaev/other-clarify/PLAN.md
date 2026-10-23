@@ -10,7 +10,7 @@
 
 Распределение предварительное, по названию. Один Video ID относится к одной основной теме; содержание транскриптов при распределении не анализировалось.
 
-Всего в очереди: **50**. Субтитры: **0/50**; подготовлено: **0/50**.
+Всего в очереди: **51**. Субтитры: **1/51**; подготовлено: **1/51**.
 
 «Нет» в статусе означает отсутствие локального файла. Наличие оригинальной дорожки на YouTube проверяется при скачивании. Правила готовности и последовательность «скачать оригинальные субтитры → очистить → подготовить» — в общем плане.
 
@@ -70,3 +70,4 @@
 | `T1vElMDP-eg` | [CSI Forum: National Development Challenges and Strategic Responses, Opening Session, November 7, ...](https://www.youtube.com/watch?v=T1vElMDP-eg) | Видео | нет | нет | — |
 | `Ym1O6S-zt10` | [FrYday W c Маргуланом Сейсембай](https://www.youtube.com/watch?v=Ym1O6S-zt10) | Видео | нет | нет | — |
 | `m6tleOki3j4` | [Видеоприглашение на фестиваль Кокмайса 2018 - Маргулан Сейсембаев](https://www.youtube.com/watch?v=m6tleOki3j4) | Видео | нет | нет | — |
+| `KlqNBqsN6YU` | [What to do if you lost your job during a crisis? \| Earnings 2022, labor migration, sanctions](https://www.youtube.com/watch?v=KlqNBqsN6YU) | Видео | да | да | [папка](2022-05-04-chto-delat-esli-poteryal-rabotu-v-krizis-zarabotok-2022-trudovaya-migratsiya-sanktsii/README.md) |
