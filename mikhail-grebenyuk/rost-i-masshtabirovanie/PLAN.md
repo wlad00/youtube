@@ -10,7 +10,7 @@
 
 Всего в теме: **59**. Обычных видео: **59**. Эфиров: **0**.
 
-Локальные очищенные субтитры: **21 / 59**. Подготовлено: **0 / 59**.
+Локальные очищенные субтитры: **41 / 59**. Подготовлено: **0 / 59**.
 
 Порядок обработки: оригинальные субтитры → очистка с таймкодами → подготовка. `Субтитры = нет` означает отсутствие локального `transcript.cleaned.md`; доступность дорожек на YouTube ещё не проверена. Правило подготовки и общий прогресс — в [плане автора](../PLAN.md).
 
@@ -41,26 +41,26 @@
 | `_BvN-MHzZwE` | [Не бойся поднять чек! Как масштабировать массажный бизнес?](https://www.youtube.com/watch?v=_BvN-MHzZwE) | Видео | да | нет | [папка](2024-12-20-ne-boysya-podnyat-chek-kak-masshtabirovat-massazhnyy-biznes/README.md) |
 | `Vkz3PL-nuqw` | [Как дорасти до 100 клиник? Секреты масштабирования медицинского бизнеса](https://www.youtube.com/watch?v=Vkz3PL-nuqw) | Видео | да | нет | [папка](2024-12-13-kak-dorasti-do-100-klinik-sekrety-masshtabirovaniya-meditsinskogo-biznesa/README.md) |
 | `U57Hq2cHfMc` | [Как сделать 10 МЛРД на одежде с нуля? \| 12 STOREEZ и Иван Хохлов](https://www.youtube.com/watch?v=U57Hq2cHfMc) | Видео | да | нет | [папка](2024-11-01-kak-sdelat-10-mlrd-na-odezhde-s-nulya-12-storeez-i-ivan-khokhlov/README.md) |
-| `z39G4-TK8Mc` | [С нуля до 25% рынка на зубных пастах \| Евгений Демин SPLAT](https://www.youtube.com/watch?v=z39G4-TK8Mc) | Видео | нет | нет | — |
-| `oWjb22cfbGE` | [«Кофемания». Феномен самой быстрорастущей и закрытой сети ресторанов Москвы](https://www.youtube.com/watch?v=oWjb22cfbGE) | Видео | нет | нет | — |
-| `PlAcF_CuWPo` | [Правда про франшизы в России. Опыт Pedant.ru 5 млрд и 600 точек](https://www.youtube.com/watch?v=PlAcF_CuWPo) | Видео | нет | нет | — |
-| `fdHTz1TANgc` | [Аномалия результата Level Group\|Как стать топовым застройщиком в Москве с выручкой в 100 миллиардов](https://www.youtube.com/watch?v=fdHTz1TANgc) | Видео | нет | нет | — |
-| `8Dd8E7XBW5s` | [Как масштабировать бизнес за счет конкурентов? Строим миллиардную компанию!](https://www.youtube.com/watch?v=8Dd8E7XBW5s) | Видео | нет | нет | — |
-| `2t9V5OIoGTc` | [Алгоритм масштабирования по всей России / Простой путь к 2 миллионам прибыли в месяц](https://www.youtube.com/watch?v=2t9V5OIoGTc) | Видео | нет | нет | — |
-| `bV-CZy_3JbI` | [ЛУЧШЕ KFC и «Вкусно – и точка»! Как масштабировать ЛЮБОЙ бизнес и выйти в ТОП рынка?](https://www.youtube.com/watch?v=bV-CZy_3JbI) | Видео | нет | нет | — |
-| `YnkDZFzAClw` | [Путь до 2 млн рублей в мес / Конкретные шаги, чтобы вырасти в 10 раз с 200 тысяч рублей прибыли](https://www.youtube.com/watch?v=YnkDZFzAClw) | Видео | нет | нет | — |
-| `E8gJAeNEFjU` | [Сделайте ЭТО, чтобы ваш бизнес ВЫРОС! / ВСЁ ПОД ГИПЕРКОНТРОЛЕМ!](https://www.youtube.com/watch?v=E8gJAeNEFjU) | Видео | нет | нет | — |
-| `RhbQPMfCQB0` | [Твой БИЗНЕС НЕ РАСТЕТ, потому что ты ЗАБИЛ на ЭТО! Как начать ЗАРАБАТЫВАТЬ, а не стоять на месте?](https://www.youtube.com/watch?v=RhbQPMfCQB0) | Видео | нет | нет | — |
-| `fUZYGtrurlU` | [ОДНА ОШИБКА, из-за которой бизнес СТОИТ НА МЕСТЕ! Как быстро выйти на новый уровень ПРИБЫЛИ?](https://www.youtube.com/watch?v=fUZYGtrurlU) | Видео | нет | нет | — |
-| `MLsT2Bmyvrs` | [Как за 5 лет дойти до 1 миллиарда выручки в год? / Как дать бизнесу второе дыхание?](https://www.youtube.com/watch?v=MLsT2Bmyvrs) | Видео | нет | нет | — |
-| `KxM0XTP6Ils` | [Что сделать в бизнесе, чтобы УКОРИТЬ рост компании? Ильяс Валиуллин](https://www.youtube.com/watch?v=KxM0XTP6Ils) | Видео | нет | нет | — |
-| `L5mXV6bIY0I` | [Как ускорить развитие бизнеса? / Масштабирование бизнеса по шагам](https://www.youtube.com/watch?v=L5mXV6bIY0I) | Видео | нет | нет | — |
-| `hF-QMGyHHpY` | [Чем важна ОБРАТНАЯ связь и почему НУЖНО ее собирать? / Как чужое мнение поможет вырасти в доходе?](https://www.youtube.com/watch?v=hF-QMGyHHpY) | Видео | нет | нет | — |
-| `gLW7ecQab08` | [Как МАСШТАБИРОВАТЬ бизнес и ВЫСТРОИТЬ структуру компании \| Разбор на миллион](https://www.youtube.com/watch?v=gLW7ecQab08) | Видео | нет | нет | — |
-| `dx0KsuENCBE` | [Как ПОНЯТЬ ядро БИЗНЕСА? Учимся масштабировать свой бизнес.](https://www.youtube.com/watch?v=dx0KsuENCBE) | Видео | нет | нет | — |
-| `1ImJAVKTMII` | [Предприниматель УСТАЛ! Как МАСШТАБИРОВАТЬ бизнес, когда НЕ ЗНАЕШЬ куда?](https://www.youtube.com/watch?v=1ImJAVKTMII) | Видео | нет | нет | — |
-| `b86eE0a3Q9k` | [ПРИБЫЛЬ есть только у тех, кто НЕ БОИТСЯ ЭТОГО! Что ограничивает РОСТ В БИЗНЕСЕ?](https://www.youtube.com/watch?v=b86eE0a3Q9k) | Видео | нет | нет | — |
-| `YgQtcKEdsVE` | [РЕАЛЬНОСТЬ общепита! / Как МАСШТАБИРОВАТЬ кондитерскую и освободить время на СЕМЬЮ!](https://www.youtube.com/watch?v=YgQtcKEdsVE) | Видео | нет | нет | — |
+| `z39G4-TK8Mc` | [С нуля до 25% рынка на зубных пастах \| Евгений Демин SPLAT](https://www.youtube.com/watch?v=z39G4-TK8Mc) | Видео | да | нет | [папка](2024-10-18-s-nulya-do-25-rynka-na-zubnykh-pastakh-evgeniy-demin-splat/README.md) |
+| `oWjb22cfbGE` | [«Кофемания». Феномен самой быстрорастущей и закрытой сети ресторанов Москвы](https://www.youtube.com/watch?v=oWjb22cfbGE) | Видео | да | нет | [папка](2024-09-03-kofemaniya-fenomen-samoy-bystrorastushchey-i-zakrytoy-seti-restoranov-moskvy/README.md) |
+| `PlAcF_CuWPo` | [Правда про франшизы в России. Опыт Pedant.ru 5 млрд и 600 точек](https://www.youtube.com/watch?v=PlAcF_CuWPo) | Видео | да | нет | [папка](2024-08-30-pravda-pro-franshizy-v-rossii-opyt-pedant-ru-5-mlrd-i-600-tochek/README.md) |
+| `fdHTz1TANgc` | [Аномалия результата Level Group\|Как стать топовым застройщиком в Москве с выручкой в 100 миллиардов](https://www.youtube.com/watch?v=fdHTz1TANgc) | Видео | да | нет | [папка](2024-08-09-anomaliya-rezultata-level-group-kak-stat-topovym-zastroyshchikom-v-moskve-s-vyruchkoy-v-100/README.md) |
+| `8Dd8E7XBW5s` | [Как масштабировать бизнес за счет конкурентов? Строим миллиардную компанию!](https://www.youtube.com/watch?v=8Dd8E7XBW5s) | Видео | да | нет | [папка](2024-06-16-kak-masshtabirovat-biznes-za-schet-konkurentov-stroim-milliardnuyu-kompaniyu/README.md) |
+| `2t9V5OIoGTc` | [Алгоритм масштабирования по всей России / Простой путь к 2 миллионам прибыли в месяц](https://www.youtube.com/watch?v=2t9V5OIoGTc) | Видео | да | нет | [папка](2024-05-07-algoritm-masshtabirovaniya-po-vsey-rossii-prostoy-put-k-2-millionam-pribyli-v-mesyats/README.md) |
+| `bV-CZy_3JbI` | [ЛУЧШЕ KFC и «Вкусно – и точка»! Как масштабировать ЛЮБОЙ бизнес и выйти в ТОП рынка?](https://www.youtube.com/watch?v=bV-CZy_3JbI) | Видео | да | нет | [папка](2024-04-07-luchshe-kfc-i-vkusno-i-tochka-kak-masshtabirovat-lyuboy-biznes-i-vyyti-v-top-rynka/README.md) |
+| `YnkDZFzAClw` | [Путь до 2 млн рублей в мес / Конкретные шаги, чтобы вырасти в 10 раз с 200 тысяч рублей прибыли](https://www.youtube.com/watch?v=YnkDZFzAClw) | Видео | да | нет | [папка](2024-03-03-put-do-2-mln-rubley-v-mes-konkretnye-shagi-chtoby-vyrasti-v-10-raz-s-200-tysyach-rubley-pribyli/README.md) |
+| `E8gJAeNEFjU` | [Сделайте ЭТО, чтобы ваш бизнес ВЫРОС! / ВСЁ ПОД ГИПЕРКОНТРОЛЕМ!](https://www.youtube.com/watch?v=E8gJAeNEFjU) | Видео | да | нет | [папка](2024-01-17-sdelayte-eto-chtoby-vash-biznes-vyros-vse-pod-giperkontrolem/README.md) |
+| `RhbQPMfCQB0` | [Твой БИЗНЕС НЕ РАСТЕТ, потому что ты ЗАБИЛ на ЭТО! Как начать ЗАРАБАТЫВАТЬ, а не стоять на месте?](https://www.youtube.com/watch?v=RhbQPMfCQB0) | Видео | да | нет | [папка](2024-01-06-tvoy-biznes-ne-rastet-potomu-chto-ty-zabil-na-eto-kak-nachat-zarabatyvat-a-ne-stoyat-na-meste/README.md) |
+| `fUZYGtrurlU` | [ОДНА ОШИБКА, из-за которой бизнес СТОИТ НА МЕСТЕ! Как быстро выйти на новый уровень ПРИБЫЛИ?](https://www.youtube.com/watch?v=fUZYGtrurlU) | Видео | да | нет | [папка](2024-01-04-odna-oshibka-iz-za-kotoroy-biznes-stoit-na-meste-kak-bystro-vyyti-na-novyy-uroven-pribyli/README.md) |
+| `MLsT2Bmyvrs` | [Как за 5 лет дойти до 1 миллиарда выручки в год? / Как дать бизнесу второе дыхание?](https://www.youtube.com/watch?v=MLsT2Bmyvrs) | Видео | да | нет | [папка](2023-12-17-kak-za-5-let-doyti-do-1-milliarda-vyruchki-v-god-kak-dat-biznesu-vtoroe-dykhanie/README.md) |
+| `KxM0XTP6Ils` | [Что сделать в бизнесе, чтобы УКОРИТЬ рост компании? Ильяс Валиуллин](https://www.youtube.com/watch?v=KxM0XTP6Ils) | Видео | да | нет | [папка](2023-10-20-chto-sdelat-v-biznese-chtoby-ukorit-rost-kompanii-ilyas-valiullin/README.md) |
+| `L5mXV6bIY0I` | [Как ускорить развитие бизнеса? / Масштабирование бизнеса по шагам](https://www.youtube.com/watch?v=L5mXV6bIY0I) | Видео | да | нет | [папка](2023-08-17-kak-uskorit-razvitie-biznesa-masshtabirovanie-biznesa-po-shagam/README.md) |
+| `hF-QMGyHHpY` | [Чем важна ОБРАТНАЯ связь и почему НУЖНО ее собирать? / Как чужое мнение поможет вырасти в доходе?](https://www.youtube.com/watch?v=hF-QMGyHHpY) | Видео | да | нет | [папка](2023-07-27-chem-vazhna-obratnaya-svyaz-i-pochemu-nuzhno-ee-sobirat-kak-chuzhoe-mnenie-pomozhet-vyrasti-v/README.md) |
+| `gLW7ecQab08` | [Как МАСШТАБИРОВАТЬ бизнес и ВЫСТРОИТЬ структуру компании \| Разбор на миллион](https://www.youtube.com/watch?v=gLW7ecQab08) | Видео | да | нет | [папка](2023-06-22-kak-masshtabirovat-biznes-i-vystroit-strukturu-kompanii-razbor-na-million/README.md) |
+| `dx0KsuENCBE` | [Как ПОНЯТЬ ядро БИЗНЕСА? Учимся масштабировать свой бизнес.](https://www.youtube.com/watch?v=dx0KsuENCBE) | Видео | да | нет | [папка](2023-06-01-kak-ponyat-yadro-biznesa-uchimsya-masshtabirovat-svoy-biznes/README.md) |
+| `1ImJAVKTMII` | [Предприниматель УСТАЛ! Как МАСШТАБИРОВАТЬ бизнес, когда НЕ ЗНАЕШЬ куда?](https://www.youtube.com/watch?v=1ImJAVKTMII) | Видео | да | нет | [папка](2023-04-27-predprinimatel-ustal-kak-masshtabirovat-biznes-kogda-ne-znaesh-kuda/README.md) |
+| `b86eE0a3Q9k` | [ПРИБЫЛЬ есть только у тех, кто НЕ БОИТСЯ ЭТОГО! Что ограничивает РОСТ В БИЗНЕСЕ?](https://www.youtube.com/watch?v=b86eE0a3Q9k) | Видео | да | нет | [папка](2023-04-20-pribyl-est-tolko-u-tekh-kto-ne-boitsya-etogo-chto-ogranichivaet-rost-v-biznese/README.md) |
+| `YgQtcKEdsVE` | [РЕАЛЬНОСТЬ общепита! / Как МАСШТАБИРОВАТЬ кондитерскую и освободить время на СЕМЬЮ!](https://www.youtube.com/watch?v=YgQtcKEdsVE) | Видео | да | нет | [папка](2023-03-09-realnost-obshchepita-kak-masshtabirovat-konditerskuyu-i-osvobodit-vremya-na-semyu/README.md) |
 | `1Wz7qS3wIx8` | [МИЛЛИОНЫ на КОМАРАХ! / Как создать ФРАНШИЗУ на СЛОЖНОЙ нише?](https://www.youtube.com/watch?v=1Wz7qS3wIx8) | Видео | нет | нет | — |
 | `FKR-fvJvC_o` | [Как развивать бизнес, если ты в нём первый?](https://www.youtube.com/watch?v=FKR-fvJvC_o) | Видео | нет | нет | — |
 | `WbNb1qDz3T8` | [КАК открыть бизнес и выйти на прибыль 50 МЛН рублей? / СОВЕТЫ как БЫСТРО развить дело](https://www.youtube.com/watch?v=WbNb1qDz3T8) | Видео | нет | нет | — |
