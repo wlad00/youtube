@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: [христианство, Библия, терпение, вера, испытания, духовная жизнь]
 ---
 
 # Терпінням спасайте душі ваші - Іван Пендлишак

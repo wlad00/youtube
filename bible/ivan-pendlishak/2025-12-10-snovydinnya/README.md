@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: [сновидіння, Біблія, Святе Письмо, пророчі сни, духовне розпізнавання]
 ---
 
 # Сновидіння - Іван Пендлишак

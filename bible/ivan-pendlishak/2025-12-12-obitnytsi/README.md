@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: ["біблійні обітниці", "послух Богові", "віра", "біблійне тлумачення", "молитва", "сім’я", "Новий Заповіт"]
 ---
 
 # Обітниці - Іван Пендлишак
