@@ -20,7 +20,7 @@
 
 | Этап | Что | Роликов | Состояние |
 |---|---|---:|---|
-| 1 | «скачано без выжимки»: 20 роликов 2026 + 20 роликов 2025 (2025-12-31 … 2025-11-21) | 40 | подготовлено 15, ждут подготовки 25 |
+| 1 | «скачано без выжимки»: 20 роликов 2026 + 20 роликов 2025 (2025-12-31 … 2025-11-21) | 40 | подготовлено 20, ждут подготовки 20 |
 | 2 | 2025-11-19 … 2025-05-21 | 86 | не скачан |
 | 3 | 2025-05-18 … 2025-01-14 | 86 | не скачан |
 
@@ -32,9 +32,9 @@
 
 | Год | Всего | Видео | Трансляции | Готово | Скачано без выжимки | Нет ссылки | Не начато |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| 2026 | 174 | 134 | 39 | 168 | 5 | 1 | 0 |
+| 2026 | 174 | 134 | 39 | 173 | 0 | 1 | 0 |
 | 2025 | 192 | 163 | 29 | 0 | 192 | 0 | 0 |
-| **Итого** | **366** | **297** | **68** | **168** | **197** | **1** | **0** |
+| **Итого** | **366** | **297** | **68** | **173** | **192** | **1** | **0** |
 
 Пояснения к числам:
 
@@ -44,7 +44,7 @@
 
 ## 2026
 
-Всего **174**: готово — 168, скачано без выжимки — 5, нет ссылки — 1. От новых к старым.
+Всего **174**: готово — 173, скачано без выжимки — 0, нет ссылки — 1. От новых к старым.
 
 | Video ID | Дата | Ролик | Тип | Статус | Папка |
 |---|---|---|---|---|---|
@@ -214,14 +214,14 @@
 | `ynKWrrVvZk8` | 2026-01-21 | [Істинно сором'язливий - Іван Пендлишак](https://www.youtube.com/watch?v=ynKWrrVvZk8) | видео | готово | [2026-01-21-istynno-soromyazlyvyi](2026-01-21-istynno-soromyazlyvyi/) |
 | `vH7e4SjOJTM` | 2026-01-18 | [Смерть - це надбання - Іван Пендлишак](https://www.youtube.com/watch?v=vH7e4SjOJTM) | видео | готово | [2026-01-18-smert-tse-nadbannya](2026-01-18-smert-tse-nadbannya/) |
 | `3tehns5NMUg` | 2026-01-16 | [Як бути радісним - Іван Пендлишак](https://www.youtube.com/watch?v=3tehns5NMUg) | видео | готово | [2026-01-16-yak-buty-radisnym](2026-01-16-yak-buty-radisnym/) |
-| `dCGuYEtOk4U` | 2026-01-15 | [Щоб спастися - Іван Пендлишак](https://www.youtube.com/watch?v=dCGuYEtOk4U) | трансляция | **скачано без выжимки** | [2026-01-15-shchob-spastysya](2026-01-15-shchob-spastysya/) |
+| `dCGuYEtOk4U` | 2026-01-15 | [Щоб спастися - Іван Пендлишак](https://www.youtube.com/watch?v=dCGuYEtOk4U) | трансляция | **готово** | [2026-01-15-shchob-spastysya](2026-01-15-shchob-spastysya/) |
 | `ebVZOz_wBpo` | 2026-01-11 | [Ти мусиш виділяти час - Іван Пендлишак](https://www.youtube.com/watch?v=ebVZOz_wBpo) | видео | готово | [2026-01-11-ty-musysh-vydilyaty-chas](2026-01-11-ty-musysh-vydilyaty-chas/) |
 | `ty-h2-rsm4M` | 2026-01-09 | [Для тих, кого любить Бог - Іван Пендлишак](https://www.youtube.com/watch?v=ty-h2-rsm4M) | видео | готово | [2026-01-09-dlya-tykh-koho-lyubyt-boh](2026-01-09-dlya-tykh-koho-lyubyt-boh/) |
-| `8ydARlBKras` | 2026-01-09 | [Він не став рабом речей - Іван Пендлишак](https://www.youtube.com/watch?v=8ydARlBKras) | трансляция | **скачано без выжимки** | [2026-01-09-vin-ne-stav-rabom-rechei](2026-01-09-vin-ne-stav-rabom-rechei/) |
+| `8ydARlBKras` | 2026-01-09 | [Він не став рабом речей - Іван Пендлишак](https://www.youtube.com/watch?v=8ydARlBKras) | трансляция | **готово** | [2026-01-09-vin-ne-stav-rabom-rechei](2026-01-09-vin-ne-stav-rabom-rechei/) |
 | `I4Tkp6A6O2E` | 2026-01-07 | [Так вирішив Бог - Іван Пендлишак](https://www.youtube.com/watch?v=I4Tkp6A6O2E) | видео | готово | [2026-01-07-tak-vyrishyv-boh](2026-01-07-tak-vyrishyv-boh/) |
-| `KicU9mwDuWA` | 2026-01-05 | [Навіщо звертатись до лікарів - Іван Пендлишак](https://www.youtube.com/watch?v=KicU9mwDuWA) | видео | **скачано без выжимки** | [2026-01-05-navishcho-zvertatys-do-likariv](2026-01-05-navishcho-zvertatys-do-likariv/) |
-| `LzFbu6_mCBM` | 2026-01-02 | [Закон сіяння і жатви - Іван Пендлишак](https://www.youtube.com/watch?v=LzFbu6_mCBM) | видео | **скачано без выжимки** | [2026-01-02-zakon-siyannya-i-zhatvy](2026-01-02-zakon-siyannya-i-zhatvy/) |
-| `Sggv5n-Y4iY` | 2026-01-01 | [Де зароджується заздрість? - Іван Пендлишак](https://www.youtube.com/watch?v=Sggv5n-Y4iY) | трансляция | **скачано без выжимки** | [2026-01-01-de-zarodzhuietsya-zazdrist](2026-01-01-de-zarodzhuietsya-zazdrist/) |
+| `KicU9mwDuWA` | 2026-01-05 | [Навіщо звертатись до лікарів - Іван Пендлишак](https://www.youtube.com/watch?v=KicU9mwDuWA) | видео | **готово** | [2026-01-05-navishcho-zvertatys-do-likariv](2026-01-05-navishcho-zvertatys-do-likariv/) |
+| `LzFbu6_mCBM` | 2026-01-02 | [Закон сіяння і жатви - Іван Пендлишак](https://www.youtube.com/watch?v=LzFbu6_mCBM) | видео | **готово** | [2026-01-02-zakon-siyannya-i-zhatvy](2026-01-02-zakon-siyannya-i-zhatvy/) |
+| `Sggv5n-Y4iY` | 2026-01-01 | [Де зароджується заздрість? - Іван Пендлишак](https://www.youtube.com/watch?v=Sggv5n-Y4iY) | трансляция | **готово** | [2026-01-01-de-zarodzhuietsya-zazdrist](2026-01-01-de-zarodzhuietsya-zazdrist/) |
 
 ## 2025
 

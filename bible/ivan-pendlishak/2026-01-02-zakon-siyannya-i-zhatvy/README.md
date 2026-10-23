@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: ["покаяние", "грех", "ответственность", "посев и жатва", "Божий суд", "милость Божья", "проповедь"]
 ---
 
 # Закон сіяння і жатви - Іван Пендлишак
