@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: ["християнство", "Ісус Христос", "мир", "віра", "Святий Дух", "Біблія", "молитва"]
 ---
 
 # Мій мир з вами - Іван Пендлишак

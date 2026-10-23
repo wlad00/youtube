@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: ["духовне життя", "плід Духа", "покаяння", "християнська віра", "Біблія", "добрі діла"]
 ---
 
 # Секрети плодоносного життя з Богом - Іван Пендлишак

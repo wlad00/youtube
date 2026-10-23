@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: [Біблія, мудрість, поради, заздрість, молитва, благочестя, розсудливість]
 ---
 
 # Від радника охороняй душу свою - Іван Пендлишак
