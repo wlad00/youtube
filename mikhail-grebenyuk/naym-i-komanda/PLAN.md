@@ -10,7 +10,7 @@
 
 Всего в теме: **42**. Обычных видео: **42**. Эфиров: **0**.
 
-Локальные очищенные субтитры: **36 / 42**. Подготовлено: **1 / 42**.
+Локальные очищенные субтитры: **42 / 42**. Подготовлено: **1 / 42**.
 
 Порядок обработки: оригинальные субтитры → очистка с таймкодами → подготовка. `Субтитры = нет` означает отсутствие локального `transcript.cleaned.md`; доступность дорожек на YouTube ещё не проверена у остальных записей без локальных субтитров. Правило подготовки и общий прогресс — в [плане автора](../PLAN.md).
 
@@ -20,12 +20,12 @@
 
 | Video ID | Ролик | Формат | Субтитры | Подготовлен | Существующая папка |
 |---|---|---|---|---|---|
-| `QOOeraf--sA` | [Я стал коммерческим директором в своём бизнесе. Зачем?](https://www.youtube.com/watch?v=QOOeraf--sA) | Видео | нет | нет | — |
-| `rFKdz6o501E` | [Как я делаю бизнес, который НЕ зависит от меня — Михаил Гребенюк](https://www.youtube.com/watch?v=rFKdz6o501E) | Видео | нет | нет | — |
-| `eX-ZhQftfHk` | [Мы собрали команду мечты для ЕС Клиники. ВОТ наш следующий шаг](https://www.youtube.com/watch?v=eX-ZhQftfHk) | Видео | нет | нет | — |
-| `f55FdlbHD1g` | [В ПОТЕРЕ бизнес-партнера виноват только ты! Теперь бизнес обречён на провал?](https://www.youtube.com/watch?v=f55FdlbHD1g) | Видео | нет | нет | — |
-| `ARYYovNthwQ` | [Компания с Урала, перевернувшая игру — 20 млрд прибыли без регламентов \| В чем феномен Точка Банк?](https://www.youtube.com/watch?v=ARYYovNthwQ) | Видео | нет | нет | — |
-| `_A5-n4FX4rw` | [Руководитель ФНС: вот, как налоговая видит НАС изнутри](https://www.youtube.com/watch?v=_A5-n4FX4rw) | Видео | нет | нет | — |
+| `QOOeraf--sA` | [Я стал коммерческим директором в своём бизнесе. Зачем?](https://www.youtube.com/watch?v=QOOeraf--sA) | Видео | да | нет | [папка](2026-10-05-ya-stal-kommercheskim-direktorom-v-svoem-biznese-zachem/README.md) |
+| `rFKdz6o501E` | [Как я делаю бизнес, который НЕ зависит от меня — Михаил Гребенюк](https://www.youtube.com/watch?v=rFKdz6o501E) | Видео | да | нет | [папка](2026-08-24-kak-ya-delayu-biznes-kotoryy-ne-zavisit-ot-menya-mikhail-grebenyuk/README.md) |
+| `eX-ZhQftfHk` | [Мы собрали команду мечты для ЕС Клиники. ВОТ наш следующий шаг](https://www.youtube.com/watch?v=eX-ZhQftfHk) | Видео | да | нет | [папка](2026-08-17-my-sobrali-komandu-mechty-dlya-es-kliniki-vot-nash-sleduyushchiy-shag/README.md) |
+| `f55FdlbHD1g` | [В ПОТЕРЕ бизнес-партнера виноват только ты! Теперь бизнес обречён на провал?](https://www.youtube.com/watch?v=f55FdlbHD1g) | Видео | да | нет | [папка](2026-07-31-v-potere-biznes-partnera-vinovat-tolko-ty-teper-biznes-obrechen-na-proval/README.md) |
+| `ARYYovNthwQ` | [Компания с Урала, перевернувшая игру — 20 млрд прибыли без регламентов \| В чем феномен Точка Банк?](https://www.youtube.com/watch?v=ARYYovNthwQ) | Видео | да | нет | [папка](2025-09-25-kompaniya-s-urala-perevernuvshaya-igru-20-mlrd-pribyli-bez-reglamentov-v-chem-fenomen-tochka-bank/README.md) |
+| `_A5-n4FX4rw` | [Руководитель ФНС: вот, как налоговая видит НАС изнутри](https://www.youtube.com/watch?v=_A5-n4FX4rw) | Видео | да | нет | [папка](2025-08-06-rukovoditel-fns-vot-kak-nalogovaya-vidit-nas-iznutri/README.md) |
 | `U_x2w-6ogSg` | [Ошибки, которые РЕЖУТ ПРИБЫЛЬ! Секрет ЭФФЕКТИВНОЙ схемы управления сотрудниками!](https://www.youtube.com/watch?v=U_x2w-6ogSg) | Видео | да | нет | [папка](2025-01-06-oshibki-kotorye-rezhut-pribyl-sekret-effektivnoy-skhemy-upravleniya-sotrudnikami/README.md) |
 | `RjIzHlEjLPM` | [Работающая HR-стратегия! Как стать работодателем мечты для лучших специалистов?](https://www.youtube.com/watch?v=RjIzHlEjLPM) | Видео | да | нет | [папка](2024-06-30-rabotayushchaya-hr-strategiya-kak-stat-rabotodatelem-mechty-dlya-luchshikh-spetsialistov/README.md) |
 | `1abV4v8H_ZE` | [Бизнес-партнёр тянет на ДНО! Выходим на 15 миллионов чистой прибыли в месяц САМОСТОЯТЕЛЬНО!](https://www.youtube.com/watch?v=1abV4v8H_ZE) | Видео | да | нет | [папка](2024-04-26-biznes-partner-tyanet-na-dno-vykhodim-na-15-millionov-chistoy-pribyli-v-mesyats-samostoyatelno/README.md) |

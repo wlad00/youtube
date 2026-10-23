@@ -10,7 +10,7 @@
 
 Всего в теме: **46**. Обычных видео: **46**. Эфиров: **0**.
 
-Локальные очищенные субтитры: **43 / 46**. Подготовлено: **0 / 46**.
+Локальные очищенные субтитры: **45 / 46**. Подготовлено: **0 / 46**.
 
 Порядок обработки: оригинальные субтитры → очистка с таймкодами → подготовка. `Субтитры = нет` означает отсутствие локального `transcript.cleaned.md`; доступность дорожек на YouTube ещё не проверена. Правило подготовки и общий прогресс — в [плане автора](../PLAN.md).
 
@@ -64,5 +64,5 @@
 | `TMRmQLpqIZw` | [Бизнес или дружба? / Ценность дружбы для предпринимателя / Откровение Михаила Гребенюка](https://www.youtube.com/watch?v=TMRmQLpqIZw) | Видео | да | нет | [папка](2021-04-14-biznes-ili-druzhba-tsennost-druzhby-dlya-predprinimatelya-otkrovenie-mikhaila-grebenyuka/README.md) |
 | `mNqEQ3AvSxM` | [Зависит ли успех мужа от жены? / Можно ли создать бизнес без отношений?](https://www.youtube.com/watch?v=mNqEQ3AvSxM) | Видео | да | нет | [папка](2021-04-07-zavisit-li-uspekh-muzha-ot-zheny-mozhno-li-sozdat-biznes-bez-otnosheniy/README.md) |
 | `pYsy2Y_TJQM` | [Как управлять своим временем и жизнью? / Как планировать расписание и грамотно делегировать задачи?](https://www.youtube.com/watch?v=pYsy2Y_TJQM) | Видео | да | нет | [папка](2021-03-26-kak-upravlyat-svoim-vremenem-i-zhiznyu-kak-planirovat-raspisanie-i-gramotno-delegirovat-zadachi/README.md) |
-| `5_dwuHlvoOc` | [Как правильно ставить цели и достигать их? / Фатальные ошибки, не позволяющие достигнуть цели](https://www.youtube.com/watch?v=5_dwuHlvoOc) | Видео | нет | нет | — |
-| `7SxdPRz8bZ0` | [Что такое эмоциональное выгорание / Основные принципы, как не уставать от работы?](https://www.youtube.com/watch?v=7SxdPRz8bZ0) | Видео | нет | нет | — |
+| `5_dwuHlvoOc` | [Как правильно ставить цели и достигать их? / Фатальные ошибки, не позволяющие достигнуть цели](https://www.youtube.com/watch?v=5_dwuHlvoOc) | Видео | да | нет | [папка](2021-03-10-kak-pravilno-stavit-tseli-i-dostigat-ikh-fatalnye-oshibki-ne-pozvolyayushchie-dostignut-tseli/README.md) |
+| `7SxdPRz8bZ0` | [Что такое эмоциональное выгорание / Основные принципы, как не уставать от работы?](https://www.youtube.com/watch?v=7SxdPRz8bZ0) | Видео | да | нет | [папка](2021-03-03-chto-takoe-emotsionalnoe-vygoranie-osnovnye-printsipy-kak-ne-ustavat-ot-raboty/README.md) |
