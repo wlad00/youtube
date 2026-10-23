@@ -10,7 +10,7 @@
 
 Всего в теме: **53**. Обычных видео: **53**. Эфиров: **0**.
 
-Локальные очищенные субтитры: **46 / 53**. Подготовлено: **45 / 53**.
+Локальные очищенные субтитры: **46 / 53**. Подготовлено: **46 / 53**.
 
 Порядок обработки: оригинальные субтитры → очистка с таймкодами → подготовка. `Субтитры = нет` означает отсутствие локального `transcript.cleaned.md`. Доступность дорожек проверена только у записей с указанной причиной; у остальных её ещё не проверяли. Правило подготовки и общий прогресс — в [плане автора](../PLAN.md).
 
@@ -72,4 +72,4 @@
 | `L6Vlo5U2Iks` | [Настройка воронки продаж в amoCRM. Вебинар](https://www.youtube.com/watch?v=L6Vlo5U2Iks) | Видео | да | да | [папка](2018-04-12-nastroyka-voronki-prodazh-v-amocrm-vebinar/README.md) |
 | `_1iEicWjv34` | [5 ФИШЕК: как увеличить продажи. Строим отдел продаж. Михаил Гребенюк](https://www.youtube.com/watch?v=_1iEicWjv34) | Видео | да | да | [папка](2018-03-20-5-fishek-kak-uvelichit-prodazhi-stroim-otdel-prodazh-mikhail-grebenyuk/README.md) |
 | `IkXU02-shtg` | [Как увеличить продажи? 10 советов от Михаила Гребенюка](https://www.youtube.com/watch?v=IkXU02-shtg) | Видео | да | да | [папка](2018-02-26-kak-uvelichit-prodazhi-10-sovetov-ot-mihaila-grebenyuka/README.md) |
-| `0zKM6d24X_Y` | [25 техник отработки возражений\| Лучшие ответы на возражения\| Михаил Гребенюк](https://www.youtube.com/watch?v=0zKM6d24X_Y) | Видео | да | нет | [папка](../long/2018-02-21-25-tehnik-otrabotki-vozrazheniy/README.md) |
+| `0zKM6d24X_Y` | [25 техник отработки возражений\| Лучшие ответы на возражения\| Михаил Гребенюк](https://www.youtube.com/watch?v=0zKM6d24X_Y) | Видео | да | да | [папка](../long/2018-02-21-25-tehnik-otrabotki-vozrazheniy/README.md) |
