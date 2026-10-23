@@ -4,9 +4,11 @@ youtube: "https://www.youtube.com/watch?v=EnuK5ki4mMc"
 video_id: "EnuK5ki4mMc"
 date: "2026-09-25"
 collection: "bible/ivan-pendlishak"
+author: "Іван Пендлишак"
+channel: "Ivan Pendlyshak"
 language: "uk"
 structure_status: pending
-tags: []
+tags: ["покаяние", "грех", "характер", "проповедь", "конфликт", "семья"]
 ---
 
 # Хто ти, коли ніхто не бачить? - Іван Пендлишак

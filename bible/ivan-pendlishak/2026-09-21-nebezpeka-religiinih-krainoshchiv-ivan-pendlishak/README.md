@@ -4,9 +4,11 @@ youtube: "https://www.youtube.com/watch?v=dLZ_ZUyJ4r4"
 video_id: "dLZ_ZUyJ4r4"
 date: "2026-09-21"
 collection: "bible/ivan-pendlishak"
+author: "Іван Пендлишак"
+channel: "Ivan Pendlyshak"
 language: "uk"
 structure_status: pending
-tags: []
+tags: ["проповедь", "Библия", "покаяние", "духовный рост", "верность", "крайности в вере", "служение"]
 ---
 
 # Небезпека релігійних крайнощів - Іван Пендлишак
