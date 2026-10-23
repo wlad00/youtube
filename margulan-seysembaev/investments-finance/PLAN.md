@@ -1,0 +1,62 @@
+# Инвестиции и личные финансы — план роликов Маргулана Сейсембаева
+
+[Все темы и общий прогресс](../PLAN.md)
+
+Снимок каталога: **22.10.2026**. Очередь и статусы обновлены: **23.10.2026**.
+
+Инвестиции, заработок, капитал, долги, кредиты и финансовая грамотность.
+
+В очереди только обычные видео и эфиры. Shorts/рилсы исключены; отбор определяется форматом публикации. Порог 40 000 знаков применяется только при нарезке расшифровки и не ограничивает очередь.
+
+Распределение предварительное, по названию. Один Video ID относится к одной основной теме; содержание транскриптов при распределении не анализировалось.
+
+Всего в очереди: **40**. Субтитры: **32/40**; подготовлено: **32/40**.
+
+«Нет» в статусе означает отсутствие локального файла. Наличие оригинальной дорожки на YouTube проверяется при скачивании. Правила готовности и последовательность «скачать оригинальные субтитры → очистить → подготовить» — в общем плане.
+
+## Очередь основного канала
+
+[МАРГУЛАН СЕЙСЕМБАЙ](https://www.youtube.com/channel/UCTHXtr2FZibOytQV7Yt7FqA). Порядок: обычные видео, затем эфиры; внутри формата сохранена последовательность выдачи вкладки.
+
+| Video ID | Ролик | Формат | Субтитры | Подготовлен | Папка |
+| --- | --- | --- | --- | --- | --- |
+| `0bOkMzQZ9Vc` | [Почему ваши покупки не дают вам разбогатеть? Как покупки выдают мышление (и как это изменить?)](https://www.youtube.com/watch?v=0bOkMzQZ9Vc) | Видео | да | да | [2026-02-18-pochemu-vashi-pokupki-ne-dayut-vam-razbogatet-kak-pokupki-vydayut-myshlenie](2026-02-18-pochemu-vashi-pokupki-ne-dayut-vam-razbogatet-kak-pokupki-vydayut-myshlenie/README.md) |
+| `rB8OaBCjLEY` | [Как СПАСТИ ДЕНЬГИ в 2025: антикризисные инвестиции в хаосе \| Беседы с Маргуланом](https://www.youtube.com/watch?v=rB8OaBCjLEY) | Видео | да | да | [2025-07-12-kak-spasti-dengi-v-2025-antikrizisnye-investitsii-v-khaose-besedy-s-margulanom](2025-07-12-kak-spasti-dengi-v-2025-antikrizisnye-investitsii-v-khaose-besedy-s-margulanom/README.md) |
+| `Ff9JkWtB9nk` | [Как УПРАВЛЯТЬ своими ДЕНЬГАМИ: долги, кредиты, накопления \| Беседы с Маргуланом](https://www.youtube.com/watch?v=Ff9JkWtB9nk) | Видео | да | да | [2025-06-07-kak-upravlyat-svoimi-dengami-dolgi-kredity-nakopleniya-besedy-s-margulanom](2025-06-07-kak-upravlyat-svoimi-dengami-dolgi-kredity-nakopleniya-besedy-s-margulanom/README.md) |
+| `aKiIeJP3X-c` | [ЧЕСТНЫЙ РАЗГОВОР о СЧАСТЬЕ, ДЕНЬГАХ и СМЫСЛЕ ЖИЗНИ \| Беседы с Маргуланом](https://www.youtube.com/watch?v=aKiIeJP3X-c) | Видео | да | да | [2025-04-26-chestny-razgovor-o-schaste-dengah-i-smysle-zhizni-besedy-s-margulanom](2025-04-26-chestny-razgovor-o-schaste-dengah-i-smysle-zhizni-besedy-s-margulanom/README.md) |
+| `r_H6xSG3rOc` | [9 вещей, которые ВСЕГДА делают БЕДНЫЕ и НИКОГДА не делают БОГАТЫЕ](https://www.youtube.com/watch?v=r_H6xSG3rOc) | Видео | да | да | [2024-05-17-9-veshchey-kotorye-vsegda-delayut-bednye-i-nikogda-ne-delayut-bogatye](2024-05-17-9-veshchey-kotorye-vsegda-delayut-bednye-i-nikogda-ne-delayut-bogatye/README.md) |
+| `JWlh20ZDY6o` | [Сколько денег нужно для жизни каждому из нас? Ответ Вас УДИВИТ!](https://www.youtube.com/watch?v=JWlh20ZDY6o) | Видео | да | да | [2024-01-17-skolko-deneg-nuzhno-dlya-zhizni-kazhdomu-iz-nas-otvet-vas-udivit](2024-01-17-skolko-deneg-nuzhno-dlya-zhizni-kazhdomu-iz-nas-otvet-vas-udivit/README.md) |
+| `upBPB5JxXQk` | [Что делать, если просят в долг? Вот почему НЕЛЬЗЯ помогать деньгами!](https://www.youtube.com/watch?v=upBPB5JxXQk) | Видео | да | да | [2023-11-29-chto-delat-esli-prosyat-v-dolg-vot-pochemu-nelzya-pomogat-dengami](2023-11-29-chto-delat-esli-prosyat-v-dolg-vot-pochemu-nelzya-pomogat-dengami/README.md) |
+| `80k-JycQAkw` | [От того, как покупаете вещи, зависит будете ли вы БЕДНЫМИ или БОГАТЫМИ](https://www.youtube.com/watch?v=80k-JycQAkw) | Видео | да | да | [2023-11-22-ot-togo-kak-pokupaete-veshchi-zavisit-budete-li-vy-bednymi-ili-bogatymi](2023-11-22-ot-togo-kak-pokupaete-veshchi-zavisit-budete-li-vy-bednymi-ili-bogatymi/README.md) |
+| `yN94rWWu4To` | [Каково это быть неприлично богатым (на самом деле)? Откровения миллиардера](https://www.youtube.com/watch?v=yN94rWWu4To) | Видео | да | да | [2023-10-04-kakovo-eto-byt-neprilichno-bogatym-na-samom-dele-otkroveniya-milliardera](2023-10-04-kakovo-eto-byt-neprilichno-bogatym-na-samom-dele-otkroveniya-milliardera/README.md) |
+| `iwkuFZT2OZQ` | [Как инвестировать и стать богатым? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=iwkuFZT2OZQ) | Видео | да | да | [2023-09-20-kak-investirovat-i-stat-bogatym-margulan-seysembay](2023-09-20-kak-investirovat-i-stat-bogatym-margulan-seysembay/README.md) |
+| `EONvrMFxCAY` | [ПОЧЕМУ УМНЫЕ НЕ ВСЕГДА БОГАТЫЕ? | Маргулан Сейсембай](https://www.youtube.com/watch?v=EONvrMFxCAY) — оригинальные субтитры недоступны (yt-dlp: has no subtitles) | Видео | нет | нет | [папка](2023-04-20-pochemu-umnye-ne-vsegda-bogatye/README.md) |
+| `-8JMvBSx5ew` | [How to Make $20 Million Trading \| The Story of a New York Taxi Driver \| Alexander Elder](https://www.youtube.com/watch?v=-8JMvBSx5ew) | Видео | да | да | [папка](2023-01-30-how-to-make-20-million-trading-alexander-elder/README.md) |
+| `2onyx_mqTyE` | [Why Does Money Never Stick Around? \\| Margulan Seissembay](https://www.youtube.com/watch?v=2onyx_mqTyE) | Видео | да | да | [папка](2023-01-17-why-does-money-never-stick-around/README.md) |
+| `2D6OxEhuTms` | [Почему одни зарабатывают легко и много, а другие с трудом и мало? \\| Маргулан Сейсембай](https://www.youtube.com/watch?v=2D6OxEhuTms) | Видео | да | да | [папка](2023-01-15-pochemu-odni-zarabatyvayut-legko-i-mnogo-a-drugie-s-trudom-i-malo/README.md) |
+| `2oYMGQ50EhE` | [Как закрыть долги \\| Что делать в безвыходной ситуации \\| Маргулан Сейсембай](https://www.youtube.com/watch?v=2oYMGQ50EhE) — оригинальные субтитры недоступны (yt-dlp: There are no subtitles for the requested languages) | Видео | нет | нет | [папка](2022-12-14-kak-zakryt-dolgi-chto-delat-v-bezvykhodnoy-situatsii/README.md) |
+| `Vfkopo-OT28` | [Как родители повлияли на моё отношение к деньгам \\| Вопрос-ответ \\| Маргулан Сейсембай](https://www.youtube.com/watch?v=Vfkopo-OT28) | Видео | да | да | [папка](2022-12-05-kak-roditeli-povliyali-na-moe-otnoshenie-k-dengam-vopros-otvet/README.md) |
+| `_YwB4YHfZqM` | [Черная пятница недаром называется "Черной" \| Шопоголизм \| Маргулан Сейсембай](https://www.youtube.com/watch?v=_YwB4YHfZqM) | Видео | да | да | [папка](2022-11-23-chernaya-pyatnitsa-shopogolizm/README.md) |
+| `TXYGpaIgqNw` | [Как научить ребенка финансовой грамотности? \| Маргулан Сейсембай \| Вопрос-Ответ](https://www.youtube.com/watch?v=TXYGpaIgqNw) | Видео | да | да | [папка](2022-11-15-kak-nauchit-rebenka-finansovoy-gramotnosti-vopros-otvet/README.md) |
+| `CUSqdspLlcs` | [Кредит - это нужда или неправильное мышление? \\| В чем подвох рассрочек? \\| Ипотека \\| Гемба Подкаст](https://www.youtube.com/watch?v=CUSqdspLlcs) | Видео | да | да | [папка](2022-10-20-kredit-rassrochki-ipoteka-gemba-podcast/README.md) |
+| `KAQvqKiS644` | [Послание Токаева\| Истории долгов на миллионы\| Как выбраться из кредитов? \| Гемба Подкаст](https://www.youtube.com/watch?v=KAQvqKiS644) | Видео | да | да | [папка](2022-09-08-poslanie-tokaeva-istorii-dolgov-kak-vybratsya-iz-kreditov-gemba-podcast/README.md) |
+| `EQ5f24c35PM` | [ЛУЧШИЙ СОВЕТ В ИНВЕСТИРОВАНИИ \| КАК НЕ ПОТЕРЯТЬ ДЕНЬГИ? \| INVEST BOOTCAMP В СТАМБУЛЕ](https://www.youtube.com/watch?v=EQ5f24c35PM) — оригинальные субтитры недоступны (yt-dlp: has no subtitles) | Видео | нет | нет | [папка](2022-08-09-luchshiy-sovet-v-investirovanii-invest-bootcamp-stambul/README.md) |
+| `uSHJHa624lA` | [Как Казахстану защитить свой рынок - Таможенный Союз \| Девальвация тенге и дешевые российские товары](https://www.youtube.com/watch?v=uSHJHa624lA) | Видео | да | да | [папка](2022-03-24-kak-kazakhstanu-zashchitit-svoy-rynok-tamozhennyy-soyuz-devalvatsiya-tenge-i-deshevye-rossiyskie-tovary/README.md) |
+| `uTW-LFxhnew` | [Инвестиции в кризис - Где держать деньги? \| Покупать акции или криптовалюту?](https://www.youtube.com/watch?v=uTW-LFxhnew) | Видео | да | да | [папка](2022-03-19-investitsii-v-krizis-gde-derzhat-dengi-pokupat-aktsii-ili-kriptovalyutu/README.md) |
+| `g0EOPOZFhvE` | [Kazakhstan's Economy in Crisis \| Sanctions Against Russia, Tenge Depreciation, and Price Rising \|...](https://www.youtube.com/watch?v=g0EOPOZFhvE) | Видео | да | да | [папка](2022-03-12-ekonomika-kazakhstana-v-krizise-sanktsii-protiv-rossii-obestsenivanie-tenge-i-rost-tsen/README.md) |
+| `PkUF6THJDik` | [Sanctions against Russia - The crisis is worse than the 1990s. What should we prepare for?](https://www.youtube.com/watch?v=PkUF6THJDik) | Видео | да | да | [папка](2022-03-09-sanktsii-protiv-rossii-krizis-huzhe-chem-v-90-e-k-chemu-byt-gotovym/README.md) |
+| `-s_AgLkG5cE` | [Когда вы покупаете машину - вы НЕ ИНВЕСТИРУЕТЕ, а создаете будущие проблемы](https://www.youtube.com/watch?v=-s_AgLkG5cE) | Видео | нет | нет | [папка](2022-02-23-kogda-vy-pokupaete-mashinu-ne-investiruete-a-sozdaete-budushchie-problemy/README.md) — оригинальные субтитры недоступны (yt-dlp: has no subtitles) |
+| `Ak6bfXtAOKc` | [Как правильно управлять деньгами? Советы по финансовой грамотности](https://www.youtube.com/watch?v=Ak6bfXtAOKc) | Видео | да | да | [папка](2022-02-18-kak-pravilno-upravlyat-dengami-sovety-po-finansovoy-gramotnosti/README.md) |
+| `bKGWbOba5n4` | [Куда инвестировать?](https://www.youtube.com/watch?v=bKGWbOba5n4) | Видео | нет | нет | [папка](2021-12-04-kuda-investirovat/README.md) — оригинальные субтитры недоступны (yt-dlp: has no subtitles) |
+| `oGeco-jTLAM` | [Чем отличается бизнесмен от инвестора?](https://www.youtube.com/watch?v=oGeco-jTLAM) | Видео | нет | нет | [папка](2021-10-22-chem-otlichaetsya-biznesmen-ot-investora/README.md) — оригинальные субтитры недоступны (yt-dlp: has no subtitles) |
+| `RfrzzLZvBhY` | [Как выбрать проекты для инвестиций? \| Маргулан Сейсембаев](https://www.youtube.com/watch?v=RfrzzLZvBhY) | Видео | да | да | [папка](2021-09-17-kak-vybrat-proekty-dlya-investitsiy/README.md) |
+| `Eq7Ij2SoGa8` | [Научите детей зарабатывать!](https://www.youtube.com/watch?v=Eq7Ij2SoGa8) | Видео | да | да | [папка](2021-06-25-nauchite-detey-zarabatyvat/README.md) |
+| `3ZY7Y1oVRek` | [Финансовые термины простыми словами.](https://www.youtube.com/watch?v=3ZY7Y1oVRek) | Видео | да | да | [папка](2021-05-07-finansovye-terminy-prostymi-slovami/README.md) |
+| `aocSUwXrfOY` | [Где деньги? Куда инвестировать сейчас? \| Час Голованова.](https://www.youtube.com/watch?v=aocSUwXrfOY) | Видео | да | да | [папка](2021-04-30-gde-dengi-kuda-investirovat-seychas-chas-golovanova/README.md) |
+| `ablWNyey1H4` | [Как правильно рассчитать Закят?](https://www.youtube.com/watch?v=ablWNyey1H4) | Видео | да | да | [папка](2021-04-27-kak-pravilno-rasschitat-zakyat/README.md) |
+| `tHr0ZPKJ_vw` | [Бояусыз Халықаралық валюта қоры. Реформалар жайында 5 минут, 4-эпизод(каз суб.)](https://www.youtube.com/watch?v=tHr0ZPKJ_vw) | Видео | да | да | [папка](2020-09-22-boyausyz-halykaralyk-valyuta-kory-reformalar-zhayynda-5-minut-4-epizod-kaz-sub/README.md) |
+| `Awxm429AX98` | [Өмір әлде экономика? Коронавирус әсерінен туындаған дағдарыста Қазақстанның таңдауы қандай болмақ](https://www.youtube.com/watch?v=Awxm429AX98) | Видео | да | да | [папка](2020-03-29-omir-alde-ekonomika-koronavirus-aserinen-tuindagan-dagdarysta-kazakstannyn-tandauy/README.md) |
+| `uSlc3hNbu5w` | [Доллар құны 550 тенгеден әрі көтерілуі мүмкін бе? \| "Марғұлан не дейді?"](https://www.youtube.com/watch?v=uSlc3hNbu5w) | Видео | нет | нет | [папка](2020-03-14-dollar-kuny-550-tengeden-ari-koterilui-mumkin-be-marghulan-ne-deidi/README.md) — оригинальные субтитры недоступны (yt-dlp: has no subtitles) |
+| `vxnf68NgtFM` | [Қазақстан Иран мен АҚШ қақтығысы салдарынан 500 миллион доллар жоғалтады ма?](https://www.youtube.com/watch?v=vxnf68NgtFM) | Видео | нет | нет | [папка](2020-01-12-kazakstan-iran-aqsh-qaqtygysy-saldarynan-500-million-dollar-zhogaltady-ma/README.md) — оригинальные субтитры недоступны (yt-dlp: has no subtitles) |
+| `K8f0QmlSnC0` | [Школa практического инвестирования \| 1 часть записи заседания](https://www.youtube.com/watch?v=K8f0QmlSnC0) | Видео | да | да | [папка](2019-10-07-shkola-prakticheskogo-investirovaniya-zapis-zasedaniya-1/README.md) |
+| `JPCVYDqnmC0` | [Школa практического инвестирования \| 2 часть записи заседания](https://www.youtube.com/watch?v=JPCVYDqnmC0) | Видео | да | да | [папка](2019-10-07-shkola-prakticheskogo-investirovaniya-zapis-zasedaniya-2/README.md) |
