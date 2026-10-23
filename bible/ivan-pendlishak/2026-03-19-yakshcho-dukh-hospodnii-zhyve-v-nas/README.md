@@ -7,7 +7,7 @@ collection: "bible/ivan-pendlishak"
 author: "Іван Пендлишак"
 channel: "Ivan Pendlyshak"
 language: "uk"
-tags: []
+tags: ["Дух Святий", "характер Христа", "плід Духа", "покаяння", "спасіння людей", "Царство Боже"]
 ---
 
 # Якщо Дух Господній живе в нас - Іван Пендлишак

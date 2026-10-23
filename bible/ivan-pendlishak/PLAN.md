@@ -20,7 +20,7 @@
 
 | Этап | Что | Роликов | Состояние |
 |---|---|---:|---|
-| 1 | «скачано без выжимки»: 20 роликов 2026 + 20 роликов 2025 (2025-12-31 … 2025-11-21) | 40 | скачан, ждёт подготовки |
+| 1 | «скачано без выжимки»: 20 роликов 2026 + 20 роликов 2025 (2025-12-31 … 2025-11-21) | 40 | подготовлено 10, ждут подготовки 30 |
 | 2 | 2025-11-19 … 2025-05-21 | 86 | не скачан |
 | 3 | 2025-05-18 … 2025-01-14 | 86 | не скачан |
 
@@ -32,9 +32,9 @@
 
 | Год | Всего | Видео | Трансляции | Готово | Скачано без выжимки | Нет ссылки | Не начато |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| 2026 | 174 | 134 | 39 | 158 | 15 | 1 | 0 |
+| 2026 | 174 | 134 | 39 | 163 | 10 | 1 | 0 |
 | 2025 | 192 | 163 | 29 | 0 | 166 | 0 | 26 |
-| **Итого** | **366** | **297** | **68** | **158** | **181** | **1** | **26** |
+| **Итого** | **366** | **297** | **68** | **163** | **176** | **1** | **26** |
 
 Пояснения к числам:
 
@@ -44,7 +44,7 @@
 
 ## 2026
 
-Всего **174**: готово — 158, скачано без выжимки — 15, нет ссылки — 1. От новых к старым.
+Всего **174**: готово — 163, скачано без выжимки — 10, нет ссылки — 1. От новых к старым.
 
 | Video ID | Дата | Ролик | Тип | Статус | Папка |
 |---|---|---|---|---|---|
@@ -178,21 +178,21 @@
 | `jOcR65UVxS0` | 2026-04-01 | [Горе тим, які ... - Іван Пендлишак](https://www.youtube.com/watch?v=jOcR65UVxS0) | видео | готово | [2026-04-01-hore-tym-yaki](2026-04-01-hore-tym-yaki/) |
 | `6teUGRQJZM4` | 2026-03-29 | [Бог все зробив для Свого виноградника - Іван Пендлишак](https://www.youtube.com/watch?v=6teUGRQJZM4) | видео | готово | [2026-03-29-boh-vse-zrobyv-dlya-svoho-vynohradnyka](2026-03-29-boh-vse-zrobyv-dlya-svoho-vynohradnyka/) |
 | `ujJpZkxdNd8` | 2026-03-27 | [Чим допомогти людській душі - Іван Пендлишак](https://www.youtube.com/watch?v=ujJpZkxdNd8) | видео | готово | [2026-03-27-chym-dopomohty-lyudskii-dushi](2026-03-27-chym-dopomohty-lyudskii-dushi/) |
-| `swGB6z8LZM4` | 2026-03-27 | [Хто любить Бога, дотримується Його слів - Іван Пендлишак](https://www.youtube.com/watch?v=swGB6z8LZM4) | трансляция | **скачано без выжимки** | [2026-03-27-khto-lyubyt-boha-dotrymuietsya-ioho-sliv](2026-03-27-khto-lyubyt-boha-dotrymuietsya-ioho-sliv/) |
+| `swGB6z8LZM4` | 2026-03-27 | [Хто любить Бога, дотримується Його слів - Іван Пендлишак](https://www.youtube.com/watch?v=swGB6z8LZM4) | трансляция | готово | [2026-03-27-khto-lyubyt-boha-dotrymuietsya-ioho-sliv](2026-03-27-khto-lyubyt-boha-dotrymuietsya-ioho-sliv/) |
 | `ejLip8e_hXA` | 2026-03-25 | [В чоловіка і жінки різні ролі - Іван Пендлишак](https://www.youtube.com/watch?v=ejLip8e_hXA) | видео | готово | [2026-03-25-v-cholovika-i-zhinky-rizni-roli](2026-03-25-v-cholovika-i-zhinky-rizni-roli/) |
 | `DR9V5n8z4AU` | 2026-03-22 | [Твоє терпіння не марне — буде нагорода - Іван Пендлишак](https://www.youtube.com/watch?v=DR9V5n8z4AU) | видео | готово | [2026-03-22-tvoie-terpinnya-ne-marne-bude-nahoroda](2026-03-22-tvoie-terpinnya-ne-marne-bude-nahoroda/) |
-| `PLSys3Ft7j8` | 2026-03-19 | [Якщо Дух Господній живе в нас - Іван Пендлишак](https://www.youtube.com/watch?v=PLSys3Ft7j8) | трансляция | **скачано без выжимки** | [2026-03-19-yakshcho-dukh-hospodnii-zhyve-v-nas](2026-03-19-yakshcho-dukh-hospodnii-zhyve-v-nas/) |
+| `PLSys3Ft7j8` | 2026-03-19 | [Якщо Дух Господній живе в нас - Іван Пендлишак](https://www.youtube.com/watch?v=PLSys3Ft7j8) | трансляция | готово | [2026-03-19-yakshcho-dukh-hospodnii-zhyve-v-nas](2026-03-19-yakshcho-dukh-hospodnii-zhyve-v-nas/) |
 | `xFmoiu4rrck` | 2026-03-18 | [Вони того не соромляться - Іван Пендлишак](https://www.youtube.com/watch?v=xFmoiu4rrck) | видео | готово | [2026-03-18-vony-toho-ne-soromlyatsya](2026-03-18-vony-toho-ne-soromlyatsya/) |
 | `FVGr7yC8XfA` | 2026-03-15 | [Прости і прийми волю Божу - Іван Пендлишак](https://www.youtube.com/watch?v=FVGr7yC8XfA) | видео | готово | [2026-03-15-prosty-i-pryimy-volyu-bozhu](2026-03-15-prosty-i-pryimy-volyu-bozhu/) |
 | `V3oKVrbBF7A` | 2026-03-13 | [Віра робить людину всемогутньою - Іван Пендлишак](https://www.youtube.com/watch?v=V3oKVrbBF7A) | видео | готово | [2026-03-13-vira-robyt-lyudynu-vsemohutnoyu](2026-03-13-vira-robyt-lyudynu-vsemohutnoyu/) |
-| `OlL4tBmMKvY` | 2026-03-12 | [Як можеш судити іншого, коли сам робиш те саме - Іван Пендлишак](https://www.youtube.com/watch?v=OlL4tBmMKvY) | трансляция | **скачано без выжимки** | [2026-03-12-yak-mozhesh-sudyty-inshoho-koly-sam-robysh-te-same](2026-03-12-yak-mozhesh-sudyty-inshoho-koly-sam-robysh-te-same/) |
+| `OlL4tBmMKvY` | 2026-03-12 | [Як можеш судити іншого, коли сам робиш те саме - Іван Пендлишак](https://www.youtube.com/watch?v=OlL4tBmMKvY) | трансляция | готово | [2026-03-12-yak-mozhesh-sudyty-inshoho-koly-sam-robysh-te-same](2026-03-12-yak-mozhesh-sudyty-inshoho-koly-sam-robysh-te-same/) |
 | `q27nozKJ0Kg` | 2026-03-11 | [Прислухайся до старших - Іван Пендлишак](https://www.youtube.com/watch?v=q27nozKJ0Kg) | видео | готово | [2026-03-11-pryslukhaisya-do-starshykh](2026-03-11-pryslukhaisya-do-starshykh/) |
 | `pWu92j8e8bU` | 2026-03-08 | [Побачиш славу Божу - Іван Пендлишак](https://www.youtube.com/watch?v=pWu92j8e8bU) | видео | готово | [2026-03-08-pobachysh-slavu-bozhu](2026-03-08-pobachysh-slavu-bozhu/) |
 | `DWtxKouvtqw` | 2026-03-06 | [Ті діла і ви будете робити - Іван Пендлишак](https://www.youtube.com/watch?v=DWtxKouvtqw) | видео | готово | [2026-03-06-ti-dila-i-vy-budete-robyty](2026-03-06-ti-dila-i-vy-budete-robyty/) |
-| `RdeQ7lG141k` | 2026-03-05 | [Церква повинна впливати - Іван Пендлишак](https://www.youtube.com/watch?v=RdeQ7lG141k) | трансляция | **скачано без выжимки** | [2026-03-05-tserkva-povynna-vplyvaty](2026-03-05-tserkva-povynna-vplyvaty/) |
+| `RdeQ7lG141k` | 2026-03-05 | [Церква повинна впливати - Іван Пендлишак](https://www.youtube.com/watch?v=RdeQ7lG141k) | трансляция | готово | [2026-03-05-tserkva-povynna-vplyvaty](2026-03-05-tserkva-povynna-vplyvaty/) |
 | `GThFUvuENGk` | 2026-03-01 | [Господь прийде - Іван Пендлишак](https://www.youtube.com/watch?v=GThFUvuENGk) | видео | готово | [2026-03-01-hospod-pryide](2026-03-01-hospod-pryide/) |
 | `XiThcY56Zzg` | 2026-02-27 | [Великий дар від Господа - Іван Пендлишак](https://www.youtube.com/watch?v=XiThcY56Zzg) | видео | готово | [2026-02-27-velykyi-dar-vid-hospoda](2026-02-27-velykyi-dar-vid-hospoda/) |
-| `yAvmYX-RT18` | 2026-02-26 | [Так роблячи ніколи не спіткнешся - Іван Пендлишак](https://www.youtube.com/watch?v=yAvmYX-RT18) | трансляция | **скачано без выжимки** | [2026-02-26-tak-roblyachy-nikoly-ne-spitkneshsya](2026-02-26-tak-roblyachy-nikoly-ne-spitkneshsya/) |
+| `yAvmYX-RT18` | 2026-02-26 | [Так роблячи ніколи не спіткнешся - Іван Пендлишак](https://www.youtube.com/watch?v=yAvmYX-RT18) | трансляция | готово | [2026-02-26-tak-roblyachy-nikoly-ne-spitkneshsya](2026-02-26-tak-roblyachy-nikoly-ne-spitkneshsya/) |
 | `ISKV4YmSggg` | 2026-02-25 | [Не роби зображення з метою поклоніння - Іван Пендлишак](https://www.youtube.com/watch?v=ISKV4YmSggg) | видео | готово | [2026-02-25-ne-roby-zobrazhennya-z-metoyu-pokloninnya](2026-02-25-ne-roby-zobrazhennya-z-metoyu-pokloninnya/) |
 | `muETdiIkor0` | 2026-02-22 | [Це люди придумали - Іван Пендлишак](https://www.youtube.com/watch?v=muETdiIkor0) | видео | готово | [2026-02-22-tse-lyudy-prydumaly](2026-02-22-tse-lyudy-prydumaly/) |
 | `iQnyGdHXgU0` | 2026-02-20 | [Він хотів підтримати Бога - Іван Пендлишак](https://www.youtube.com/watch?v=iQnyGdHXgU0) | видео | готово | [2026-02-20-vin-khotiv-pidtrymaty-boha](2026-02-20-vin-khotiv-pidtrymaty-boha/) |
