@@ -10,7 +10,7 @@
 
 Распределение предварительное, по названию. Один Video ID относится к одной основной теме; содержание транскриптов при распределении не анализировалось.
 
-Всего в очереди: **7**. Субтитры: **2/7**; подготовлено: **0/7**.
+Всего в очереди: **7**. Субтитры: **7/7**; подготовлено: **0/7**.
 
 «Нет» в статусе означает отсутствие локального файла. Наличие оригинальной дорожки на YouTube проверяется при скачивании. Правила готовности и последовательность «скачать оригинальные субтитры → очистить → подготовить» — в общем плане.
 
@@ -21,9 +21,9 @@
 | Video ID | Ролик | Формат | Субтитры | Подготовлен | Папка |
 | --- | --- | --- | --- | --- | --- |
 | `EM_kYc3jJtc` | [Как стать УЗНАВАЕМЫМ? ЛИЧНЫЙ БРЕНД в 2025 \| Беседы с Маргуланом](https://www.youtube.com/watch?v=EM_kYc3jJtc) | Видео | да | нет | [папка](../long/2025-05-24-kak-stat-uznavaemym-lichnyy-brend-v-2025/README.md) |
-| `Y68CgzV8tHM` | [Сегодня без этого не выжить! 3 ключевых навыка в эпоху блогеров](https://www.youtube.com/watch?v=Y68CgzV8tHM) | Видео | нет | нет | — |
-| `AzBC5jynx98` | [МОЖНО ЛИ СТАТЬ ПОПУЛЯРНЫМ? \| GEMBA PODCAST \| Маргулан Сейсембай](https://www.youtube.com/watch?v=AzBC5jynx98) | Видео | нет | нет | — |
-| `1yaub9Qjv_U` | [Change Your Life 180 Degrees \| The Secret to Popularity \| Margulan Seisembay \| Gemba Podcast](https://www.youtube.com/watch?v=1yaub9Qjv_U) | Видео | нет | нет | — |
-| `za-trplm4XQ` | [Для чего нужна аудитория? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=za-trplm4XQ) | Видео | нет | нет | — |
+| `Y68CgzV8tHM` | [Сегодня без этого не выжить! 3 ключевых навыка в эпоху блогеров](https://www.youtube.com/watch?v=Y68CgzV8tHM) | Видео | да | нет | [папка](2024-03-06-segodnya-bez-etogo-ne-vyzhit-3-klyuchevykh-navyka-v-epokhu-blogerov/README.md) |
+| `AzBC5jynx98` | [МОЖНО ЛИ СТАТЬ ПОПУЛЯРНЫМ? \| GEMBA PODCAST \| Маргулан Сейсембай](https://www.youtube.com/watch?v=AzBC5jynx98) | Видео | да | нет | [папка](2023-08-21-mozhno-li-stat-populyarnym-gemba-podcast/README.md) |
+| `1yaub9Qjv_U` | [Change Your Life 180 Degrees \| The Secret to Popularity \| Margulan Seisembay \| Gemba Podcast](https://www.youtube.com/watch?v=1yaub9Qjv_U) | Видео | да | нет | [папка](2023-08-13-izmeni-svoyu-zhizn-na-180-gradusov-sekret-populyarnosti-gemba-podkast/README.md) |
+| `za-trplm4XQ` | [Для чего нужна аудитория? \| Маргулан Сейсембай](https://www.youtube.com/watch?v=za-trplm4XQ) | Видео | да | нет | [папка](2023-06-23-dlya-chego-nuzhna-auditoriya/README.md) |
 | `2NQWdjr6p00` | [КАК ПРОДАТЬ ЧТО УГОДНО? \| МАРГУЛАН СЕЙСЕМБАЙ](https://www.youtube.com/watch?v=2NQWdjr6p00) | Видео | да | нет | [папка](../long/2023-03-14-kak-prodat-chto-ugodno/README.md) |
-| `fAwKGvzduuk` | [Кто выживет в современном бизнесе? \| Для чего нужна аудитория?](https://www.youtube.com/watch?v=fAwKGvzduuk) | Видео | нет | нет | — |
+| `fAwKGvzduuk` | [Кто выживет в современном бизнесе? \| Для чего нужна аудитория?](https://www.youtube.com/watch?v=fAwKGvzduuk) | Видео | да | нет | [папка](2021-04-16-kto-vyzhivet-v-sovremennom-biznese-dlya-chego-nuzhna-auditoriya/README.md) |
