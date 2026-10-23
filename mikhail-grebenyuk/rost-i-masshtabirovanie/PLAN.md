@@ -10,7 +10,7 @@
 
 Всего в теме: **59**. Обычных видео: **59**. Эфиров: **0**.
 
-Локальные очищенные субтитры: **1 / 59**. Подготовлено: **0 / 59**.
+Локальные очищенные субтитры: **21 / 59**. Подготовлено: **0 / 59**.
 
 Порядок обработки: оригинальные субтитры → очистка с таймкодами → подготовка. `Субтитры = нет` означает отсутствие локального `transcript.cleaned.md`; доступность дорожек на YouTube ещё не проверена. Правило подготовки и общий прогресс — в [плане автора](../PLAN.md).
 
@@ -20,27 +20,27 @@
 
 | Video ID | Ролик | Формат | Субтитры | Подготовлен | Существующая папка |
 |---|---|---|---|---|---|
-| `IA6E6HAcEeE` | [Мы меняем нашу БИЗНЕС стратегию — вот, где мы ошиблись...](https://www.youtube.com/watch?v=IA6E6HAcEeE) | Видео | нет | нет | — |
-| `jGlqfjLfHgg` | [Ключевой НАВЫК для роста бизнеса. Скажете спасибо в 2027 году](https://www.youtube.com/watch?v=jGlqfjLfHgg) | Видео | нет | нет | — |
-| `E2eTAl3VUrI` | [Будь готов, твой бизнес НЕ будет расти. Объясняю причину за 21 минуту](https://www.youtube.com/watch?v=E2eTAl3VUrI) | Видео | нет | нет | — |
-| `3U7svYigA_g` | [Один инструмент для РОСТА выручки бизнеса. Предпринимателям к просмотру!](https://www.youtube.com/watch?v=3U7svYigA_g) | Видео | нет | нет | — |
-| `F8PHhtB-icc` | [Что на самом деле мешает РОСТУ твоего бизнеса? НЕудобная правда для предпринимателей…](https://www.youtube.com/watch?v=F8PHhtB-icc) | Видео | нет | нет | — |
-| `BtBc-Jn5oIA` | [5 шагов к выводу бизнеса на ФЕДЕРАЛЬНЫЙ уровень. Вот как это сделает Вика!](https://www.youtube.com/watch?v=BtBc-Jn5oIA) | Видео | нет | нет | — |
-| `_s6Iv9KRZDg` | [Построили бизнес, который работает на 10%. Мы упёрлись в потолок?](https://www.youtube.com/watch?v=_s6Iv9KRZDg) | Видео | нет | нет | — |
-| `Tgcv-RQYprY` | [Хочешь быть №1 в нише? Эта ошибка помешает стать монополистом!](https://www.youtube.com/watch?v=Tgcv-RQYprY) | Видео | нет | нет | — |
-| `-P-vwd1TtPw` | [Как малому бизнесу выйти на новый уровень к 2027. Метод «5 единичек»](https://www.youtube.com/watch?v=-P-vwd1TtPw) | Видео | нет | нет | — |
-| `NEXcZZRxaIA` | [Рост бизнеса возможен через ЭТОТ инструмент. Обгони всех конкурентов!](https://www.youtube.com/watch?v=NEXcZZRxaIA) | Видео | нет | нет | — |
-| `-CS2p63kx-o` | [Посмотри ЭТО видео и ускорь рост бизнеса в 2 раза! Александр Кравцов \| Подкаст Гребенюка](https://www.youtube.com/watch?v=-CS2p63kx-o) | Видео | нет | нет | — |
+| `IA6E6HAcEeE` | [Мы меняем нашу БИЗНЕС стратегию — вот, где мы ошиблись...](https://www.youtube.com/watch?v=IA6E6HAcEeE) | Видео | да | нет | [папка](2026-09-28-my-menyaem-nashu-biznes-strategiyu-vot-gde-my-oshiblis/README.md) |
+| `jGlqfjLfHgg` | [Ключевой НАВЫК для роста бизнеса. Скажете спасибо в 2027 году](https://www.youtube.com/watch?v=jGlqfjLfHgg) | Видео | да | нет | [папка](2026-09-25-klyuchevoy-navyk-dlya-rosta-biznesa-skazhete-spasibo-v-2027-godu/README.md) |
+| `E2eTAl3VUrI` | [Будь готов, твой бизнес НЕ будет расти. Объясняю причину за 21 минуту](https://www.youtube.com/watch?v=E2eTAl3VUrI) | Видео | да | нет | [папка](2026-09-21-bud-gotov-tvoy-biznes-ne-budet-rasti-obyasnyayu-prichinu-za-21-minutu/README.md) |
+| `3U7svYigA_g` | [Один инструмент для РОСТА выручки бизнеса. Предпринимателям к просмотру!](https://www.youtube.com/watch?v=3U7svYigA_g) | Видео | да | нет | [папка](2026-08-29-odin-instrument-dlya-rosta-vyruchki-biznesa-predprinimatelyam-k-prosmotru/README.md) |
+| `F8PHhtB-icc` | [Что на самом деле мешает РОСТУ твоего бизнеса? НЕудобная правда для предпринимателей…](https://www.youtube.com/watch?v=F8PHhtB-icc) | Видео | да | нет | [папка](2026-08-09-chto-na-samom-dele-meshaet-rostu-tvoego-biznesa-neudobnaya-pravda-dlya-predprinimateley/README.md) |
+| `BtBc-Jn5oIA` | [5 шагов к выводу бизнеса на ФЕДЕРАЛЬНЫЙ уровень. Вот как это сделает Вика!](https://www.youtube.com/watch?v=BtBc-Jn5oIA) | Видео | да | нет | [папка](2026-07-23-5-shagov-k-vyvodu-biznesa-na-federalnyy-uroven-vot-kak-eto-sdelaet-vika/README.md) |
+| `_s6Iv9KRZDg` | [Построили бизнес, который работает на 10%. Мы упёрлись в потолок?](https://www.youtube.com/watch?v=_s6Iv9KRZDg) | Видео | да | нет | [папка](2026-07-20-postroili-biznes-kotoryy-rabotaet-na-10-my-uperlis-v-potolok/README.md) |
+| `Tgcv-RQYprY` | [Хочешь быть №1 в нише? Эта ошибка помешает стать монополистом!](https://www.youtube.com/watch?v=Tgcv-RQYprY) | Видео | да | нет | [папка](2026-07-02-khochesh-byt-1-v-nishe-eta-oshibka-pomeshaet-stat-monopolistom/README.md) |
+| `-P-vwd1TtPw` | [Как малому бизнесу выйти на новый уровень к 2027. Метод «5 единичек»](https://www.youtube.com/watch?v=-P-vwd1TtPw) | Видео | да | нет | [папка](2026-05-11-kak-malomu-biznesu-vyyti-na-novyy-uroven-k-2027-metod-5-edinichek/README.md) |
+| `NEXcZZRxaIA` | [Рост бизнеса возможен через ЭТОТ инструмент. Обгони всех конкурентов!](https://www.youtube.com/watch?v=NEXcZZRxaIA) | Видео | да | нет | [папка](2026-04-17-rost-biznesa-vozmozhen-cherez-etot-instrument-obgoni-vsekh-konkurentov/README.md) |
+| `-CS2p63kx-o` | [Посмотри ЭТО видео и ускорь рост бизнеса в 2 раза! Александр Кравцов \| Подкаст Гребенюка](https://www.youtube.com/watch?v=-CS2p63kx-o) | Видео | да | нет | [папка](2025-12-19-posmotri-eto-video-i-uskor-rost-biznesa-v-2-raza-aleksandr-kravtsov-podkast-grebenyuka/README.md) |
 | `5V6NR5YUKuU` | [Почему твой бизнес перестал РАСТИ? Разбираем, как увеличить прибыль!](https://www.youtube.com/watch?v=5V6NR5YUKuU) | Видео | да | нет | [папка](../long/2025-09-19-pochemu-tvoy-biznes-perestal-rasti/README.md) |
-| `1q4WOvqVUZs` | [Как стать №1 в своей нише? Простая стратегия МАСШТАБИРОВАНИЯ в 2026 году](https://www.youtube.com/watch?v=1q4WOvqVUZs) | Видео | нет | нет | — |
-| `zqv5cJvAMos` | [Твой бизнес ЗАСТРЯЛ на месте? Разбор популярной проблемы предпринимателей!](https://www.youtube.com/watch?v=zqv5cJvAMos) | Видео | нет | нет | — |
-| `gWU3mu906wc` | [Самый ПРОСТОЙ бизнес-план на 30 млн чистой прибыли. Просто скопируй!](https://www.youtube.com/watch?v=gWU3mu906wc) | Видео | нет | нет | — |
-| `UK3bGkQ8HPc` | [То, что ВЧЕРА казалось ГЕНИАЛЬНЫМ, СЕГОДНЯ - просто НОРМА / Путь к настоящему масштабу](https://www.youtube.com/watch?v=UK3bGkQ8HPc) | Видео | нет | нет | — |
-| `p0guP5EZCt0` | [Как создать прибыльный бизнес в России. Простые правила стабильной компании](https://www.youtube.com/watch?v=p0guP5EZCt0) | Видео | нет | нет | — |
-| `aRkrEoxb2hc` | [Как СТУДЕНТЫ построили компанию на 150 МЛРД. Феномен ВсеИнструменты.ру](https://www.youtube.com/watch?v=aRkrEoxb2hc) | Видео | нет | нет | — |
-| `_BvN-MHzZwE` | [Не бойся поднять чек! Как масштабировать массажный бизнес?](https://www.youtube.com/watch?v=_BvN-MHzZwE) | Видео | нет | нет | — |
-| `Vkz3PL-nuqw` | [Как дорасти до 100 клиник? Секреты масштабирования медицинского бизнеса](https://www.youtube.com/watch?v=Vkz3PL-nuqw) | Видео | нет | нет | — |
-| `U57Hq2cHfMc` | [Как сделать 10 МЛРД на одежде с нуля? \| 12 STOREEZ и Иван Хохлов](https://www.youtube.com/watch?v=U57Hq2cHfMc) | Видео | нет | нет | — |
+| `1q4WOvqVUZs` | [Как стать №1 в своей нише? Простая стратегия МАСШТАБИРОВАНИЯ в 2026 году](https://www.youtube.com/watch?v=1q4WOvqVUZs) | Видео | да | нет | [папка](2025-08-15-kak-stat-1-v-svoey-nishe-prostaya-strategiya-masshtabirovaniya-v-2026-godu/README.md) |
+| `zqv5cJvAMos` | [Твой бизнес ЗАСТРЯЛ на месте? Разбор популярной проблемы предпринимателей!](https://www.youtube.com/watch?v=zqv5cJvAMos) | Видео | да | нет | [папка](2025-07-25-tvoy-biznes-zastryal-na-meste-razbor-populyarnoy-problemy-predprinimateley/README.md) |
+| `gWU3mu906wc` | [Самый ПРОСТОЙ бизнес-план на 30 млн чистой прибыли. Просто скопируй!](https://www.youtube.com/watch?v=gWU3mu906wc) | Видео | да | нет | [папка](2025-06-27-samyy-prostoy-biznes-plan-na-30-mln-chistoy-pribyli-prosto-skopiruy/README.md) |
+| `UK3bGkQ8HPc` | [То, что ВЧЕРА казалось ГЕНИАЛЬНЫМ, СЕГОДНЯ - просто НОРМА / Путь к настоящему масштабу](https://www.youtube.com/watch?v=UK3bGkQ8HPc) | Видео | да | нет | [папка](2025-05-30-to-chto-vchera-kazalos-genialnym-segodnya-prosto-norma-put-k-nastoyashchemu-masshtabu/README.md) |
+| `p0guP5EZCt0` | [Как создать прибыльный бизнес в России. Простые правила стабильной компании](https://www.youtube.com/watch?v=p0guP5EZCt0) | Видео | да | нет | [папка](2025-05-16-kak-sozdat-pribylnyy-biznes-v-rossii-prostye-pravila-stabilnoy-kompanii/README.md) |
+| `aRkrEoxb2hc` | [Как СТУДЕНТЫ построили компанию на 150 МЛРД. Феномен ВсеИнструменты.ру](https://www.youtube.com/watch?v=aRkrEoxb2hc) | Видео | да | нет | [папка](2025-03-26-kak-studenty-postroili-kompaniyu-na-150-mlrd-fenomen-vseinstrumenty-ru/README.md) |
+| `_BvN-MHzZwE` | [Не бойся поднять чек! Как масштабировать массажный бизнес?](https://www.youtube.com/watch?v=_BvN-MHzZwE) | Видео | да | нет | [папка](2024-12-20-ne-boysya-podnyat-chek-kak-masshtabirovat-massazhnyy-biznes/README.md) |
+| `Vkz3PL-nuqw` | [Как дорасти до 100 клиник? Секреты масштабирования медицинского бизнеса](https://www.youtube.com/watch?v=Vkz3PL-nuqw) | Видео | да | нет | [папка](2024-12-13-kak-dorasti-do-100-klinik-sekrety-masshtabirovaniya-meditsinskogo-biznesa/README.md) |
+| `U57Hq2cHfMc` | [Как сделать 10 МЛРД на одежде с нуля? \| 12 STOREEZ и Иван Хохлов](https://www.youtube.com/watch?v=U57Hq2cHfMc) | Видео | да | нет | [папка](2024-11-01-kak-sdelat-10-mlrd-na-odezhde-s-nulya-12-storeez-i-ivan-khokhlov/README.md) |
 | `z39G4-TK8Mc` | [С нуля до 25% рынка на зубных пастах \| Евгений Демин SPLAT](https://www.youtube.com/watch?v=z39G4-TK8Mc) | Видео | нет | нет | — |
 | `oWjb22cfbGE` | [«Кофемания». Феномен самой быстрорастущей и закрытой сети ресторанов Москвы](https://www.youtube.com/watch?v=oWjb22cfbGE) | Видео | нет | нет | — |
 | `PlAcF_CuWPo` | [Правда про франшизы в России. Опыт Pedant.ru 5 млрд и 600 точек](https://www.youtube.com/watch?v=PlAcF_CuWPo) | Видео | нет | нет | — |
