@@ -10,7 +10,7 @@
 
 Всего в теме: **46**. Обычных видео: **46**. Эфиров: **0**.
 
-Локальные очищенные субтитры: **23 / 46**. Подготовлено: **0 / 46**.
+Локальные очищенные субтитры: **43 / 46**. Подготовлено: **0 / 46**.
 
 Порядок обработки: оригинальные субтитры → очистка с таймкодами → подготовка. `Субтитры = нет` означает отсутствие локального `transcript.cleaned.md`; доступность дорожек на YouTube ещё не проверена. Правило подготовки и общий прогресс — в [плане автора](../PLAN.md).
 
@@ -43,26 +43,26 @@
 | `oystLu9zpgU` | [ФАКАПЫ в бизнесе – обычное дело! / Как заставить себя думать и действовать ИНАЧЕ?](https://www.youtube.com/watch?v=oystLu9zpgU) | Видео | да | нет | [папка](2023-10-27-fakapy-v-biznese-obychnoe-delo-kak-zastavit-sebya-dumat-i-deystvovat-inache/README.md) |
 | `DzdwKK-6Vfo` | [От мечты к реальности: как выглядит настоящий путь к успеху? Павел Гительман](https://www.youtube.com/watch?v=DzdwKK-6Vfo) | Видео | да | нет | [папка](2023-09-09-ot-mechty-k-realnosti-kak-vyglyadit-nastoyashchiy-put-k-uspekhu-pavel-gitelman/README.md) |
 | `7xHwH8GE_8Q` | [Как РАСШИРИТЬ рынок сбыта? Учимся выстраивать здоровую коммуникацию \| Разбор на миллион](https://www.youtube.com/watch?v=7xHwH8GE_8Q) | Видео | да | нет | [папка](2023-07-20-kak-rasshirit-rynok-sbyta-uchimsya-vystraivat-zdorovuyu-kommunikatsiyu-razbor-na-million/README.md) |
-| `xsOvu4uRXo4` | [Как научиться расставлять приоритеты и распределять обязанности в бизнесе?](https://www.youtube.com/watch?v=xsOvu4uRXo4) | Видео | нет | нет | — |
-| `hHtHB0X6Jd4` | [Как сохранить баланс между жизнью и работой предпринимателю?](https://www.youtube.com/watch?v=hHtHB0X6Jd4) | Видео | нет | нет | — |
-| `DIIn3kGIYyk` | [Откуда бизнесмену черпать новые знания? / Личностный рост предпринимателя](https://www.youtube.com/watch?v=DIIn3kGIYyk) | Видео | нет | нет | — |
-| `HfDk-8fMxHY` | [Где найти силы для бизнеса и личной жизни?](https://www.youtube.com/watch?v=HfDk-8fMxHY) | Видео | нет | нет | — |
-| `sqlwSobp2Xk` | [Как предпринимателю последовательно ставить цели?](https://www.youtube.com/watch?v=sqlwSobp2Xk) | Видео | нет | нет | — |
-| `sA9gS9B-Rmg` | [Где взять внешнюю мотивацию к работе?](https://www.youtube.com/watch?v=sA9gS9B-Rmg) | Видео | нет | нет | — |
-| `OCiFb80ePu8` | [ТЫ — король для всех! / Секрет успеха в жизни](https://www.youtube.com/watch?v=OCiFb80ePu8) | Видео | нет | нет | — |
-| `CnQ6umqYIg0` | [Пять миллионов в месяц на книгах – НЕРЕАЛЬНО? / Как построить бизнес на копирайтинге?](https://www.youtube.com/watch?v=CnQ6umqYIg0) | Видео | нет | нет | — |
-| `r8cYmnkSSks` | [Лучшие книги по бизнесу: от “Психология влияния” до “Пиши сокращай” / Эта литература ведет к успеху!](https://www.youtube.com/watch?v=r8cYmnkSSks) | Видео | нет | нет | — |
-| `De6lUMH4hdY` | [Ты — женщина моей мечты! / Какая жена нужна предпринимателю для успеха и развития?](https://www.youtube.com/watch?v=De6lUMH4hdY) | Видео | нет | нет | — |
-| `jYBUfGw0Frg` | [Как не сломаться от неудач / Привязка к результатам](https://www.youtube.com/watch?v=jYBUfGw0Frg) | Видео | нет | нет | — |
-| `Ow808JsxgJ4` | [Как изменить свою жизнь? / С чего начать саморазвитие?](https://www.youtube.com/watch?v=Ow808JsxgJ4) | Видео | нет | нет | — |
-| `VLZXfcdXnFI` | [Всё НАДОЕЛО! Не хочу работать! / 10 причин, почему вы не хотите работать!](https://www.youtube.com/watch?v=VLZXfcdXnFI) | Видео | нет | нет | — |
-| `XteeqqidAyg` | [Что дает личная эффективность? / 5 убийц личной эффективности](https://www.youtube.com/watch?v=XteeqqidAyg) | Видео | нет | нет | — |
-| `D6DgMO2OFdY` | [Как сделать бизнес успешным? / Главные заповеди успешного бизнеса Михаила Гребенюка!](https://www.youtube.com/watch?v=D6DgMO2OFdY) | Видео | нет | нет | — |
-| `6P-xOG91pvg` | [Настоящая жизнь предпринимателя / Как жена повлияла на судьбу Михаила Гребенюка?](https://www.youtube.com/watch?v=6P-xOG91pvg) | Видео | нет | нет | — |
-| `bd951kPINZ8` | [9 лайфхаков о том, как повысить запас жизненной энергии / Почему энергия важна для предпринимателя?](https://www.youtube.com/watch?v=bd951kPINZ8) | Видео | нет | нет | — |
-| `ODJJAB_oyP8` | [Как выбрать наставника по бизнесу? / Можно ли построить успешный бизнес без наставников?](https://www.youtube.com/watch?v=ODJJAB_oyP8) | Видео | нет | нет | — |
-| `TMRmQLpqIZw` | [Бизнес или дружба? / Ценность дружбы для предпринимателя / Откровение Михаила Гребенюка](https://www.youtube.com/watch?v=TMRmQLpqIZw) | Видео | нет | нет | — |
-| `mNqEQ3AvSxM` | [Зависит ли успех мужа от жены? / Можно ли создать бизнес без отношений?](https://www.youtube.com/watch?v=mNqEQ3AvSxM) | Видео | нет | нет | — |
-| `pYsy2Y_TJQM` | [Как управлять своим временем и жизнью? / Как планировать расписание и грамотно делегировать задачи?](https://www.youtube.com/watch?v=pYsy2Y_TJQM) | Видео | нет | нет | — |
+| `xsOvu4uRXo4` | [Как научиться расставлять приоритеты и распределять обязанности в бизнесе?](https://www.youtube.com/watch?v=xsOvu4uRXo4) | Видео | да | нет | [папка](2023-05-04-kak-nauchitsya-rasstavlyat-prioritety-i-raspredelyat-obyazannosti-v-biznese/README.md) |
+| `hHtHB0X6Jd4` | [Как сохранить баланс между жизнью и работой предпринимателю?](https://www.youtube.com/watch?v=hHtHB0X6Jd4) | Видео | да | нет | [папка](2023-03-31-kak-sokhranit-balans-mezhdu-zhiznyu-i-rabotoy-predprinimatelyu/README.md) |
+| `DIIn3kGIYyk` | [Откуда бизнесмену черпать новые знания? / Личностный рост предпринимателя](https://www.youtube.com/watch?v=DIIn3kGIYyk) | Видео | да | нет | [папка](2023-01-27-otkuda-biznesmenu-cherpat-novye-znaniya-lichnostnyy-rost-predprinimatelya/README.md) |
+| `HfDk-8fMxHY` | [Где найти силы для бизнеса и личной жизни?](https://www.youtube.com/watch?v=HfDk-8fMxHY) | Видео | да | нет | [папка](2023-01-04-gde-nayti-sily-dlya-biznesa-i-lichnoy-zhizni/README.md) |
+| `sqlwSobp2Xk` | [Как предпринимателю последовательно ставить цели?](https://www.youtube.com/watch?v=sqlwSobp2Xk) | Видео | да | нет | [папка](2022-12-28-kak-predprinimatelyu-posledovatelno-stavit-tseli/README.md) |
+| `sA9gS9B-Rmg` | [Где взять внешнюю мотивацию к работе?](https://www.youtube.com/watch?v=sA9gS9B-Rmg) | Видео | да | нет | [папка](2022-10-29-gde-vzyat-vneshnyuyu-motivatsiyu-k-rabote/README.md) |
+| `OCiFb80ePu8` | [ТЫ — король для всех! / Секрет успеха в жизни](https://www.youtube.com/watch?v=OCiFb80ePu8) | Видео | да | нет | [папка](2022-09-13-ty-korol-dlya-vsekh-sekret-uspekha-v-zhizni/README.md) |
+| `CnQ6umqYIg0` | [Пять миллионов в месяц на книгах – НЕРЕАЛЬНО? / Как построить бизнес на копирайтинге?](https://www.youtube.com/watch?v=CnQ6umqYIg0) | Видео | да | нет | [папка](2022-07-13-pyat-millionov-v-mesyats-na-knigakh-nerealno-kak-postroit-biznes-na-kopiraytinge/README.md) |
+| `r8cYmnkSSks` | [Лучшие книги по бизнесу: от “Психология влияния” до “Пиши сокращай” / Эта литература ведет к успеху!](https://www.youtube.com/watch?v=r8cYmnkSSks) | Видео | да | нет | [папка](2022-04-19-luchshie-knigi-po-biznesu-ot-psikhologiya-vliyaniya-do-pishi-sokrashchay-eta-literatura-vedet-k/README.md) |
+| `De6lUMH4hdY` | [Ты — женщина моей мечты! / Какая жена нужна предпринимателю для успеха и развития?](https://www.youtube.com/watch?v=De6lUMH4hdY) | Видео | да | нет | [папка](2022-03-05-ty-zhenshchina-moey-mechty-kakaya-zhena-nuzhna-predprinimatelyu-dlya-uspekha-i-razvitiya/README.md) |
+| `jYBUfGw0Frg` | [Как не сломаться от неудач / Привязка к результатам](https://www.youtube.com/watch?v=jYBUfGw0Frg) | Видео | да | нет | [папка](2021-12-01-kak-ne-slomatsya-ot-neudach-privyazka-k-rezultatam/README.md) |
+| `Ow808JsxgJ4` | [Как изменить свою жизнь? / С чего начать саморазвитие?](https://www.youtube.com/watch?v=Ow808JsxgJ4) | Видео | нет | нет | — оригинальные субтитры недоступны (yt-dlp: нет дорожки -orig и ручной дорожки языка оригинала (—); ручные: —) |
+| `VLZXfcdXnFI` | [Всё НАДОЕЛО! Не хочу работать! / 10 причин, почему вы не хотите работать!](https://www.youtube.com/watch?v=VLZXfcdXnFI) | Видео | да | нет | [папка](2021-10-29-vse-nadoelo-ne-khochu-rabotat-10-prichin-pochemu-vy-ne-khotite-rabotat/README.md) |
+| `XteeqqidAyg` | [Что дает личная эффективность? / 5 убийц личной эффективности](https://www.youtube.com/watch?v=XteeqqidAyg) | Видео | да | нет | [папка](2021-08-25-chto-daet-lichnaya-effektivnost-5-ubiyts-lichnoy-effektivnosti/README.md) |
+| `D6DgMO2OFdY` | [Как сделать бизнес успешным? / Главные заповеди успешного бизнеса Михаила Гребенюка!](https://www.youtube.com/watch?v=D6DgMO2OFdY) | Видео | да | нет | [папка](2021-08-11-kak-sdelat-biznes-uspeshnym-glavnye-zapovedi-uspeshnogo-biznesa-mikhaila-grebenyuka/README.md) |
+| `6P-xOG91pvg` | [Настоящая жизнь предпринимателя / Как жена повлияла на судьбу Михаила Гребенюка?](https://www.youtube.com/watch?v=6P-xOG91pvg) | Видео | да | нет | [папка](2021-05-21-nastoyashchaya-zhizn-predprinimatelya-kak-zhena-povliyala-na-sudbu-mikhaila-grebenyuka/README.md) |
+| `bd951kPINZ8` | [9 лайфхаков о том, как повысить запас жизненной энергии / Почему энергия важна для предпринимателя?](https://www.youtube.com/watch?v=bd951kPINZ8) | Видео | да | нет | [папка](2021-04-28-9-layfkhakov-o-tom-kak-povysit-zapas-zhiznennoy-energii-pochemu-energiya-vazhna-dlya/README.md) |
+| `ODJJAB_oyP8` | [Как выбрать наставника по бизнесу? / Можно ли построить успешный бизнес без наставников?](https://www.youtube.com/watch?v=ODJJAB_oyP8) | Видео | да | нет | [папка](2021-04-16-kak-vybrat-nastavnika-po-biznesu-mozhno-li-postroit-uspeshnyy-biznes-bez-nastavnikov/README.md) |
+| `TMRmQLpqIZw` | [Бизнес или дружба? / Ценность дружбы для предпринимателя / Откровение Михаила Гребенюка](https://www.youtube.com/watch?v=TMRmQLpqIZw) | Видео | да | нет | [папка](2021-04-14-biznes-ili-druzhba-tsennost-druzhby-dlya-predprinimatelya-otkrovenie-mikhaila-grebenyuka/README.md) |
+| `mNqEQ3AvSxM` | [Зависит ли успех мужа от жены? / Можно ли создать бизнес без отношений?](https://www.youtube.com/watch?v=mNqEQ3AvSxM) | Видео | да | нет | [папка](2021-04-07-zavisit-li-uspekh-muzha-ot-zheny-mozhno-li-sozdat-biznes-bez-otnosheniy/README.md) |
+| `pYsy2Y_TJQM` | [Как управлять своим временем и жизнью? / Как планировать расписание и грамотно делегировать задачи?](https://www.youtube.com/watch?v=pYsy2Y_TJQM) | Видео | да | нет | [папка](2021-03-26-kak-upravlyat-svoim-vremenem-i-zhiznyu-kak-planirovat-raspisanie-i-gramotno-delegirovat-zadachi/README.md) |
 | `5_dwuHlvoOc` | [Как правильно ставить цели и достигать их? / Фатальные ошибки, не позволяющие достигнуть цели](https://www.youtube.com/watch?v=5_dwuHlvoOc) | Видео | нет | нет | — |
 | `7SxdPRz8bZ0` | [Что такое эмоциональное выгорание / Основные принципы, как не уставать от работы?](https://www.youtube.com/watch?v=7SxdPRz8bZ0) | Видео | нет | нет | — |
